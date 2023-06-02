@@ -1,0 +1,47 @@
+name: Run otoge-fetcher
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run everyday at 12PM JST (3AM UTC)
+    - cron: '0 3 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Rust stable
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+          profile: minimal
+          override: true
+
+      - name: Run otoge-fetcher
+        uses: actions-rs/cargo@v1
+        with:
+          command: run
+          args: --release --bin otoge-fetcher
+
+      - name: Resolve current date
+        run: |
+          echo "CURRENT_DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)" >> "$GITHUB_ENV"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: 'Song database update for ${{ env.CURRENT_DATE }}'
+          title: 'Song database update for ${{ env.CURRENT_DATE }}'
+          body: |
+            There are updates to the song database.
+
+            *This update is auto-generated.*
+          branch: otoge-fetcher/${{ env.CURRENT_DATE }}
+          reviewers: fluxth
