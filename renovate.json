@@ -1,0 +1,14 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:base",
+    "helpers:pinGitHubActionDigests"
+  ],
+  "reviewers": ["fluxth"],
+  "timezone": "Asia/Tokyo",
+  "schedule": [
+    "after 7pm every weekday",
+    "before 7am every weekday",
+    "every weekend"
+  ]
+}
