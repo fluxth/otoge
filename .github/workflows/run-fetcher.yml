@@ -17,29 +17,45 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@8e5e7e5ab8b370d6c329ec480221332ada57f0ab # v3
 
-      - name: Install Rust stable
-        id: rust-toolchain
-        uses: actions-rs/toolchain@16499b5e05bf2e26879000db0c1d13f7e13fa3af # v1
-        with:
-          toolchain: stable
-          profile: minimal
-          override: true
+      - name: Resolve week ID
+        run: |
+          echo "WEEK_ID=$(date +%Y.%W)" >> "$GITHUB_ENV"
 
-      - name: Cache Cargo target directory
+      - name: Cache rustup directory
+        uses: actions/cache@88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8 # v3
+        with:
+          path: ~/.rustup
+          key: rustup-${{ runner.os }}-${{ env.WEEK_ID }}
+          restore-keys: |
+            rustup-${{ runner.os }}-
+
+      - name: Install Rust stable
+        run: |
+          rustup update
+          rustup toolchain install stable --profile minimal
+          echo "RUSTC_HASH=$(rustc --version | sed 's/^.*(\(.*\))$/\1/' | awk '{ printf $1 }')" >> "$GITHUB_ENV"
+
+      - name: Cache cargo registry
+        uses: actions/cache@88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8 # v3
+        with:
+          path: |
+            ~/.cargo/registry
+          key: cargo-${{ runner.os }}-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: |
+            cargo-${{ runner.os }}-
+
+      - name: Cache rust target directory
         uses: actions/cache@88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8 # v3
         with:
           path: target
           key:
-            rusttarget-${{ runner.os }}-${{ steps.rust-toolchain.outputs.rustc_hash }}-${{ github.sha }}
+            rusttarget-${{ runner.os }}-${{ env.RUSTC_HASH }}-${{ github.sha }}
           restore-keys: |
-            rusttarget-${{ runner.os }}-${{ steps.rust-toolchain.outputs.rustc_hash }}-
+            rusttarget-${{ runner.os }}-${{ env.RUSTC_HASH }}-
             rusttarget-${{ runner.os }}-
 
       - name: Run otoge-fetcher
-        uses: actions-rs/cargo@844f36862e911db73fe0815f00a4a2602c279505 # v1
-        with:
-          command: run
-          args: --release --bin otoge-fetcher
+        run: cargo run --release --bin otoge-fetcher
 
       - name: Resolve current date
         run: |
