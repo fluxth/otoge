@@ -1,4 +1,4 @@
-use super::{LevelMap, WorldsEndInfo};
+use super::models::{LevelMap, WorldsEndInfo};
 
 use serde::de::{Deserialize, Deserializer};
 

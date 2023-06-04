@@ -1,4 +1,4 @@
-use otoge::models::chunithm::{DataStore, Song, SongFromAPI};
+use otoge::chunithm::models::{DataStore, Song, SongFromAPI};
 
 use anyhow::Result;
 use tokio::try_join;

@@ -1,7 +1,6 @@
-mod deserializers;
+use crate::common::deserializers::{bool_from_binary_string, empty_string_as_none};
 
-use crate::deserializers::{bool_from_binary_string, empty_string_as_none};
-use deserializers::{empty_levels_as_none, empty_we_as_none};
+use super::deserializers::{empty_levels_as_none, empty_we_as_none};
 
 use chrono::{DateTime, Utc};
 use serde::{Deserialize, Serialize};
@@ -115,9 +114,9 @@ impl From<SongFromAPI> for Song {
 #[derive(Serialize, Deserialize, Debug)]
 pub struct DataStore {
     pub name: String,
-    pub songs: Vec<Song>,
     pub count: usize,
     pub last_updated: DateTime<Utc>,
+    pub songs: Vec<Song>,
 }
 
 impl DataStore {
