@@ -1,6 +1,6 @@
 name = "chunithm_intl"
 count = 1086
-last_updated = "2023-06-02T16:58:58.588326Z"
+last_updated = "2023-06-04T08:09:59.207826679Z"
 
 [[songs]]
 id = "2255"
@@ -16210,3 +16210,31 @@ is_new = false
 [songs.worlds_end]
 kanji = "止"
 star = "1"
+
+[[categories]]
+slug = "pops_anime"
+name = "POPS & ANIME"
+
+[[categories]]
+slug = "niconico"
+name = "niconico"
+
+[[categories]]
+slug = "toho"
+name = "東方Project"
+
+[[categories]]
+slug = "variety"
+name = "VARIETY"
+
+[[categories]]
+slug = "irodorimidori"
+name = "イロドリミドリ"
+
+[[categories]]
+slug = "gekimai"
+name = "ゲキマイ"
+
+[[categories]]
+slug = "original"
+name = "ORIGINAL"
