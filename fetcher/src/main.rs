@@ -1,7 +1,9 @@
 mod chunithm;
+mod maimai;
 mod ongeki;
 
 use chunithm::{ChunithmIntl, ChunithmJP};
+use maimai::{MaimaiIntl, MaimaiJP};
 use ongeki::Ongeki;
 
 use otoge::shared::traits::DataStore as DataStoreTrait;
@@ -45,7 +47,9 @@ async fn main() -> Result<()> {
     let results = join!(
         process::<ChunithmJP>(),
         process::<ChunithmIntl>(),
-        process::<Ongeki>()
+        process::<Ongeki>(),
+        process::<MaimaiJP>(),
+        process::<MaimaiIntl>(),
     );
 
     println!("[main] All fetch completed");
@@ -55,6 +59,8 @@ async fn main() -> Result<()> {
     handle_result!(0, ChunithmJP, results, return_result);
     handle_result!(1, ChunithmIntl, results, return_result);
     handle_result!(2, Ongeki, results, return_result);
+    handle_result!(3, MaimaiJP, results, return_result);
+    handle_result!(4, MaimaiIntl, results, return_result);
 
     return_result
 }

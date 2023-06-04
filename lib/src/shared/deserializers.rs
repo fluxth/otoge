@@ -13,6 +13,22 @@ where
     }
 }
 
+pub(crate) fn bool_from_option_string<'de, D>(deserializer: D) -> Result<bool, D::Error>
+where
+    D: Deserializer<'de>,
+{
+    let s: Option<&str> = Deserialize::deserialize(deserializer)?;
+
+    match s {
+        Some("NEW" | "○") => Ok(true),
+        None => Ok(false),
+        _ => Err(Error::unknown_variant(
+            &format!("{:?}", s),
+            &["Some(\"NEW\")", "Some(\"○\")", "None"],
+        )),
+    }
+}
+
 pub(crate) fn empty_string_as_none<'de, D, T>(de: D) -> Result<Option<T>, D::Error>
 where
     D: Deserializer<'de>,
