@@ -28,7 +28,7 @@ pub struct LevelMap {
     #[serde(deserialize_with = "empty_string_as_none")]
     #[serde(skip_serializing_if = "Option::is_none")]
     // FIXME: Be more explicit when deserializing API
-    #[serde(alias = "lev_exp")]
+    #[serde(alias = "lev_exc")]
     #[serde(default = "Option::default")]
     expert: Option<String>,
     #[serde(deserialize_with = "empty_string_as_none")]
