@@ -19,7 +19,7 @@ where
     T: Deserialize<'de>,
 {
     let opt = Option::<String>::deserialize(de)?;
-    let opt = opt.as_ref().map(String::as_str);
+    let opt = opt.as_deref();
     match opt {
         None | Some("") => Ok(None),
         Some(s) => T::deserialize(s.into_deserializer()).map(Some),

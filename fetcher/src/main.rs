@@ -3,10 +3,10 @@ use otoge::chunithm::models::{DataStore, Song, SongFromAPI};
 use anyhow::Result;
 use tokio::try_join;
 
-const CHUNITHM_JP_API_URL: &'static str = "https://chunithm.sega.jp/storage/json/music.json";
-const CHUNITHM_INTL_API_URL: &'static str = "https://chunithm.sega.com/assets/data/music.json";
+const CHUNITHM_JP_API_URL: &str = "https://chunithm.sega.jp/storage/json/music.json";
+const CHUNITHM_INTL_API_URL: &str = "https://chunithm.sega.com/assets/data/music.json";
 
-const DATA_PATH: &'static str = "./data";
+const DATA_PATH: &str = "./data";
 
 #[tokio::main]
 async fn main() -> Result<()> {

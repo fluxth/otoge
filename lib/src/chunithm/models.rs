@@ -130,12 +130,6 @@ impl DataStore {
     }
 
     pub fn data_differs(&self, other: &Self) -> bool {
-        if self.count != other.count {
-            true
-        } else if !self.songs.iter().eq(other.songs.iter()) {
-            true
-        } else {
-            false
-        }
+        self.count != other.count || !self.songs.iter().eq(other.songs.iter())
     }
 }
