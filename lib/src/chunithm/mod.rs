@@ -1,5 +1,3 @@
-mod deserializers;
-
 pub mod models;
 
 use models::Category;

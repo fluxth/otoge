@@ -25,3 +25,17 @@ where
         Some(s) => T::deserialize(s.into_deserializer()).map(Some),
     }
 }
+
+pub fn all_default_values_as_none<'de, D, V>(de: D) -> Result<Option<V>, D::Error>
+where
+    D: Deserializer<'de>,
+    V: Default + Deserialize<'de> + PartialEq,
+{
+    let values = V::deserialize(de)?;
+    if values == V::default() {
+        // All fields are Default, return None instead of Some(LevelMap)
+        return Ok(None);
+    }
+
+    Ok(Some(values))
+}
