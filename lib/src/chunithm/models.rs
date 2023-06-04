@@ -1,4 +1,4 @@
-use crate::common::deserializers::{bool_from_binary_string, empty_string_as_none};
+use crate::shared::deserializers::{bool_from_binary_string, empty_string_as_none};
 
 use super::deserializers::{empty_levels_as_none, empty_we_as_none};
 

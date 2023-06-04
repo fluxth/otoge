@@ -1,3 +1,3 @@
 pub mod chunithm;
 
-mod common;
+mod shared;
