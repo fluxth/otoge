@@ -41,7 +41,11 @@ macro_rules! handle_result {
 
 #[tokio::main]
 async fn main() -> Result<()> {
-    println!("[main] Starting up...");
+    println!(
+        "[main] Starting {} v{}",
+        env!("CARGO_PKG_NAME"),
+        env!("CARGO_PKG_VERSION")
+    );
 
     // FIXME: Find a better way to do this :(
     let results = join!(
@@ -62,6 +66,7 @@ async fn main() -> Result<()> {
     handle_result!(3, MaimaiJP, results, return_result);
     handle_result!(4, MaimaiIntl, results, return_result);
 
+    println!("[main] Exiting");
     return_result
 }
 
@@ -89,7 +94,7 @@ where
         println!("[{}] Local song list not found or couldn't be loaded", name);
     }
 
-    println!("[{}] Fetching song list", name);
+    println!("[{}] Fetching remote song list", name);
 
     let songs = fetch_songs::<G::ApiSong, G::Song>(api_url).await?;
     println!("[{}] Fetched {} songs", name, &songs.len());
