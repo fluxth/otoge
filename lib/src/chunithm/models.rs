@@ -4,7 +4,10 @@ use std::borrow::Cow;
 
 use crate::shared::deserializers::{bool_from_binary_string, empty_string_as_none};
 
-use super::deserializers::{empty_levels_as_none, empty_worlds_end_as_none};
+use super::{
+    deserializers::{empty_levels_as_none, empty_worlds_end_as_none},
+    get_all_categories,
+};
 
 #[derive(Serialize, Deserialize, Debug, Default, PartialEq)]
 #[allow(dead_code)]
@@ -85,7 +88,7 @@ pub struct Song {
     title_reading: String,
     artist: String,
     image: String,
-    category: String,
+    pub category: String,
 
     is_new: bool,
 
@@ -113,11 +116,18 @@ impl From<SongFromAPI> for Song {
 }
 
 #[derive(Serialize, Deserialize, Debug)]
+pub struct Category {
+    pub slug: Cow<'static, str>,
+    pub name: Cow<'static, str>,
+}
+
+#[derive(Serialize, Deserialize, Debug)]
 pub struct DataStore {
     pub name: Cow<'static, str>,
     pub count: usize,
     pub last_updated: DateTime<Utc>,
     pub songs: Vec<Song>,
+    pub categories: Vec<Category>,
 }
 
 impl DataStore {
@@ -127,6 +137,7 @@ impl DataStore {
             count: songs.len(),
             songs,
             last_updated: Utc::now(),
+            categories: get_all_categories(),
         }
     }
 

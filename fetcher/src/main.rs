@@ -1,6 +1,8 @@
-use otoge::chunithm::models::{DataStore, Song, SongFromAPI};
+use std::collections::HashSet;
 
-use anyhow::Result;
+use otoge::chunithm::models::{Category, DataStore, Song, SongFromAPI};
+
+use anyhow::{ensure, Result};
 use tokio::try_join;
 
 const CHUNITHM_JP_API_URL: &str = "https://chunithm.sega.jp/storage/json/music.json";
@@ -43,16 +45,18 @@ async fn process(name: &'static str, api_url: &str) -> Result<()> {
 
     let new_data_store = DataStore::new(name, songs);
 
-    let mut should_update = false;
+    verify_categories(name, &new_data_store.categories, &new_data_store.songs)?;
 
-    if let Some(data_store) = local_data_store {
+    let should_update = if let Some(data_store) = local_data_store {
         if data_store.data_differs(&new_data_store) {
             println!("[{}] Local data differs from API, updating...", name);
-            should_update = true;
+            true
+        } else {
+            false
         }
     } else {
-        should_update = true;
-    }
+        true
+    };
 
     if should_update {
         println!("[{}] Writing new data to '{}'", name, &music_toml_path);
@@ -70,6 +74,28 @@ async fn read_songs_toml(file_path: &str) -> Result<DataStore> {
     let contents = tokio::fs::read_to_string(file_path).await?;
 
     Ok(toml::from_str::<DataStore>(contents.as_str())?)
+}
+
+fn verify_categories(name: &'static str, categories: &[Category], songs: &[Song]) -> Result<()> {
+    let all_categories: HashSet<&str> = categories.iter().map(|c| c.name.as_ref()).collect();
+
+    let mut song_categories = HashSet::<&str>::new();
+    for song in songs {
+        song_categories.insert(song.category.as_str());
+    }
+
+    let diff_from_categories = all_categories.difference(&song_categories);
+    let diff_from_songs = song_categories.difference(&all_categories);
+
+    ensure!(
+        diff_from_categories.clone().count() == 0 && diff_from_songs.clone().count() == 0,
+        "{} local category definitions differs, +{:?} -{:?}",
+        name,
+        diff_from_categories,
+        diff_from_songs
+    );
+
+    Ok(())
 }
 
 async fn fetch_songs(url: &str) -> Result<Vec<Song>> {
