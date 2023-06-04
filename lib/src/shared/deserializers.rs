@@ -1,15 +1,15 @@
 use serde::de::{Deserialize, Deserializer, Error, IntoDeserializer};
 
-pub fn bool_from_binary_string<'de, D>(deserializer: D) -> Result<bool, D::Error>
+pub fn bool_from_string<'de, D>(deserializer: D) -> Result<bool, D::Error>
 where
     D: Deserializer<'de>,
 {
     let s: &str = Deserialize::deserialize(deserializer)?;
 
     match s {
-        "1" => Ok(true),
-        "0" => Ok(false),
-        _ => Err(Error::unknown_variant(s, &["1", "0"])),
+        "1" | "NEW" => Ok(true),
+        "0" | "" => Ok(false),
+        _ => Err(Error::unknown_variant(s, &["NEW", "1", "0", ""])),
     }
 }
 

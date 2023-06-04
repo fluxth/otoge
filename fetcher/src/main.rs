@@ -1,6 +1,8 @@
 mod chunithm;
+mod ongeki;
 
 use chunithm::{ChunithmIntl, ChunithmJP};
+use ongeki::Ongeki;
 
 use otoge::shared::traits::DataStore as DataStoreTrait;
 
@@ -40,7 +42,11 @@ async fn main() -> Result<()> {
     println!("[main] Starting up...");
 
     // FIXME: Find a better way to do this :(
-    let results = join!(process::<ChunithmJP>(), process::<ChunithmIntl>(),);
+    let results = join!(
+        process::<ChunithmJP>(),
+        process::<ChunithmIntl>(),
+        process::<Ongeki>()
+    );
 
     println!("[main] All fetch completed");
 
@@ -48,6 +54,7 @@ async fn main() -> Result<()> {
 
     handle_result!(0, ChunithmJP, results, return_result);
     handle_result!(1, ChunithmIntl, results, return_result);
+    handle_result!(2, Ongeki, results, return_result);
 
     return_result
 }
