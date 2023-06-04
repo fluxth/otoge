@@ -3,6 +3,7 @@ use serde::{Deserialize, Serialize};
 use std::borrow::Cow;
 
 use crate::shared::deserializers::{bool_from_binary_string, empty_string_as_none};
+use crate::shared::traits::DataStore as DataStoreTrait;
 
 use super::{
     deserializers::{empty_levels_as_none, empty_worlds_end_as_none},
@@ -140,8 +141,10 @@ impl DataStore {
             categories: get_all_categories(),
         }
     }
+}
 
-    pub fn data_differs(&self, other: &Self) -> bool {
+impl DataStoreTrait for DataStore {
+    fn data_differs(&self, other: &Self) -> bool {
         self.count != other.count || !self.songs.iter().eq(other.songs.iter())
     }
 }

@@ -1,43 +1,67 @@
-use std::collections::HashSet;
+mod chunithm;
 
-use otoge::chunithm::models::{Category, DataStore, Song, SongFromAPI};
+use chunithm::{ChunithmIntl, ChunithmJP};
 
-use anyhow::{ensure, Error, Result};
+use otoge::shared::traits::DataStore as DataStoreTrait;
+
+use anyhow::{Error, Result};
 use tokio::join;
 
-const CHUNITHM_JP_API_URL: &str = "https://chunithm.sega.jp/storage/json/music.json";
-const CHUNITHM_INTL_API_URL: &str = "https://chunithm.sega.com/assets/data/music.json";
-
 const DATA_PATH: &str = "./data";
+
+pub trait Otoge {
+    type DataStore;
+    type Song;
+    type ApiSong;
+
+    fn name() -> &'static str;
+    fn api_url() -> &'static str;
+
+    fn new_data_store(songs: Vec<Self::Song>) -> Self::DataStore;
+    fn verify_categories(_data_store: &Self::DataStore) -> Result<()> {
+        Ok(())
+    }
+}
+
+macro_rules! handle_result {
+    ($index:tt, $type:ident, $results:ident, $return:ident) => {
+        let name = $type::name();
+        if let Err(err) = $results.$index {
+            println!("[main] Task {} failed: {}", name, err);
+            $return = Err(Error::msg("One or more tasks failed"));
+        } else {
+            println!("[main] Task {} succeeded", name);
+        }
+    };
+}
 
 #[tokio::main]
 async fn main() -> Result<()> {
     println!("[main] Starting up...");
 
-    let (chunithm_jp, chunithm_intl) = join!(
-        process("chunithm_jp", CHUNITHM_JP_API_URL),
-        process("chunithm_intl", CHUNITHM_INTL_API_URL)
-    );
+    // FIXME: Find a better way to do this :(
+    let results = join!(process::<ChunithmJP>(), process::<ChunithmIntl>(),);
 
     println!("[main] All fetch completed");
 
     let mut return_result = Ok(());
-    for (name, result) in [
-        ("chunithm_jp", chunithm_jp),
-        ("chunithm_intl", chunithm_intl),
-    ] {
-        if let Err(err) = result {
-            println!("[main] Task {} failed: {}", name, err);
-            return_result = Err(Error::msg("One or more tasks failed"));
-        } else {
-            println!("[main] Task {} succeeded", name);
-        }
-    }
+
+    handle_result!(0, ChunithmJP, results, return_result);
+    handle_result!(1, ChunithmIntl, results, return_result);
 
     return_result
 }
 
-async fn process(name: &'static str, api_url: &str) -> Result<()> {
+async fn process<G>() -> Result<()>
+where
+    G: Otoge,
+    G::Song: serde::de::DeserializeOwned + std::convert::From<G::ApiSong>,
+    G::ApiSong: serde::de::DeserializeOwned,
+    G::DataStore: DataStoreTrait + serde::de::DeserializeOwned + serde::Serialize,
+{
+    let name = G::name();
+    let api_url = G::api_url();
+
     let data_dir = format!("{}/{}", DATA_PATH, name);
     tokio::fs::create_dir_all(&data_dir).await?;
 
@@ -47,19 +71,19 @@ async fn process(name: &'static str, api_url: &str) -> Result<()> {
         name, music_toml_path
     );
 
-    let local_data_store = read_songs_toml(&music_toml_path).await.ok();
+    let local_data_store: Option<G::DataStore> = read_songs_toml(&music_toml_path).await.ok();
     if local_data_store.is_none() {
         println!("[{}] Local song list not found or couldn't be loaded", name);
     }
 
     println!("[{}] Fetching song list", name);
 
-    let songs = fetch_songs(api_url).await?;
+    let songs = fetch_songs::<G::ApiSong, G::Song>(api_url).await?;
     println!("[{}] Fetched {} songs", name, &songs.len());
 
-    let new_data_store = DataStore::new(name, songs);
+    let new_data_store = G::new_data_store(songs);
 
-    verify_categories(&new_data_store.categories, &new_data_store.songs)?;
+    G::verify_categories(&new_data_store)?;
 
     let should_update = if let Some(data_store) = local_data_store {
         if data_store.data_differs(&new_data_store) {
@@ -84,36 +108,22 @@ async fn process(name: &'static str, api_url: &str) -> Result<()> {
     Ok(())
 }
 
-async fn read_songs_toml(file_path: &str) -> Result<DataStore> {
+async fn read_songs_toml<S>(file_path: &str) -> Result<S>
+where
+    S: serde::de::DeserializeOwned,
+{
     let contents = tokio::fs::read_to_string(file_path).await?;
 
-    Ok(toml::from_str::<DataStore>(contents.as_str())?)
+    Ok(toml::from_str::<S>(contents.as_str())?)
 }
 
-fn verify_categories(categories: &[Category], songs: &[Song]) -> Result<()> {
-    let all_categories: HashSet<&str> = categories.iter().map(|c| c.name.as_ref()).collect();
-
-    let mut song_categories = HashSet::<&str>::new();
-    for song in songs {
-        song_categories.insert(song.category.as_str());
-    }
-
-    let diff_from_categories = all_categories.difference(&song_categories);
-    let diff_from_songs = song_categories.difference(&all_categories);
-
-    ensure!(
-        diff_from_categories.clone().count() == 0 && diff_from_songs.clone().count() == 0,
-        "Local category definitions differs, +{:?} -{:?}",
-        diff_from_categories,
-        diff_from_songs
-    );
-
-    Ok(())
-}
-
-async fn fetch_songs(url: &str) -> Result<Vec<Song>> {
+async fn fetch_songs<Api, Out>(url: &str) -> Result<Vec<Out>>
+where
+    Api: serde::de::DeserializeOwned,
+    Out: std::convert::From<Api>,
+{
     let resp = reqwest::get(url).await?;
-    let data = resp.json::<Vec<SongFromAPI>>().await?;
+    let data = resp.json::<Vec<Api>>().await?;
 
     Ok(data.into_iter().map(|song| song.into()).collect())
 }

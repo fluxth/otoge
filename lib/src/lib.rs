@@ -1,3 +1,3 @@
 pub mod chunithm;
 
-mod shared;
+pub mod shared;

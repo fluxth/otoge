@@ -560,6 +560,7 @@ dependencies = [
  "chrono",
  "otoge",
  "reqwest",
+ "serde",
  "tokio",
  "toml",
 ]
