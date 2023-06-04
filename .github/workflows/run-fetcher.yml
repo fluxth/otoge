@@ -64,6 +64,9 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@284f54f989303d2699d373481a0cfa13ad5a6666 # v5
         with:
+          token: ${{ secrets.FLUXCIBOT_PAT }}
+          committer: FluxCI bot <automated@flux.ci>
+          author: FluxCI bot <automated@flux.ci>
           commit-message: 'Song database update for ${{ env.CURRENT_DATE }}'
           title: 'Song database update for ${{ env.CURRENT_DATE }}'
           body: |
