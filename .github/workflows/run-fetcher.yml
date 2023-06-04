@@ -67,7 +67,7 @@ jobs:
           token: ${{ secrets.FLUXCIBOT_PAT }}
           committer: FluxCI bot <automated@flux.ci>
           author: FluxCI bot <automated@flux.ci>
-          commit-message: 'Song database update for ${{ env.CURRENT_DATE }}'
+          commit-message: 'data: song database update for ${{ env.CURRENT_DATE }}'
           title: 'Song database update for ${{ env.CURRENT_DATE }}'
           body: |
             There are updates to the song database.
