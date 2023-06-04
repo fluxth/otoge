@@ -1,11 +1,11 @@
 use crate::shared::deserializers::{bool_from_binary_string, empty_string_as_none};
 
-use super::deserializers::{empty_levels_as_none, empty_we_as_none};
+use super::deserializers::{empty_levels_as_none, empty_worlds_end_as_none};
 
 use chrono::{DateTime, Utc};
 use serde::{Deserialize, Serialize};
 
-#[derive(Serialize, Deserialize, Debug, PartialEq)]
+#[derive(Serialize, Deserialize, Debug, Default, PartialEq)]
 #[allow(dead_code)]
 pub struct LevelMap {
     #[serde(deserialize_with = "empty_string_as_none")]
@@ -40,7 +40,7 @@ pub struct LevelMap {
     pub ultima: Option<String>,
 }
 
-#[derive(Serialize, Deserialize, Debug, PartialEq)]
+#[derive(Serialize, Deserialize, Debug, Default, PartialEq)]
 #[allow(dead_code)]
 pub struct WorldsEndInfo {
     #[serde(alias = "we_kanji")]
@@ -71,7 +71,7 @@ pub struct SongFromAPI {
     pub levels: Option<LevelMap>,
 
     #[serde(flatten)]
-    #[serde(deserialize_with = "empty_we_as_none")]
+    #[serde(deserialize_with = "empty_worlds_end_as_none")]
     pub worlds_end: Option<WorldsEndInfo>,
 }
 
