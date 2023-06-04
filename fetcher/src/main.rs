@@ -33,7 +33,7 @@ async fn process(name: &str, api_url: &str) -> Result<()> {
 
     let local_data_store = read_songs_toml(&music_toml_path).await.ok();
     if local_data_store.is_none() {
-        println!("[{}] Local song list not found", name);
+        println!("[{}] Local song list not found or couldn't be loaded", name);
     }
 
     println!("[{}] Fetching song list", name);
