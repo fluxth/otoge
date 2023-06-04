@@ -1,6 +1,6 @@
 use serde::de::{Deserialize, Deserializer, Error, IntoDeserializer};
 
-pub fn bool_from_string<'de, D>(deserializer: D) -> Result<bool, D::Error>
+pub(crate) fn bool_from_string<'de, D>(deserializer: D) -> Result<bool, D::Error>
 where
     D: Deserializer<'de>,
 {
@@ -13,7 +13,7 @@ where
     }
 }
 
-pub fn empty_string_as_none<'de, D, T>(de: D) -> Result<Option<T>, D::Error>
+pub(crate) fn empty_string_as_none<'de, D, T>(de: D) -> Result<Option<T>, D::Error>
 where
     D: Deserializer<'de>,
     T: Deserialize<'de>,
@@ -26,7 +26,7 @@ where
     }
 }
 
-pub fn all_default_values_as_none<'de, D, V>(de: D) -> Result<Option<V>, D::Error>
+pub(crate) fn all_default_values_as_none<'de, D, V>(de: D) -> Result<Option<V>, D::Error>
 where
     D: Deserializer<'de>,
     V: Default + Deserialize<'de> + PartialEq,

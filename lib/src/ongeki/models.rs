@@ -18,31 +18,31 @@ pub struct LevelMap {
     // FIXME: Be more explicit when deserializing API
     #[serde(alias = "lev_bas")]
     #[serde(default = "Option::default")]
-    pub basic: Option<String>,
+    basic: Option<String>,
     #[serde(deserialize_with = "empty_string_as_none")]
     #[serde(skip_serializing_if = "Option::is_none")]
     // FIXME: Be more explicit when deserializing API
     #[serde(alias = "lev_adv")]
     #[serde(default = "Option::default")]
-    pub advanced: Option<String>,
+    advanced: Option<String>,
     #[serde(deserialize_with = "empty_string_as_none")]
     #[serde(skip_serializing_if = "Option::is_none")]
     // FIXME: Be more explicit when deserializing API
     #[serde(alias = "lev_exp")]
     #[serde(default = "Option::default")]
-    pub expert: Option<String>,
+    expert: Option<String>,
     #[serde(deserialize_with = "empty_string_as_none")]
     #[serde(skip_serializing_if = "Option::is_none")]
     // FIXME: Be more explicit when deserializing API
     #[serde(alias = "lev_mas")]
     #[serde(default = "Option::default")]
-    pub master: Option<String>,
+    master: Option<String>,
     #[serde(deserialize_with = "empty_string_as_none")]
     #[serde(skip_serializing_if = "Option::is_none")]
     // FIXME: Be more explicit when deserializing API
     #[serde(alias = "lev_lnt")]
     #[serde(default = "Option::default")]
-    pub lunatic: Option<String>,
+    lunatic: Option<String>,
 }
 
 #[derive(Serialize, Deserialize, Debug, Default, PartialEq)]
@@ -66,7 +66,7 @@ pub struct CategoryInSong {
     pub id: Cow<'static, str>,
     // FIXME: Be more explicit when deserializing API
     #[serde(alias = "category")]
-    name: Cow<'static, str>,
+    pub name: Cow<'static, str>,
 }
 
 #[derive(Serialize, Deserialize, Debug, Default, PartialEq)]
@@ -86,65 +86,65 @@ pub struct Chapter {
 #[derive(Deserialize, Debug)]
 #[allow(dead_code)]
 pub struct SongFromAPI {
-    pub id: String,
-    pub title: String,
+    id: String,
+    title: String,
     #[serde(rename(deserialize = "title_sort"))]
-    pub title_reading: String,
-    pub artist: String,
+    title_reading: String,
+    artist: String,
     #[serde(deserialize_with = "deserialize_date")]
-    pub date: NaiveDate,
+    date: NaiveDate,
     #[serde(rename(deserialize = "new"))]
     #[serde(deserialize_with = "bool_from_string")]
-    pub is_new: bool,
+    is_new: bool,
     #[serde(deserialize_with = "bool_from_string")]
     #[serde(rename(deserialize = "lunatic"))]
-    pub is_lunatic: bool,
+    is_lunatic: bool,
     #[serde(deserialize_with = "bool_from_string")]
     #[serde(rename(deserialize = "bonus"))]
-    pub is_bonus_track: bool,
+    is_bonus_track: bool,
     #[serde(rename(deserialize = "image_url"))]
-    pub image: String,
+    image: String,
     #[serde(rename(deserialize = "copyright1"))]
     #[serde(deserialize_with = "dash_string_as_none")]
-    pub copyright: Option<String>,
+    copyright: Option<String>,
 
     #[serde(flatten)]
     #[serde(deserialize_with = "all_default_values_as_none")]
-    pub chapter: Option<Chapter>,
+    chapter: Option<Chapter>,
 
     #[serde(flatten)]
-    pub category: CategoryInSong,
-
-    #[serde(flatten)]
-    #[serde(deserialize_with = "all_default_values_as_none")]
-    pub levels: Option<LevelMap>,
+    category: CategoryInSong,
 
     #[serde(flatten)]
     #[serde(deserialize_with = "all_default_values_as_none")]
-    pub character: Option<Character>,
+    levels: Option<LevelMap>,
+
+    #[serde(flatten)]
+    #[serde(deserialize_with = "all_default_values_as_none")]
+    character: Option<Character>,
 }
 
 #[derive(Serialize, Deserialize, Debug, PartialEq)]
 pub struct Song {
-    pub id: String,
-    pub title: String,
-    pub title_reading: String,
-    pub artist: String,
-    pub date: NaiveDate,
-    pub image: String,
-    pub is_new: bool,
-    pub is_lunatic: bool,
-    pub is_bonus_track: bool,
+    id: String,
+    title: String,
+    title_reading: String,
+    artist: String,
+    date: NaiveDate,
+    image: String,
+    is_new: bool,
+    is_lunatic: bool,
+    is_bonus_track: bool,
     #[serde(skip_serializing_if = "Option::is_none")]
-    pub copyright: Option<String>,
+    copyright: Option<String>,
 
     #[serde(skip_serializing_if = "Option::is_none")]
-    pub chapter: Option<Chapter>,
+    chapter: Option<Chapter>,
     pub category: CategoryInSong,
     #[serde(skip_serializing_if = "Option::is_none")]
-    pub levels: Option<LevelMap>,
+    levels: Option<LevelMap>,
     #[serde(skip_serializing_if = "Option::is_none")]
-    pub character: Option<Character>,
+    character: Option<Character>,
 }
 
 impl From<SongFromAPI> for Song {
@@ -178,9 +178,9 @@ pub struct Category {
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct DataStore {
-    pub name: Cow<'static, str>,
-    pub count: usize,
-    pub last_updated: DateTime<Utc>,
+    name: Cow<'static, str>,
+    count: usize,
+    last_updated: DateTime<Utc>,
     pub songs: Vec<Song>,
     pub categories: Vec<Category>,
 }
