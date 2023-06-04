@@ -55,6 +55,7 @@ pub struct WorldsEndInfo {
 
 #[derive(Deserialize, Debug)]
 #[allow(dead_code)]
+#[serde(deny_unknown_fields)]
 pub struct SongFromAPI {
     id: String,
     title: String,
