@@ -2,8 +2,8 @@ use std::collections::HashSet;
 
 use otoge::chunithm::models::{Category, DataStore, Song, SongFromAPI};
 
-use anyhow::{ensure, Result};
-use tokio::try_join;
+use anyhow::{ensure, Error, Result};
+use tokio::join;
 
 const CHUNITHM_JP_API_URL: &str = "https://chunithm.sega.jp/storage/json/music.json";
 const CHUNITHM_INTL_API_URL: &str = "https://chunithm.sega.com/assets/data/music.json";
@@ -12,15 +12,29 @@ const DATA_PATH: &str = "./data";
 
 #[tokio::main]
 async fn main() -> Result<()> {
-    let results = try_join!(
+    println!("[main] Starting up...");
+
+    let (chunithm_jp, chunithm_intl) = join!(
         process("chunithm_jp", CHUNITHM_JP_API_URL),
-        process("chunithm_intl", CHUNITHM_INTL_API_URL),
+        process("chunithm_intl", CHUNITHM_INTL_API_URL)
     );
 
-    match results {
-        Ok(_) => Ok(()),
-        Err(err) => Err(err),
+    println!("[main] All fetch completed");
+
+    let mut return_result = Ok(());
+    for (name, result) in [
+        ("chunithm_jp", chunithm_jp),
+        ("chunithm_intl", chunithm_intl),
+    ] {
+        if let Err(err) = result {
+            println!("[main] Task {} failed: {}", name, err);
+            return_result = Err(Error::msg("One or more tasks failed"));
+        } else {
+            println!("[main] Task {} succeeded", name);
+        }
     }
+
+    return_result
 }
 
 async fn process(name: &'static str, api_url: &str) -> Result<()> {
@@ -45,7 +59,7 @@ async fn process(name: &'static str, api_url: &str) -> Result<()> {
 
     let new_data_store = DataStore::new(name, songs);
 
-    verify_categories(name, &new_data_store.categories, &new_data_store.songs)?;
+    verify_categories(&new_data_store.categories, &new_data_store.songs)?;
 
     let should_update = if let Some(data_store) = local_data_store {
         if data_store.data_differs(&new_data_store) {
@@ -76,7 +90,7 @@ async fn read_songs_toml(file_path: &str) -> Result<DataStore> {
     Ok(toml::from_str::<DataStore>(contents.as_str())?)
 }
 
-fn verify_categories(name: &'static str, categories: &[Category], songs: &[Song]) -> Result<()> {
+fn verify_categories(categories: &[Category], songs: &[Song]) -> Result<()> {
     let all_categories: HashSet<&str> = categories.iter().map(|c| c.name.as_ref()).collect();
 
     let mut song_categories = HashSet::<&str>::new();
@@ -89,8 +103,7 @@ fn verify_categories(name: &'static str, categories: &[Category], songs: &[Song]
 
     ensure!(
         diff_from_categories.clone().count() == 0 && diff_from_songs.clone().count() == 0,
-        "{} local category definitions differs, +{:?} -{:?}",
-        name,
+        "Local category definitions differs, +{:?} -{:?}",
         diff_from_categories,
         diff_from_songs
     );
