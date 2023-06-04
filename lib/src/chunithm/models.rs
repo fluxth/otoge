@@ -1,9 +1,10 @@
+use chrono::{DateTime, Utc};
+use serde::{Deserialize, Serialize};
+use std::borrow::Cow;
+
 use crate::shared::deserializers::{bool_from_binary_string, empty_string_as_none};
 
 use super::deserializers::{empty_levels_as_none, empty_worlds_end_as_none};
-
-use chrono::{DateTime, Utc};
-use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Debug, Default, PartialEq)]
 #[allow(dead_code)]
@@ -113,16 +114,16 @@ impl From<SongFromAPI> for Song {
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct DataStore {
-    pub name: String,
+    pub name: Cow<'static, str>,
     pub count: usize,
     pub last_updated: DateTime<Utc>,
     pub songs: Vec<Song>,
 }
 
 impl DataStore {
-    pub fn new(name: &str, songs: Vec<Song>) -> Self {
+    pub fn new(name: &'static str, songs: Vec<Song>) -> Self {
         Self {
-            name: name.to_owned(),
+            name: Cow::Borrowed(name),
             count: songs.len(),
             songs,
             last_updated: Utc::now(),

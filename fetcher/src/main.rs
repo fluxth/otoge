@@ -21,7 +21,7 @@ async fn main() -> Result<()> {
     }
 }
 
-async fn process(name: &str, api_url: &str) -> Result<()> {
+async fn process(name: &'static str, api_url: &str) -> Result<()> {
     let data_dir = format!("{}/{}", DATA_PATH, name);
     tokio::fs::create_dir_all(&data_dir).await?;
 
