@@ -200,6 +200,8 @@ impl DataStore {
 
 impl DataStoreTrait for DataStore {
     fn data_differs(&self, other: &Self) -> bool {
-        self.count != other.count || !self.songs.iter().eq(other.songs.iter())
+        self.count != other.count
+            || !self.songs.iter().eq(other.songs.iter())
+            || !self.categories.iter().eq(other.categories.iter())
     }
 }

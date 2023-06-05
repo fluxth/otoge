@@ -155,7 +155,7 @@ impl From<SongFromAPI> for Song {
     }
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, PartialEq)]
 pub struct Category {
     pub slug: Cow<'static, str>,
     pub name: Cow<'static, str>,
@@ -186,6 +186,8 @@ impl DataStore {
 
 impl DataStoreTrait for DataStore {
     fn data_differs(&self, other: &Self) -> bool {
-        self.count != other.count || !self.songs.iter().eq(other.songs.iter())
+        self.count != other.count
+            || !self.songs.iter().eq(other.songs.iter())
+            || !self.categories.iter().eq(other.categories.iter())
     }
 }

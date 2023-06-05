@@ -49,7 +49,7 @@ where
 {
     let values = V::deserialize(de)?;
     if values == V::default() {
-        // All fields are Default, return None instead of Some(LevelMap)
+        // All fields are Default, return None instead of Some(V)
         return Ok(None);
     }
 
