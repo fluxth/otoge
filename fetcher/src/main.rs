@@ -2,6 +2,8 @@ mod chunithm;
 mod maimai;
 mod ongeki;
 
+use std::path::{Path, PathBuf};
+
 use chunithm::{ChunithmIntl, ChunithmJP};
 use maimai::{MaimaiIntl, MaimaiJP};
 use ongeki::Ongeki;
@@ -24,6 +26,11 @@ pub trait Otoge {
     fn new_data_store(songs: Vec<Self::Song>) -> Self::DataStore;
     fn verify_categories(_data_store: &Self::DataStore) -> Result<()> {
         Ok(())
+    }
+
+    fn data_path(root_path: Option<&Path>) -> PathBuf {
+        let path = root_path.unwrap_or(Path::new(""));
+        path.join(DATA_PATH).join(Self::name())
     }
 }
 
@@ -80,13 +87,14 @@ where
     let name = G::name();
     let api_url = G::api_url();
 
-    let data_dir = format!("{}/{}", DATA_PATH, name);
+    let data_dir = G::data_path(None);
     tokio::fs::create_dir_all(&data_dir).await?;
 
-    let music_toml_path = format!("{}/music.toml", data_dir);
+    let music_toml_path = data_dir.join("music.toml");
     println!(
-        "[{}] Loading local song list at '{}'",
-        name, music_toml_path
+        "[{}] Loading local song list at {:?}",
+        name,
+        music_toml_path.as_os_str()
     );
 
     let local_data_store: Option<G::DataStore> = read_songs_toml(&music_toml_path).await.ok();
@@ -115,7 +123,11 @@ where
     };
 
     if should_update {
-        println!("[{}] Writing new data to '{}'", name, &music_toml_path);
+        println!(
+            "[{}] Writing new data to {:?}",
+            name,
+            &music_toml_path.as_os_str()
+        );
         let toml_content = toml::to_string(&new_data_store)?;
         tokio::fs::write(&music_toml_path, &toml_content).await?;
     } else {
@@ -126,7 +138,7 @@ where
     Ok(())
 }
 
-async fn read_songs_toml<S>(file_path: &str) -> Result<S>
+async fn read_songs_toml<S>(file_path: &Path) -> Result<S>
 where
     S: serde::de::DeserializeOwned,
 {
