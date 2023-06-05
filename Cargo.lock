@@ -566,6 +566,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "otoge-generator"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "otoge",
+ "tokio",
+]
+
+[[package]]
 name = "parking_lot"
 version = "0.12.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
