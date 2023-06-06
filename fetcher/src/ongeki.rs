@@ -2,19 +2,23 @@ use std::collections::HashSet;
 
 use anyhow::{ensure, Result};
 
-use super::Otoge;
+use super::FetchTask;
 use otoge::ongeki::models::{DataStore, Song, SongFromAPI};
+use otoge::shared::traits::Otoge;
 
 pub struct Ongeki;
 
 impl Otoge for Ongeki {
     type DataStore = DataStore;
     type Song = Song;
-    type ApiSong = SongFromAPI;
 
     fn name() -> &'static str {
         "ongeki"
     }
+}
+
+impl FetchTask<Self> for Ongeki {
+    type ApiSong = SongFromAPI;
 
     fn api_url() -> &'static str {
         "https://ongeki.sega.jp/assets/json/music/music.json"
@@ -24,7 +28,7 @@ impl Otoge for Ongeki {
         DataStore::new(Self::name(), songs)
     }
 
-    fn verify_categories(data_store: &Self::DataStore) -> Result<()> {
+    fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
         let categories = &data_store.categories;
         let songs = &data_store.songs;
 

@@ -2,35 +2,30 @@ mod chunithm;
 mod maimai;
 mod ongeki;
 
-use std::path::{Path, PathBuf};
+use std::path::Path;
 
 use chunithm::{ChunithmIntl, ChunithmJP};
 use maimai::{MaimaiIntl, MaimaiJP};
 use ongeki::Ongeki;
 
-use otoge::shared::traits::DataStore as DataStoreTrait;
+use otoge::shared::traits::{DataStore as DataStoreTrait, Otoge};
 
 use anyhow::{Error, Result};
 use tokio::join;
 
 const DATA_PATH: &str = "./data";
 
-pub trait Otoge {
-    type DataStore;
-    type Song;
+pub trait FetchTask<G>
+where
+    G: Otoge,
+{
     type ApiSong;
 
-    fn name() -> &'static str;
     fn api_url() -> &'static str;
 
-    fn new_data_store(songs: Vec<Self::Song>) -> Self::DataStore;
-    fn verify_categories(_data_store: &Self::DataStore) -> Result<()> {
+    fn new_data_store(songs: Vec<G::Song>) -> G::DataStore;
+    fn verify_categories(_data_store: &G::DataStore) -> Result<()> {
         Ok(())
-    }
-
-    fn data_path(root_path: Option<&Path>) -> PathBuf {
-        let path = root_path.unwrap_or(Path::new(""));
-        path.join(DATA_PATH).join(Self::name())
     }
 }
 
@@ -79,7 +74,7 @@ async fn main() -> Result<()> {
 
 async fn process<G>() -> Result<()>
 where
-    G: Otoge,
+    G: Otoge + FetchTask<G>,
     G::Song: serde::de::DeserializeOwned + std::convert::From<G::ApiSong>,
     G::ApiSong: serde::de::DeserializeOwned,
     G::DataStore: DataStoreTrait + serde::de::DeserializeOwned + serde::Serialize,
@@ -87,7 +82,7 @@ where
     let name = G::name();
     let api_url = G::api_url();
 
-    let data_dir = G::data_path(None);
+    let data_dir = G::data_path(Some(Path::new(DATA_PATH)));
     tokio::fs::create_dir_all(&data_dir).await?;
 
     let music_toml_path = data_dir.join("music.toml");

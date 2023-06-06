@@ -1,9 +1,11 @@
 use std::collections::HashSet;
 
 use anyhow::{ensure, Result};
-use otoge::chunithm::models::{DataStore, Song, SongFromAPI};
 
-use super::Otoge;
+use otoge::chunithm::models::{DataStore, Song, SongFromAPI};
+use otoge::shared::traits::Otoge;
+
+use super::FetchTask;
 
 trait Chunithm {
     fn impl_verify_categories(data_store: &DataStore) -> Result<()> {
@@ -32,47 +34,53 @@ trait Chunithm {
 }
 
 pub struct ChunithmJP;
-
 impl Chunithm for ChunithmJP {}
+
 impl Otoge for ChunithmJP {
     type DataStore = DataStore;
     type Song = Song;
-    type ApiSong = SongFromAPI;
 
     fn name() -> &'static str {
         "chunithm_jp"
     }
+}
+
+impl FetchTask<Self> for ChunithmJP {
+    type ApiSong = SongFromAPI;
 
     fn api_url() -> &'static str {
         "https://chunithm.sega.jp/storage/json/music.json"
     }
 
-    fn verify_categories(data_store: &Self::DataStore) -> Result<()> {
+    fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
         Self::impl_verify_categories(data_store)
     }
 
-    fn new_data_store(songs: Vec<Self::Song>) -> Self::DataStore {
+    fn new_data_store(songs: Vec<<Self as Otoge>::Song>) -> <Self as Otoge>::DataStore {
         DataStore::new(Self::name(), songs)
     }
 }
 
 pub struct ChunithmIntl;
-
 impl Chunithm for ChunithmIntl {}
+
 impl Otoge for ChunithmIntl {
     type DataStore = DataStore;
     type Song = Song;
-    type ApiSong = SongFromAPI;
 
     fn name() -> &'static str {
         "chunithm_intl"
     }
+}
+
+impl FetchTask<Self> for ChunithmIntl {
+    type ApiSong = SongFromAPI;
 
     fn api_url() -> &'static str {
         "https://chunithm.sega.com/assets/data/music.json"
     }
 
-    fn verify_categories(data_store: &Self::DataStore) -> Result<()> {
+    fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
         Self::impl_verify_categories(data_store)
     }
 
