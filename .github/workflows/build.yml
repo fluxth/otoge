@@ -12,6 +12,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    env:
+      SCCACHE_GHA_ENABLED: "true"
+      RUSTC_WRAPPER: "sccache"
     steps:
       - name: Checkout repository
         uses: actions/checkout@8e5e7e5ab8b370d6c329ec480221332ada57f0ab # v3
@@ -34,6 +37,9 @@ jobs:
           rustup toolchain install stable --profile minimal
           echo "RUSTC_HASH=$(rustc --version | sed 's/^.*(\(.*\))$/\1/' | awk '{ printf $1 }')" >> "$GITHUB_ENV"
 
+      - name: Run sccache-cache
+        uses: mozilla-actions/sccache-action@v0.0.3
+
       - name: Cache cargo registry
         uses: actions/cache@88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8 # v3
         with:
@@ -42,16 +48,6 @@ jobs:
           key: cargo-${{ runner.os }}-${{ hashFiles('**/Cargo.lock') }}
           restore-keys: |
             cargo-${{ runner.os }}-
-
-      - name: Cache rust target directory
-        uses: actions/cache@88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8 # v3
-        with:
-          path: target
-          key:
-            rusttarget-${{ runner.os }}-${{ env.RUSTC_HASH }}-${{ github.sha }}
-          restore-keys: |
-            rusttarget-${{ runner.os }}-${{ env.RUSTC_HASH }}-
-            rusttarget-${{ runner.os }}-
 
       - name: Build otoge
         run: cargo build --release
