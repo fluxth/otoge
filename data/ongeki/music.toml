@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 851
-last_updated = "2023-06-04T14:29:37.804454Z"
+count = 857
+last_updated = "2023-06-08T03:06:36.785242521Z"
 
 [[songs]]
 id = "515200"
@@ -24660,7 +24660,7 @@ id = "1010"
 name = "星咲 あかり"
 
 [[songs]]
-id = "500700"
+id = "500730"
 title = "星めぐり、果ての君へ。"
 title_reading = "ホシメクリハテノキミヘ"
 artist = "TAKU1175 ft.駄々子"
@@ -24784,7 +24784,7 @@ title_reading = "モンタイナイトリツハア"
 artist = "名取さな"
 date = "2023-05-25"
 image = "1538bc3ee63608eb.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Sana Natori"
@@ -24814,7 +24814,7 @@ title_reading = "アンチクラヒテイカル"
 artist = "月ノ美兎"
 date = "2023-05-25"
 image = "6091a7e19b9efcec.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©ANYCOLOR, Inc."
@@ -24836,6 +24836,178 @@ master = "13"
 [songs.character]
 id = "1030"
 name = "三角 葵"
+
+[[songs]]
+id = "200950"
+title = "ラグトレイン"
+title_reading = "ラクトレイン"
+artist = "稲葉曇"
+date = "2023-06-08"
+image = "27c31a48f21f96e4.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12+"
+
+[songs.character]
+id = "1160"
+name = "東雲 つむぎ"
+
+[[songs]]
+id = "200940"
+title = "ヴィラン"
+title_reading = "ウイラン"
+artist = "てにをは"
+date = "2023-06-08"
+image = "1d650aace1a77c68.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©てにをは2020"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "1170"
+name = "皇城 セツナ"
+
+[[songs]]
+id = "500710"
+title = "Snow Colored Score"
+title_reading = "SNOWCOLOREDSCORE"
+artist = "イロドリミドリ"
+date = "2023-06-08"
+image = "612dffe13be4f828.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "12"
+
+[songs.character]
+id = "5260"
+name = "明坂 芹菜"
+
+[[songs]]
+id = "718500"
+title = "シンデレラディスコ -藍原 椿ソロver.-"
+title_reading = "シンテレラテイスコアイハラツハキソロVER"
+artist = "曲：橘亮祐、篠崎あやと／歌：藍原 椿(CV：橋本 ちなみ)"
+date = "2023-06-08"
+image = "a8b139e1fac3eb0d.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80012"
+name = "ドレスアップ・ガールズ"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1060"
+name = "藍原 椿"
+
+[[songs]]
+id = "718600"
+title = "シンデレラディスコ -早乙女 彩華ソロver.-"
+title_reading = "シンテレラテイスコサオトメアヤカソロVER"
+artist = "曲：橘亮祐、篠崎あやと／歌：早乙女 彩華(CV：中島 唯)"
+date = "2023-06-08"
+image = "4e19fb2e6073902a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80012"
+name = "ドレスアップ・ガールズ"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
+
+[[songs]]
+id = "900860"
+title = "脳漿炸裂ガール"
+title_reading = "ノウシヨウサクレツカル"
+artist = "れるりり"
+date = "2023-06-08"
+image = "7cb2c09b62a7a509.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+lunatic = "14"
+
+[songs.character]
+id = "1020"
+name = "藤沢 柚子"
 
 [[categories]]
 id = "06"

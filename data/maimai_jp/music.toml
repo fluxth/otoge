@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1089
-last_updated = "2023-06-04T15:34:16.825443Z"
+count = 1093
+last_updated = "2023-06-08T03:06:36.415198514Z"
 
 [[songs]]
 id = "884"
@@ -1934,7 +1934,8 @@ artist = "ビートまりお(COOL＆CREATE)"
 image = "541de4c8cadacd0e.png"
 category = "東方Project"
 version = "12000"
-is_new = false
+release = "2023-06-08"
+is_new = true
 is_locked = false
 
 [songs.levels]
@@ -1943,6 +1944,12 @@ advanced = "8"
 expert = "11+"
 master = "13"
 remaster = "14"
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "11+"
+master = "13"
 
 [[songs]]
 id = "483"
@@ -2594,13 +2601,20 @@ artist = "Sta"
 image = "89ff5ab582f47732.png"
 category = "maimai"
 version = "13000"
-is_new = false
+release = "2023-06-08"
+is_new = true
 is_locked = false
 
 [songs.levels]
 basic = "3"
 advanced = "8"
 expert = "10+"
+master = "13"
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "11"
 master = "13"
 
 [[songs]]
@@ -18337,7 +18351,7 @@ category = "オンゲキ＆CHUNITHM"
 version = "23500"
 release = "2023-03-23"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "6"
@@ -18355,7 +18369,7 @@ category = "オンゲキ＆CHUNITHM"
 version = "23500"
 release = "2023-03-23"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "6"
@@ -18753,7 +18767,7 @@ image = "60538d73546de334.png"
 category = "東方Project"
 version = "23505"
 release = "2023-05-26"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -18879,7 +18893,7 @@ image = "ccdf78d24c2c346d.png"
 category = "niconico＆ボーカロイド"
 version = "23505"
 release = "2023-05-26"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -18897,7 +18911,7 @@ image = "25d2796e350abebe.png"
 category = "niconico＆ボーカロイド"
 version = "23505"
 release = "2023-05-26"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -18923,6 +18937,78 @@ basic = "5"
 advanced = "8"
 expert = "11+"
 master = "14"
+
+[[songs]]
+id = "400"
+title = "つるぺったん"
+title_reading = "ツルヘツタン"
+artist = "Silver Forest"
+image = "c30b982886cd4b33.png"
+category = "東方Project"
+version = "23506"
+release = "2023-06-08"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10"
+master = "12+"
+
+[[songs]]
+id = "1055"
+title = "『ウソテイ』 ～一回戦せりなvsしろなvsなずな～"
+title_reading = "ウソテイイツカイセンセリナVSシロナVSナスナ"
+artist = "イロドリミドリ「CHUNITHM」"
+image = "fb636683b41b00f1.png"
+category = "オンゲキ＆CHUNITHM"
+version = "23506"
+release = "2023-06-08"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "1056"
+title = "Bad Apple!! feat.nomico ～五十嵐 撫子 Ver.～"
+title_reading = "BADAPPLEFEATNOMICOイカラシナテシコVER"
+artist = "Masayoshi Minoshima [covered by 五十嵐 撫子(CV:花井 美春)]"
+image = "69815c3a46ef8b0f.png"
+category = "オンゲキ＆CHUNITHM"
+version = "23506"
+release = "2023-06-08"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "1054"
+title = "Snow Colored Score"
+title_reading = "SNOWCOLOREDSCORE"
+artist = "イロドリミドリ「CHUNITHM」"
+image = "27e298313b402e0b.png"
+category = "オンゲキ＆CHUNITHM"
+version = "23506"
+release = "2023-06-08"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "12+"
 
 [[categories]]
 slug = "pops_anime"
