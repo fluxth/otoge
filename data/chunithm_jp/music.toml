@@ -1,6 +1,36 @@
 name = "chunithm_jp"
-count = 1270
-last_updated = "2023-06-04T08:10:00.365693207Z"
+count = 1276
+last_updated = "2023-06-08T03:06:36.214635239Z"
+
+[[songs]]
+id = "2414"
+title = "Pris-Magic!"
+title_reading = "PRISMAGIC"
+artist = "しぐれうい"
+image = "f4364273b04ec545.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "8+"
+master = "12"
+
+[[songs]]
+id = "2415"
+title = "放課後マーメイド"
+title_reading = "ホウカコマウメイト"
+artist = "しぐれうい"
+image = "c047bd1597741ebe.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12"
 
 [[songs]]
 id = "2386"
@@ -1940,6 +1970,36 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "14+"
+
+[[songs]]
+id = "2418"
+title = "独りんぼエンヴィー"
+title_reading = "ヒトリンホエンウイウ"
+artist = "koyori（電ポルP）"
+image = "be273a9412fe25c6.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "8"
+master = "11"
+
+[[songs]]
+id = "2419"
+title = "ゴー・トゥ・大都会"
+title_reading = "コウトウタイトカイ"
+artist = "月裏, ニャン・トンロン"
+image = "3a29fbb04e7e4c49.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "14"
 
 [[songs]]
 id = "2393"
@@ -5526,7 +5586,7 @@ title_reading = "ケンソウシントロウム"
 artist = "幽閉サテライト"
 image = "6eaa253ac1a572fa.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -5541,7 +5601,7 @@ title_reading = "ヨルノサウカス"
 artist = "Liz Triangle"
 image = "9051c37313b4c0e1.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -7952,7 +8012,7 @@ title_reading = "フリウフオウル"
 artist = "Zekk「WACCA」"
 image = "6ffbad127d5ca414.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -7967,7 +8027,7 @@ title_reading = "INVISIBLEFRENZY"
 artist = "Kobaryo「WACCA」"
 image = "36aaf370cfcd391d.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -7982,7 +8042,7 @@ title_reading = "QUON"
 artist = "DJ Noriken「WACCA」"
 image = "dad9513776a6ec17.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10504,6 +10564,22 @@ basic = "2"
 advanced = "5"
 expert = "8+"
 master = "10+"
+
+[[songs]]
+id = "2416"
+title = "Snow Colored Score"
+title_reading = "SNOWCOLOREDSCORE"
+artist = "イロドリミドリ"
+image = "b76e41825a1aa744.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "8+"
+master = "11"
+ultima = "14"
 
 [[songs]]
 id = "774"
@@ -13367,6 +13443,21 @@ is_new = false
 [songs.levels]
 basic = "5"
 advanced = "8+"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2417"
+title = "LiftOff"
+title_reading = "LIFTOFF"
+artist = "MAYA AKAI"
+image = "2fe21b75a9802f41.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "7+"
 expert = "12"
 master = "14+"
 
