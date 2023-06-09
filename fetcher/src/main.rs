@@ -1,3 +1,6 @@
+mod extractors;
+mod traits;
+
 mod chunithm;
 mod maimai;
 mod ongeki;
@@ -7,6 +10,7 @@ use std::path::Path;
 use chunithm::{ChunithmIntl, ChunithmJP};
 use maimai::{MaimaiIntl, MaimaiJP};
 use ongeki::Ongeki;
+use traits::{Extractor, FetchTask};
 
 use otoge::shared::traits::{DataStore as DataStoreTrait, Otoge};
 
@@ -14,20 +18,6 @@ use anyhow::{Error, Result};
 use tokio::join;
 
 const DATA_PATH: &str = "./data";
-
-pub trait FetchTask<G>
-where
-    G: Otoge,
-{
-    type ApiSong;
-
-    fn api_url() -> &'static str;
-
-    fn new_data_store(songs: Vec<G::Song>) -> G::DataStore;
-    fn verify_categories(_data_store: &G::DataStore) -> Result<()> {
-        Ok(())
-    }
-}
 
 macro_rules! handle_result {
     ($index:tt, $type:ident, $results:ident, $return:ident) => {
@@ -75,12 +65,12 @@ async fn main() -> Result<()> {
 async fn process<G>() -> Result<()>
 where
     G: Otoge + FetchTask<G>,
+    G::Extractor: Extractor<G>,
     G::Song: serde::de::DeserializeOwned + std::convert::From<G::ApiSong>,
     G::ApiSong: serde::de::DeserializeOwned,
     G::DataStore: DataStoreTrait + serde::de::DeserializeOwned + serde::Serialize,
 {
     let name = G::name();
-    let api_url = G::api_url();
 
     let data_dir = G::data_path(Some(Path::new(DATA_PATH)));
     tokio::fs::create_dir_all(&data_dir).await?;
@@ -99,7 +89,7 @@ where
 
     println!("[{}] Fetching remote song list", name);
 
-    let songs = fetch_songs::<G::ApiSong, G::Song>(api_url).await?;
+    let songs = G::Extractor::fetch_songs().await?;
     println!("[{}] Fetched {} songs", name, &songs.len());
 
     let new_data_store = G::new_data_store(songs);
@@ -140,15 +130,4 @@ where
     let contents = tokio::fs::read_to_string(file_path).await?;
 
     Ok(toml::from_str::<S>(contents.as_str())?)
-}
-
-async fn fetch_songs<Api, Out>(url: &str) -> Result<Vec<Out>>
-where
-    Api: serde::de::DeserializeOwned,
-    Out: std::convert::From<Api>,
-{
-    let resp = reqwest::get(url).await?;
-    let data = resp.json::<Vec<Api>>().await?;
-
-    Ok(data.into_iter().map(|song| song.into()).collect())
 }

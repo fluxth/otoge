@@ -2,7 +2,8 @@ use std::collections::HashSet;
 
 use anyhow::{ensure, Result};
 
-use super::FetchTask;
+use crate::extractors::serde::SerdeExtractor;
+use crate::traits::FetchTask;
 use otoge::ongeki::models::{DataStore, Song, SongFromAPI};
 use otoge::shared::traits::Otoge;
 
@@ -19,6 +20,7 @@ impl Otoge for Ongeki {
 
 impl FetchTask<Self> for Ongeki {
     type ApiSong = SongFromAPI;
+    type Extractor = SerdeExtractor;
 
     fn api_url() -> &'static str {
         "https://ongeki.sega.jp/assets/json/music/music.json"

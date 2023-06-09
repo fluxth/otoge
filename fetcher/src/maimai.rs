@@ -6,7 +6,8 @@ use otoge::maimai::models::{DataStore, Song, SongFromAPI};
 use otoge::maimai::{get_all_intl_categories, get_all_jp_categories};
 use otoge::shared::traits::Otoge;
 
-use super::FetchTask;
+use crate::extractors::serde::SerdeExtractor;
+use crate::FetchTask;
 
 trait Maimai {
     fn impl_verify_categories(data_store: &DataStore) -> Result<()> {
@@ -48,6 +49,7 @@ impl Otoge for MaimaiJP {
 
 impl FetchTask<Self> for MaimaiJP {
     type ApiSong = SongFromAPI;
+    type Extractor = SerdeExtractor;
 
     fn api_url() -> &'static str {
         "https://maimai.sega.jp/data/maimai_songs.json"
@@ -76,6 +78,7 @@ impl Otoge for MaimaiIntl {
 
 impl FetchTask<Self> for MaimaiIntl {
     type ApiSong = SongFromAPI;
+    type Extractor = SerdeExtractor;
 
     fn api_url() -> &'static str {
         "https://maimai.sega.com/assets/data/maimai_songs.json"

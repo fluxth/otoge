@@ -5,7 +5,8 @@ use anyhow::{ensure, Result};
 use otoge::chunithm::models::{DataStore, Song, SongFromAPI};
 use otoge::shared::traits::Otoge;
 
-use super::FetchTask;
+use crate::extractors::serde::SerdeExtractor;
+use crate::traits::FetchTask;
 
 trait Chunithm {
     fn impl_verify_categories(data_store: &DataStore) -> Result<()> {
@@ -47,6 +48,7 @@ impl Otoge for ChunithmJP {
 
 impl FetchTask<Self> for ChunithmJP {
     type ApiSong = SongFromAPI;
+    type Extractor = SerdeExtractor;
 
     fn api_url() -> &'static str {
         "https://chunithm.sega.jp/storage/json/music.json"
@@ -75,6 +77,7 @@ impl Otoge for ChunithmIntl {
 
 impl FetchTask<Self> for ChunithmIntl {
     type ApiSong = SongFromAPI;
+    type Extractor = SerdeExtractor;
 
     fn api_url() -> &'static str {
         "https://chunithm.sega.com/assets/data/music.json"
