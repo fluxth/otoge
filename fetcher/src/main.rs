@@ -4,12 +4,14 @@ mod traits;
 mod chunithm;
 mod maimai;
 mod ongeki;
+mod soundvoltex;
 
 use std::path::Path;
 
 use chunithm::{ChunithmIntl, ChunithmJP};
 use maimai::{MaimaiIntl, MaimaiJP};
 use ongeki::Ongeki;
+use soundvoltex::SoundVoltex;
 use traits::{Extractor, FetchTask};
 
 use otoge::shared::traits::{DataStore as DataStoreTrait, Otoge};
@@ -54,6 +56,7 @@ async fn main() -> Result<()> {
 
     // FIXME: Find a better way to do this :(
     let results = join!(
+        process::<SoundVoltex>(),
         process::<ChunithmJP>(),
         process::<ChunithmIntl>(),
         process::<Ongeki>(),
@@ -65,11 +68,12 @@ async fn main() -> Result<()> {
 
     let mut return_result = Ok(());
 
-    handle_result!(0, ChunithmJP, results, return_result);
-    handle_result!(1, ChunithmIntl, results, return_result);
-    handle_result!(2, Ongeki, results, return_result);
-    handle_result!(3, MaimaiJP, results, return_result);
-    handle_result!(4, MaimaiIntl, results, return_result);
+    handle_result!(0, SoundVoltex, results, return_result);
+    handle_result!(1, ChunithmJP, results, return_result);
+    handle_result!(2, ChunithmIntl, results, return_result);
+    handle_result!(3, Ongeki, results, return_result);
+    handle_result!(4, MaimaiJP, results, return_result);
+    handle_result!(5, MaimaiIntl, results, return_result);
 
     info!("Exiting");
     return_result
@@ -86,6 +90,8 @@ where
     let name = G::name();
 
     let data_dir = G::data_path(Some(Path::new(DATA_PATH)));
+    tokio::fs::create_dir_all(&data_dir).await?;
+
     let music_toml_path = data_dir.join("music.toml");
 
     let local_data_store = load_local::<G>(&music_toml_path)
