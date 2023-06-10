@@ -11,7 +11,7 @@ where
     } else {
         const FORMAT: &str = "%y%m%d";
         NaiveDate::parse_from_str(&s, FORMAT)
-            .map(|val| Option::Some(val))
+            .map(Option::Some)
             .map_err(serde::de::Error::custom)
     }
 }
