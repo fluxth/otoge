@@ -16,6 +16,9 @@ use otoge::shared::traits::{DataStore as DataStoreTrait, Otoge};
 
 use anyhow::{Error, Result};
 use tokio::join;
+use tracing::metadata::LevelFilter;
+use tracing::{error, info, info_span, warn, Instrument};
+use tracing_subscriber::EnvFilter;
 
 const DATA_PATH: &str = "./data";
 
@@ -23,18 +26,28 @@ macro_rules! handle_result {
     ($index:tt, $type:ident, $results:ident, $return:ident) => {
         let name = $type::name();
         if let Err(err) = $results.$index {
-            println!("[main] Task {} failed: {}", name, err);
+            error!("Task {} failed: {}", name, err);
             $return = Err(Error::msg("One or more tasks failed"));
         } else {
-            println!("[main] Task {} succeeded", name);
+            info!("Task {} succeeded", name);
         }
     };
 }
 
 #[tokio::main]
 async fn main() -> Result<()> {
-    println!(
-        "[main] Starting {} v{}",
+    let format = tracing_subscriber::fmt::format().with_target(false);
+    let filter = EnvFilter::builder()
+        .with_default_directive(LevelFilter::INFO.into())
+        .from_env_lossy();
+
+    tracing_subscriber::fmt()
+        .event_format(format)
+        .with_env_filter(filter)
+        .init();
+
+    info!(
+        "Starting {} v{}",
         env!("CARGO_PKG_NAME"),
         env!("CARGO_PKG_VERSION")
     );
@@ -48,7 +61,7 @@ async fn main() -> Result<()> {
         process::<MaimaiIntl>(),
     );
 
-    println!("[main] All fetch completed");
+    info!("All fetch completed");
 
     let mut return_result = Ok(());
 
@@ -58,7 +71,7 @@ async fn main() -> Result<()> {
     handle_result!(3, MaimaiJP, results, return_result);
     handle_result!(4, MaimaiIntl, results, return_result);
 
-    println!("[main] Exiting");
+    info!("Exiting");
     return_result
 }
 
@@ -73,54 +86,64 @@ where
     let name = G::name();
 
     let data_dir = G::data_path(Some(Path::new(DATA_PATH)));
-    tokio::fs::create_dir_all(&data_dir).await?;
-
     let music_toml_path = data_dir.join("music.toml");
-    println!(
-        "[{}] Loading local song list at {:?}",
-        name,
-        music_toml_path.as_os_str()
-    );
 
-    let local_data_store: Option<G::DataStore> = read_songs_toml(&music_toml_path).await.ok();
-    if local_data_store.is_none() {
-        println!("[{}] Local song list not found or couldn't be loaded", name);
-    }
+    let local_data_store = load_local::<G>(&music_toml_path)
+        .instrument(info_span!("load_local", name))
+        .await?;
 
-    println!("[{}] Fetching remote song list", name);
-
-    let songs = G::Extractor::fetch_songs().await?;
-    println!("[{}] Fetched {} songs", name, &songs.len());
-
-    let new_data_store = G::new_data_store(songs);
+    let new_data_store = fetch_remote::<G>()
+        .instrument(info_span!("fetch_remote", name))
+        .await?;
 
     G::verify_categories(&new_data_store)?;
 
-    let should_update = if let Some(data_store) = local_data_store {
-        if data_store.data_differs(&new_data_store) {
-            println!("[{}] Local data differs from API, updating...", name);
-            true
+    async {
+        let should_update = if let Some(data_store) = local_data_store {
+            if data_store.data_differs(&new_data_store) {
+                warn!("Local data differs from API, updating...");
+                true
+            } else {
+                false
+            }
         } else {
-            false
-        }
-    } else {
-        true
-    };
+            true
+        };
 
-    if should_update {
-        println!(
-            "[{}] Writing new data to {:?}",
-            name,
-            &music_toml_path.as_os_str()
-        );
-        let toml_content = toml::to_string(&new_data_store)?;
-        tokio::fs::write(&music_toml_path, &toml_content).await?;
-    } else {
-        println!("[{}] Local song list already up-to-date", name);
+        if should_update {
+            info!("Writing new data to {:?}", &music_toml_path.as_os_str());
+            let toml_content = toml::to_string(&new_data_store)?;
+            tokio::fs::write(&music_toml_path, &toml_content).await?;
+        } else {
+            info!("Local song list already up-to-date");
+        }
+
+        info!("Done");
+
+        Ok::<(), anyhow::Error>(())
+    }
+    .instrument(info_span!("save", name))
+    .await?;
+
+    Ok(())
+}
+
+async fn load_local<G>(music_toml_path: &Path) -> Result<Option<<G as Otoge>::DataStore>>
+where
+    G: Otoge,
+    G::DataStore: DataStoreTrait + serde::de::DeserializeOwned,
+{
+    info!(
+        "Loading local song list at {:?}",
+        music_toml_path.as_os_str()
+    );
+
+    let local_data_store = read_songs_toml(music_toml_path).await.ok();
+    if local_data_store.is_none() {
+        warn!("Local song list not found or couldn't be loaded");
     }
 
-    println!("[{}] Done", name);
-    Ok(())
+    Ok(local_data_store)
 }
 
 async fn read_songs_toml<S>(file_path: &Path) -> Result<S>
@@ -130,4 +153,17 @@ where
     let contents = tokio::fs::read_to_string(file_path).await?;
 
     Ok(toml::from_str::<S>(contents.as_str())?)
+}
+
+async fn fetch_remote<G>() -> Result<G::DataStore>
+where
+    G: Otoge + FetchTask<G>,
+    G::Extractor: Extractor<G>,
+{
+    info!("Fetching remote song list");
+
+    let songs = G::Extractor::fetch_songs().await?;
+    info!("Fetched {} songs", &songs.len());
+
+    Ok(G::new_data_store(songs))
 }
