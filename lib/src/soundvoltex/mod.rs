@@ -2,7 +2,19 @@ pub mod models;
 
 use std::borrow::Cow;
 
+use crate::shared::traits::Otoge;
 use models::Category;
+
+pub struct SoundVoltex;
+
+impl Otoge for SoundVoltex {
+    type DataStore = models::DataStore;
+    type Song = models::Song;
+
+    fn name() -> &'static str {
+        "soundvoltex"
+    }
+}
 
 pub(crate) fn get_all_categories() -> Vec<Category> {
     vec![

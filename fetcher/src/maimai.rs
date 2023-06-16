@@ -3,7 +3,7 @@ use std::collections::HashSet;
 use anyhow::{ensure, Result};
 
 use otoge::maimai::models::{DataStore, Song, SongFromAPI};
-use otoge::maimai::{get_all_intl_categories, get_all_jp_categories};
+use otoge::maimai::{get_all_intl_categories, get_all_jp_categories, MaimaiIntl, MaimaiJP};
 use otoge::shared::traits::Otoge;
 
 use crate::extractors::serde::SerdeExtractor;
@@ -35,18 +35,7 @@ trait Maimai {
     }
 }
 
-pub struct MaimaiJP;
 impl Maimai for MaimaiJP {}
-
-impl Otoge for MaimaiJP {
-    type DataStore = DataStore;
-    type Song = Song;
-
-    fn name() -> &'static str {
-        "maimai_jp"
-    }
-}
-
 impl FetchTask<Self> for MaimaiJP {
     type ApiSong = SongFromAPI;
     type Extractor = SerdeExtractor;
@@ -64,18 +53,7 @@ impl FetchTask<Self> for MaimaiJP {
     }
 }
 
-pub struct MaimaiIntl;
 impl Maimai for MaimaiIntl {}
-
-impl Otoge for MaimaiIntl {
-    type DataStore = DataStore;
-    type Song = Song;
-
-    fn name() -> &'static str {
-        "maimai_intl"
-    }
-}
-
 impl FetchTask<Self> for MaimaiIntl {
     type ApiSong = SongFromAPI;
     type Extractor = SerdeExtractor;

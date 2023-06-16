@@ -1,10 +1,21 @@
+pub mod models;
+
 use std::borrow::Cow;
 
-use crate::ongeki::models::Category;
+use crate::shared::traits::Otoge;
+use models::Category;
 
 mod deserializers;
 
-pub mod models;
+pub struct Ongeki;
+impl Otoge for Ongeki {
+    type DataStore = models::DataStore;
+    type Song = models::Song;
+
+    fn name() -> &'static str {
+        "ongeki"
+    }
+}
 
 pub(crate) fn get_all_categories() -> Vec<Category> {
     vec![

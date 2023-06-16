@@ -6,17 +6,7 @@ use crate::extractors::soundvoltex_vi::SoundVoltexVIExtractor;
 use crate::traits::FetchTask;
 use otoge::shared::traits::Otoge;
 use otoge::soundvoltex::models::{DataStore, Song};
-
-pub struct SoundVoltex;
-
-impl Otoge for SoundVoltex {
-    type DataStore = DataStore;
-    type Song = Song;
-
-    fn name() -> &'static str {
-        "soundvoltex"
-    }
-}
+use otoge::soundvoltex::SoundVoltex;
 
 impl FetchTask<Self> for SoundVoltex {
     type ApiSong = Song;

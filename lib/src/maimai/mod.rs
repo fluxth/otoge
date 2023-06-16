@@ -1,8 +1,30 @@
 mod deserializers;
 pub mod models;
 
+use crate::shared::traits::Otoge;
 use models::Category;
+
 use std::borrow::Cow;
+
+pub struct MaimaiJP;
+impl Otoge for MaimaiJP {
+    type DataStore = models::DataStore;
+    type Song = models::Song;
+
+    fn name() -> &'static str {
+        "maimai_jp"
+    }
+}
+
+pub struct MaimaiIntl;
+impl Otoge for MaimaiIntl {
+    type DataStore = models::DataStore;
+    type Song = models::Song;
+
+    fn name() -> &'static str {
+        "maimai_intl"
+    }
+}
 
 pub fn get_all_jp_categories() -> Vec<Category> {
     vec![

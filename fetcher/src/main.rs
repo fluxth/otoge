@@ -8,13 +8,13 @@ mod soundvoltex;
 
 use std::path::Path;
 
-use chunithm::{ChunithmIntl, ChunithmJP};
-use maimai::{MaimaiIntl, MaimaiJP};
-use ongeki::Ongeki;
-use soundvoltex::SoundVoltex;
 use traits::{Extractor, FetchTask};
 
+use otoge::chunithm::{ChunithmIntl, ChunithmJP};
+use otoge::maimai::{MaimaiIntl, MaimaiJP};
+use otoge::ongeki::Ongeki;
 use otoge::shared::traits::{DataStore as DataStoreTrait, Otoge};
+use otoge::soundvoltex::SoundVoltex;
 
 use anyhow::{Error, Result};
 use tokio::join;

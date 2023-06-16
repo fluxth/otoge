@@ -3,6 +3,7 @@ use std::collections::HashSet;
 use anyhow::{ensure, Result};
 
 use otoge::chunithm::models::{DataStore, Song, SongFromAPI};
+use otoge::chunithm::{ChunithmIntl, ChunithmJP};
 use otoge::shared::traits::Otoge;
 
 use crate::extractors::serde::SerdeExtractor;
@@ -34,18 +35,7 @@ trait Chunithm {
     }
 }
 
-pub struct ChunithmJP;
 impl Chunithm for ChunithmJP {}
-
-impl Otoge for ChunithmJP {
-    type DataStore = DataStore;
-    type Song = Song;
-
-    fn name() -> &'static str {
-        "chunithm_jp"
-    }
-}
-
 impl FetchTask<Self> for ChunithmJP {
     type ApiSong = SongFromAPI;
     type Extractor = SerdeExtractor;
@@ -63,18 +53,7 @@ impl FetchTask<Self> for ChunithmJP {
     }
 }
 
-pub struct ChunithmIntl;
 impl Chunithm for ChunithmIntl {}
-
-impl Otoge for ChunithmIntl {
-    type DataStore = DataStore;
-    type Song = Song;
-
-    fn name() -> &'static str {
-        "chunithm_intl"
-    }
-}
-
 impl FetchTask<Self> for ChunithmIntl {
     type ApiSong = SongFromAPI;
     type Extractor = SerdeExtractor;

@@ -1,7 +1,29 @@
 pub mod models;
 
+use crate::shared::traits::Otoge;
+
 use models::Category;
 use std::borrow::Cow;
+
+pub struct ChunithmJP;
+impl Otoge for ChunithmJP {
+    type DataStore = models::DataStore;
+    type Song = models::Song;
+
+    fn name() -> &'static str {
+        "chunithm_jp"
+    }
+}
+
+pub struct ChunithmIntl;
+impl Otoge for ChunithmIntl {
+    type DataStore = models::DataStore;
+    type Song = models::Song;
+
+    fn name() -> &'static str {
+        "chunithm_intl"
+    }
+}
 
 pub(crate) fn get_all_categories() -> Vec<Category> {
     vec![

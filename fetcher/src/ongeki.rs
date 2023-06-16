@@ -5,18 +5,8 @@ use anyhow::{ensure, Result};
 use crate::extractors::serde::SerdeExtractor;
 use crate::traits::FetchTask;
 use otoge::ongeki::models::{DataStore, Song, SongFromAPI};
+use otoge::ongeki::Ongeki;
 use otoge::shared::traits::Otoge;
-
-pub struct Ongeki;
-
-impl Otoge for Ongeki {
-    type DataStore = DataStore;
-    type Song = Song;
-
-    fn name() -> &'static str {
-        "ongeki"
-    }
-}
 
 impl FetchTask<Self> for Ongeki {
     type ApiSong = SongFromAPI;
