@@ -37,7 +37,8 @@ pub struct Category {
 
 #[derive(Debug, Serialize, Deserialize, PartialEq)]
 pub struct Song {
-    pub id: String,
+    // FIXME: id changes regularly
+    // pub id: String,
     pub image: String,
     pub title: String,
     pub artist: String,

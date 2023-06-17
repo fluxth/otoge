@@ -87,7 +87,7 @@ struct Selectors {
     music_entry: Selector,
     page_select_options: Selector,
 
-    item_link: Selector,
+    //item_link: Selector,
     item_image: Selector,
     item_genre: Selector,
     item_info: Selector,
@@ -100,7 +100,7 @@ impl Selectors {
             music_entry: Selector::parse(r#"#music-result > .music"#)?,
             page_select_options: Selector::parse(r#"#music-result > select#search_page > option"#)?,
 
-            item_link: Selector::parse(r#".cat > .jk > a[href]"#)?,
+            //item_link: Selector::parse(r#".cat > .jk > a[href]"#)?,
             item_image: Selector::parse(r#".cat > .jk > a[href] > img"#)?,
             item_genre: Selector::parse(r#".genre"#)?,
             item_info: Selector::parse(r#".cat > .inner > .info > p"#)?,
@@ -193,17 +193,17 @@ where
                 .collect::<Vec<&str>>()
                 .join(" ");
 
-            let id = music_entry
-                .select(&selectors.item_link)
-                .next()
-                .unwrap()
-                .value()
-                .attr("href")
-                .unwrap()
-                .to_owned()
-                .replacen("/game/sdvx/vi/music/detail.html?music_id=", "", 1);
-
-            assert!(!id.contains('/'));
+            // FIXME: id changes regularly
+            //let id = music_entry
+            //    .select(&selectors.item_link)
+            //    .next()
+            //    .unwrap()
+            //    .value()
+            //    .attr("href")
+            //    .unwrap()
+            //    .to_owned()
+            //    .replacen("/game/sdvx/vi/music/detail.html?music_id=", "", 1);
+            //assert!(!id.contains('/'));
 
             let image = music_entry
                 .select(&selectors.item_image)
@@ -215,7 +215,6 @@ where
                 .to_owned();
 
             Song {
-                id,
                 image,
                 title,
                 artist,
