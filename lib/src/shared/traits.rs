@@ -9,6 +9,10 @@ pub trait Otoge {
         let path = base_path.unwrap_or(Path::new(""));
         path.join(Self::name())
     }
+
+    fn music_data_store_path(base_path: Option<&Path>) -> PathBuf {
+        Self::data_path(base_path).join("music.toml")
+    }
 }
 
 pub trait DataStore {
