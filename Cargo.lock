@@ -765,8 +765,12 @@ dependencies = [
 name = "otoge"
 version = "0.1.0"
 dependencies = [
+ "anyhow",
  "chrono",
  "serde",
+ "tokio",
+ "toml",
+ "tracing",
 ]
 
 [[package]]

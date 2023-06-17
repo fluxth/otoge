@@ -8,6 +8,7 @@ mod soundvoltex;
 
 use std::path::Path;
 
+use otoge::helpers::load_local_data_store;
 use traits::{Extractor, FetchTask};
 
 use otoge::chunithm::{ChunithmIntl, ChunithmJP};
@@ -89,14 +90,20 @@ where
 {
     let name = G::name();
 
-    let data_dir = G::data_path(Some(Path::new(DATA_PATH)));
+    let data_path = Path::new(DATA_PATH);
+    let data_dir = G::data_path(Some(data_path));
     tokio::fs::create_dir_all(&data_dir).await?;
 
-    let music_toml_path = data_dir.join("music.toml");
-
-    let local_data_store = load_local::<G>(&music_toml_path)
+    let local_data_store = load_local_data_store::<G>(Some(data_path))
         .instrument(info_span!("load_local", name))
-        .await?;
+        .await
+        .unwrap_or_else(|_err| {
+            let span = info_span!("load_local", name);
+            let _span = span.enter();
+
+            warn!("Local song list not found or couldn't be loaded");
+            None
+        });
 
     let new_data_store = fetch_remote::<G>()
         .instrument(info_span!("fetch_remote", name))
@@ -117,9 +124,13 @@ where
         };
 
         if should_update {
-            info!("Writing new data to {:?}", &music_toml_path.as_os_str());
+            let music_data_store_path = G::music_data_store_path(Some(data_path));
+            info!(
+                "Writing new data to {:?}",
+                &music_data_store_path.as_os_str()
+            );
             let toml_content = toml::to_string(&new_data_store)?;
-            tokio::fs::write(&music_toml_path, &toml_content).await?;
+            tokio::fs::write(&music_data_store_path, &toml_content).await?;
         } else {
             info!("Local song list already up-to-date");
         }
@@ -132,33 +143,6 @@ where
     .await?;
 
     Ok(())
-}
-
-async fn load_local<G>(music_toml_path: &Path) -> Result<Option<<G as Otoge>::DataStore>>
-where
-    G: Otoge,
-    G::DataStore: DataStoreTrait + serde::de::DeserializeOwned,
-{
-    info!(
-        "Loading local song list at {:?}",
-        music_toml_path.as_os_str()
-    );
-
-    let local_data_store = read_songs_toml(music_toml_path).await.ok();
-    if local_data_store.is_none() {
-        warn!("Local song list not found or couldn't be loaded");
-    }
-
-    Ok(local_data_store)
-}
-
-async fn read_songs_toml<S>(file_path: &Path) -> Result<S>
-where
-    S: serde::de::DeserializeOwned,
-{
-    let contents = tokio::fs::read_to_string(file_path).await?;
-
-    Ok(toml::from_str::<S>(contents.as_str())?)
 }
 
 async fn fetch_remote<G>() -> Result<G::DataStore>
