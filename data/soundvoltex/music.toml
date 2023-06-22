@@ -1,6 +1,96 @@
 name = "soundvoltex"
-count = 1907
-last_updated = "2023-06-17T07:19:59.284256Z"
+count = 1913
+last_updated = "2023-06-22T03:03:10.807873882Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=JjXss8Z2r4h56tMTw2WPOw"
+title = "Juωpscare!!"
+artist = "coTatsu"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=6VanmMR6ekvwG8ZrbszvPA"
+title = "Second Game"
+artist = "Tracy feat. miko"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=f8SJqxM1zX6x_bRaaqAEXA"
+title = "D.I.X."
+artist = "日夜すずり feat. 凜々"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=tnpPF-7XRp5Uez5mYWGeig"
+title = "ハッピーエンド"
+artist = "technoplanet feat. Kuroto Sion"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=R0ANA_ybiobtWIgfmwhVqQ"
+title = "PRIDE of the FIREBALL"
+artist = "かぼちゃ feat. CO-DA"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Ok5wo7FbnVji35qoHlhv8Q"
+title = "Realize／アニメ「Re:ゼロから始める異世界生活」より"
+artist = "鈴木このみ"
+
+[[songs.categories]]
+id = "pops"
+name = "POPS&アニメ"
+
+[songs.levels]
+novice = "3"
+advanced = "9"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=acp65PNcaH2Hnzokn3iflA"

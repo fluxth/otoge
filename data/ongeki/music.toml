@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 857
-last_updated = "2023-06-08T03:06:36.785242521Z"
+count = 859
+last_updated = "2023-06-22T03:02:50.232770787Z"
 
 [[songs]]
 id = "515200"
@@ -24844,7 +24844,7 @@ title_reading = "ラクトレイン"
 artist = "稲葉曇"
 date = "2023-06-08"
 image = "27c31a48f21f96e4.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -24873,7 +24873,7 @@ title_reading = "ウイラン"
 artist = "てにをは"
 date = "2023-06-08"
 image = "1d650aace1a77c68.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©てにをは2020"
@@ -24903,7 +24903,7 @@ title_reading = "SNOWCOLOREDSCORE"
 artist = "イロドリミドリ"
 date = "2023-06-08"
 image = "612dffe13be4f828.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -24932,7 +24932,7 @@ title_reading = "シンテレラテイスコアイハラツハキソロVER"
 artist = "曲：橘亮祐、篠崎あやと／歌：藍原 椿(CV：橋本 ちなみ)"
 date = "2023-06-08"
 image = "a8b139e1fac3eb0d.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -24961,7 +24961,7 @@ title_reading = "シンテレラテイスコサオトメアヤカソロVER"
 artist = "曲：橘亮祐、篠崎あやと／歌：早乙女 彩華(CV：中島 唯)"
 date = "2023-06-08"
 image = "4e19fb2e6073902a.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -24990,7 +24990,7 @@ title_reading = "ノウシヨウサクレツカル"
 artist = "れるりり"
 date = "2023-06-08"
 image = "7cb2c09b62a7a509.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 
@@ -25008,6 +25008,64 @@ lunatic = "14"
 [songs.character]
 id = "1020"
 name = "藤沢 柚子"
+
+[[songs]]
+id = "600950"
+title = "Azucar"
+title_reading = "AZUCAR"
+artist = "litmus*"
+date = "2023-06-22"
+image = "73e33e5e563ba3ba.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80030"
+name = "bitter flavor オンゲキーズ王決定戦"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "9+"
+expert = "12"
+master = "13+"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
+
+[[songs]]
+id = "500700"
+title = "Candy Tall Woman"
+title_reading = "CANDYTALLWOMAN"
+artist = "naotyu- feat. 佐々木恵梨"
+date = "2023-06-22"
+image = "aade5c3bbdafc8a5.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "5"
+advanced = "8"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "1070"
+name = "桜井 春菜"
 
 [[categories]]
 id = "06"
