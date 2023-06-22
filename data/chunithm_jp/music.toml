@@ -1,6 +1,51 @@
 name = "chunithm_jp"
-count = 1276
-last_updated = "2023-06-08T03:06:36.214635239Z"
+count = 1282
+last_updated = "2023-06-22T03:02:50.107519974Z"
+
+[[songs]]
+id = "2420"
+title = "Shine In The Sky☆"
+title_reading = "SHINEINTHESKY"
+artist = "U149　TVアニメ「アイドルマスター シンデレラガールズ U149」"
+image = "a8e50c4faacba6a0.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "8+"
+master = "12"
+
+[[songs]]
+id = "2421"
+title = "よりみちリトルスター"
+title_reading = "ヨリミチリトルスタウ"
+artist = "U149　TVアニメ「アイドルマスター シンデレラガールズ U149」"
+image = "b7335596a8eb3b81.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2489"
+title = "ハイファイ☆デイズ"
+title_reading = "ハイフアイテイス"
+artist = "佐々木千枝、櫻井桃華、市原仁奈、龍崎薫、赤城みりあ「アイドルマスター シンデレラガールズ」"
+image = "8259b3e282916a12.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
 
 [[songs]]
 id = "2414"
@@ -9,7 +54,7 @@ title_reading = "PRISMAGIC"
 artist = "しぐれうい"
 image = "f4364273b04ec545.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -24,7 +69,7 @@ title_reading = "ホウカコマウメイト"
 artist = "しぐれうい"
 image = "c047bd1597741ebe.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -1978,7 +2023,7 @@ title_reading = "ヒトリンホエンウイウ"
 artist = "koyori（電ポルP）"
 image = "be273a9412fe25c6.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -1993,7 +2038,7 @@ title_reading = "コウトウタイトカイ"
 artist = "月裏, ニャン・トンロン"
 image = "3a29fbb04e7e4c49.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -8352,6 +8397,36 @@ expert = "10"
 master = "13+"
 
 [[songs]]
+id = "2422"
+title = "Hydra"
+title_reading = "HYDRA"
+artist = "James Landino X Akira Complex「Cytus Ⅱ」"
+image = "7572310babd0ee9e.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "11+"
+master = "14"
+
+[[songs]]
+id = "2425"
+title = "Survive"
+title_reading = "SURVIVE"
+artist = "Kevin Penkin feat. Nikki Simmons「Cytus Ⅱ」"
+image = "a3aa886a109e2f30.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
 id = "807"
 title = "BlythE"
 title_reading = "BLYTHE"
@@ -10572,7 +10647,7 @@ title_reading = "SNOWCOLOREDSCORE"
 artist = "イロドリミドリ"
 image = "b76e41825a1aa744.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12667,6 +12742,21 @@ expert = "9"
 master = "11+"
 
 [[songs]]
+id = "2426"
+title = "シンデレラディスコ"
+title_reading = "シンテレラテイスコ"
+artist = "曲：橘亮祐、篠崎あやと／歌：藍原 椿(CV：橋本 ちなみ)、早乙女 彩華(CV：中島 唯)"
+image = "3daec6e75be7ae13.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "8"
+master = "12"
+
+[[songs]]
 id = "2235"
 title = "ポケットからぬりつぶせ！"
 title_reading = "ホケツトカラヌリツフセ"
@@ -13453,7 +13543,7 @@ title_reading = "LIFTOFF"
 artist = "MAYA AKAI"
 image = "2fe21b75a9802f41.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
