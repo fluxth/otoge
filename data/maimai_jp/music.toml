@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1093
-last_updated = "2023-06-08T03:06:36.415198514Z"
+count = 1097
+last_updated = "2023-06-23T03:14:54.196647709Z"
 
 [[songs]]
 id = "884"
@@ -1935,7 +1935,7 @@ image = "541de4c8cadacd0e.png"
 category = "東方Project"
 version = "12000"
 release = "2023-06-08"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -2602,7 +2602,7 @@ image = "89ff5ab582f47732.png"
 category = "maimai"
 version = "13000"
 release = "2023-06-08"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -18342,6 +18342,78 @@ expert = "11"
 master = "13+"
 
 [[songs]]
+id = "773"
+title = "アンバークロニクル"
+title_reading = "アンハアクロニクル"
+artist = "しーけー feat.ricono"
+image = "575733d6aee16503.png"
+category = "maimai"
+version = "23507"
+release = "2023-06-23"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "11"
+master = "13"
+
+[[songs]]
+id = "774"
+title = "リフヴェイン"
+title_reading = "リフウエイン"
+artist = "青栗鼠 feat.sekai"
+image = "6626dcdb181d6d4e.png"
+category = "maimai"
+version = "23507"
+release = "2023-06-23"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "776"
+title = "Kairos"
+title_reading = "KAIROS"
+artist = "ARForest feat.nayuta"
+image = "d1902fbb83b1c1cc.png"
+category = "maimai"
+version = "23507"
+release = "2023-06-23"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "775"
+title = "宵の鳥"
+title_reading = "ヨイノトリ"
+artist = "n.k feat.影縫英"
+image = "e005c0199a1cf88d.png"
+category = "maimai"
+version = "23507"
+release = "2023-06-23"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
+master = "13+"
+
+[[songs]]
 id = "1057"
 title = "Trrricksters!!"
 title_reading = "TRRRICKSTERS"
@@ -18696,7 +18768,7 @@ category = "ゲーム＆バラエティ"
 version = "23502"
 release = "2023-04-14"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "4"
@@ -18714,7 +18786,7 @@ category = "ゲーム＆バラエティ"
 version = "23502"
 release = "2023-04-14"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "3"
@@ -18732,7 +18804,7 @@ category = "ゲーム＆バラエティ"
 version = "23502"
 release = "2023-04-14"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "5"
@@ -18750,7 +18822,7 @@ category = "ゲーム＆バラエティ"
 version = "23502"
 release = "2023-04-14"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "6"
@@ -18947,7 +19019,7 @@ image = "c30b982886cd4b33.png"
 category = "東方Project"
 version = "23506"
 release = "2023-06-08"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -18965,7 +19037,7 @@ image = "fb636683b41b00f1.png"
 category = "オンゲキ＆CHUNITHM"
 version = "23506"
 release = "2023-06-08"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -18983,7 +19055,7 @@ image = "69815c3a46ef8b0f.png"
 category = "オンゲキ＆CHUNITHM"
 version = "23506"
 release = "2023-06-08"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -19001,7 +19073,7 @@ image = "27e298313b402e0b.png"
 category = "オンゲキ＆CHUNITHM"
 version = "23506"
 release = "2023-06-08"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
