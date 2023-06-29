@@ -1,6 +1,21 @@
 name = "soundvoltex"
-count = 1913
-last_updated = "2023-06-22T03:03:10.807873882Z"
+count = 1914
+last_updated = "2023-06-29T03:10:11.314548020Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=jnVSEp_orP_cT8M0ouOayA"
+title = "凛として咲く花の如く"
+artist = "大神ミオ"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=JjXss8Z2r4h56tMTw2WPOw"
