@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 1914
-last_updated = "2023-06-29T03:10:11.314548020Z"
+count = 1918
+last_updated = "2023-07-06T03:14:43.487717628Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=6cI1bRyeEQwcN4XiKVQHwQ"
+title = "劇場版ムーニャポヨポヨスッポコニャーゴ~侵略だいず帝国！ドラマティック宇宙大戦争~"
+artist = "打打だいず"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=7J5ebgavaigBefDcZJQtow"
+title = "The EXworld of sound"
+artist = "Remix by Aoi, Vocal by Kuroa*"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=HCm4dUmmP9VmLeBx5uiJaQ"
+title = "トーキョーサマーナイト（華金Remix）"
+artist = "あまみ×ひなみ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=SHxrqKe8To75q_mdkWgRRg"
+title = "Pixelated Platform (Super Honey!)"
+artist = "そよもぎ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=jnVSEp_orP_cT8M0ouOayA"

@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1282
-last_updated = "2023-06-22T03:02:50.107519974Z"
+count = 1288
+last_updated = "2023-07-06T03:14:24.593597584Z"
 
 [[songs]]
 id = "2420"
@@ -9,7 +9,7 @@ title_reading = "SHINEINTHESKY"
 artist = "U149　TVアニメ「アイドルマスター シンデレラガールズ U149」"
 image = "a8e50c4faacba6a0.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "ヨリミチリトルスタウ"
 artist = "U149　TVアニメ「アイドルマスター シンデレラガールズ U149」"
 image = "b7335596a8eb3b81.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -39,7 +39,7 @@ title_reading = "ハイフアイテイス"
 artist = "佐々木千枝、櫻井桃華、市原仁奈、龍崎薫、赤城みりあ「アイドルマスター シンデレラガールズ」"
 image = "8259b3e282916a12.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -8403,7 +8403,7 @@ title_reading = "HYDRA"
 artist = "James Landino X Akira Complex「Cytus Ⅱ」"
 image = "7572310babd0ee9e.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -8418,7 +8418,7 @@ title_reading = "SURVIVE"
 artist = "Kevin Penkin feat. Nikki Simmons「Cytus Ⅱ」"
 image = "a3aa886a109e2f30.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -12622,6 +12622,21 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
+id = "2432"
+title = "Aiolos"
+title_reading = "AIOLOS"
+artist = "xi"
+image = "b3276a5cef7830a4.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "13+"
+master = "14+"
+
+[[songs]]
 id = "802"
 title = "STARTLINER"
 title_reading = "STARTLINER"
@@ -12748,7 +12763,7 @@ title_reading = "シンテレラテイスコ"
 artist = "曲：橘亮祐、篠崎あやと／歌：藍原 椿(CV：橋本 ちなみ)、早乙女 彩華(CV：中島 唯)"
 image = "3daec6e75be7ae13.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -18346,6 +18361,81 @@ basic = "4"
 advanced = "9+"
 expert = "13+"
 master = "15"
+
+[[songs]]
+id = "2427"
+title = "うたかたのせかいで"
+title_reading = "ウタカタノセカイテ"
+artist = "DJ Raisei vs. Setca. feat.nayuta"
+image = "470e83c16a4b9376.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "13"
+master = "14+"
+
+[[songs]]
+id = "2428"
+title = "とあちゃんのおもちゃ箱"
+title_reading = "トアチヤンノオモチヤハコ"
+artist = "linear ring"
+image = "54bb0f2e7c0e4f59.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "9"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2429"
+title = "白庭"
+title_reading = "ハクテイ"
+artist = "くるぶっこちゃん"
+image = "45a3cc892950b985.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "12"
+master = "14"
+
+[[songs]]
+id = "2430"
+title = "REL0VE REL1VE"
+title_reading = "REL0VEREL1VE"
+artist = "CHUBAY×打打だいず"
+image = "1eca38f31eebb683.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "12+"
+master = "13+"
+
+[[songs]]
+id = "2431"
+title = "deadeye"
+title_reading = "DEADEYE"
+artist = "Acotto"
+image = "0bd4e83477178fc5.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "12+"
+master = "14+"
 
 [[songs]]
 id = "8261"
