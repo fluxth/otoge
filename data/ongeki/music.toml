@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 859
-last_updated = "2023-06-22T03:02:50.232770787Z"
+count = 860
+last_updated = "2023-07-06T03:14:24.760086631Z"
 
 [[songs]]
 id = "515200"
@@ -25016,7 +25016,7 @@ title_reading = "AZUCAR"
 artist = "litmus*"
 date = "2023-06-22"
 image = "73e33e5e563ba3ba.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25045,7 +25045,7 @@ title_reading = "CANDYTALLWOMAN"
 artist = "naotyu- feat. 佐々木恵梨"
 date = "2023-06-22"
 image = "aade5c3bbdafc8a5.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25066,6 +25066,35 @@ master = "13+"
 [songs.character]
 id = "1070"
 name = "桜井 春菜"
+
+[[songs]]
+id = "500690"
+title = "Rainbow Rush Story"
+title_reading = "RAINBOWRUSHSTORY"
+artist = "いるかアイス feat.ちょこ"
+date = "2023-07-06"
+image = "e61820ee8914b0d0.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
 
 [[categories]]
 id = "06"
