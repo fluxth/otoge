@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1097
-last_updated = "2023-06-23T03:14:54.196647709Z"
+count = 1102
+last_updated = "2023-07-07T03:12:24.036918764Z"
 
 [[songs]]
 id = "884"
@@ -18350,7 +18350,7 @@ image = "575733d6aee16503.png"
 category = "maimai"
 version = "23507"
 release = "2023-06-23"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18368,7 +18368,7 @@ image = "6626dcdb181d6d4e.png"
 category = "maimai"
 version = "23507"
 release = "2023-06-23"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18386,7 +18386,7 @@ image = "d1902fbb83b1c1cc.png"
 category = "maimai"
 version = "23507"
 release = "2023-06-23"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18404,7 +18404,7 @@ image = "e005c0199a1cf88d.png"
 category = "maimai"
 version = "23507"
 release = "2023-06-23"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18412,6 +18412,60 @@ basic = "4"
 advanced = "7+"
 expert = "10+"
 master = "13+"
+
+[[songs]]
+id = "770"
+title = "ここからはじまるプロローグ。 (Kanon Remix)"
+title_reading = "ココカラハシマルフロロオクKANONREMIX"
+artist = "ああああ／大国奏音"
+image = "163cb65566312402.png"
+category = "maimai"
+version = "23508"
+release = "2023-07-07"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "771"
+title = "モ°ルモ°ル (MZK Skippin' Remix)"
+title_reading = "モルモルMZKSKIPPINREMIX"
+artist = "sasakure.UK／水野健治"
+image = "959d4a141d9b398b.png"
+category = "maimai"
+version = "23508"
+release = "2023-07-07"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "772"
+title = "VERTeX (rintaro soma deconstructed remix)"
+title_reading = "VERTEXRINTAROSOMADECONSTRUCTEDREMIX"
+artist = "Hiro／rintaro soma"
+image = "fad2062de9b868ae.png"
+category = "maimai"
+version = "23508"
+release = "2023-07-07"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "12+"
+master = "14+"
 
 [[songs]]
 id = "1057"
@@ -18955,6 +19009,42 @@ basic = "3"
 advanced = "6"
 expert = "10+"
 master = "13"
+
+[[songs]]
+id = "5"
+title = "あつすぎの歌"
+title_reading = "アツスキノウタ"
+artist = "からめる"
+image = "e25404b426613ed6.png"
+category = "POPS＆アニメ"
+version = "23508"
+release = "2023-07-07"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "539"
+title = "ULTRA SYNERGY MATRIX"
+title_reading = "ULTRASYNERGYMATRIX"
+artist = "Tanchiky"
+image = "020b7a4dea021d7e.png"
+category = "ゲーム＆バラエティ"
+version = "23508"
+release = "2023-07-07"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7"
+expert = "12"
+master = "14"
 
 [[songs]]
 id = "113"
