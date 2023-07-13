@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 860
-last_updated = "2023-07-06T03:14:24.760086631Z"
+count = 863
+last_updated = "2023-07-13T03:13:29.424143946Z"
 
 [[songs]]
 id = "515200"
@@ -25074,7 +25074,7 @@ title_reading = "RAINBOWRUSHSTORY"
 artist = "いるかアイス feat.ちょこ"
 date = "2023-07-06"
 image = "e61820ee8914b0d0.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25095,6 +25095,96 @@ master = "13+"
 [songs.character]
 id = "1140"
 name = "日向 千夏"
+
+[[songs]]
+id = "400950"
+title = "with U"
+title_reading = "WITHU"
+artist = "t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)「WACCA」"
+date = "2023-07-13"
+image = "c7ca396b90617333.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
+
+[songs.chapter]
+id = "99089"
+name = "WACCA【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "7190"
+name = "リリィ"
+
+[[songs]]
+id = "400940"
+title = "Knight Rider"
+title_reading = "KNIGHTRIDER"
+artist = "USAO「WACCA」"
+date = "2023-07-13"
+image = "5ab5414aa44d6a03.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
+
+[songs.chapter]
+id = "99089"
+name = "WACCA【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "7190"
+name = "リリィ"
+
+[[songs]]
+id = "400930"
+title = "Invisible Frenzy"
+title_reading = "INVISIBLEFRENZY"
+artist = "Kobaryo「WACCA」"
+date = "2023-07-13"
+image = "52451a15ee96a612.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
+
+[songs.chapter]
+id = "99089"
+name = "WACCA【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "6"
+advanced = "9+"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "7190"
+name = "リリィ"
 
 [[categories]]
 id = "06"
