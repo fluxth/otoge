@@ -14,7 +14,7 @@
     "format": "prettier --plugin-search-dir . --write ."
   },
   "devDependencies": {
-    "@playwright/test": "1.36.0",
+    "@playwright/test": "1.36.1",
     "@sveltejs/adapter-auto": "2.1.0",
     "@sveltejs/kit": "1.22.3",
     "@typescript-eslint/eslint-plugin": "6.0.0",
