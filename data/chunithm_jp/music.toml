@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1288
-last_updated = "2023-07-06T03:14:24.593597584Z"
+count = 1297
+last_updated = "2023-07-21T03:02:37.158250003Z"
 
 [[songs]]
 id = "2420"
@@ -2015,6 +2015,81 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "14+"
+
+[[songs]]
+id = "2433"
+title = "花となれ"
+title_reading = "ハナトナレ"
+artist = "雄之助　feat. 可不"
+image = "bec427c5cad9b73c.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "11+"
+
+[[songs]]
+id = "2434"
+title = "カノン"
+title_reading = "カノン"
+artist = "柊マグネタイト　feat.可不"
+image = "2f632a160cfe2e2a.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2435"
+title = "異星にいこうね"
+title_reading = "イセイニイコウネ"
+artist = "いよわ　feat.星界"
+image = "6596e3a874828ae9.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "2436"
+title = "悪魔の踊り方"
+title_reading = "アクマノオトリカタ"
+artist = "キタニタツヤ"
+image = "e11e8ee80b33893f.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "8"
+master = "12+"
+
+[[songs]]
+id = "2437"
+title = "ド屑"
+title_reading = "トクス"
+artist = "なきそ"
+image = "4fec4c4263ad91f3.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "2418"
@@ -5438,6 +5513,7 @@ basic = "3"
 advanced = "6"
 expert = "9+"
 master = "12+"
+ultima = "14"
 
 [[songs]]
 id = "94"
@@ -12628,7 +12704,7 @@ title_reading = "AIOLOS"
 artist = "xi"
 image = "b3276a5cef7830a4.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -12770,6 +12846,21 @@ basic = "2"
 advanced = "6"
 expert = "8"
 master = "12"
+
+[[songs]]
+id = "2438"
+title = "夏色花火"
+title_reading = "ナツイロハナヒ"
+artist = "曲：穴山大輔, 水野健治／歌：藤沢 柚子(CV：久保田 梨沙)、早乙女 彩華(CV：中島 唯)"
+image = "5f4ba36489773099.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "1"
+advanced = "4"
+expert = "8+"
+master = "11"
 
 [[songs]]
 id = "2235"
@@ -18369,7 +18460,7 @@ title_reading = "ウタカタノセカイテ"
 artist = "DJ Raisei vs. Setca. feat.nayuta"
 image = "470e83c16a4b9376.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -18384,7 +18475,7 @@ title_reading = "トアチヤンノオモチヤハコ"
 artist = "linear ring"
 image = "54bb0f2e7c0e4f59.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -18399,7 +18490,7 @@ title_reading = "ハクテイ"
 artist = "くるぶっこちゃん"
 image = "45a3cc892950b985.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -18414,7 +18505,7 @@ title_reading = "REL0VEREL1VE"
 artist = "CHUBAY×打打だいず"
 image = "1eca38f31eebb683.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -18429,13 +18520,52 @@ title_reading = "DEADEYE"
 artist = "Acotto"
 image = "0bd4e83477178fc5.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
 advanced = "8+"
 expert = "12+"
 master = "14+"
+
+[[songs]]
+id = "8264"
+title = "Revived"
+title_reading = "REVIVED"
+artist = "UNDEAD CORPORATION"
+image = "2acd1de47ca55700.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.worlds_end]
+kanji = "狂"
+star = "5"
+
+[[songs]]
+id = "8265"
+title = "モア！ジャンプ！モア！"
+title_reading = "モアシヤンフモア"
+artist = "ナユタン星人 / 初音ミク / MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+image = "0c0be195d06c9f50.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "跳"
+star = "5"
+
+[[songs]]
+id = "8266"
+title = "お空のニュークリアフュージョン道場"
+title_reading = "オクウノニユウクリアフユウシヨントウシヨウ"
+artist = "ARM＋夕野ヨシミ (IOSYS) feat. 藤枝あかね"
+image = "09dfce385e331544.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.worlds_end]
+kanji = "両"
+star = "3"
 
 [[songs]]
 id = "8261"

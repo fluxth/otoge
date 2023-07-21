@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1102
-last_updated = "2023-07-07T03:12:24.036918764Z"
+count = 1106
+last_updated = "2023-07-21T03:02:38.537522303Z"
 
 [[songs]]
 id = "884"
@@ -6597,13 +6597,20 @@ artist = "Aliesrite* (Ym1024 feat. lamie*)"
 image = "677bde96e3495e92.png"
 category = "maimai"
 version = "18010"
-is_new = false
+release = "2023-07-21"
+is_new = true
 is_locked = false
 
 [songs.levels]
 basic = "5"
 advanced = "7+"
 expert = "11+"
+master = "13+"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "11"
 master = "13+"
 
 [[songs]]
@@ -18422,7 +18429,7 @@ image = "163cb65566312402.png"
 category = "maimai"
 version = "23508"
 release = "2023-07-07"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18440,7 +18447,7 @@ image = "959d4a141d9b398b.png"
 category = "maimai"
 version = "23508"
 release = "2023-07-07"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18458,7 +18465,7 @@ image = "fad2062de9b868ae.png"
 category = "maimai"
 version = "23508"
 release = "2023-07-07"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18885,6 +18892,24 @@ expert = "12"
 master = "14"
 
 [[songs]]
+id = "4"
+title = "はんぶんこ"
+title_reading = "ハンフンコ"
+artist = "三枝明那"
+image = "4d9e0c3640c966c5.png"
+category = "POPS＆アニメ"
+version = "23509"
+release = "2023-07-21"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "1"
+advanced = "6"
+expert = "8+"
+master = "12+"
+
+[[songs]]
 id = "399"
 title = "インターネットサバイバー"
 title_reading = "インタアネツトサハイハア"
@@ -18948,7 +18973,7 @@ category = "ゲーム＆バラエティ"
 version = "23504"
 release = "2023-05-12"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "4"
@@ -18966,7 +18991,7 @@ category = "ゲーム＆バラエティ"
 version = "23504"
 release = "2023-05-12"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "5"
@@ -18984,7 +19009,7 @@ category = "ゲーム＆バラエティ"
 version = "23504"
 release = "2023-05-12"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "5"
@@ -19002,7 +19027,7 @@ category = "ゲーム＆バラエティ"
 version = "23504"
 release = "2023-05-12"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "3"
@@ -19019,7 +19044,7 @@ image = "e25404b426613ed6.png"
 category = "POPS＆アニメ"
 version = "23508"
 release = "2023-07-07"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19037,7 +19062,7 @@ image = "020b7a4dea021d7e.png"
 category = "ゲーム＆バラエティ"
 version = "23508"
 release = "2023-07-07"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19099,6 +19124,42 @@ basic = "5"
 advanced = "8"
 expert = "11+"
 master = "14"
+
+[[songs]]
+id = "538"
+title = "Vallista"
+title_reading = "VALLISTA"
+artist = "削除"
+image = "c1e02d23d7cc8cca.png"
+category = "ゲーム＆バラエティ"
+version = "23509"
+release = "2023-07-21"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "12"
+master = "14"
+
+[[songs]]
+id = "112"
+title = "テオ"
+title_reading = "テオ"
+artist = "Omoi"
+image = "d315e6c1c6b44779.png"
+category = "niconico＆ボーカロイド"
+version = "23509"
+release = "2023-07-21"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "10+"
+master = "13"
 
 [[songs]]
 id = "400"
@@ -19171,6 +19232,24 @@ basic = "2"
 advanced = "6"
 expert = "9+"
 master = "12+"
+
+[[songs]]
+id = "537"
+title = "MAGENTA POTION"
+title_reading = "MAGENTAPOTION"
+artist = "EmoCosine"
+image = "3902dd1ec9eec1d0.png"
+category = "ゲーム＆バラエティ"
+version = "23509"
+release = "2023-07-21"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13+"
 
 [[categories]]
 slug = "pops_anime"
