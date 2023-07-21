@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 1918
-last_updated = "2023-07-13T03:13:48.365614130Z"
+count = 1921
+last_updated = "2023-07-21T03:02:58.898826062Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=tqPK_RvgBWhIvcKvgJcBcg"
+title = "Shera"
+artist = "MYUKKE."
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=HkFnimRD1uHEufvVL-P09A"
+title = "birth"
+artist = "Yu_Asahina"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=5LCE9fV80Sc9WVMqCbGKTA"
+title = "Prayer"
+artist = "溝口ゆうま feat. 大瀬良あい"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=6cI1bRyeEQwcN4XiKVQHwQ"
