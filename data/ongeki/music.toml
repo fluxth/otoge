@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 863
-last_updated = "2023-07-13T03:13:29.424143946Z"
+count = 865
+last_updated = "2023-07-26T03:02:47.284230040Z"
 
 [[songs]]
 id = "515200"
@@ -25103,7 +25103,7 @@ title_reading = "WITHU"
 artist = "t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)「WACCA」"
 date = "2023-07-13"
 image = "c7ca396b90617333.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
@@ -25133,7 +25133,7 @@ title_reading = "KNIGHTRIDER"
 artist = "USAO「WACCA」"
 date = "2023-07-13"
 image = "5ab5414aa44d6a03.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
@@ -25163,7 +25163,7 @@ title_reading = "INVISIBLEFRENZY"
 artist = "Kobaryo「WACCA」"
 date = "2023-07-13"
 image = "52451a15ee96a612.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
@@ -25185,6 +25185,65 @@ master = "14+"
 [songs.character]
 id = "7190"
 name = "リリィ"
+
+[[songs]]
+id = "600940"
+title = "夏宵スターマイン"
+title_reading = "ナツヨイスタマイン"
+artist = "曲：本多友紀（Arte Refact）／歌：オンゲキシューターズ"
+date = "2023-07-26"
+image = "cfa4d08a133c1e62.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10"
+master = "12+"
+
+[songs.character]
+id = "1030"
+name = "三角 葵"
+
+[[songs]]
+id = "600930"
+title = "オン×ステージ！"
+title_reading = "オンステシ"
+artist = "曲：塩野 海／歌：星咲 あかり(CV：赤尾 ひかる)、式宮 舞菜(CV：牧野 天音)"
+date = "2023-07-26"
+image = "5b5ad8311d7f5638.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Re:STAGE! PROJECT"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "12"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
 
 [[categories]]
 id = "06"
