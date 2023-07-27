@@ -9,7 +9,7 @@ edition = "2021"
 anyhow = "=1.0.72"
 otoge = { path = "../lib" }
 serde = "=1.0.176"
-serde_json = "=1.0.103"
+serde_json = "=1.0.104"
 tokio = { version = "=1.29.1", features = ["full"] }
 tracing = "=0.1.37"
 tracing-subscriber = { version = "=0.3.17", features = ["env-filter"] }
