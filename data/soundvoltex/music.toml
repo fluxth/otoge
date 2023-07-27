@@ -1,6 +1,36 @@
 name = "soundvoltex"
-count = 1921
-last_updated = "2023-07-21T03:02:58.898826062Z"
+count = 1923
+last_updated = "2023-07-27T03:02:46.124125888Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qumuvQdDg9lW3iOLnTNcwQ"
+title = "Absurd Gaff (Metallize Remix)"
+artist = "Metal Giant"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=nJxiNeXZqT-GnAC408CIOQ"
+title = "うぇるかむ -||祭みっくす||-"
+artist = "忠兵衛"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=tqPK_RvgBWhIvcKvgJcBcg"
