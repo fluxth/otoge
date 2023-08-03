@@ -1,6 +1,36 @@
 name = "soundvoltex"
-count = 1923
-last_updated = "2023-07-27T03:02:46.124125888Z"
+count = 1925
+last_updated = "2023-08-03T03:02:46.741861614Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=6F5P1LDToF6j44eoYOG6iQ"
+title = "おちゃめ機能"
+artist = "ゴジマジP feat. 重音テト"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=SElYDJEV2lOwd-CL6gk1aQ"
+title = "おねがいダーリン"
+artist = "OИE"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=qumuvQdDg9lW3iOLnTNcwQ"

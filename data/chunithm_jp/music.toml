@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1297
-last_updated = "2023-07-21T03:02:37.158250003Z"
+count = 1303
+last_updated = "2023-08-03T03:02:29.074701178Z"
 
 [[songs]]
 id = "2420"
@@ -2023,7 +2023,7 @@ title_reading = "ハナトナレ"
 artist = "雄之助　feat. 可不"
 image = "bec427c5cad9b73c.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2038,7 +2038,7 @@ title_reading = "カノン"
 artist = "柊マグネタイト　feat.可不"
 image = "2f632a160cfe2e2a.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2053,7 +2053,7 @@ title_reading = "イセイニイコウネ"
 artist = "いよわ　feat.星界"
 image = "6596e3a874828ae9.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2068,7 +2068,7 @@ title_reading = "アクマノオトリカタ"
 artist = "キタニタツヤ"
 image = "e11e8ee80b33893f.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2083,7 +2083,7 @@ title_reading = "トクス"
 artist = "なきそ"
 image = "4fec4c4263ad91f3.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -11528,6 +11528,21 @@ expert = "9"
 master = "12+"
 
 [[songs]]
+id = "2443"
+title = "リハーサルタイム"
+title_reading = "リハウサルタイム"
+artist = "明坂 芹菜(CV:新田 恵海)＆萩原 七々瀬(CV:東城 日沙子)＆芒崎 奏(CV:立花 理香)"
+image = "e1a8cae690951ed8.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "8+"
+master = "12+"
+
+[[songs]]
 id = "245"
 title = "Help me, あーりん！"
 title_reading = "HELPMEアウリン"
@@ -12854,7 +12869,7 @@ title_reading = "ナツイロハナヒ"
 artist = "曲：穴山大輔, 水野健治／歌：藤沢 柚子(CV：久保田 梨沙)、早乙女 彩華(CV：中島 唯)"
 image = "5f4ba36489773099.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "1"
@@ -13655,6 +13670,21 @@ is_new = false
 basic = "2"
 advanced = "7+"
 expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2444"
+title = "Cult future"
+title_reading = "CULTFUTURE"
+artist = "LV.4"
+image = "2c24dda7a27f93fe.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "13"
 master = "14+"
 
 [[songs]]
@@ -18529,13 +18559,73 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
+id = "2439"
+title = "夢と幻想の終点にて"
+title_reading = "ユメトケンソウノシユウテンニテ"
+artist = "しーけー"
+image = "a30758a1e21cd6e8.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "14"
+
+[[songs]]
+id = "2440"
+title = "Superbia"
+title_reading = "SUPERBIA"
+artist = "Team Grimoire"
+image = "fc3dee38e77eb5f1.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "13+"
+master = "14+"
+
+[[songs]]
+id = "2441"
+title = "空間創造理論"
+title_reading = "クウカンソウソウリロン"
+artist = "Sound piercer"
+image = "7d984a711ec22d1b.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2442"
+title = "βlαnoir"
+title_reading = "BLANOIR"
+artist = "Aoi"
+image = "fd38d9c410c9ba31.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "13+"
+master = "15"
+
+[[songs]]
 id = "8264"
 title = "Revived"
 title_reading = "REVIVED"
 artist = "UNDEAD CORPORATION"
 image = "2acd1de47ca55700.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "狂"
@@ -18548,7 +18638,7 @@ title_reading = "モアシヤンフモア"
 artist = "ナユタン星人 / 初音ミク / MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
 image = "0c0be195d06c9f50.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "跳"
@@ -18561,7 +18651,7 @@ title_reading = "オクウノニユウクリアフユウシヨントウシヨウ
 artist = "ARM＋夕野ヨシミ (IOSYS) feat. 藤枝あかね"
 image = "09dfce385e331544.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "両"
