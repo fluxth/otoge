@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1106
-last_updated = "2023-07-21T03:02:38.537522303Z"
+count = 1110
+last_updated = "2023-08-04T03:05:18.236366979Z"
 
 [[songs]]
 id = "884"
@@ -6598,7 +6598,7 @@ image = "677bde96e3495e92.png"
 category = "maimai"
 version = "18010"
 release = "2023-07-21"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -18475,6 +18475,78 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
+id = "766"
+title = "隠密あんみつDX"
+title_reading = "オンミツアンミツDX"
+artist = "カルロス袴田 feat. 日南めい, 古川由彩"
+image = "693ed3f8ef555432.png"
+category = "maimai"
+version = "23510"
+release = "2023-08-04"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "767"
+title = "地球"
+title_reading = "チキユウ"
+artist = "立秋 feat.ちょこ"
+image = "df8227797c9a592e.png"
+category = "maimai"
+version = "23510"
+release = "2023-08-04"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[[songs]]
+id = "768"
+title = "Churros Parlor"
+title_reading = "CHURROSPARLOR"
+artist = "ピエロ☆マン"
+image = "b1f8ab64f6dcdac3.png"
+category = "maimai"
+version = "23510"
+release = "2023-08-04"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "12"
+master = "13+"
+
+[[songs]]
+id = "769"
+title = "超熊猫的周遊記（ワンダーパンダートラベラー）"
+title_reading = "ワンタアハンタアトラヘラア"
+artist = "FANTAGIRAFF"
+image = "ee5ed79e9849c1a6.png"
+category = "maimai"
+version = "23510"
+release = "2023-08-04"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "12+"
+master = "14+"
+
+[[songs]]
 id = "1057"
 title = "Trrricksters!!"
 title_reading = "TRRRICKSTERS"
@@ -18900,7 +18972,7 @@ image = "4d9e0c3640c966c5.png"
 category = "POPS＆アニメ"
 version = "23509"
 release = "2023-07-21"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19134,7 +19206,7 @@ image = "c1e02d23d7cc8cca.png"
 category = "ゲーム＆バラエティ"
 version = "23509"
 release = "2023-07-21"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19152,7 +19224,7 @@ image = "d315e6c1c6b44779.png"
 category = "niconico＆ボーカロイド"
 version = "23509"
 release = "2023-07-21"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19242,7 +19314,7 @@ image = "3902dd1ec9eec1d0.png"
 category = "ゲーム＆バラエティ"
 version = "23509"
 release = "2023-07-21"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
