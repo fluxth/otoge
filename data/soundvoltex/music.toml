@@ -1,6 +1,96 @@
 name = "soundvoltex"
-count = 1925
-last_updated = "2023-08-03T03:02:46.741861614Z"
+count = 1931
+last_updated = "2023-08-09T03:02:49.667725732Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ck-RrotvogW1zAcopuGTpA"
+title = "ΣMERGENCY CODΣ"
+artist = "概念"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=dhRWdRK4joi3ZqDGarvKKA"
+title = "Spectacular“V”Adventure!"
+artist = "Enterskip"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=i82fpNwPe04Yak3w9awy2A"
+title = "BLISS"
+artist = "ミハイル + K.key"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "5"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=1qsWi3xhFTqPSnMsTOPxQA"
+title = "Breakneck Pursuit"
+artist = "Ashrount"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qKdpZ9dKr1nL9oSCWeCa8A"
+title = "Marielle"
+artist = "ゆんゆん"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=LGxrIWRBpEZH29dEfRuNyA"
+title = "忘れないように、失くさないように"
+artist = "Mono."
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "5"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=6F5P1LDToF6j44eoYOG6iQ"
@@ -1989,7 +2079,7 @@ maximum = "19"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=Uzc9b0fms5tzRQVpX5JvVg"
 title = "極夜、暁を望んで"
-artist = "めと(Metomate)"
+artist = "めと（Metomate）"
 
 [[songs.categories]]
 id = "sdvx"
