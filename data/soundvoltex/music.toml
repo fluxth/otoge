@@ -1,6 +1,55 @@
 name = "soundvoltex"
-count = 1931
-last_updated = "2023-08-09T03:02:49.667725732Z"
+count = 1934
+last_updated = "2023-08-10T03:03:54.552110906Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=a1NjroLXxpI6HdSBpVga-w"
+title = "APØCALYPSE RAY"
+artist = "xi"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "8"
+advanced = "15"
+exhaust = "18"
+maximum = "20"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=SH3_VKaV0RiDZQ0b4ef3ug"
+title = "パーフェクトイーター"
+artist = "BEMANI Sound Team \"PON\" feat.かなたん"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "3"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=AhUyE_fbN5d85e_Yos5C9A"
+title = "累乗のカルマ"
+artist = "めと（Metomate）"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "5"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ck-RrotvogW1zAcopuGTpA"

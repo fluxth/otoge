@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 865
-last_updated = "2023-07-27T03:02:25.785058126Z"
+count = 868
+last_updated = "2023-08-10T03:03:38.483467163Z"
 
 [[songs]]
 id = "515200"
@@ -25193,7 +25193,7 @@ title_reading = "ナツヨイスタマイン"
 artist = "曲：本多友紀（Arte Refact）／歌：オンゲキシューターズ"
 date = "2023-07-26"
 image = "cfa4d08a133c1e62.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25222,7 +25222,7 @@ title_reading = "オンステシ"
 artist = "曲：塩野 海／歌：星咲 あかり(CV：赤尾 ひかる)、式宮 舞菜(CV：牧野 天音)"
 date = "2023-07-26"
 image = "5b5ad8311d7f5638.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Re:STAGE! PROJECT"
@@ -25244,6 +25244,91 @@ master = "12"
 [songs.character]
 id = "1010"
 name = "星咲 あかり"
+
+[[songs]]
+id = "200930"
+title = "snooze"
+title_reading = "SNOOZE"
+artist = "wotaku feat. SHIKI"
+date = "2023-08-10"
+image = "fdd4fc57afa90cd2.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1120"
+name = "逢坂 茜"
+
+[[songs]]
+id = "500680"
+title = "居並ぶ穀物と溜息まじりの運送屋"
+title_reading = "イナラフコクモツトタメイキマシリノウンソウヤ"
+artist = "hanzo"
+date = "2023-08-10"
+image = "d61a6c15e7add11f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1060"
+name = "藍原 椿"
+
+[[songs]]
+id = "900840"
+title = "天狗の落とし文 feat. ｙｔｒ"
+title_reading = "テンクノオトシフミFEATYTR"
+artist = "魂音泉"
+date = "2023-08-10"
+image = "0207e9ca04ba9a85.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+copyright = "©上海アリス幻樂団"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "03"
+name = "東方Project"
+
+[songs.levels]
+lunatic = "14+"
+
+[songs.character]
+id = "2100"
+name = "射命丸 文"
 
 [[categories]]
 id = "06"
