@@ -1,6 +1,36 @@
 name = "chunithm_jp"
-count = 1303
-last_updated = "2023-08-03T03:02:29.074701178Z"
+count = 1306
+last_updated = "2023-08-17T03:02:55.220730708Z"
+
+[[songs]]
+id = "2445"
+title = "Night Spider"
+title_reading = "NIGHTSPIDER"
+artist = "▽▲TRiNITY▲▽"
+image = "21de4bea8b55b69e.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2446"
+title = "#あくあ色ぱれっと"
+title_reading = "アクアイロハレツト"
+artist = "湊あくあ（ホロライブ）"
+image = "f2b186745ee88789.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "11+"
 
 [[songs]]
 id = "2420"
@@ -2015,6 +2045,21 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "14+"
+
+[[songs]]
+id = "2447"
+title = "いつかオトナになれるといいね。"
+title_reading = "イツカオトナニナレルトイイネ"
+artist = "ツユ"
+image = "6a434eacba5b55e5.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
 
 [[songs]]
 id = "2433"
@@ -11534,7 +11579,7 @@ title_reading = "リハウサルタイム"
 artist = "明坂 芹菜(CV:新田 恵海)＆萩原 七々瀬(CV:東城 日沙子)＆芒崎 奏(CV:立花 理香)"
 image = "e1a8cae690951ed8.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -13679,7 +13724,7 @@ title_reading = "CULTFUTURE"
 artist = "LV.4"
 image = "2c24dda7a27f93fe.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -18565,7 +18610,7 @@ title_reading = "ユメトケンソウノシユウテンニテ"
 artist = "しーけー"
 image = "a30758a1e21cd6e8.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -18580,7 +18625,7 @@ title_reading = "SUPERBIA"
 artist = "Team Grimoire"
 image = "fc3dee38e77eb5f1.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -18595,7 +18640,7 @@ title_reading = "クウカンソウソウリロン"
 artist = "Sound piercer"
 image = "7d984a711ec22d1b.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -18610,7 +18655,7 @@ title_reading = "BLANOIR"
 artist = "Aoi"
 image = "fd38d9c410c9ba31.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
