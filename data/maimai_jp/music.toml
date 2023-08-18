@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1110
-last_updated = "2023-08-04T03:05:18.236366979Z"
+count = 1114
+last_updated = "2023-08-18T03:02:44.011587537Z"
 
 [[songs]]
 id = "884"
@@ -18483,7 +18483,7 @@ image = "693ed3f8ef555432.png"
 category = "maimai"
 version = "23510"
 release = "2023-08-04"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18501,7 +18501,7 @@ image = "df8227797c9a592e.png"
 category = "maimai"
 version = "23510"
 release = "2023-08-04"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18519,7 +18519,7 @@ image = "b1f8ab64f6dcdac3.png"
 category = "maimai"
 version = "23510"
 release = "2023-08-04"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18537,7 +18537,7 @@ image = "ee5ed79e9849c1a6.png"
 category = "maimai"
 version = "23510"
 release = "2023-08-04"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -19232,6 +19232,78 @@ basic = "5"
 advanced = "7+"
 expert = "10+"
 master = "13"
+
+[[songs]]
+id = "110"
+title = "まにまに"
+title_reading = "マニマニ"
+artist = "r-906"
+image = "246676f034b75f5f.png"
+category = "niconico＆ボーカロイド"
+version = "23511"
+release = "2023-08-18"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "111"
+title = "感情ディシーブ"
+title_reading = "カンシヨウテイシイフ"
+artist = "ろーある"
+image = "cc2d4419a41f1c70.png"
+category = "niconico＆ボーカロイド"
+version = "23511"
+release = "2023-08-18"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "108"
+title = "ド屑"
+title_reading = "トクス"
+artist = "なきそ"
+image = "c94dcba3903fcde9.png"
+category = "niconico＆ボーカロイド"
+version = "23511"
+release = "2023-08-18"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "109"
+title = "絶対敵対メチャキライヤー"
+title_reading = "セツタイテキタイメチヤキライヤア"
+artist = "メドミア"
+image = "bdcf8e5695899ae6.png"
+category = "niconico＆ボーカロイド"
+version = "23511"
+release = "2023-08-18"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "9+"
+master = "12+"
 
 [[songs]]
 id = "400"

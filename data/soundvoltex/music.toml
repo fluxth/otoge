@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 1934
-last_updated = "2023-08-10T03:03:54.552110906Z"
+count = 1937
+last_updated = "2023-08-18T03:03:02.717748818Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=U0taamONXqby-Ept37R6HA"
+title = "suspicions"
+artist = "BEMANI Sound Team \"猫叉Master VS dj TAKA\""
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=fpgx5V_0saDLXn3zylicmw"
+title = "THE PEERLESS UNDER HEAVEN"
+artist = "Yuta Imai Vs. BEMANI Sound Team \"L.E.D.-G\""
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=DfKTm_aRtuydlC0dOHV6nw"
+title = "stellar rain"
+artist = "BEMANI Sound Team \"PHQUASE\""
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=a1NjroLXxpI6HdSBpVga-w"
