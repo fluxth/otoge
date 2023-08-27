@@ -8,7 +8,7 @@ edition = "2021"
 [dependencies]
 anyhow = "=1.0.75"
 otoge = { path = "../lib" }
-serde = "=1.0.185"
+serde = "=1.0.188"
 serde_json = "=1.0.105"
 tokio = { version = "=1.32.0", features = ["full"] }
 tracing = "=0.1.37"
