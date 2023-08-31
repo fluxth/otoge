@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 870
-last_updated = "2023-08-25T03:04:37.129768009Z"
+count = 881
+last_updated = "2023-08-31T03:03:14.713667570Z"
 
 [[songs]]
 id = "515200"
@@ -25337,7 +25337,7 @@ title_reading = "SCYTHEOFDEATH"
 artist = "Masahiro “Godspeed” Aoki"
 date = "2023-08-24"
 image = "2fdee90dea867385.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25366,7 +25366,7 @@ title_reading = "DEATHSCYTHE"
 artist = "SHIKI"
 date = "2023-08-24"
 image = "c90c576f65d4b319.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25383,6 +25383,325 @@ basic = "3"
 advanced = "8+"
 expert = "12"
 master = "13+"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "721600"
+title = "夏宵スターマイン -三角 葵ソロver.-"
+title_reading = "ナツヨイスタマイン"
+artist = "曲：本多友紀（Arte Refact）／歌：三角 葵(CV：春野 杏)"
+date = "2023-08-30"
+image = "f0ca956a16d88b5b.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10"
+master = "12+"
+
+[songs.character]
+id = "1030"
+name = "三角 葵"
+
+[[songs]]
+id = "721700"
+title = "夏宵スターマイン -藍原 椿ソロver.-"
+title_reading = "ナツヨイスタマイン"
+artist = "曲：本多友紀（Arte Refact）／歌：藍原 椿(CV：橋本 ちなみ)"
+date = "2023-08-30"
+image = "0e41447d4681999b.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10"
+master = "12+"
+
+[songs.character]
+id = "1060"
+name = "藍原 椿"
+
+[[songs]]
+id = "721800"
+title = "夏宵スターマイン -早乙女 彩華ソロver.-"
+title_reading = "ナツヨイスタマイン"
+artist = "曲：本多友紀（Arte Refact）／歌：早乙女 彩華(CV：中島 唯)"
+date = "2023-08-30"
+image = "c111a8a9972907e8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10"
+master = "12+"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
+
+[[songs]]
+id = "721900"
+title = "夏宵スターマイン -九條 楓ソロver.-"
+title_reading = "ナツヨイスタマイン"
+artist = "曲：本多友紀（Arte Refact）／歌：九條 楓(CV：佳村 はるか)"
+date = "2023-08-30"
+image = "f7f19956de92fbe2.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10"
+master = "12+"
+
+[songs.character]
+id = "1110"
+name = "九條 楓"
+
+[[songs]]
+id = "722000"
+title = "夏宵スターマイン -東雲 つむぎソロver.-"
+title_reading = "ナツヨイスタマイン"
+artist = "曲：本多友紀（Arte Refact）／歌：東雲 つむぎ(CV：和泉 風花)"
+date = "2023-08-30"
+image = "d58f7c52393f3cf7.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10"
+master = "12+"
+
+[songs.character]
+id = "1160"
+name = "東雲 つむぎ"
+
+[[songs]]
+id = "722100"
+title = "いちげき！のテーマ -藤沢 柚子ソロver.-"
+title_reading = "イチケキノテマ"
+artist = "曲：ヒゲドライバー／歌：藤沢 柚子(CV：久保田 梨沙)"
+date = "2023-08-30"
+image = "47721f706322edc1.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80025"
+name = "いちげき"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "1020"
+name = "藤沢 柚子"
+
+[[songs]]
+id = "722200"
+title = "いちげき！のテーマ -結城 莉玖ソロver.-"
+title_reading = "イチケキノテマ"
+artist = "曲：ヒゲドライバー／歌：結城 莉玖(CV：朝日奈 丸佳)"
+date = "2023-08-30"
+image = "7ce57b8df698ca4e.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80025"
+name = "いちげき"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "1050"
+name = "結城 莉玖"
+
+[[songs]]
+id = "722300"
+title = "いちげき！のテーマ -珠洲島 有栖ソロver.-"
+title_reading = "イチケキノテマ"
+artist = "曲：ヒゲドライバー／歌：珠洲島 有栖(CV：長縄 まりあ)"
+date = "2023-08-30"
+image = "adf481b7b3473afa.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80025"
+name = "いちげき"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
+
+[[songs]]
+id = "722400"
+title = "いちげき！のテーマ -日向 千夏ソロver.-"
+title_reading = "イチケキノテマ"
+artist = "曲：ヒゲドライバー／歌：日向 千夏(CV：岡咲 美保)"
+date = "2023-08-30"
+image = "395712e6da951203.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80025"
+name = "いちげき"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
+
+[[songs]]
+id = "500650"
+title = "月詠に鳴る"
+title_reading = "ツクヨミニナル"
+artist = "Feryquitous feat.藍月なくる"
+date = "2023-08-31"
+image = "37c5006c69d2fdfe.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "11"
+master = "14"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "600920"
+title = "MeteorSnow"
+title_reading = "METEORSNOW"
+artist = "あず♪"
+date = "2023-08-31"
+image = "e0a1bde54e274b39.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80029"
+name = "⊿TRiEDGE オンゲキーズ王決定戦"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "6"
+advanced = "9+"
+expert = "13"
+master = "15"
 
 [songs.character]
 id = "1040"

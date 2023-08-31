@@ -1,6 +1,21 @@
 name = "chunithm_jp"
-count = 1306
-last_updated = "2023-08-17T03:02:55.220730708Z"
+count = 1310
+last_updated = "2023-08-31T03:03:13.434699883Z"
+
+[[songs]]
+id = "2448"
+title = "story"
+title_reading = "STORY"
+artist = "前島麻由「異世界おじさん」"
+image = "2e29d64f85ba97a0.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "2445"
@@ -9,7 +24,7 @@ title_reading = "NIGHTSPIDER"
 artist = "▽▲TRiNITY▲▽"
 image = "21de4bea8b55b69e.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -24,7 +39,7 @@ title_reading = "アクアイロハレツト"
 artist = "湊あくあ（ホロライブ）"
 image = "f2b186745ee88789.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2053,7 +2068,7 @@ title_reading = "イツカオトナニナレルトイイネ"
 artist = "ツユ"
 image = "6a434eacba5b55e5.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10476,6 +10491,21 @@ expert = "9+"
 master = "13"
 
 [[songs]]
+id = "2449"
+title = "ばかみたい【Taxi Driver Edition】"
+title_reading = "ハカミタイTAXIDRIVEREDITION"
+artist = "桐生一馬(黒田崇矢)"
+image = "d12468c864e5a991.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "1"
+advanced = "5"
+expert = "8"
+master = "12+"
+
+[[songs]]
 id = "858"
 title = "御旗のもとに"
 title_reading = "ミハタノモトニ"
@@ -10547,6 +10577,21 @@ is_new = false
 [songs.levels]
 basic = "2"
 advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2450"
+title = "セガサターン起動音[H.][Remix]"
+title_reading = "セカサタウンキトウオンHREMIX"
+artist = "Hiro"
+image = "b0c7521527fdc38e.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
 expert = "10"
 master = "13+"
 
@@ -12921,6 +12966,21 @@ basic = "1"
 advanced = "4"
 expert = "8+"
 master = "11"
+
+[[songs]]
+id = "2451"
+title = "スン(マイル)フラワー～Sun(Mile)Flower"
+title_reading = "スンマイルフラワウSUNMILEFLOWER"
+artist = "曲：Funta7／歌：星咲 あかり(CV：赤尾 ひかる)、日向 千夏(CV：岡咲 美保)"
+image = "ac24c5f9f1368731.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12"
 
 [[songs]]
 id = "2235"

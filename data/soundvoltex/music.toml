@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 1937
-last_updated = "2023-08-18T03:03:02.717748818Z"
+count = 1941
+last_updated = "2023-08-31T03:03:32.926718688Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=jm8f39RhQ2AC63QVtsfvBQ"
+title = "Voice 7 Voice!!!!!!!"
+artist = "かめりあ feat. ななひら"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=K7l8emXtlncOENbgWohCOQ"
+title = "Demetel (Erixa ”MYTH” Remix)"
+artist = "Erixa"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=srS6frPCmNzk1HJ37LwGZw"
+title = "Dawn of Asia(Alkome Remix)"
+artist = "Alkome"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=9gDUf0A2n5xfZkrePpWVRw"
+title = "ませまてぃっく♡ま＋ま＝まじっく！　～徹夜の追込みエナジーまっくす！～"
+artist = "KAH feat.こにゃばた"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=U0taamONXqby-Ept37R6HA"
