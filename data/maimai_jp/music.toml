@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1114
-last_updated = "2023-08-18T03:02:44.011587537Z"
+count = 1118
+last_updated = "2023-09-01T03:02:54.971617433Z"
 
 [[songs]]
 id = "884"
@@ -18583,6 +18583,78 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "1050"
+title = "STARRED HEART"
+title_reading = "STARREDHEART"
+artist = "曲：広川恵一 (MONACA)／歌：オンゲキシューターズ"
+image = "77d1acf8f729d163.png"
+category = "オンゲキ＆CHUNITHM"
+version = "23512"
+release = "2023-09-01"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "12"
+
+[[songs]]
+id = "1051"
+title = "Y.Y.Y.計画!!!!"
+title_reading = "YYYケイカク"
+artist = "曲：烏屋茶房／歌：R.B.P. [九條 楓(CV：佳村 はるか)、逢坂 茜(CV：大空 直美)、珠洲島 有栖(CV：長縄 まりあ)]"
+image = "58eb9f4012c61f50.png"
+category = "オンゲキ＆CHUNITHM"
+version = "23512"
+release = "2023-09-01"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "1053"
+title = "Last Kingdom"
+title_reading = "LASTKINGDOM"
+artist = "USAO"
+image = "0f5e140d7b059b50.png"
+category = "オンゲキ＆CHUNITHM"
+version = "23512"
+release = "2023-09-01"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "12"
+master = "13+"
+
+[[songs]]
+id = "1052"
+title = "LAMIA"
+title_reading = "LAMIA"
+artist = "BlackY"
+image = "0cde431203c0df1c.png"
+category = "オンゲキ＆CHUNITHM"
+version = "23512"
+release = "2023-09-01"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "13"
+master = "14+"
+
+[[songs]]
 id = "7"
 title = "ヒバリ"
 title_reading = "ヒハリ"
@@ -19242,7 +19314,7 @@ image = "246676f034b75f5f.png"
 category = "niconico＆ボーカロイド"
 version = "23511"
 release = "2023-08-18"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19260,7 +19332,7 @@ image = "cc2d4419a41f1c70.png"
 category = "niconico＆ボーカロイド"
 version = "23511"
 release = "2023-08-18"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19278,7 +19350,7 @@ image = "c94dcba3903fcde9.png"
 category = "niconico＆ボーカロイド"
 version = "23511"
 release = "2023-08-18"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19296,7 +19368,7 @@ image = "bdcf8e5695899ae6.png"
 category = "niconico＆ボーカロイド"
 version = "23511"
 release = "2023-08-18"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19351,7 +19423,7 @@ category = "オンゲキ＆CHUNITHM"
 version = "23506"
 release = "2023-06-08"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "3"
@@ -19369,7 +19441,7 @@ category = "オンゲキ＆CHUNITHM"
 version = "23506"
 release = "2023-06-08"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "2"
