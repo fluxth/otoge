@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 anyhow = "=1.0.75"
-chrono = { version = "=0.4.29", features = ["serde"] }
+chrono = { version = "=0.4.30", features = ["serde"] }
 serde = { version = "=1.0.188", features = ["serde_derive"] }
 tokio = { version = "=1.32.0", features = ["fs"] }
 toml = "=0.7.7"
