@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 881
-last_updated = "2023-08-31T03:03:14.713667570Z"
+count = 870
+last_updated = "2023-09-15T10:06:48.433470032Z"
 
 [[songs]]
 id = "515200"
@@ -8424,191 +8424,6 @@ id = "1060"
 name = "藍原 椿"
 
 [[songs]]
-id = "102900"
-title = "紅蓮華"
-title_reading = "クレンケ"
-artist = "LiSA"
-date = "2020-09-30"
-image = "8346324e53fa65ef.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "Licensed by Sony Music Labels Inc."
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "1150"
-name = "柏木 美亜"
-
-[[songs]]
-id = "102400"
-title = "Phantom Joke"
-title_reading = "PHANTOMJOKE"
-artist = "UNISON SQUARE GARDEN"
-date = "2020-09-30"
-image = "30ccc002addef434.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "Licensed by TOY'S FACTORY INC."
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "4"
-advanced = "7+"
-expert = "11"
-master = "13"
-
-[songs.character]
-id = "1020"
-name = "藤沢 柚子"
-
-[[songs]]
-id = "104500"
-title = "ふわふわ時間(タイム)"
-title_reading = "フワフワタイム"
-artist = "桜高軽音部"
-date = "2020-09-30"
-image = "cee60c3aebebd886.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-Licensed　by　PONY CANYON INC．\r
-©2009  by  NICHION,INC.&  PONY CANYON MUSIC PUBLISHING INC.\r
-©かきふらい・芳文社／桜高軽音部"""
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "9"
-master = "12+"
-
-[songs.character]
-id = "1030"
-name = "三角 葵"
-
-[[songs]]
-id = "104200"
-title = "侵略ノススメ☆"
-title_reading = "シンリヤクノススメ"
-artist = "ULTRA-PRISM with イカ娘（金元寿子）「侵略！イカ娘」"
-date = "2020-09-30"
-image = "8b86277300576429.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "© 安部真弘（週刊少年チャンピオン）／海の家れもん2号店"
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "7"
-expert = "10"
-master = "12+"
-
-[songs.character]
-id = "1010"
-name = "星咲 あかり"
-
-[[songs]]
-id = "105500"
-title = "カラフル"
-title_reading = "カラフル"
-artist = "ClariS　「劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語」"
-date = "2020-09-30"
-image = "10950b9a1d3f3ee3.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-©Magica Quartet／Aniplex・Madoka Movie Project Rebellion\r
-Licensed by Sony Music Labels Inc."""
-
-[songs.chapter]
-id = "99043"
-name = "魔法少女まどか☆マギカ"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "5430"
-name = "暁美 ほむら"
-
-[[songs]]
-id = "109800"
-title = "五等分の気持ち"
-title_reading = "コトウフンノキモチ"
-artist = "中野家の五つ子（花澤香菜、竹達彩奈、伊藤美来、佐倉綾音、水瀬いのり）「五等分の花嫁」"
-date = "2020-09-30"
-image = "d240be8e1972dcc1.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©春場ねぎ・講談社／「五等分の花嫁」製作委員会"
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "6"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "1140"
-name = "日向 千夏"
-
-[[songs]]
 id = "210400"
 title = "だれかの心臓になれたなら"
 title_reading = "タレカノシンソウニナレタナラ"
@@ -9134,32 +8949,6 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "912300"
-title = "東亞 -O.N.G.E.K.I. MIX-"
-title_reading = "トウアONGEKIMIX"
-artist = "並木 学「怒首領蜂大往生」"
-date = "2020-09-30"
-image = "1a81de55f34a010a.png"
-is_new = false
-is_lunatic = true
-is_bonus_track = false
-
-[songs.chapter]
-id = "04099"
-name = "END CHAPTER（第4章）"
-
-[songs.category]
-id = "04"
-name = "VARIETY"
-
-[songs.levels]
-lunatic = "13+"
-
-[songs.character]
-id = "9040"
-name = "あおニャン"
-
-[[songs]]
 id = "518100"
 title = "Oshama Scramble! (Cranky Remix)"
 title_reading = "OSHAMASCRAMBLECRANKYREMIX"
@@ -9215,68 +9004,6 @@ id = "9030"
 name = "みどニャン"
 
 [[songs]]
-id = "105600"
-title = "コネクト"
-title_reading = "コネクト"
-artist = "ClariS　「魔法少女まどか☆マギカ」"
-date = "2020-10-15"
-image = "583245a2975db86d.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-©Magica Quartet／Aniplex・Madoka Partners・MBS\r
-Licensed by Sony Music Labels Inc."""
-
-[songs.chapter]
-id = "99043"
-name = "魔法少女まどか☆マギカ"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "5420"
-name = "鹿目 まどか"
-
-[[songs]]
-id = "118000"
-title = "Shiny Smily Story"
-title_reading = "SHINYSMILYSTORY"
-artist = "hololive IDOL PROJECT"
-date = "2020-10-15"
-image = "0be131921df08e81.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "© 2017-2020 cover corp."
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "7"
-expert = "9+"
-master = "12"
-
-[songs.character]
-id = "1140"
-name = "日向 千夏"
-
-[[songs]]
 id = "117500"
 title = "beautiful tomorrow"
 title_reading = "BEAUTIFULTOMORROW"
@@ -9305,66 +9032,6 @@ master = "12"
 [songs.character]
 id = "5470"
 name = "六石 陽菜"
-
-[[songs]]
-id = "109000"
-title = "ガヴリールドロップキック"
-title_reading = "カウリルトロツフキツク"
-artist = "ガヴリール（富田美憂），ヴィーネ（大西沙織），サターニャ（大空直美），ラフィエル（花澤香菜）「ガヴリールドロップアウト」"
-date = "2020-10-22"
-image = "22b57af5c30e3413.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©2016 うかみ／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／ガヴリールドロップアウト製作委員会"
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9+"
-master = "13"
-
-[songs.character]
-id = "1120"
-name = "逢坂 茜"
-
-[[songs]]
-id = "110500"
-title = "よいまちカンターレ"
-title_reading = "ヨイマチカンタレ"
-artist = "コーロまちカド(シャミ子･桃･リリス･ミカン)/CV:小原好美･鬼頭明里･高橋未奈美･高柳知葉「まちカドまぞく」"
-date = "2020-10-22"
-image = "3e38fb9eacd2889c.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©伊藤いづも・芳文社／まちカドまぞく製作委員会"
-
-[songs.chapter]
-id = "99055"
-name = "まちカドまぞく"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "7"
-expert = "10"
-master = "13"
-
-[songs.character]
-id = "5510"
-name = "吉田 優子"
 
 [[songs]]
 id = "610600"
@@ -9481,70 +9148,6 @@ master = "14"
 [songs.character]
 id = "1050"
 name = "結城 莉玖"
-
-[[songs]]
-id = "114400"
-title = "進化系Colors"
-title_reading = "シンカケイCOLORS"
-artist = "衛藤可奈美（CV：本渡 楓）、十条姫和（CV：大西沙織）、柳瀬舞衣（CV：和氣あず未）、糸見沙耶香（CV：木野日菜）、益子 薫（CV：松田利冴）、古波蔵エレン（CV：鈴木絵理）「刀使ノ巫女」"
-date = "2020-11-05"
-image = "4fdf23a4ad25ebd5.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-©伍箇伝計画／刀使ノ巫女製作委員会\r
-©KADOKAWA CORPORATION"""
-
-[songs.chapter]
-id = "99053"
-name = "刀使ノ巫女 刻みし一閃の燈火"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "7"
-expert = "9+"
-master = "12"
-
-[songs.character]
-id = "5560"
-name = "十条 姫和"
-
-[[songs]]
-id = "114500"
-title = "この番組はうら若き公務員たちの提供でお送りいたします"
-title_reading = "コノハンクミハウラワカキコウムインタチノテイキョウテオオクリイタシマス"
-artist = "衛藤可奈美（CV：本渡 楓）＆安桜美炎（CV：茜屋日海夏）「みにとじ」"
-date = "2020-11-05"
-image = "2fefc108774cee05.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-©伍箇伝計画／刀使ノ巫女製作委員会\r
-©KADOKAWA CORPORATION"""
-
-[songs.chapter]
-id = "99053"
-name = "刀使ノ巫女 刻みし一閃の燈火"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "6"
-expert = "9"
-master = "13+"
-
-[songs.character]
-id = "5550"
-name = "衛藤 可奈美"
 
 [[songs]]
 id = "204800"
@@ -9779,36 +9382,6 @@ master = "12+"
 [songs.character]
 id = "1130"
 name = "珠洲島 有栖"
-
-[[songs]]
-id = "109900"
-title = "Sign"
-title_reading = "SIGN"
-artist = "内田彩「五等分の花嫁」"
-date = "2020-12-03"
-image = "f9af49d6ea56a3c2.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©春場ねぎ・講談社／「五等分の花嫁」製作委員会"
-
-[songs.chapter]
-id = "99044"
-name = "五等分の花嫁"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "1"
-advanced = "5"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "5660"
-name = "中野 五月"
 
 [[songs]]
 id = "607000"
@@ -11007,102 +10580,6 @@ master = "12+"
 [songs.character]
 id = "1050"
 name = "結城 莉玖"
-
-[[songs]]
-id = "107700"
-title = "SAKURAスキップ"
-title_reading = "SAKURAスキッフ"
-artist = "fourfolium［涼風青葉（CV：高田憂希）／滝本ひふみ（CV：山口 愛）／篠田はじめ（CV：戸田めぐみ）／飯島ゆん（CV：竹尾歩美）］「NEW GAME!」"
-date = "2021-03-04"
-image = "b27760eb27bcf9d4.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-©KADOKAWA CORPORATION\r
-©得能正太郎・芳文社／NEW GAME!製作委員会"""
-
-[songs.chapter]
-id = "99045"
-name = "NEW GAME!!"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "7"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "5870"
-name = "涼風 青葉"
-
-[[songs]]
-id = "108000"
-title = "JUMPin' JUMP UP!!!!"
-title_reading = "JUMPINJUMPUP"
-artist = "fourfolium［涼風青葉（CV：高田憂希）／滝本ひふみ（CV：山口 愛）／篠田はじめ（CV：戸田めぐみ）／飯島ゆん（CV：竹尾歩美）］「NEW GAME!!」"
-date = "2021-03-04"
-image = "304ec28d3241edb9.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-©KADOKAWA CORPORATION\r
-©得能正太郎・芳文社／NEW GAME!!製作委員会"""
-
-[songs.chapter]
-id = "99045"
-name = "NEW GAME!!"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9+"
-master = "12"
-
-[songs.character]
-id = "5880"
-name = "八神 コウ"
-
-[[songs]]
-id = "107800"
-title = "ワタシConnect*"
-title_reading = "ワタシCONNECT"
-artist = "滝本ひふみ（CV：山口 愛）「NEW GAME!」"
-date = "2021-03-04"
-image = "2579a3c24d5e9ca4.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-©KADOKAWA CORPORATION\r
-©得能正太郎・芳文社／NEW GAME!製作委員会"""
-
-[songs.chapter]
-id = "99045"
-name = "NEW GAME!!"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "6"
-expert = "10"
-master = "12+"
-
-[songs.character]
-id = "5900"
-name = "滝本 ひふみ"
 
 [[songs]]
 id = "303100"
@@ -25395,7 +24872,7 @@ title_reading = "ナツヨイスタマイン"
 artist = "曲：本多友紀（Arte Refact）／歌：三角 葵(CV：春野 杏)"
 date = "2023-08-30"
 image = "f0ca956a16d88b5b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25424,7 +24901,7 @@ title_reading = "ナツヨイスタマイン"
 artist = "曲：本多友紀（Arte Refact）／歌：藍原 椿(CV：橋本 ちなみ)"
 date = "2023-08-30"
 image = "0e41447d4681999b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25453,7 +24930,7 @@ title_reading = "ナツヨイスタマイン"
 artist = "曲：本多友紀（Arte Refact）／歌：早乙女 彩華(CV：中島 唯)"
 date = "2023-08-30"
 image = "c111a8a9972907e8.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25482,7 +24959,7 @@ title_reading = "ナツヨイスタマイン"
 artist = "曲：本多友紀（Arte Refact）／歌：九條 楓(CV：佳村 はるか)"
 date = "2023-08-30"
 image = "f7f19956de92fbe2.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25511,7 +24988,7 @@ title_reading = "ナツヨイスタマイン"
 artist = "曲：本多友紀（Arte Refact）／歌：東雲 つむぎ(CV：和泉 風花)"
 date = "2023-08-30"
 image = "d58f7c52393f3cf7.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25540,7 +25017,7 @@ title_reading = "イチケキノテマ"
 artist = "曲：ヒゲドライバー／歌：藤沢 柚子(CV：久保田 梨沙)"
 date = "2023-08-30"
 image = "47721f706322edc1.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25569,7 +25046,7 @@ title_reading = "イチケキノテマ"
 artist = "曲：ヒゲドライバー／歌：結城 莉玖(CV：朝日奈 丸佳)"
 date = "2023-08-30"
 image = "7ce57b8df698ca4e.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25598,7 +25075,7 @@ title_reading = "イチケキノテマ"
 artist = "曲：ヒゲドライバー／歌：珠洲島 有栖(CV：長縄 まりあ)"
 date = "2023-08-30"
 image = "adf481b7b3473afa.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25627,7 +25104,7 @@ title_reading = "イチケキノテマ"
 artist = "曲：ヒゲドライバー／歌：日向 千夏(CV：岡咲 美保)"
 date = "2023-08-30"
 image = "395712e6da951203.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25656,7 +25133,7 @@ title_reading = "ツクヨミニナル"
 artist = "Feryquitous feat.藍月なくる"
 date = "2023-08-31"
 image = "37c5006c69d2fdfe.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25685,7 +25162,7 @@ title_reading = "METEORSNOW"
 artist = "あず♪"
 date = "2023-08-31"
 image = "e0a1bde54e274b39.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25706,6 +25183,182 @@ master = "15"
 [songs.character]
 id = "1040"
 name = "高瀬 梨緒"
+
+[[songs]]
+id = "500640"
+title = "VIIIbit Explorer"
+title_reading = "VIIIBITEXPLORER"
+artist = "Lime"
+date = "2023-09-14"
+image = "d9a711a807c5ab8c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "10"
+expert = "13"
+master = "14"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "100900"
+title = "キズナヒトツ"
+title_reading = "キスナヒトツ"
+artist = "ムラサメ (CV：佐藤 みかん) 「千恋＊万花」"
+date = "2023-09-14"
+image = "29ce1da5fc3cc091.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©2021 NekoNyan/Yuzusoft"
+
+[songs.chapter]
+id = "99097"
+name = "千恋＊万花"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "1"
+advanced = "5"
+expert = "8+"
+master = "12"
+
+[songs.character]
+id = "7230"
+name = "ムラサメ"
+
+[[songs]]
+id = "300990"
+title = "レータイスパークEx"
+title_reading = "レタイスハクイエクス"
+artist = "ビートまりお（COOL&CREATE）"
+date = "2023-09-14"
+image = "07d08e69d4ca8ba6.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©上海アリス幻樂団"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "03"
+name = "東方Project"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "11+"
+master = "14"
+
+[songs.character]
+id = "2020"
+name = "霧雨 魔理沙"
+
+[[songs]]
+id = "718700"
+title = "ぽかぽか温泉音頭 -三角 葵ソロver.-"
+title_reading = "ホカホカオンセンオントミスミアオイソロVER"
+artist = "曲：橘亮祐、篠崎あやと／歌：三角 葵(CV：春野 杏)"
+date = "2023-09-14"
+image = "66c7fcaebdc5c29b.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80016"
+name = "ぶらり湯けむり温泉郷"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "9"
+master = "12+"
+
+[songs.character]
+id = "1030"
+name = "三角 葵"
+
+[[songs]]
+id = "718800"
+title = "ぽかぽか温泉音頭 -逢坂 茜ソロver.-"
+title_reading = "ホカホカオンセンオントオウサカアカネソロVER"
+artist = "曲：橘亮祐、篠崎あやと／歌：逢坂 茜(CV：大空 直美)"
+date = "2023-09-14"
+image = "e3749ba3239e7f07.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80016"
+name = "ぶらり湯けむり温泉郷"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "9"
+master = "12+"
+
+[songs.character]
+id = "1120"
+name = "逢坂 茜"
+
+[[songs]]
+id = "718900"
+title = "ぽかぽか温泉音頭 -日向 千夏ソロver.-"
+title_reading = "ホカホカオンセンオントヒナタチナツソロVER"
+artist = "曲：橘亮祐、篠崎あやと／歌：日向 千夏(CV：岡咲 美保)"
+date = "2023-09-14"
+image = "d3ff685a6a8e1dc4.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80016"
+name = "ぶらり湯けむり温泉郷"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "9"
+master = "12+"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
 
 [[categories]]
 id = "06"
