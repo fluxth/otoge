@@ -79,6 +79,15 @@ pub struct DXLevelMap {
     remaster: Option<String>,
 }
 
+#[derive(Serialize, Deserialize, Debug, Default, PartialEq)]
+#[allow(dead_code)]
+pub struct Utage {
+    #[serde(rename(deserialize = "lev_utage"))]
+    level: String,
+    kanji: String,
+    comment: String,
+}
+
 #[derive(Deserialize, Debug)]
 #[allow(dead_code)]
 #[serde(deny_unknown_fields)]
@@ -105,6 +114,9 @@ pub struct SongFromAPI {
     #[serde(default = "bool::default")]
     is_locked: bool,
 
+    #[serde(default = "Option::default")]
+    buddy: Option<String>,
+
     #[serde(flatten)]
     #[serde(deserialize_with = "all_default_values_as_none")]
     levels: Option<LevelMap>,
@@ -112,6 +124,9 @@ pub struct SongFromAPI {
     #[serde(flatten)]
     #[serde(deserialize_with = "all_default_values_as_none")]
     dx_levels: Option<DXLevelMap>,
+
+    #[serde(flatten)]
+    utage: Option<Utage>,
 }
 
 #[derive(Serialize, Deserialize, Debug, PartialEq)]
@@ -134,6 +149,9 @@ pub struct Song {
 
     #[serde(skip_serializing_if = "Option::is_none")]
     dx_levels: Option<DXLevelMap>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
+    utage: Option<Utage>,
 }
 
 impl From<SongFromAPI> for Song {
@@ -151,6 +169,7 @@ impl From<SongFromAPI> for Song {
             release: other.release,
             levels: other.levels,
             dx_levels: other.dx_levels,
+            utage: other.utage,
         }
     }
 }
