@@ -52,6 +52,10 @@ pub fn get_all_jp_categories() -> Vec<Category> {
             slug: Cow::Borrowed("gekichu"),
             name: Cow::Borrowed("オンゲキ＆CHUNITHM"),
         },
+        Category {
+            slug: Cow::Borrowed("utage"),
+            name: Cow::Borrowed("宴会場"),
+        },
     ]
 }
 
