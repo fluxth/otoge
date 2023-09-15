@@ -69,5 +69,5 @@ jobs:
             There are updates to the song database.
 
             *This update is auto-generated.*
-          branch: otoge-fetcher/${{ env.CURRENT_DATE }}
+          branch: auto/otoge-fetcher
           reviewers: fluxth
