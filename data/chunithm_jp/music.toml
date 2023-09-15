@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1310
-last_updated = "2023-08-31T03:03:13.434699883Z"
+count = 1318
+last_updated = "2023-09-15T10:06:46.988168139Z"
 
 [[songs]]
 id = "2448"
@@ -9,7 +9,7 @@ title_reading = "STORY"
 artist = "前島麻由「異世界おじさん」"
 image = "2e29d64f85ba97a0.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2060,6 +2060,51 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "14+"
+
+[[songs]]
+id = "2452"
+title = "あなたは世界の終わりにずんだを食べるのだ"
+title_reading = "アナタハセカイノオワリニスンタヲタヘルノタ"
+artist = "なみぐる"
+image = "684f346fa5fc3246.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "7+"
+master = "12+"
+
+[[songs]]
+id = "2453"
+title = "ちょっとあざとい"
+title_reading = "チヨツトアサトイ"
+artist = "才歌"
+image = "9848bbc25167975e.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "8+"
+master = "12"
+
+[[songs]]
+id = "2454"
+title = "snooze"
+title_reading = "SNOOZE"
+artist = "wotaku feat. SHIKI"
+image = "cb623ba07e748770.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "7+"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "2447"
@@ -5635,6 +5680,7 @@ basic = "2"
 advanced = "5"
 expert = "8"
 master = "11"
+ultima = "13+"
 
 [[songs]]
 id = "113"
@@ -10497,7 +10543,7 @@ title_reading = "ハカミタイTAXIDRIVEREDITION"
 artist = "桐生一馬(黒田崇矢)"
 image = "d12468c864e5a991.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "1"
@@ -10587,7 +10633,7 @@ title_reading = "セカサタウンキトウオンHREMIX"
 artist = "Hiro"
 image = "b0c7521527fdc38e.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -11631,6 +11677,21 @@ basic = "2"
 advanced = "5"
 expert = "8+"
 master = "12+"
+
+[[songs]]
+id = "2455"
+title = "ONE SAME GOAL"
+title_reading = "ONESAMEGOAL"
+artist = "箱部 なる(CV:M・A・O)＆藤堂 陽南袴(CV:八島 さらら)＆天王洲 なずな(CV:山本 彩乃)"
+image = "e3db885455fb0f73.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "245"
@@ -12974,7 +13035,7 @@ title_reading = "スンマイルフラワウSUNMILEFLOWER"
 artist = "曲：Funta7／歌：星咲 あかり(CV：赤尾 ひかる)、日向 千夏(CV：岡咲 美保)"
 image = "ac24c5f9f1368731.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -13790,6 +13851,21 @@ is_new = false
 basic = "3"
 advanced = "8+"
 expert = "13"
+master = "14+"
+
+[[songs]]
+id = "2456"
+title = "Vibes 2k20"
+title_reading = "VIBES2K20"
+artist = "Sound Artz"
+image = "49a6b17013b5f418.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "7+"
+expert = "12"
 master = "14+"
 
 [[songs]]
@@ -18722,6 +18798,45 @@ basic = "4"
 advanced = "9"
 expert = "13+"
 master = "15"
+
+[[songs]]
+id = "8267"
+title = "ETERNAL DRAIN"
+title_reading = "ETERNALDRAIN"
+artist = "カラフル・サウンズ・ポート"
+image = "c3cdb935843332aa.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.worlds_end]
+kanji = "狂"
+star = "5"
+
+[[songs]]
+id = "8268"
+title = "M.S.S.Planet"
+title_reading = "MSSPLANET"
+artist = "M.S.S Project"
+image = "3ee12e1b51a98dc8.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "割"
+star = "5"
+
+[[songs]]
+id = "8269"
+title = "月の光"
+title_reading = "ツキノヒカリトヒユツシウ"
+artist = "大国奏音「原曲:ドビュッシー」"
+image = "941147dafda82216.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.worlds_end]
+kanji = "蔵"
+star = "7"
 
 [[songs]]
 id = "8264"

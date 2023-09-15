@@ -1,6 +1,111 @@
 name = "soundvoltex"
-count = 1947
-last_updated = "2023-09-07T03:02:58.746348393Z"
+count = 1954
+last_updated = "2023-09-15T10:07:06.413049228Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Fd64FDKTUuBIXerm-iD8SA"
+title = "HeaveИ's Rain"
+artist = "モリモリあつし"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "8"
+advanced = "15"
+exhaust = "18"
+maximum = "20"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=44JB1LcXB1f5rxi6TVA-qw"
+title = "Undead Raving Scare"
+artist = "RoughSkreamZ"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=nlyMYUYJd4ddog4eufTX4w"
+title = "and After the Merry BADEND"
+artist = "polysha"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=zpgz0qhnIl3BzJbzj8AJLQ"
+title = "Enter The Rave"
+artist = "Tatsunoshin"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "5"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=3S9sqoFcGk2OsgRhTuKmzw"
+title = "SHARK IMPACT"
+artist = "ryhki"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=m74QxMbF4Oaw9wYCRGK2cw"
+title = "十三不塔"
+artist = "隣の卓は役満(庭師+Aoi)"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=-BH1drUru6-Eo5KwhKPRMw"
+title = "リュミレイラ"
+artist = "後藤 feat. nayuta"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "5"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ONTYekdFQAkIlvI7DP21ow"
