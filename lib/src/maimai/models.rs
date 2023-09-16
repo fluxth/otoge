@@ -82,7 +82,7 @@ pub struct DXLevelMap {
 #[derive(Serialize, Deserialize, Debug, Default, PartialEq)]
 #[allow(dead_code)]
 pub struct Utage {
-    #[serde(rename(deserialize = "lev_utage"))]
+    #[serde(alias = "lev_utage")]
     level: String,
     kanji: String,
     comment: String,
