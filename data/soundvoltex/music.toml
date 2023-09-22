@@ -1,6 +1,44 @@
 name = "soundvoltex"
-count = 1954
-last_updated = "2023-09-15T10:07:06.413049228Z"
+count = 1956
+last_updated = "2023-09-22T03:03:11.279498097Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=lC2ay1iLKPgN84_pOm_AAA"
+title = "QQ"
+artist = "BEMANI Sound Team \"PHQUASE & ZAQUVA\""
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Sv6UFG7vkMtRmgXHj5OHBA"
+title = "Stylus"
+artist = "BEMANI Sound Team \"HuΣeR\""
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=Fd64FDKTUuBIXerm-iD8SA"
