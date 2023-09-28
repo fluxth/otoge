@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 870
-last_updated = "2023-09-15T10:06:48.433470032Z"
+count = 873
+last_updated = "2023-09-28T03:03:24.574488923Z"
 
 [[songs]]
 id = "515200"
@@ -25191,7 +25191,7 @@ title_reading = "VIIIBITEXPLORER"
 artist = "Lime"
 date = "2023-09-14"
 image = "d9a711a807c5ab8c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25220,7 +25220,7 @@ title_reading = "キスナヒトツ"
 artist = "ムラサメ (CV：佐藤 みかん) 「千恋＊万花」"
 date = "2023-09-14"
 image = "29ce1da5fc3cc091.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©2021 NekoNyan/Yuzusoft"
@@ -25250,7 +25250,7 @@ title_reading = "レタイスハクイエクス"
 artist = "ビートまりお（COOL&CREATE）"
 date = "2023-09-14"
 image = "07d08e69d4ca8ba6.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©上海アリス幻樂団"
@@ -25280,7 +25280,7 @@ title_reading = "ホカホカオンセンオントミスミアオイソロVER"
 artist = "曲：橘亮祐、篠崎あやと／歌：三角 葵(CV：春野 杏)"
 date = "2023-09-14"
 image = "66c7fcaebdc5c29b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25309,7 +25309,7 @@ title_reading = "ホカホカオンセンオントオウサカアカネソロVER
 artist = "曲：橘亮祐、篠崎あやと／歌：逢坂 茜(CV：大空 直美)"
 date = "2023-09-14"
 image = "e3749ba3239e7f07.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25338,7 +25338,7 @@ title_reading = "ホカホカオンセンオントヒナタチナツソロVER"
 artist = "曲：橘亮祐、篠崎あやと／歌：日向 千夏(CV：岡咲 美保)"
 date = "2023-09-14"
 image = "d3ff685a6a8e1dc4.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -25359,6 +25359,93 @@ master = "12+"
 [songs.character]
 id = "1140"
 name = "日向 千夏"
+
+[[songs]]
+id = "500630"
+title = "Fragrance"
+title_reading = "FRAGRANCE"
+artist = "Tsukasa(Arte Refact)"
+date = "2023-09-28"
+image = "8053a66c9bf5d469.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "3"
+advanced = "10"
+expert = "14"
+master = "14+"
+
+[songs.character]
+id = "1020"
+name = "藤沢 柚子"
+
+[[songs]]
+id = "500620"
+title = "We Gonna Party"
+title_reading = "WEGONNAPARTY"
+artist = "Cranky"
+date = "2023-09-28"
+image = ""
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "2"
+advanced = "8"
+expert = "10+"
+master = "13+"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
+
+[[songs]]
+id = "500610"
+title = "Starlight Disco"
+title_reading = "STARLIGHTDISCO"
+artist = "loos feat. Meramipop"
+date = "2023-09-28"
+image = ""
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "9"
+master = "13"
+
+[songs.character]
+id = "1030"
+name = "三角 葵"
 
 [[categories]]
 id = "06"
