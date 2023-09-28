@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1318
-last_updated = "2023-09-15T10:06:46.988168139Z"
+count = 1324
+last_updated = "2023-09-28T03:03:23.354344827Z"
 
 [[songs]]
 id = "2448"
@@ -2068,7 +2068,7 @@ title_reading = "アナタハセカイノオワリニスンタヲタヘルノタ
 artist = "なみぐる"
 image = "684f346fa5fc3246.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2083,7 +2083,7 @@ title_reading = "チヨツトアサトイ"
 artist = "才歌"
 image = "9848bbc25167975e.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2098,7 +2098,7 @@ title_reading = "SNOOZE"
 artist = "wotaku feat. SHIKI"
 image = "cb623ba07e748770.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -11685,7 +11685,7 @@ title_reading = "ONESAMEGOAL"
 artist = "箱部 なる(CV:M・A・O)＆藤堂 陽南袴(CV:八島 さらら)＆天王洲 なずな(CV:山本 彩乃)"
 image = "e3db885455fb0f73.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -13044,6 +13044,21 @@ expert = "9"
 master = "12"
 
 [[songs]]
+id = "2463"
+title = "反撃! 突撃! Back To Back!"
+title_reading = "ハンケキトツケキBACKTOBACK"
+artist = "曲：矢鴇つかさ & 脇眞富（Arte Refact）／歌：星咲 あかり(CV：赤尾 ひかる)、高瀬 梨緒(CV：久保 ユリカ)"
+image = "df0a80d04ffebe5a.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "8+"
+master = "13"
+
+[[songs]]
 id = "2235"
 title = "ポケットからぬりつぶせ！"
 title_reading = "ホケツトカラヌリツフセ"
@@ -13860,7 +13875,7 @@ title_reading = "VIBES2K20"
 artist = "Sound Artz"
 image = "49a6b17013b5f418.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -18800,13 +18815,88 @@ expert = "13+"
 master = "15"
 
 [[songs]]
+id = "2457"
+title = "《真紅》 ～ Pavane Pour La Flamme"
+title_reading = "シンクPAVANEPOURLAFLAMME"
+artist = "林柏勲 Bo-Xun Lin feat.幻子 Maboroshiko"
+image = "92b2bb3de62c170e.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "2458"
+title = "《楽土》 ～ One and Only One"
+title_reading = "ラクトONEANDONLYONE"
+artist = "Victor Kong & Yukino"
+image = "666f325fc46af95b.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "2459"
+title = "《散華》 ～ EMBARK"
+title_reading = "サンケEMBARK"
+artist = "Farhan Sarasin"
+image = "3fc8c573915d54fd.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "2460"
+title = "《慈雨》 ～ La Symphonie de Salacia: Agony Movement"
+title_reading = "シウLASYMPHONIEDESALACIAAGONYMOVEMENT"
+artist = "Jehezukiel (feat.Sagi & KURORAK)"
+image = "fa2d74a49b86d8c8.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "11+"
+master = "14"
+
+[[songs]]
+id = "2461"
+title = "《創造》 ～ Cries, beyond The End"
+title_reading = "ソウソウCRIESBEYONDTHEEND"
+artist = "Katzeohr & Spiegel"
+image = "065fe80a5c742ce7.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "13+"
+master = "14+"
+
+[[songs]]
 id = "8267"
 title = "ETERNAL DRAIN"
 title_reading = "ETERNALDRAIN"
 artist = "カラフル・サウンズ・ポート"
 image = "c3cdb935843332aa.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "狂"
@@ -18819,7 +18909,7 @@ title_reading = "MSSPLANET"
 artist = "M.S.S Project"
 image = "3ee12e1b51a98dc8.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "割"
@@ -18832,7 +18922,7 @@ title_reading = "ツキノヒカリトヒユツシウ"
 artist = "大国奏音「原曲:ドビュッシー」"
 image = "941147dafda82216.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "蔵"
