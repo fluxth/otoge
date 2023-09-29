@@ -1,6 +1,6 @@
 name = "ongeki"
 count = 873
-last_updated = "2023-09-28T03:03:24.574488923Z"
+last_updated = "2023-09-29T03:03:10.438736247Z"
 
 [[songs]]
 id = "515200"
@@ -25395,7 +25395,7 @@ title = "We Gonna Party"
 title_reading = "WEGONNAPARTY"
 artist = "Cranky"
 date = "2023-09-28"
-image = ""
+image = "fd7d0ecd5fb78467.png"
 is_new = true
 is_lunatic = false
 is_bonus_track = false
@@ -25424,7 +25424,7 @@ title = "Starlight Disco"
 title_reading = "STARLIGHTDISCO"
 artist = "loos feat. Meramipop"
 date = "2023-09-28"
-image = ""
+image = "b124225375248f47.png"
 is_new = true
 is_lunatic = false
 is_bonus_track = false
