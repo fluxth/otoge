@@ -1,6 +1,81 @@
 name = "soundvoltex"
-count = 1956
-last_updated = "2023-09-22T03:03:11.279498097Z"
+count = 1961
+last_updated = "2023-10-05T03:03:09.409401982Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Am5ZyNi0TKYnGk5VSyh6Jg"
+title = "おにけもだんす"
+artist = "いろはにほへっと あやふぶみ(白上フブキ/百鬼あやめ/大神ミオ)"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=esiXh3Gl-U9mtJU04aBMAQ"
+title = "朧"
+artist = "白上フブキ"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=TkUeqBy1O3F9ZBfeiV37lg"
+title = "KINGWORLD"
+artist = "白上フブキ"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=J8RzncFEHW8dwvONNCVlwg"
+title = "Say!ファンファーレ!"
+artist = "白上フブキ"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "2"
+advanced = "9"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=31V8oX2HjALIsoPUf1Y1vw"
+title = "Happiness World"
+artist = "BABACORN(宝鐘マリン/白上フブキ)"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "13"
+maximum = "16"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=lC2ay1iLKPgN84_pOm_AAA"
