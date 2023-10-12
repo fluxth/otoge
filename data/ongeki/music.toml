@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 873
-last_updated = "2023-09-29T03:03:10.438736247Z"
+count = 876
+last_updated = "2023-10-12T03:02:54.676645386Z"
 
 [[songs]]
 id = "515200"
@@ -25367,7 +25367,7 @@ title_reading = "FRAGRANCE"
 artist = "Tsukasa(Arte Refact)"
 date = "2023-09-28"
 image = "8053a66c9bf5d469.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25396,7 +25396,7 @@ title_reading = "WEGONNAPARTY"
 artist = "Cranky"
 date = "2023-09-28"
 image = "fd7d0ecd5fb78467.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25425,7 +25425,7 @@ title_reading = "STARLIGHTDISCO"
 artist = "loos feat. Meramipop"
 date = "2023-09-28"
 image = "b124225375248f47.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25446,6 +25446,92 @@ master = "13"
 [songs.character]
 id = "1030"
 name = "三角 葵"
+
+[[songs]]
+id = "100890"
+title = "Goodbye Innocence"
+title_reading = "GOODBYEINNOCENCE"
+artist = "She is Legend「ヘブンバーンズレッド」"
+date = "2023-10-12"
+image = "1718d09bccab0d03.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©WFS Developed by WRIGHT FLYER STUDIOS ©VISUAL ARTS/Key"
+
+[songs.chapter]
+id = "99099"
+name = "ヘブンバーンズレッド"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "7250"
+name = "茅森月歌"
+
+[[songs]]
+id = "100880"
+title = "INTERNET YAMERO"
+title_reading = "INTERNETYAMERO"
+artist = "Aiobahn feat. KOTOKO"
+date = "2023-10-12"
+image = "5f51b40a3bd07c3e.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©WSS playground"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
+
+[[songs]]
+id = "900830"
+title = "AMAZING MIGHTYYYY!!!!"
+title_reading = "AMAZINGMIGHTYYYY"
+artist = "WAiKURO"
+date = "2023-10-12"
+image = "3f51431e44a6a80f.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+lunatic = "15"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
 
 [[categories]]
 id = "06"
