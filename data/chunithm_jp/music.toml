@@ -1,6 +1,36 @@
 name = "chunithm_jp"
-count = 1324
-last_updated = "2023-09-28T03:03:23.354344827Z"
+count = 1330
+last_updated = "2023-10-12T03:02:53.531985960Z"
+
+[[songs]]
+id = "2464"
+title = "Sad Creature"
+title_reading = "SADCREATURE"
+artist = "麻枝 准×やなぎなぎ「ヘブンバーンズレッド」"
+image = "67cf721fd4ca5d57.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "2465"
+title = "Goodbye Innocence"
+title_reading = "GOODBYEINNOCENCE"
+artist = "She is Legend「ヘブンバーンズレッド」"
+image = "eaca4d5aae760e5b.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "12+"
 
 [[songs]]
 id = "2448"
@@ -5805,6 +5835,36 @@ advanced = "6"
 expert = "9"
 master = "13"
 ultima = "14"
+
+[[songs]]
+id = "2468"
+title = "カリスマ煉獄天神"
+title_reading = "カリスマレンコクテンシン"
+artist = "森羅万象"
+image = "ca5dc18d7ff3662a.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2469"
+title = "シアワセうさぎ"
+title_reading = "シアワセウサキ"
+artist = "ビートまりお＋あまね（COOL&CREATE）"
+image = "db4961c2c7ad4acd.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9"
+master = "12"
 
 [[songs]]
 id = "2412"
@@ -11694,6 +11754,21 @@ expert = "10"
 master = "13+"
 
 [[songs]]
+id = "2466"
+title = "Λlteration"
+title_reading = "ALTERATION"
+artist = "小仏 凪(CV:佐倉 薫)＆月鈴 白奈(CV:高野 麻里佳)＆御形 アリシアナ(CV:福原 綾香)＆桔梗 小夜曲(CV:原田 彩楓)"
+image = "acc05aed8920ec8f.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "14"
+
+[[songs]]
 id = "245"
 title = "Help me, あーりん！"
 title_reading = "HELPMEアウリン"
@@ -12879,6 +12954,21 @@ expert = "13+"
 master = "14+"
 
 [[songs]]
+id = "2467"
+title = "Regulus"
+title_reading = "REGULUS"
+artist = "お月さま交響曲"
+image = "d00b9ed5f655cf33.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "12"
+master = "14"
+
+[[songs]]
 id = "802"
 title = "STARTLINER"
 title_reading = "STARTLINER"
@@ -13050,7 +13140,7 @@ title_reading = "ハンケキトツケキBACKTOBACK"
 artist = "曲：矢鴇つかさ & 脇眞富（Arte Refact）／歌：星咲 あかり(CV：赤尾 ひかる)、高瀬 梨緒(CV：久保 ユリカ)"
 image = "df0a80d04ffebe5a.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -18821,7 +18911,7 @@ title_reading = "シンクPAVANEPOURLAFLAMME"
 artist = "林柏勲 Bo-Xun Lin feat.幻子 Maboroshiko"
 image = "92b2bb3de62c170e.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -18836,7 +18926,7 @@ title_reading = "ラクトONEANDONLYONE"
 artist = "Victor Kong & Yukino"
 image = "666f325fc46af95b.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -18851,7 +18941,7 @@ title_reading = "サンケEMBARK"
 artist = "Farhan Sarasin"
 image = "3fc8c573915d54fd.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -18866,7 +18956,7 @@ title_reading = "シウLASYMPHONIEDESALACIAAGONYMOVEMENT"
 artist = "Jehezukiel (feat.Sagi & KURORAK)"
 image = "fa2d74a49b86d8c8.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -18881,7 +18971,7 @@ title_reading = "ソウソウCRIESBEYONDTHEEND"
 artist = "Katzeohr & Spiegel"
 image = "065fe80a5c742ce7.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"

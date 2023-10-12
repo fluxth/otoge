@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1144
-last_updated = "2023-10-06T03:05:11.432884412Z"
+count = 1148
+last_updated = "2023-10-12T03:02:54.628141560Z"
 
 [[songs]]
 id = "896"
@@ -4132,8 +4132,7 @@ artist = "ヒゲドライバー"
 image = "19b8ef35f1800884.png"
 category = "maimai"
 version = "14008"
-release = "2023-10-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -19155,7 +19154,7 @@ image = "6a7cf1cc1358ceba.png"
 category = "niconico＆ボーカロイド"
 version = "24002"
 release = "2023-10-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19415,7 +19414,7 @@ image = "2079d8ee35e28e4d.png"
 category = "maimai"
 version = "24002"
 release = "2023-10-06"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -19670,7 +19669,7 @@ image = "5a5e8baece4c8dc4.png"
 category = "niconico＆ボーカロイド"
 version = "24002"
 release = "2023-10-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19678,6 +19677,24 @@ basic = "5"
 advanced = "8"
 expert = "11+"
 master = "13+"
+
+[[songs]]
+id = "1"
+title = "Burn My Soul"
+title_reading = "BURNMYSOUL"
+artist = "She is Legend"
+image = "3f75d0e0bf442ed0.png"
+category = "POPS＆アニメ"
+version = "24003"
+release = "2023-10-12"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10"
+master = "12+"
 
 [[songs]]
 id = "545"
@@ -19730,6 +19747,23 @@ is_locked = false
 level = "13+?"
 kanji = "協"
 comment = "ぽ・っぴ・っぽー"
+
+[[songs]]
+id = "1184"
+title = "[宴]Oshama Scramble!"
+title_reading = "OSHAMASCRAMBLE"
+artist = "t+pazolite"
+image = "64635a3534ce788a.png"
+category = "宴会場"
+version = "24003"
+release = "2023-10-12"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13?"
+kanji = "宴"
+comment = "Let's Party Night !"
 
 [[songs]]
 id = "1189"
@@ -19800,6 +19834,23 @@ kanji = "協"
 comment = "ポップミュージックは僕たちのもの"
 
 [[songs]]
+id = "1185"
+title = "[光]BREaK! BREaK! BREaK!"
+title_reading = "BREAKBREAKBREAK"
+artist = "HiTECH NINJA vs Cranky"
+image = "91737a421106e7ca.png"
+category = "宴会場"
+version = "24003"
+release = "2023-10-12"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14+?"
+kanji = "光"
+comment = "BREaK! BREaK! BREaK! BREaK! BREaK! BREaK!"
+
+[[songs]]
 id = "1194"
 title = "[協]ラグトレイン"
 title_reading = "ラクトレイン"
@@ -19832,6 +19883,23 @@ is_locked = false
 level = "13?"
 kanji = "協"
 comment = "ライバル譜面"
+
+[[songs]]
+id = "1186"
+title = "[蔵]Aegleseeker"
+title_reading = "AEGLESEEKER"
+artist = "Silentroom vs Frums"
+image = "ced71091c6d0d194.png"
+category = "宴会場"
+version = "24003"
+release = "2023-10-12"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14+?"
+kanji = "蔵"
+comment = "and in that light, I find deliverance."
 
 [[songs]]
 id = "1196"
