@@ -15,5 +15,5 @@ serde = "=1.0.189"
 scraper = "=0.17.1"
 tokio = { version = "=1.33.0", features = ["full"] }
 toml = "=0.8.2"
-tracing = "=0.1.39"
+tracing = "=0.1.40"
 tracing-subscriber = { version = "=0.3.17", features = ["env-filter"] }
