@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1148
-last_updated = "2023-10-12T03:02:54.628141560Z"
+count = 1152
+last_updated = "2023-10-20T03:02:46.425008965Z"
 
 [[songs]]
 id = "896"
@@ -19460,6 +19460,78 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
+id = "775"
+title = "ぽわわん劇場"
+title_reading = "ホワワンケキシヨウ"
+artist = "ぽわわん劇場"
+image = "8a8d657158afc525.png"
+category = "maimai"
+version = "24004"
+release = "2023-10-20"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "11"
+master = "13"
+
+[[songs]]
+id = "776"
+title = "my flow"
+title_reading = "MYFLOW"
+artist = "crayvxn"
+image = "bb78ce62fe4a3def.png"
+category = "maimai"
+version = "24004"
+release = "2023-10-20"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "777"
+title = "POWER OF UNITY"
+title_reading = "POWEROFUNITY"
+artist = "Zekk"
+image = "34d74efd7d8eca9d.png"
+category = "maimai"
+version = "24004"
+release = "2023-10-20"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "12"
+master = "13+"
+
+[[songs]]
+id = "778"
+title = "Energizing Flame"
+title_reading = "ENERGIZINGFLAME"
+artist = "Artifact vs. Dualcast"
+image = "eb39039aa47b1aa7.png"
+category = "maimai"
+version = "24004"
+release = "2023-10-20"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "12+"
+master = "14"
+
+[[songs]]
 id = "1071"
 title = "SQUAD-Phvntom-"
 title_reading = "SQUADPHVNTOM"
@@ -19687,7 +19759,7 @@ image = "3f75d0e0bf442ed0.png"
 category = "POPS＆アニメ"
 version = "24003"
 release = "2023-10-12"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
