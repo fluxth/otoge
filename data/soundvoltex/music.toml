@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 1961
-last_updated = "2023-10-05T03:03:09.409401982Z"
+count = 1965
+last_updated = "2023-10-26T03:03:04.016245758Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=PUpOm2LIbehFobCg0OT8dA"
+title = "GEROL (Yooh Remix)"
+artist = "Yooh"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=WnHg0w0jNkclWs7e8RGSUA"
+title = "Sayonara Planet Wars (Sot-C Remix)"
+artist = "Sot-C"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=FG6xc1IXTIb0IU4CW0EKFw"
+title = "ドリームエンド・サバイバー(Hidra-Xjeil Remix)"
+artist = "Hidra-Xjeil"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=XmKTjFzGG6ur_yIk1JGMow"
+title = "Lovesick Lovetune(brz_style)"
+artist = "brz1128 feat.しろさきあや"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=Am5ZyNi0TKYnGk5VSyh6Jg"
@@ -24798,6 +24858,7 @@ name = "BEMANI"
 novice = "5"
 advanced = "11"
 exhaust = "17"
+exceed = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=rB9FREbOyvGxdRCCU-mAKA"
@@ -24955,6 +25016,7 @@ name = "FLOOR"
 novice = "5"
 advanced = "11"
 exhaust = "17"
+exceed = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=OfA_ZWkGHNXuFM_GNgGQOg"
@@ -26762,6 +26824,7 @@ name = "FLOOR"
 novice = "4"
 advanced = "8"
 exhaust = "15"
+exceed = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=fbl_-6tMbO0MiNjHlMs-Fw"
