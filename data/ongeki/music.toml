@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 876
-last_updated = "2023-10-12T03:02:54.676645386Z"
+count = 879
+last_updated = "2023-10-26T03:02:45.702879773Z"
 
 [[songs]]
 id = "515200"
@@ -25454,7 +25454,7 @@ title_reading = "GOODBYEINNOCENCE"
 artist = "She is Legend「ヘブンバーンズレッド」"
 date = "2023-10-12"
 image = "1718d09bccab0d03.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©WFS Developed by WRIGHT FLYER STUDIOS ©VISUAL ARTS/Key"
@@ -25484,7 +25484,7 @@ title_reading = "INTERNETYAMERO"
 artist = "Aiobahn feat. KOTOKO"
 date = "2023-10-12"
 image = "5f51b40a3bd07c3e.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©WSS playground"
@@ -25514,7 +25514,7 @@ title_reading = "AMAZINGMIGHTYYYY"
 artist = "WAiKURO"
 date = "2023-10-12"
 image = "3f51431e44a6a80f.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 
@@ -25532,6 +25532,93 @@ lunatic = "15"
 [songs.character]
 id = "1040"
 name = "高瀬 梨緒"
+
+[[songs]]
+id = "600910"
+title = "Tricky Treat!!!"
+title_reading = "TRICKYTREAT"
+artist = "曲：Kijibato(Dream Monster)／歌：逢坂 茜(CV：大空 直美)、高瀬 梨緒(CV：久保 ユリカ)、柏木 咲姫(CV：石見 舞菜香)"
+date = "2023-10-26"
+image = ""
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "12+"
+master = "13+"
+
+[songs.character]
+id = "1120"
+name = "逢坂 茜"
+
+[[songs]]
+id = "600900"
+title = "Buck's Fizz"
+title_reading = "BUCKSFIZZ"
+artist = "わかどり"
+date = "2023-10-26"
+image = ""
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "9+"
+expert = "12"
+master = "14+"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
+
+[[songs]]
+id = "600890"
+title = "天つ風 feat. 夏川陽子"
+title_reading = "アマツカセFEATナツカワヨウコ"
+artist = "onoken"
+date = "2023-10-26"
+image = ""
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "12"
+
+[songs.character]
+id = "1110"
+name = "九條 楓"
 
 [[categories]]
 id = "06"

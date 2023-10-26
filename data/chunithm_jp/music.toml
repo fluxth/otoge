@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1330
-last_updated = "2023-10-12T03:02:53.531985960Z"
+count = 1337
+last_updated = "2023-10-26T03:02:45.742085177Z"
 
 [[songs]]
 id = "2464"
@@ -9,7 +9,7 @@ title_reading = "SADCREATURE"
 artist = "麻枝 准×やなぎなぎ「ヘブンバーンズレッド」"
 image = "67cf721fd4ca5d57.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "GOODBYEINNOCENCE"
 artist = "She is Legend「ヘブンバーンズレッド」"
 image = "eaca4d5aae760e5b.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -5843,7 +5843,7 @@ title_reading = "カリスマレンコクテンシン"
 artist = "森羅万象"
 image = "ca5dc18d7ff3662a.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -5858,7 +5858,7 @@ title_reading = "シアワセウサキ"
 artist = "ビートまりお＋あまね（COOL&CREATE）"
 image = "db4961c2c7ad4acd.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -8910,6 +8910,81 @@ expert = "12"
 master = "14+"
 
 [[songs]]
+id = "2297"
+title = "HiGHER"
+title_reading = "HIGHER"
+artist = "REDALiCE"
+image = "8f01e7ba2a5a7271.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "2298"
+title = "めっちゃ煽ってくるタイプの音ゲーボス曲ちゃんなんかに負けないが？？？？？"
+title_reading = "メツチヤアオツテクルタイフノオトケウホスキヨクチヤンナンカニマケナイカ"
+artist = "t+pazolite feat. ななひら"
+image = "8cf6fc565eb15c3f.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "11+"
+master = "14"
+
+[[songs]]
+id = "2299"
+title = "Breaking Dawn (feat. 棗いつき)"
+title_reading = "BREAKINGDAWNFEATナツメイツキ"
+artist = "Getty & Kobaryo"
+image = "9f81ed250173f41c.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "2300"
+title = "Odin"
+title_reading = "ODIN"
+artist = "Gram"
+image = "8db6866936388b3f.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "13+"
+master = "14+"
+
+[[songs]]
+id = "2301"
+title = "Wildfire"
+title_reading = "WILDFIRE"
+artist = "USAO"
+image = "934779475dfb57a3.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "13"
+master = "14+"
+
+[[songs]]
 id = "1096"
 title = "ベースラインやってる？笑"
 title_reading = "ヘウスラインヤツテルワラ"
@@ -11227,6 +11302,7 @@ basic = "4"
 advanced = "7"
 expert = "9+"
 master = "12+"
+ultima = "14+"
 
 [[songs]]
 id = "264"
@@ -11760,7 +11836,7 @@ title_reading = "ALTERATION"
 artist = "小仏 凪(CV:佐倉 薫)＆月鈴 白奈(CV:高野 麻里佳)＆御形 アリシアナ(CV:福原 綾香)＆桔梗 小夜曲(CV:原田 彩楓)"
 image = "acc05aed8920ec8f.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12960,7 +13036,7 @@ title_reading = "REGULUS"
 artist = "お月さま交響曲"
 image = "d00b9ed5f655cf33.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -13147,6 +13223,21 @@ basic = "3"
 advanced = "6"
 expert = "8+"
 master = "13"
+
+[[songs]]
+id = "2476"
+title = "ぽかぽか温泉音頭"
+title_reading = "ホカホカオンセンオント"
+artist = "曲：橘亮祐、篠崎あやと／歌：三角 葵(CV：春野 杏)、逢坂 茜(CV：大空 直美)、日向 千夏(CV：岡咲 美保)"
+image = "1b82f313f4c22cf8.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9"
+master = "12"
 
 [[songs]]
 id = "2235"
@@ -18978,6 +19069,21 @@ basic = "4"
 advanced = "9+"
 expert = "13+"
 master = "14+"
+
+[[songs]]
+id = "2475"
+title = "Chaotic Ørder"
+title_reading = "CHAOTICORDER"
+artist = "TAG VS Kai"
+image = "84a431784a70c851.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "11"
+expert = "14"
+master = "15"
 
 [[songs]]
 id = "8267"
