@@ -1,6 +1,6 @@
 name = "ongeki"
 count = 879
-last_updated = "2023-10-26T03:02:45.702879773Z"
+last_updated = "2023-10-27T03:02:45.129386996Z"
 
 [[songs]]
 id = "515200"
@@ -25539,7 +25539,7 @@ title = "Tricky Treat!!!"
 title_reading = "TRICKYTREAT"
 artist = "曲：Kijibato(Dream Monster)／歌：逢坂 茜(CV：大空 直美)、高瀬 梨緒(CV：久保 ユリカ)、柏木 咲姫(CV：石見 舞菜香)"
 date = "2023-10-26"
-image = ""
+image = "498dab272fcfb263.png"
 is_new = true
 is_lunatic = false
 is_bonus_track = false
@@ -25568,7 +25568,7 @@ title = "Buck's Fizz"
 title_reading = "BUCKSFIZZ"
 artist = "わかどり"
 date = "2023-10-26"
-image = ""
+image = "e25860bfb267ed94.png"
 is_new = true
 is_lunatic = false
 is_bonus_track = false
@@ -25597,7 +25597,7 @@ title = "天つ風 feat. 夏川陽子"
 title_reading = "アマツカセFEATナツカワヨウコ"
 artist = "onoken"
 date = "2023-10-26"
-image = ""
+image = "0c7d3926ad6d5f50.png"
 is_new = true
 is_lunatic = false
 is_bonus_track = false
