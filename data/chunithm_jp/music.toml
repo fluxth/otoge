@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1337
-last_updated = "2023-10-26T03:02:45.742085177Z"
+count = 1338
+last_updated = "2023-11-02T03:03:16.177526002Z"
 
 [[songs]]
 id = "2464"
@@ -8916,7 +8916,7 @@ title_reading = "HIGHER"
 artist = "REDALiCE"
 image = "8f01e7ba2a5a7271.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -8931,7 +8931,7 @@ title_reading = "メツチヤアオツテクルタイフノオトケウホスキ
 artist = "t+pazolite feat. ななひら"
 image = "8cf6fc565eb15c3f.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -8946,7 +8946,7 @@ title_reading = "BREAKINGDAWNFEATナツメイツキ"
 artist = "Getty & Kobaryo"
 image = "9f81ed250173f41c.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -8961,7 +8961,7 @@ title_reading = "ODIN"
 artist = "Gram"
 image = "8db6866936388b3f.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -8976,7 +8976,7 @@ title_reading = "WILDFIRE"
 artist = "USAO"
 image = "934779475dfb57a3.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -13045,6 +13045,21 @@ expert = "12"
 master = "14"
 
 [[songs]]
+id = "2477"
+title = "sølips"
+title_reading = "SOLIPS"
+artist = "rintaro soma"
+image = "f5e39f5f2baeb2ad.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "13+"
+master = "15"
+
+[[songs]]
 id = "802"
 title = "STARTLINER"
 title_reading = "STARTLINER"
@@ -13231,7 +13246,7 @@ title_reading = "ホカホカオンセンオント"
 artist = "曲：橘亮祐、篠崎あやと／歌：三角 葵(CV：春野 杏)、逢坂 茜(CV：大空 直美)、日向 千夏(CV：岡咲 美保)"
 image = "1b82f313f4c22cf8.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -19077,7 +19092,7 @@ title_reading = "CHAOTICORDER"
 artist = "TAG VS Kai"
 image = "84a431784a70c851.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
