@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 879
-last_updated = "2023-10-27T03:02:45.129386996Z"
+count = 881
+last_updated = "2023-11-02T03:03:16.254931360Z"
 
 [[songs]]
 id = "515200"
@@ -25540,7 +25540,7 @@ title_reading = "TRICKYTREAT"
 artist = "曲：Kijibato(Dream Monster)／歌：逢坂 茜(CV：大空 直美)、高瀬 梨緒(CV：久保 ユリカ)、柏木 咲姫(CV：石見 舞菜香)"
 date = "2023-10-26"
 image = "498dab272fcfb263.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25569,7 +25569,7 @@ title_reading = "BUCKSFIZZ"
 artist = "わかどり"
 date = "2023-10-26"
 image = "e25860bfb267ed94.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25598,7 +25598,7 @@ title_reading = "アマツカセFEATナツカワヨウコ"
 artist = "onoken"
 date = "2023-10-26"
 image = "0c7d3926ad6d5f50.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25619,6 +25619,64 @@ master = "12"
 [songs.character]
 id = "1110"
 name = "九條 楓"
+
+[[songs]]
+id = "600880"
+title = "Stellar:Dream"
+title_reading = "STELLARDREAM"
+artist = "EmoCosine + Synthion"
+date = "2023-11-02"
+image = "aa44f080b32e2158.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "6"
+advanced = "10+"
+expert = "13"
+master = "15"
+
+[songs.character]
+id = "1160"
+name = "東雲 つむぎ"
+
+[[songs]]
+id = "500590"
+title = "RIFFRAIN"
+title_reading = "RIFFRAIN"
+artist = "夏代孝明"
+date = "2023-11-02"
+image = "dfb2735700fc6792.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "8+"
+master = "12"
+
+[songs.character]
+id = "1050"
+name = "結城 莉玖"
 
 [[categories]]
 id = "06"
