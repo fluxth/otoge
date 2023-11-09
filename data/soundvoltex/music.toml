@@ -1,6 +1,36 @@
 name = "soundvoltex"
-count = 1965
-last_updated = "2023-10-26T03:03:04.016245758Z"
+count = 1967
+last_updated = "2023-11-09T03:02:34.547562261Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=q2T9wqEZhDoC13tf7KKy1Q"
+title = "ポッピンキャンディ☆フィーバー！"
+artist = "キノシタ feat.音街ウナ・鏡音リン"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "3"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=lh9WiruRLuY-5Fryltjk5g"
+title = "ポジティブ☆ダンスタイム"
+artist = "キノシタ feat.音街ウナ・鏡音リン"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=PUpOm2LIbehFobCg0OT8dA"
