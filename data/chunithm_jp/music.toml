@@ -1,6 +1,81 @@
 name = "chunithm_jp"
-count = 1338
-last_updated = "2023-11-02T03:03:16.177526002Z"
+count = 1344
+last_updated = "2023-11-09T03:02:16.288582065Z"
+
+[[songs]]
+id = "2478"
+title = "茉子の日常"
+title_reading = "マコノニチシヨウ"
+artist = "常陸 茉子 (CV：小鳥居 夕花) 「千恋＊万花」"
+image = "d24b623f41295b1b.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "8+"
+master = "11+"
+
+[[songs]]
+id = "2479"
+title = "キズナヒトツ"
+title_reading = "キスナヒトツ"
+artist = "ムラサメ (CV：佐藤 みかん) 「千恋＊万花」"
+image = "c4abc20ba7ab4f02.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "8"
+master = "10+"
+
+[[songs]]
+id = "2481"
+title = "Love Cheat!"
+title_reading = "LOVECHEAT"
+artist = "MOSAIC.WAV"
+image = "c9cedb76c07e091e.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2482"
+title = "ドーナドーナのうた"
+title_reading = "トウナトウナノウタ"
+artist = "水夏える feat.月乃"
+image = "27f879d90293b172.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "8+"
+master = "12"
+
+[[songs]]
+id = "2483"
+title = "未来への咆哮"
+title_reading = "アスヘノホウコウ"
+artist = "JAM Project feat. 影山ヒロノブ・遠藤正明・きただにひろし・福山芳樹"
+image = "470f8b587aca0edf.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "8"
+master = "12"
 
 [[songs]]
 id = "2464"
@@ -1831,6 +1906,7 @@ basic = "3"
 advanced = "6"
 expert = "9"
 master = "11+"
+ultima = "14"
 
 [[songs]]
 id = "482"
@@ -13051,7 +13127,7 @@ title_reading = "SOLIPS"
 artist = "rintaro soma"
 image = "f5e39f5f2baeb2ad.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -14078,6 +14154,21 @@ basic = "2"
 advanced = "7+"
 expert = "12"
 master = "14+"
+
+[[songs]]
+id = "2480"
+title = "GEOMETRIC DANCE"
+title_reading = "GEOMETRICDANCE"
+artist = "山本真央樹"
+image = "87b65507b23fb234.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "13"
+master = "14"
 
 [[songs]]
 id = "202"
