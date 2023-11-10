@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1149
-last_updated = "2023-11-02T03:03:16.218465608Z"
+count = 1153
+last_updated = "2023-11-10T03:03:00.462883880Z"
 
 [[songs]]
 id = "905"
@@ -19472,7 +19472,7 @@ image = "474425ed8b75f482.png"
 category = "maimai"
 version = "24005"
 release = "2023-11-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -19717,6 +19717,78 @@ basic = "4"
 advanced = "7+"
 expert = "10"
 master = "12+"
+
+[[songs]]
+id = "546"
+title = "with U"
+title_reading = "WITHU"
+artist = "t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)"
+image = "d39736ee3ce210a3.png"
+category = "ゲーム＆バラエティ"
+version = "24006"
+release = "2023-11-10"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "12"
+master = "13"
+
+[[songs]]
+id = "547"
+title = "Love Kills U"
+title_reading = "LOVEKILLSU"
+artist = "EmoCosine"
+image = "366bd9ce89bdcaf6.png"
+category = "ゲーム＆バラエティ"
+version = "24006"
+release = "2023-11-10"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "548"
+title = "DANGEROOOOUS JUNGLE"
+title_reading = "DANGEROOOOUSJUNGLE"
+artist = "Laur"
+image = "23e16c80b4451243.png"
+category = "ゲーム＆バラエティ"
+version = "24006"
+release = "2023-11-10"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "549"
+title = "天使光輪"
+title_reading = "テンシコウリン"
+artist = "REDALiCE & cosMo＠暴走P"
+image = "2df53853d801d0e9.png"
+category = "ゲーム＆バラエティ"
+version = "24006"
+release = "2023-11-10"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "12"
+master = "14"
 
 [[songs]]
 id = "552"
