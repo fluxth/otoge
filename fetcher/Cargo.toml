@@ -13,7 +13,7 @@ otoge = { path = "../lib" }
 reqwest = { version = "=0.11.22", features = ["json"] }
 serde = "=1.0.192"
 scraper = "=0.18.1"
-tokio = { version = "=1.33.0", features = ["full"] }
+tokio = { version = "=1.34.0", features = ["full"] }
 toml = "=0.8.8"
 tracing = "=0.1.40"
 tracing-subscriber = { version = "=0.3.17", features = ["env-filter"] }
