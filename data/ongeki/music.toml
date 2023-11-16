@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 881
-last_updated = "2023-11-02T03:03:16.254931360Z"
+count = 884
+last_updated = "2023-11-16T03:03:18.286874954Z"
 
 [[songs]]
 id = "515200"
@@ -25627,7 +25627,7 @@ title_reading = "STELLARDREAM"
 artist = "EmoCosine + Synthion"
 date = "2023-11-02"
 image = "aa44f080b32e2158.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25656,7 +25656,7 @@ title_reading = "RIFFRAIN"
 artist = "夏代孝明"
 date = "2023-11-02"
 image = "dfb2735700fc6792.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25677,6 +25677,96 @@ master = "12"
 [songs.character]
 id = "1050"
 name = "結城 莉玖"
+
+[[songs]]
+id = "400920"
+title = "アルカンシエル"
+title_reading = "アルカンシエル"
+artist = "Yamajet「グルーヴコースター」"
+date = "2023-11-16"
+image = "adbda3591eb6434f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
+
+[songs.chapter]
+id = "99100"
+name = "グルーヴコースター【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "11+"
+master = "13"
+
+[songs.character]
+id = "6970"
+name = "リンカ"
+
+[[songs]]
+id = "400910"
+title = "聖者の鼓動"
+title_reading = "セイシヤノコトウ"
+artist = "世阿弥「グルーヴコースター」"
+date = "2023-11-16"
+image = "944eba15f34f0f1a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
+
+[songs.chapter]
+id = "99100"
+name = "グルーヴコースター【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "3"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "6980"
+name = "ユメ"
+
+[[songs]]
+id = "400900"
+title = "ouroboros -twin stroke of the end-"
+title_reading = "OUROBOROSTWINSTROKEOFTHEEND"
+artist = "Cranky VS MASAKI「グルーヴコースター」"
+date = "2023-11-16"
+image = "9a2511e60e47ffea.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
+
+[songs.chapter]
+id = "99100"
+name = "グルーヴコースター【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "6990"
+name = "セイネ"
 
 [[categories]]
 id = "06"
