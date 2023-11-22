@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1344
-last_updated = "2023-11-09T03:02:16.288582065Z"
+count = 1349
+last_updated = "2023-11-22T03:02:32.609993572Z"
 
 [[songs]]
 id = "2478"
@@ -9,7 +9,7 @@ title_reading = "マコノニチシヨウ"
 artist = "常陸 茉子 (CV：小鳥居 夕花) 「千恋＊万花」"
 image = "d24b623f41295b1b.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "キスナヒトツ"
 artist = "ムラサメ (CV：佐藤 みかん) 「千恋＊万花」"
 image = "c4abc20ba7ab4f02.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -39,7 +39,7 @@ title_reading = "LOVECHEAT"
 artist = "MOSAIC.WAV"
 image = "c9cedb76c07e091e.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -54,7 +54,7 @@ title_reading = "トウナトウナノウタ"
 artist = "水夏える feat.月乃"
 image = "27f879d90293b172.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -69,7 +69,7 @@ title_reading = "アスヘノホウコウ"
 artist = "JAM Project feat. 影山ヒロノブ・遠藤正明・きただにひろし・福山芳樹"
 image = "470f8b587aca0edf.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -13136,6 +13136,51 @@ expert = "13+"
 master = "15"
 
 [[songs]]
+id = "2486"
+title = "ワンダーシャッフェンの法則"
+title_reading = "ワンタウシヤツフエンノホウソク"
+artist = "アリスシャッハと魔法の楽団"
+image = "1f2ad791b96b4096.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "14"
+
+[[songs]]
+id = "2487"
+title = "Paradisoda"
+title_reading = "PARADISESODA"
+artist = "魂音泉"
+image = "ead3b8758a4c85b8.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2488"
+title = "Yorugao"
+title_reading = "YORUGAO"
+artist = "An & Ryunosuke Kudo"
+image = "2ee4a0204cfea55b.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "12"
+master = "14+"
+
+[[songs]]
 id = "802"
 title = "STARTLINER"
 title_reading = "STARTLINER"
@@ -13433,6 +13478,21 @@ is_new = false
 basic = "2"
 advanced = "5"
 expert = "9"
+master = "12"
+
+[[songs]]
+id = "2309"
+title = "Let's Starry Party！"
+title_reading = "LETSSTARRYPARTY"
+artist = "曲：原田篤（Arte Refact）／歌：⊿TRiEDGE [高瀬 梨緒(CV：久保 ユリカ)、結城 莉玖(CV：朝日奈 丸佳)、藍原 椿(CV：橋本 ちなみ)]"
+image = "5326c1c936cde91e.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
 master = "12"
 
 [[songs]]
@@ -14162,13 +14222,28 @@ title_reading = "GEOMETRICDANCE"
 artist = "山本真央樹"
 image = "87b65507b23fb234.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
 advanced = "8+"
 expert = "13"
 master = "14"
+
+[[songs]]
+id = "2485"
+title = "Singularity"
+title_reading = "SINGULARITY"
+artist = "technoplanet"
+image = "b719f806ac77bc29.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "9+"
+expert = "13+"
+master = "14+"
 
 [[songs]]
 id = "202"
