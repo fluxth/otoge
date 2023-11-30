@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 884
-last_updated = "2023-11-16T03:03:18.286874954Z"
+count = 889
+last_updated = "2023-11-30T03:02:24.754087995Z"
 
 [[songs]]
 id = "515200"
@@ -25685,7 +25685,7 @@ title_reading = "アルカンシエル"
 artist = "Yamajet「グルーヴコースター」"
 date = "2023-11-16"
 image = "adbda3591eb6434f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
@@ -25715,7 +25715,7 @@ title_reading = "セイシヤノコトウ"
 artist = "世阿弥「グルーヴコースター」"
 date = "2023-11-16"
 image = "944eba15f34f0f1a.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
@@ -25745,7 +25745,7 @@ title_reading = "OUROBOROSTWINSTROKEOFTHEEND"
 artist = "Cranky VS MASAKI「グルーヴコースター」"
 date = "2023-11-16"
 image = "9a2511e60e47ffea.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
@@ -25767,6 +25767,151 @@ master = "14+"
 [songs.character]
 id = "6990"
 name = "セイネ"
+
+[[songs]]
+id = "500580"
+title = "WE'RE BACK!!"
+title_reading = "WEREBACK"
+artist = "Zekk"
+date = "2023-11-30"
+image = "ef2d2fca02abe112.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "3"
+advanced = "9+"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "1090"
+name = "井之原 小星"
+
+[[songs]]
+id = "500570"
+title = "N3V3R G3T OV3R"
+title_reading = "N3V3RG3TOVER"
+artist = "C-Show"
+date = "2023-11-30"
+image = "6d6d57679a83d7f3.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "2"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
+
+[[songs]]
+id = "719000"
+title = "Geki Geki!! 激闘Break Out!! -藤沢 柚子ソロver.-"
+title_reading = "GEKIGEKIケキトウBREAKOUTフシサワユスソロVER"
+artist = "曲：Haggy Rock(Dream Monster)／歌：藤沢 柚子(CV：久保田 梨沙)"
+date = "2023-11-30"
+image = "7b272a7152e76e7b.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80019"
+name = "出撃！オンゲキバスターズ！"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1020"
+name = "藤沢 柚子"
+
+[[songs]]
+id = "719100"
+title = "Geki Geki!! 激闘Break Out!! -井之原 小星ソロver.-"
+title_reading = "GEKIGEKIケキトウBREAKOUTイノハラコホシソロVER"
+artist = "曲：Haggy Rock(Dream Monster)／歌：井之原 小星(CV：ももの はるな)"
+date = "2023-11-30"
+image = "d47efee282b43c2f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80019"
+name = "出撃！オンゲキバスターズ！"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1090"
+name = "井之原 小星"
+
+[[songs]]
+id = "719200"
+title = "Geki Geki!! 激闘Break Out!! -逢坂 茜ソロver.-"
+title_reading = "GEKIGEKIケキトウBREAKOUTオウサカアカネソロVER"
+artist = "曲：Haggy Rock(Dream Monster)／歌：逢坂 茜(CV：大空 直美)"
+date = "2023-11-30"
+image = "17f05aab19f0eebd.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80019"
+name = "出撃！オンゲキバスターズ！"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1120"
+name = "逢坂 茜"
 
 [[categories]]
 id = "06"
