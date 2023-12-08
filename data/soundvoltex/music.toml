@@ -1,6 +1,111 @@
 name = "soundvoltex"
-count = 1967
-last_updated = "2023-11-09T03:02:34.547562261Z"
+count = 1974
+last_updated = "2023-12-08T03:03:43.010217236Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=eihFqJELvePsS-RLMOvSQw"
+title = "Λkasha"
+artist = "BlackY feat. Risa Yuzuki"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "8"
+advanced = "15"
+exhaust = "18"
+maximum = "20"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=f8J1_iVhiMReUPWlUiMNBw"
+title = "=∴NOMADE∵OTION="
+artist = "qfeileadh + yuichi NAGAO"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=UdAuBuhrtoshljGMvIVB-A"
+title = "OVEЯ+TUЯE"
+artist = "kanone VS nora2r"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=0ppAfV6Wav2Y6_cXrKzCAQ"
+title = "随神"
+artist = "影虎。"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=_gAtnCbQm96zTTt3Qi-IzA"
+title = "TOKAKU=ALMiRAJ"
+artist = "MYUKKE."
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ffzybvIxs3KHHoCLEzhsqw"
+title = "Burst Λnd reBoost"
+artist = "めと（Metomate）"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=kdrHj6WvJhQb_muKvmidQQ"
+title = "レインボウ・フレーバー"
+artist = "みーに feat. 杠葉えりか"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=q2T9wqEZhDoC13tf7KKy1Q"
