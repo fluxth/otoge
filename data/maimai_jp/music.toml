@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1157
-last_updated = "2023-12-09T03:02:34.990719194Z"
+count = 1162
+last_updated = "2023-12-11T03:02:48.531649385Z"
 
 [[songs]]
 id = "915"
@@ -19868,6 +19868,96 @@ basic = "3"
 advanced = "7"
 expert = "10"
 master = "13"
+
+[[songs]]
+id = "547"
+title = "神威"
+title_reading = "カムイ"
+artist = "TJ.hangneil"
+image = "1ca2b9f20e307c03.png"
+category = "ゲーム＆バラエティ"
+version = "24008"
+release = "2023-12-09"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8+"
+expert = "12+"
+master = "14"
+
+[[songs]]
+id = "548"
+title = "ozma"
+title_reading = "OZMA"
+artist = "TJ.hangneil"
+image = "a4cebf8fa37c9318.png"
+category = "ゲーム＆バラエティ"
+version = "24008"
+release = "2023-12-09"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8+"
+expert = "12+"
+master = "13+"
+
+[[songs]]
+id = "549"
+title = "月面基地"
+title_reading = "ケツメンキチ"
+artist = "sasakure.UK"
+image = "6c7c8837a9e4b14c.png"
+category = "ゲーム＆バラエティ"
+version = "24008"
+release = "2023-12-09"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "12"
+master = "13+"
+
+[[songs]]
+id = "1090"
+title = "Apollo"
+title_reading = "APOLLO"
+artist = "TJ.hangneil"
+image = "2b46dc47f1fe3d6d.png"
+category = "オンゲキ＆CHUNITHM"
+version = "24008"
+release = "2023-12-09"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "7"
+advanced = "8+"
+expert = "13"
+master = "14+"
+
+[[songs]]
+id = "791"
+title = "raputa"
+title_reading = "RAPUTA"
+artist = "sasakure.UK × TJ.hangneil"
+image = "486d317c19a52fd5.png"
+category = "maimai"
+version = "24008"
+release = "2023-12-09"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "7"
+advanced = "8+"
+expert = "13+"
+master = "14+"
 
 [[songs]]
 id = "557"
