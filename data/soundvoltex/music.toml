@@ -1,6 +1,59 @@
 name = "soundvoltex"
-count = 1974
-last_updated = "2023-12-08T03:03:43.010217236Z"
+count = 1977
+last_updated = "2023-12-21T03:02:51.636906554Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=E10i1TNenxnlHHoYj_36Tg"
+title = "ちくわパフェだよ☆ＣＫＰ (Yvya Remix)"
+artist = "Remixed by BEMANI Sound Team \"Yvya\""
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=8D2RuNrMFiVLeSDZ3XDjeQ"
+title = "ポラリスノウタ"
+artist = "ここなつ2.0"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=v8OqPWRHvNKvCISBPY3s6w"
+title = "めうめうぺったんたん！！ (ZAQUVA Remix)"
+artist = "Remixed by BEMANI Sound Team \"ZAQUVA\""
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "5"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=eihFqJELvePsS-RLMOvSQw"
