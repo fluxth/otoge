@@ -1,6 +1,21 @@
 name = "chunithm_jp"
-count = 1355
-last_updated = "2023-12-14T03:02:27.186031053Z"
+count = 1363
+last_updated = "2023-12-21T03:02:29.630698199Z"
+
+[[songs]]
+id = "2496"
+title = "さくゆいたいそう"
+title_reading = "サクユイタイソウ"
+artist = "さくゆい"
+image = "da2cdaccbcc16009.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "11+"
 
 [[songs]]
 id = "2490"
@@ -9,7 +24,7 @@ title_reading = "ALIVE"
 artist = "ClariS「リコリス・リコイル」"
 image = "b7ec25d973052f3c.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +39,7 @@ title_reading = "カワイクテコメン"
 artist = "HoneyWorks feat. ちゅーたん(CV:早見沙織)"
 image = "175628cd37c4ac4e.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -39,7 +54,7 @@ title_reading = "トウキヨウシヤンテイランテウ"
 artist = "MAISONdes"
 image = "9159db0de6b0c305.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -54,7 +69,7 @@ title_reading = "マツケンサンハII"
 artist = "松平健 [covered by 光吉猛修]"
 image = "7f8fac22ddf8c740.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -69,7 +84,7 @@ title_reading = "アイトル"
 artist = "YOASOBI"
 image = "8a7411e0baae4915.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -84,7 +99,7 @@ title_reading = "STORM"
 artist = "JAM Project featuring 水木一郎、影山ヒロノブ"
 image = "9d4b0ac6f5244d48.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2048,13 +2063,43 @@ master = "14+"
 ultima = "14+"
 
 [[songs]]
+id = "2508"
+title = "リレイアウター"
+title_reading = "リレイアウタウ"
+artist = "稲葉曇"
+image = "e6ff48a21f6f9dea.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "2509"
+title = "おどロボ"
+title_reading = "オトロホ"
+artist = "海茶・多良レイト"
+image = "e250cee33106255a.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9"
+master = "12+"
+
+[[songs]]
 id = "2505"
 title = "ラブカ？"
 title_reading = "ラフカ"
 artist = "柊キライ"
 image = "edd015566bd12d55.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2069,7 +2114,7 @@ title_reading = "キヨウフウオウルハツク"
 artist = "ゆこぴ"
 image = "de9e41bbc14fc172.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2084,7 +2129,7 @@ title_reading = "セカイチヤントカフチヤンノオツカイカツソウ
 artist = "南ノ南"
 image = "274ebb3c6568210f.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -8040,6 +8085,21 @@ expert = "13+"
 master = "14+"
 
 [[songs]]
+id = "2530"
+title = "VALLIS-NERIA"
+title_reading = "VALLISNERIA"
+artist = "DJ YOSHITAKA"
+image = "bc9c88b3adb6137e.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "13+"
+master = "14+"
+
+[[songs]]
 id = "2041"
 title = "8OROCHI"
 title_reading = "8OROCHI"
@@ -8316,7 +8376,7 @@ title_reading = "BIGBANG"
 artist = "Massive New Krew「WACCA」"
 image = "345b5ef96c048e02.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -8399,6 +8459,7 @@ basic = "3"
 advanced = "5"
 expert = "9+"
 master = "13+"
+ultima = "14+"
 
 [[songs]]
 id = "334"
@@ -8656,13 +8717,28 @@ expert = "11"
 master = "13+"
 
 [[songs]]
+id = "2528"
+title = "Blow My Mind"
+title_reading = "BLOWMYMIND"
+artist = "3R2「Cytus Ⅱ」"
+image = "31f2d85d83a17865.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11+"
+master = "14"
+
+[[songs]]
 id = "2529"
 title = "Jakarta PROGRESSION"
 title_reading = "JAKARTAPROGRESSION"
 artist = "KURORAK「Cytus Ⅱ」"
 image = "57afdaf21a762451.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -8684,6 +8760,7 @@ basic = "3"
 advanced = "7"
 expert = "11+"
 master = "14"
+ultima = "14+"
 
 [[songs]]
 id = "598"
@@ -8792,6 +8869,36 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
+id = "2532"
+title = "Spasmodic"
+title_reading = "SPASMODIC"
+artist = "姜米條「Phigros」"
+image = "f2d688396385d66e.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "12+"
+master = "14+"
+
+[[songs]]
+id = "2533"
+title = "ΩΩPARTS"
+title_reading = "OOPARTS"
+artist = "かめりあ"
+image = "045ae01786c3b5f5.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "13+"
+master = "14+"
+
+[[songs]]
 id = "2039"
 title = "]-[|/34<#!"
 title_reading = "HIBACHI"
@@ -8828,7 +8935,7 @@ title_reading = "ホンモノノヒウロウトノタタカイ"
 artist = "Toby Fox「UNDERTALE」"
 image = "a46150b122cb6def.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -8843,7 +8950,7 @@ title_reading = "カレイナルシトウ"
 artist = "Toby Fox「UNDERTALE」"
 image = "003ce376f1d36976.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10478,6 +10585,21 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "2535"
+title = "New York Back Raise"
+title_reading = "NEWYORKBACKRAISE"
+artist = "saaa + kei_iwata + stuv + わかどり"
+image = "9f060e856cb7ad10.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "14"
+
+[[songs]]
 id = "6"
 title = "Reach For The Stars"
 title_reading = "REACHFORTHESTARS"
@@ -11568,7 +11690,7 @@ title_reading = "トコニモイカナイ"
 artist = "箱部なる (CV: M・A・O)"
 image = "e4a4dca49f290a20.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -13158,7 +13280,7 @@ title_reading = "SAGE"
 artist = "かめりあ"
 image = "daccb17998e9943e.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -13173,7 +13295,7 @@ title_reading = "SILENTBLUE"
 artist = "かねこちはる"
 image = "1efa961aecb0dc77.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -13398,7 +13520,7 @@ title_reading = "オンステウシ"
 artist = "曲：塩野 海／歌：星咲 あかり(CV：赤尾 ひかる)、式宮 舞菜(CV：牧野 天音)"
 image = "6848b4dbeaa1feee.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -14268,7 +14390,7 @@ title_reading = "MARBLEBLUE"
 artist = "MisoilePunch♪"
 image = "c3f0a08e4135055c.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -19305,7 +19427,7 @@ title_reading = "シヨウシヨPASTQ"
 artist = "雄之助 feat.ねんね"
 image = "e6175e4461258d40.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -19320,7 +19442,7 @@ title_reading = "キミトナツイロツワンタフルハケウシヨン"
 artist = "コバヤシユウヤ（IOSYS） feat.まるもこ"
 image = "62724ff67c659c30.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -19335,7 +19457,7 @@ title_reading = "MYPACEINVENTION"
 artist = "キツネリ feat.わかばやし"
 image = "b0434023ff8fa6ac.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -19350,7 +19472,7 @@ title_reading = "COLORFUL"
 artist = "higma feat.ほとけ"
 image = "868c447fe51e1189.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -19365,7 +19487,7 @@ title_reading = "ZEGALLTA"
 artist = "Se-U-Ra"
 image = "0192ebe0c2a1d0bc.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -19380,7 +19502,7 @@ title_reading = "キヨウイノマホウ"
 artist = "長瀬有花"
 image = "084a66065554b0f3.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -19395,7 +19517,7 @@ title_reading = "ウニノウタ"
 artist = "周防パトラ"
 image = "c2399923d0c571c5.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -19410,7 +19532,7 @@ title_reading = "LIBERATE"
 artist = "somunia × nyankobrq"
 image = "af1a934c6aa4ce6d.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -19425,7 +19547,7 @@ title_reading = "セカイハマタハシマツテスライナイ"
 artist = "ピノキオピー / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
 image = "467b16ec81ebdcf1.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "招"
@@ -19438,7 +19560,7 @@ title_reading = "フリウフオウル"
 artist = "Zekk「WACCA」"
 image = "497d4f2cfba41251.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "跳"
@@ -19451,7 +19573,7 @@ title_reading = "シンセイコウリヤクTIPS"
 artist = "れるりり feat.konoco"
 image = "0705dfb84b4fd162.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "割"
