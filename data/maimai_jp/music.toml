@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1162
-last_updated = "2023-12-11T03:02:48.531649385Z"
+count = 1166
+last_updated = "2023-12-22T03:02:27.099161659Z"
 
 [[songs]]
 id = "915"
@@ -1631,8 +1631,7 @@ artist = "sasakure.UK"
 image = "54d9be729151e423.png"
 category = "niconico＆ボーカロイド"
 version = "12006"
-release = "2023-12-09"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -19525,6 +19524,78 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
+id = "787"
+title = "フェイクフェイス・フェイルセイフ"
+title_reading = "フエイクフエイスフエイルセイフ"
+artist = "カラスヤサボウ feat. もるでお"
+image = "ef022adb2813059a.png"
+category = "maimai"
+version = "24009"
+release = "2023-12-22"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "790"
+title = "ふらふらふら、"
+title_reading = "フラフラフラ"
+artist = "アオワイファイ feat.犀羅"
+image = "f7bab572b1bef0d9.png"
+category = "maimai"
+version = "24009"
+release = "2023-12-22"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "788"
+title = "シックスプラン"
+title_reading = "シツクスフラン"
+artist = "針原翼（はりーP）feat. はく"
+image = "9cd7ade77cfb6cd4.png"
+category = "maimai"
+version = "24009"
+release = "2023-12-22"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "789"
+title = "フタタビ"
+title_reading = "フタタヒ"
+artist = "KAZE Lab"
+image = "97dd3b432fba0716.png"
+category = "maimai"
+version = "24009"
+release = "2023-12-22"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "11"
+master = "13"
+
+[[songs]]
 id = "1092"
 title = "SQUAD-Phvntom-"
 title_reading = "SQUADPHVNTOM"
@@ -19860,7 +19931,7 @@ image = "6f1f4f9f62ca793b.png"
 category = "niconico＆ボーカロイド"
 version = "24008"
 release = "2023-12-09"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19878,7 +19949,7 @@ image = "1ca2b9f20e307c03.png"
 category = "ゲーム＆バラエティ"
 version = "24008"
 release = "2023-12-09"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -19896,7 +19967,7 @@ image = "a4cebf8fa37c9318.png"
 category = "ゲーム＆バラエティ"
 version = "24008"
 release = "2023-12-09"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -19914,7 +19985,7 @@ image = "6c7c8837a9e4b14c.png"
 category = "ゲーム＆バラエティ"
 version = "24008"
 release = "2023-12-09"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -19932,7 +20003,7 @@ image = "2b46dc47f1fe3d6d.png"
 category = "オンゲキ＆CHUNITHM"
 version = "24008"
 release = "2023-12-09"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -19950,7 +20021,7 @@ image = "486d317c19a52fd5.png"
 category = "maimai"
 version = "24008"
 release = "2023-12-09"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -19986,7 +20057,7 @@ image = "0155b81ffa2eab24.png"
 category = "オンゲキ＆CHUNITHM"
 version = "24008"
 release = "2023-12-09"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
