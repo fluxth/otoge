@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1166
-last_updated = "2023-12-22T03:02:27.099161659Z"
+count = 1176
+last_updated = "2023-12-25T03:02:25.086531845Z"
 
 [[songs]]
 id = "915"
@@ -20084,6 +20084,108 @@ kanji = "協"
 comment = "リア充専用譜面だよ！リア充向けだってば！"
 
 [[songs]]
+id = "1214"
+title = "[蔵]In Chaos"
+title_reading = "INCHAOS"
+artist = "Hiro「Crackin’DJ」"
+image = "a044abc0c8fca1cf.png"
+category = "宴会場"
+version = "24010"
+release = "2023-12-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14+?"
+kanji = "蔵"
+comment = "チャンさんは今日もアクセル全開"
+
+[[songs]]
+id = "1208"
+title = "[蛸]チルノのパーフェクトさんすう教室"
+title_reading = "チルノノハアフエクトサンスウキヨウシツ"
+artist = "ARM＋夕野ヨシミ(IOSYS)feat. miko"
+image = "d44aee5f4b660d3d.png"
+category = "宴会場"
+version = "24010"
+release = "2023-12-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "12+?"
+kanji = "蛸"
+comment = "パーフェクトホールド教室"
+
+[[songs]]
+id = "1205"
+title = "[星]しゅわスパ大作戦☆"
+title_reading = "シユワスハタイサクセン"
+artist = "SOUND HOLIC feat. Nana Takahashi"
+image = "cd787bcc1dc248f7.png"
+category = "宴会場"
+version = "24010"
+release = "2023-12-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13?"
+kanji = "星"
+comment = "☆TAP大作戦☆"
+
+[[songs]]
+id = "1209"
+title = "[宴]セガサターン起動音[H.][Remix]"
+title_reading = "セカサタアンキトウオン"
+artist = "Hiro"
+image = "6cb5afa2c0d02884.png"
+category = "宴会場"
+version = "24010"
+release = "2023-12-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13+?"
+kanji = "宴"
+comment = "回転タップ検定起動音"
+
+[[songs]]
+id = "1210"
+title = "[宴]Garakuta Doll Play"
+title_reading = "GARAKUTADOLLPLAY"
+artist = "t+pazolite"
+image = "a259af51e0b9d863.png"
+category = "宴会場"
+version = "24010"
+release = "2023-12-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14?"
+kanji = "宴"
+comment = "Jackの現代風アレンジ版"
+
+[[songs]]
+id = "1206"
+title = "[宴]CYCLES"
+title_reading = "CYCLES"
+artist = "Masayoshi Minoshima feat. 綾倉盟"
+image = "2e64a1f5e2e4b832.png"
+category = "宴会場"
+version = "24010"
+release = "2023-12-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13?"
+kanji = "宴"
+comment = "いつもより多く回っております"
+
+[[songs]]
 id = "1221"
 title = "[協]ぽっぴっぽー"
 title_reading = "ホツヒツホオ"
@@ -20099,6 +20201,23 @@ is_locked = false
 level = "13+?"
 kanji = "協"
 comment = "ぽ・っぴ・っぽー"
+
+[[songs]]
+id = "1212"
+title = "[狂]タカハせ！名人マン"
+title_reading = "タカハセメイシンマン"
+artist = "ビートまりお + ARM feat. 高橋名人"
+image = "f671bf7482912046.png"
+category = "宴会場"
+version = "24010"
+release = "2023-12-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14+?"
+kanji = "狂"
+comment = "名人マンよくばりセット"
 
 [[songs]]
 id = "1215"
@@ -20118,6 +20237,23 @@ kanji = "宴"
 comment = "Let's Party Night !"
 
 [[songs]]
+id = "1213"
+title = "[蔵]Glorious Crown"
+title_reading = "GLORIOUSCROWN"
+artist = "xi"
+image = "0c142b42f0e37845.png"
+category = "宴会場"
+version = "24010"
+release = "2023-12-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14+?"
+kanji = "蔵"
+comment = "チャンさんの初稿シリーズ～王～"
+
+[[songs]]
 id = "1220"
 title = "[協]恋愛裁判"
 title_reading = "レンアイサイハン"
@@ -20135,6 +20271,23 @@ kanji = "協"
 comment = "リア充向け譜面　～爆発しろ～"
 
 [[songs]]
+id = "1207"
+title = "[覚]東京リアルワールド"
+title_reading = "トウキヨウリアルワアルト"
+artist = "out of service"
+image = "a4c576aec0c3897c.png"
+category = "宴会場"
+version = "24010"
+release = "2023-12-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "12?"
+kanji = "覚"
+comment = "なぞる順番を覚えるゲーム(初級編)"
+
+[[songs]]
 id = "1223"
 title = "[協]Hand in Hand"
 title_reading = "HANDINHAND"
@@ -20150,6 +20303,23 @@ is_locked = false
 level = "13?"
 kanji = "協"
 comment = "Hand in Hand in Hand in Hand"
+
+[[songs]]
+id = "1211"
+title = "[宴]DETARAME ROCK&ROLL THEORY"
+title_reading = "DETARAMEROCKROLLTHEORY"
+artist = "箱部 なる(CV:M・A・O)"
+image = "d3a429e38da60e5a.png"
+category = "宴会場"
+version = "24010"
+release = "2023-12-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13?"
+kanji = "宴"
+comment = "スライドの発射タイミング 速度がデタラメ"
 
 [[songs]]
 id = "1222"
