@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 891
-last_updated = "2023-12-15T03:02:18.169032559Z"
+count = 894
+last_updated = "2023-12-29T03:03:30.935489743Z"
 
 [[songs]]
 id = "515200"
@@ -25920,7 +25920,7 @@ title_reading = "PROMINENCE"
 artist = "曲：下野 隼／歌：皇城 セツナ(CV：八巻 アンナ)、式宮 碧音(CV：髙橋 ミナミ)"
 date = "2023-12-14"
 image = "cf35bfb03fcfb334.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Re:STAGE! PROJECT"
@@ -25950,7 +25950,7 @@ title_reading = "APOLLOONOKENAXSWINGREMIX"
 artist = "onoken"
 date = "2023-12-14"
 image = "4452769f15d274d6.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25971,6 +25971,92 @@ master = "13+"
 [songs.character]
 id = "1170"
 name = "皇城 セツナ"
+
+[[songs]]
+id = "500560"
+title = "Sage"
+title_reading = "SAGE"
+artist = "かめりあ"
+date = "2023-12-28"
+image = "100639483d59c840.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "10"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "1070"
+name = "桜井 春菜"
+
+[[songs]]
+id = "100870"
+title = "予感のシグナル"
+title_reading = "ヨカンノシクナル"
+artist = "温泉むすめ 日中早百合（CV:春野 杏）「温泉むすめ」"
+date = "2023-12-28"
+image = "e38cf8290e4fbbb0.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© ONSEN MUSUME PROJECT"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "5230"
+name = "草津 結衣奈"
+
+[[songs]]
+id = "900820"
+title = "ロキ"
+title_reading = "ロキ"
+artist = "みきとP"
+date = "2023-12-28"
+image = "8df17ed3fddca2b3.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+copyright = "illust ろこる (@tuno901)"
+
+[songs.chapter]
+id = "99011"
+name = "バーチャル・シンガー"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+lunatic = "14"
+
+[songs.character]
+id = "3030"
+name = "鏡音リン"
 
 [[categories]]
 id = "06"
