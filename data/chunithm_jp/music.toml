@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1363
-last_updated = "2023-12-21T03:02:29.630698199Z"
+count = 1368
+last_updated = "2024-01-11T03:03:30.939195195Z"
 
 [[songs]]
 id = "2496"
@@ -9,7 +9,7 @@ title_reading = "サクユイタイソウ"
 artist = "さくゆい"
 image = "da2cdaccbcc16009.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2063,13 +2063,88 @@ master = "14+"
 ultima = "14+"
 
 [[songs]]
+id = "2513"
+title = "てらてら"
+title_reading = "テラテラ"
+artist = "和田たけあき / 初音ミク / Leo/need「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+image = "b5b54e8993c437f1.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2514"
+title = "天使のクローバー"
+title_reading = "テンシノクロウハウ"
+artist = "DIVELA / 鏡音リン / MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+image = "7a75a039508675d3.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2510"
+title = "Beat Eater"
+title_reading = "BEATEATER"
+artist = "ポリスピカデリー / 鏡音レン / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+image = "8088281313c4563b.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "8+"
+master = "13"
+
+[[songs]]
+id = "2511"
+title = "Glory Steady Go!"
+title_reading = "GLORYSTEADYGO"
+artist = "キノシタ / 巡音ルカ / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+image = "bb0ae6b51e39a419.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2512"
+title = "ロウワー"
+title_reading = "ロウワウ"
+artist = "ぬゆり / MEIKO / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+image = "ce27d9e82402811f.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[[songs]]
 id = "2508"
 title = "リレイアウター"
 title_reading = "リレイアウタウ"
 artist = "稲葉曇"
 image = "e6ff48a21f6f9dea.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2084,7 +2159,7 @@ title_reading = "オトロホ"
 artist = "海茶・多良レイト"
 image = "e250cee33106255a.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -5743,6 +5818,7 @@ basic = "3"
 advanced = "6"
 expert = "8"
 master = "11+"
+ultima = "14"
 
 [[songs]]
 id = "23"

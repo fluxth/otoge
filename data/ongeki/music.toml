@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 894
-last_updated = "2023-12-29T03:03:30.935489743Z"
+count = 897
+last_updated = "2024-01-11T03:03:31.060487991Z"
 
 [[songs]]
 id = "515200"
@@ -25979,7 +25979,7 @@ title_reading = "SAGE"
 artist = "かめりあ"
 date = "2023-12-28"
 image = "100639483d59c840.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26008,7 +26008,7 @@ title_reading = "ヨカンノシクナル"
 artist = "温泉むすめ 日中早百合（CV:春野 杏）「温泉むすめ」"
 date = "2023-12-28"
 image = "e38cf8290e4fbbb0.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© ONSEN MUSUME PROJECT"
@@ -26038,7 +26038,7 @@ title_reading = "ロキ"
 artist = "みきとP"
 date = "2023-12-28"
 image = "8df17ed3fddca2b3.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 copyright = "illust ろこる (@tuno901)"
@@ -26057,6 +26057,98 @@ lunatic = "14"
 [songs.character]
 id = "3030"
 name = "鏡音リン"
+
+[[songs]]
+id = "200920"
+title = "ステラ"
+title_reading = "ステラ"
+artist = "じん/初音ミク/Leo/need「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+date = "2024-01-11"
+image = "55245f44e4c71c11.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© SEGA / © Colorful Palette Inc. / © Crypton Future Media, INC. www.piapro.net　ピアプロロゴ All rights reserved."
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "3010"
+name = "初音ミク"
+
+[[songs]]
+id = "200910"
+title = "パラソルサイダー"
+title_reading = "ハラソルサイタ"
+artist = "ナナホシ管弦楽団/巡音ルカ/MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+date = "2024-01-11"
+image = "0a25ca7beaeee968.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© SEGA / © Colorful Palette Inc. / © Crypton Future Media, INC. www.piapro.net　ピアプロロゴ All rights reserved."
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "12+"
+
+[songs.character]
+id = "3010"
+name = "初音ミク"
+
+[[songs]]
+id = "200900"
+title = "星界ちゃんと可不ちゃんのおつかい合騒曲"
+title_reading = "セカイチヤントカフチヤンノオツカイカツソウキヨク"
+artist = "南ノ南"
+date = "2024-01-11"
+image = "db14394b4bc4a583.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = """
+© 2022 DWANGO Co.,Ltd.\r
+©KAMITSUBAKI STUDIO"""
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "5"
+advanced = "8"
+expert = "11+"
+master = "14"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
 
 [[categories]]
 id = "06"
