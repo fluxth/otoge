@@ -26,7 +26,7 @@ jobs:
           echo "WEEK_ID=$(date +%Y.%W)" >> "$GITHUB_ENV"
 
       - name: Cache rustup directory
-        uses: actions/cache@e12d46a63a90f2fae62d114769bbf2a179198b5c # v3
+        uses: actions/cache@13aacd865c20de90d75de3b17ebe84f7a17d57d2 # v4
         with:
           path: ~/.rustup
           key: rustup-${{ runner.os }}-${{ env.WEEK_ID }}
@@ -43,7 +43,7 @@ jobs:
         uses: mozilla-actions/sccache-action@8417cffc2ec64127ad83077aceaa8631f7cdc83e # v0.0.3
 
       - name: Cache cargo registry
-        uses: actions/cache@e12d46a63a90f2fae62d114769bbf2a179198b5c # v3
+        uses: actions/cache@13aacd865c20de90d75de3b17ebe84f7a17d57d2 # v4
         with:
           path: |
             ~/.cargo/registry
