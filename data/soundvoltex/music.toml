@@ -1,6 +1,21 @@
 name = "soundvoltex"
-count = 1977
-last_updated = "2023-12-21T03:02:51.636906554Z"
+count = 1978
+last_updated = "2024-01-18T10:42:12.243574499Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=upLIXb-4rhXdkAxwEtQPyw"
+title = "Circuit Surfer"
+artist = "kors k"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=E10i1TNenxnlHHoYj_36Tg"
