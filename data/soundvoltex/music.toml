@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 1978
-last_updated = "2024-01-18T10:42:12.243574499Z"
+count = 1981
+last_updated = "2024-01-25T03:02:56.610189621Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=mq8CnfoqfbRRUZ1QxQjPtg"
+title = "アンチグラビティ・ガール"
+artist = "月ノ美兎"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=RS9CrL_Hj_r7Wtj0rRWWPA"
+title = "コントレイル"
+artist = "葛葉"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=gm3TV1cnKViEUlo_DQi-lQ"
+title = "Virtual to LIVE"
+artist = "にじさんじ"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "2"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=upLIXb-4rhXdkAxwEtQPyw"
