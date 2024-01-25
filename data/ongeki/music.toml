@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 897
-last_updated = "2024-01-11T03:03:31.060487991Z"
+count = 899
+last_updated = "2024-01-25T03:02:36.644056705Z"
 
 [[songs]]
 id = "515200"
@@ -26065,7 +26065,7 @@ title_reading = "ステラ"
 artist = "じん/初音ミク/Leo/need「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
 date = "2024-01-11"
 image = "55245f44e4c71c11.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© SEGA / © Colorful Palette Inc. / © Crypton Future Media, INC. www.piapro.net　ピアプロロゴ All rights reserved."
@@ -26095,7 +26095,7 @@ title_reading = "ハラソルサイタ"
 artist = "ナナホシ管弦楽団/巡音ルカ/MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
 date = "2024-01-11"
 image = "0a25ca7beaeee968.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© SEGA / © Colorful Palette Inc. / © Crypton Future Media, INC. www.piapro.net　ピアプロロゴ All rights reserved."
@@ -26125,7 +26125,7 @@ title_reading = "セカイチヤントカフチヤンノオツカイカツソウ
 artist = "南ノ南"
 date = "2024-01-11"
 image = "db14394b4bc4a583.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -26149,6 +26149,64 @@ master = "14"
 [songs.character]
 id = "1140"
 name = "日向 千夏"
+
+[[songs]]
+id = "500550"
+title = "つっぱれ！にゃんきー魂"
+title_reading = "ツツハレニヤンキタマシイ"
+artist = "Neko Hacker feat.うごくちゃん"
+date = "2024-01-25"
+image = "bffb7d0bbe2b6f02.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1150"
+name = "柏木 美亜"
+
+[[songs]]
+id = "500540"
+title = "Elemental Ethnic"
+title_reading = "ELEMENTALETHNIC"
+artist = "Yooh"
+date = "2024-01-25"
+image = "69ea10b781dfb5c8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12+"
+master = "14+"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
 
 [[categories]]
 id = "06"

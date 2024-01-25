@@ -1,6 +1,51 @@
 name = "chunithm_jp"
-count = 1368
-last_updated = "2024-01-11T03:03:30.939195195Z"
+count = 1372
+last_updated = "2024-01-25T03:02:38.577146996Z"
+
+[[songs]]
+id = "2497"
+title = "アイデン貞貞メルトダウン"
+title_reading = "アイテンテイテイメルトタウン"
+artist = "えなこ feat. P丸様。「お兄ちゃんはおしまい！」"
+image = "9db02942734bd7a7.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "12"
+
+[[songs]]
+id = "2498"
+title = "ひめごと＊クライシスターズ"
+title_reading = "ヒメコトクライシスタウス"
+artist = "ONIMAI SISTERS（高野麻里佳・石原夏織・金元寿子・津田美波）「お兄ちゃんはおしまい！」"
+image = "95cceb2d69e05cd0.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2499"
+title = "Stellar Stellar"
+title_reading = "STELLARSTELLAR"
+artist = "星街すいせい（ホロライブ）"
+image = "b1b2a6153daf67e7.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "2496"
@@ -2069,7 +2114,7 @@ title_reading = "テラテラ"
 artist = "和田たけあき / 初音ミク / Leo/need「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
 image = "b5b54e8993c437f1.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2084,7 +2129,7 @@ title_reading = "テンシノクロウハウ"
 artist = "DIVELA / 鏡音リン / MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
 image = "7a75a039508675d3.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2099,7 +2144,7 @@ title_reading = "BEATEATER"
 artist = "ポリスピカデリー / 鏡音レン / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
 image = "8088281313c4563b.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2114,7 +2159,7 @@ title_reading = "GLORYSTEADYGO"
 artist = "キノシタ / 巡音ルカ / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
 image = "bb0ae6b51e39a419.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2129,7 +2174,7 @@ title_reading = "ロウワウ"
 artist = "ぬゆり / MEIKO / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
 image = "ce27d9e82402811f.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -10673,6 +10718,21 @@ is_new = false
 basic = "3"
 advanced = "7"
 expert = "11+"
+master = "14"
+
+[[songs]]
+id = "2534"
+title = "ENERGY SYNERGY MATRIX"
+title_reading = "ENERGYSYNERGYMATRIX"
+artist = "Tanchiky"
+image = "8bad62668f599caa.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
 master = "14"
 
 [[songs]]
