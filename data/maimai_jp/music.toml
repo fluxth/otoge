@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1179
-last_updated = "2024-01-11T03:03:30.964873212Z"
+count = 1183
+last_updated = "2024-01-26T03:02:56.878511932Z"
 
 [[songs]]
 id = "922"
@@ -19878,7 +19878,7 @@ category = "ゲーム＆バラエティ"
 version = "24006"
 release = "2023-11-10"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "4"
@@ -19896,7 +19896,7 @@ category = "ゲーム＆バラエティ"
 version = "24006"
 release = "2023-11-10"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "6"
@@ -19995,6 +19995,78 @@ expert = "12"
 master = "13+"
 
 [[songs]]
+id = "111"
+title = "ずんだもんの朝食　〜目覚ましずんラップ〜"
+title_reading = "スンタモンノチヨウシヨクメサマシスンラツフ"
+artist = "ひらうみ"
+image = "c4d3b35bca6c9943.png"
+category = "niconico＆ボーカロイド"
+version = "24012"
+release = "2024-01-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "8"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "112"
+title = "あなたは世界の終わりにずんだを食べるのだ"
+title_reading = "アナタハセカイノオワリニスンタヲタヘルノタ"
+artist = "なみぐる"
+image = "bc79d6ceafb61bd6.png"
+category = "niconico＆ボーカロイド"
+version = "24012"
+release = "2024-01-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "3"
+title = "HUMANBORG"
+title_reading = "HUMANBORG"
+artist = "SARUKANI"
+image = "9e8c84f25675f149.png"
+category = "POPS＆アニメ"
+version = "24012"
+release = "2024-01-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "12"
+master = "13+"
+
+[[songs]]
+id = "4"
+title = "ULTRA POWER"
+title_reading = "ULTRAPOWER"
+artist = "SARUKANI"
+image = "0ee0733dfff12e09.png"
+category = "POPS＆アニメ"
+version = "24012"
+release = "2024-01-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "13"
+
+[[songs]]
 id = "1097"
 title = "Apollo"
 title_reading = "APOLLO"
@@ -20057,7 +20129,7 @@ image = "090b22d9d89285cd.png"
 category = "niconico＆ボーカロイド"
 version = "24011"
 release = "2024-01-11"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -20075,7 +20147,7 @@ image = "08d332ae453192d2.png"
 category = "niconico＆ボーカロイド"
 version = "24011"
 release = "2024-01-11"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -20093,7 +20165,7 @@ image = "6034307d9291f014.png"
 category = "niconico＆ボーカロイド"
 version = "24011"
 release = "2024-01-11"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -20220,7 +20292,7 @@ is_locked = false
 [songs.utage]
 level = "14?"
 kanji = "宴"
-comment = "Jackの現代風アレンジ版"
+comment = "はっぴーの若干ストイック気味版"
 
 [[songs]]
 id = "1213"
