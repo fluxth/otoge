@@ -39,7 +39,7 @@ jobs:
           echo "RUSTC_HASH=$(rustc --version | sed 's/^.*(\(.*\))$/\1/' | awk '{ printf $1 }')" >> "$GITHUB_ENV"
 
       - name: Run sccache-cache
-        uses: mozilla-actions/sccache-action@8417cffc2ec64127ad83077aceaa8631f7cdc83e # v0.0.3
+        uses: mozilla-actions/sccache-action@2e7f9ec7921547d4b46598398ca573513895d0bd # v0.0.4
 
       - name: Cache cargo registry
         uses: actions/cache@13aacd865c20de90d75de3b17ebe84f7a17d57d2 # v4
