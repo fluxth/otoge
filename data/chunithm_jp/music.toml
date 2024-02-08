@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1372
-last_updated = "2024-01-25T03:02:38.577146996Z"
+count = 1379
+last_updated = "2024-02-08T03:03:21.224465974Z"
 
 [[songs]]
 id = "2497"
@@ -9,7 +9,7 @@ title_reading = "アイテンテイテイメルトタウン"
 artist = "えなこ feat. P丸様。「お兄ちゃんはおしまい！」"
 image = "9db02942734bd7a7.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "ヒメコトクライシスタウス"
 artist = "ONIMAI SISTERS（高野麻里佳・石原夏織・金元寿子・津田美波）「お兄ちゃんはおしまい！」"
 image = "95cceb2d69e05cd0.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -39,7 +39,7 @@ title_reading = "STELLARSTELLAR"
 artist = "星街すいせい（ホロライブ）"
 image = "b1b2a6153daf67e7.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2106,6 +2106,36 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "14+"
+
+[[songs]]
+id = "2515"
+title = "イナイイナイ依存症"
+title_reading = "イナイイナイイソンシヨウ"
+artist = "かいりきベア feat.GUMI・鏡音リン"
+image = "ad77b91f22a551dd.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "11"
+master = "14"
+
+[[songs]]
+id = "2517"
+title = "バグ"
+title_reading = "ハク"
+artist = "かいりきベア"
+image = "42d5ffcebd5ec929.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "2513"
@@ -10727,7 +10757,7 @@ title_reading = "ENERGYSYNERGYMATRIX"
 artist = "Tanchiky"
 image = "8bad62668f599caa.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11833,6 +11863,21 @@ basic = "2"
 advanced = "5"
 expert = "9+"
 master = "12"
+
+[[songs]]
+id = "2550"
+title = "ラビットランド・メッセンジャー"
+title_reading = "ラヒツトラントメツセンシヤウ"
+artist = "天王洲 なずな(CV:山本 彩乃)"
+image = "2ada4abd53e380f3.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9"
+master = "13"
 
 [[songs]]
 id = "683"
@@ -14532,6 +14577,21 @@ is_new = false
 basic = "4"
 advanced = "8+"
 expert = "13+"
+master = "14+"
+
+[[songs]]
+id = "2557"
+title = "Adverse Gaff"
+title_reading = "ADVERSEGAFF"
+artist = "siromaru"
+image = "515f131aba69f277.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "13"
 master = "14+"
 
 [[songs]]
@@ -19675,6 +19735,45 @@ basic = "3"
 advanced = "6"
 expert = "10"
 master = "13"
+
+[[songs]]
+id = "8275"
+title = "シル・ヴ・プレジデント"
+title_reading = "シルウフレシテント"
+artist = "P丸様。"
+image = "08387606c829a936.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.worlds_end]
+kanji = "敷"
+star = "1"
+
+[[songs]]
+id = "8276"
+title = "うまぴょい伝説"
+title_reading = "ウマヒヨイテンセツ"
+artist = "スペシャルウィーク （CV.和氣あず未）、サイレンススズカ （CV.高野麻里佳）、トウカイテイオー （CV.Machico）"
+image = "4e20abe3e2d1b084.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.worlds_end]
+kanji = "両"
+star = "3"
+
+[[songs]]
+id = "8277"
+title = "レーイレーイ"
+title_reading = "レウイレウイ"
+artist = "かいりきベア feat.松下"
+image = "69c42af6e2583d45.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.worlds_end]
+kanji = "？"
+star = "3"
 
 [[songs]]
 id = "8278"
