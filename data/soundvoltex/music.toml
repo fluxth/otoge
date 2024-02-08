@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 1983
-last_updated = "2024-02-01T03:02:35.722164967Z"
+count = 1986
+last_updated = "2024-02-08T03:03:31.336391313Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Bb1h80GJ8i7smOiCvbrP4A"
+title = "群青纏う朱の槍"
+artist = "めと（Metomate）"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=RDHLyBEnwJ1Pt-Zjn9IWYg"
+title = "CHOVERY GOOSE!!!"
+artist = "MYUKKE."
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=koJdPtYFYmLJwnkojjKK8w"
+title = "トリコエリヌム▽コンチェルト"
+artist = "qfeileadh"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=iVjKvjfvI-Vtdr-z92d9Lg"
