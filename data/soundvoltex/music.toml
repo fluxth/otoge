@@ -1,6 +1,96 @@
 name = "soundvoltex"
-count = 1986
-last_updated = "2024-02-08T03:03:31.336391313Z"
+count = 1992
+last_updated = "2024-02-15T03:02:46.929155067Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=SK_Xm1l5h1KvW0pJV0xXeA"
+title = "Ambivalent Vermilia"
+artist = "BEMANI Sound Team \"二代目朱雀 feat.朱雀\""
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=xiBEbHweYvYcvIN2wsvA1A"
+title = "V!LLA!N"
+artist = "Kaname"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=v4ddus22c6WjnbcS0LpXWg"
+title = "ON THE WORLD"
+artist = "Yuta Imai"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=-lFZqqUvUlrQq0VOdnmlbw"
+title = "ちょえちょえまぎか"
+artist = "Pizuya's Cell"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=uSucRG2xJGVkQZ4mR6XIEw"
+title = "Deep tenDon Reflex"
+artist = "BEMANI Sound Team \"Coyaan\""
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Ed0NPX0by69frh3dS1B-Hw"
+title = "TOYBOX CANNØN=͟͟͞ Σ≡=｡ﾟ:*.:+｡.☆"
+artist = "Mono."
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=Bb1h80GJ8i7smOiCvbrP4A"
