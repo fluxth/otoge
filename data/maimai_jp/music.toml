@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1187
-last_updated = "2024-02-02T03:02:27.280359357Z"
+count = 1191
+last_updated = "2024-02-16T03:02:36.454844977Z"
 
 [[songs]]
 id = "930"
@@ -10358,6 +10358,30 @@ expert = "11"
 master = "13"
 
 [[songs]]
+id = "1002"
+title = "渦状銀河のシンフォニエッタ"
+title_reading = "カシヨウキンカノシンフオニエツタ"
+artist = "山本真央樹"
+image = "a9be993d5f552289.png"
+category = "maimai"
+version = "24013"
+release = "2024-02-16"
+is_new = true
+is_locked = false
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "8"
+expert = "11+"
+master = "14"
+
+[[songs]]
 id = "992"
 title = "VIIIbit Explorer"
 title_reading = "VIIIBITEXPLORER"
@@ -11596,23 +11620,6 @@ basic = "5"
 advanced = "8+"
 expert = "12+"
 master = "14+"
-
-[[songs]]
-id = "1003"
-title = "渦状銀河のシンフォニエッタ"
-title_reading = "カシヨウキンカノシンフオニエツタ"
-artist = "山本真央樹"
-image = "a9be993d5f552289.png"
-category = "maimai"
-version = "20512"
-is_new = false
-is_locked = false
-
-[songs.dx_levels]
-basic = "3"
-advanced = "8"
-expert = "11+"
-master = "14"
 
 [[songs]]
 id = "784"
@@ -18187,7 +18194,7 @@ image = "4014389349bb320b.png"
 category = "maimai"
 version = "24013"
 release = "2024-02-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18205,7 +18212,7 @@ image = "ee99a02fc685bbe4.png"
 category = "maimai"
 version = "24013"
 release = "2024-02-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18223,7 +18230,7 @@ image = "1572e3183f426fc0.png"
 category = "maimai"
 version = "24013"
 release = "2024-02-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -18241,7 +18248,7 @@ image = "bb049831e2c0b573.png"
 category = "maimai"
 version = "24013"
 release = "2024-02-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20137,6 +20144,78 @@ basic = "3"
 advanced = "6"
 expert = "11"
 master = "13"
+
+[[songs]]
+id = "111"
+title = "ジェヘナ"
+title_reading = "シエヘナ"
+artist = "wotaku"
+image = "0d250f5077500a46.png"
+category = "niconico＆ボーカロイド"
+version = "24014"
+release = "2024-02-16"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "112"
+title = "ツギハギスタッカート"
+title_reading = "ツキハキスタツカアト"
+artist = "とあ"
+image = "387ff1be544f7efc.png"
+category = "niconico＆ボーカロイド"
+version = "24014"
+release = "2024-02-16"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "1"
+advanced = "6"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "415"
+title = "HANIPAGANDA"
+title_reading = "HANIPAGANDA"
+artist = "暁Records"
+image = "0e72ea01a7940ebc.png"
+category = "東方Project"
+version = "24014"
+release = "2024-02-16"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "11+"
+master = "13"
+
+[[songs]]
+id = "557"
+title = "Rush-Hour"
+title_reading = "RUSHHOUR"
+artist = "litmus*"
+image = "72add6e11afd6c5a.png"
+category = "ゲーム＆バラエティ"
+version = "24014"
+release = "2024-02-16"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8+"
+expert = "12"
+master = "13+"
 
 [[songs]]
 id = "1106"
