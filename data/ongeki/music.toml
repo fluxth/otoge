@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 901
-last_updated = "2024-02-08T03:03:21.184544276Z"
+count = 905
+last_updated = "2024-02-22T03:02:19.375101602Z"
 
 [[songs]]
 id = "515200"
@@ -26215,7 +26215,7 @@ title_reading = "ZITRONECTAR"
 artist = "Reku Mochizuki"
 date = "2024-02-08"
 image = "48bdd3e1bc3eaf71.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26244,7 +26244,7 @@ title_reading = "GAMECHANGER"
 artist = "uma vs. ガリガリさむし"
 date = "2024-02-08"
 image = "381d4804f9696d2b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26265,6 +26265,124 @@ master = "14+"
 [songs.character]
 id = "1090"
 name = "井之原 小星"
+
+[[songs]]
+id = "100860"
+title = "3分ガール"
+title_reading = "3フンカル"
+artist = "HIMEHINA"
+date = "2024-02-22"
+image = "a6354eb4a365b960.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©LaRa"
+
+[songs.chapter]
+id = "99103"
+name = "HIMEHINA"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "6"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "7330"
+name = "ヒメヒナ"
+
+[[songs]]
+id = "200890"
+title = "ド屑"
+title_reading = "トクス"
+artist = "なきそ"
+date = "2024-02-22"
+image = "e3cab88324f3f9c2.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©なきそ ©2022 by XING MUSIC ENTERTAINMENT,INC."
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
+
+[[songs]]
+id = "719300"
+title = "反撃! 突撃! Back To Back! -星咲 あかりソロver.-"
+title_reading = "ハンケキトツケキBACKTOBACKホシサキアカリソロVER"
+artist = "曲：矢鴇つかさ & 脇眞富（Arte Refact）／歌：星咲 あかり(CV：赤尾 ひかる)"
+date = "2024-02-22"
+image = "120f16578c77c031.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80006"
+name = "ONE BULLET LEFT"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "9+"
+master = "13"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
+
+[[songs]]
+id = "719400"
+title = "反撃! 突撃! Back To Back! -高瀬 梨緒ソロver.-"
+title_reading = "ハンケキトツケキBACKTOBACKタカセリオソロVER"
+artist = "曲：矢鴇つかさ & 脇眞富（Arte Refact）／歌：高瀬 梨緒(CV：久保 ユリカ)"
+date = "2024-02-22"
+image = "2741a3d5d795210f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80006"
+name = "ONE BULLET LEFT"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "9+"
+master = "13"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
 
 [[categories]]
 id = "06"
