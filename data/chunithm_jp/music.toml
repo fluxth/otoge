@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1379
-last_updated = "2024-02-08T03:03:21.224465974Z"
+count = 1384
+last_updated = "2024-02-22T03:02:19.243553868Z"
 
 [[songs]]
 id = "2497"
@@ -2114,7 +2114,7 @@ title_reading = "イナイイナイイソンシヨウ"
 artist = "かいりきベア feat.GUMI・鏡音リン"
 image = "ad77b91f22a551dd.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2129,7 +2129,7 @@ title_reading = "ハク"
 artist = "かいりきベア"
 image = "42d5ffcebd5ec929.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11871,7 +11871,7 @@ title_reading = "ラヒツトラントメツセンシヤウ"
 artist = "天王洲 なずな(CV:山本 彩乃)"
 image = "2ada4abd53e380f3.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -14586,7 +14586,7 @@ title_reading = "ADVERSEGAFF"
 artist = "siromaru"
 image = "515f131aba69f277.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -19737,13 +19737,88 @@ expert = "10"
 master = "13"
 
 [[songs]]
+id = "2574"
+title = "lucky omen"
+title_reading = "LUCKYOMEN"
+artist = "TEMPLIME feat.星宮とと"
+image = "07aef52349843386.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2575"
+title = "Sunlight Starlight"
+title_reading = "SUNLIGHTSTARLIGHT"
+artist = "Palme"
+image = "c170f8680f69b4a4.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "10+"
+master = "14"
+
+[[songs]]
+id = "2576"
+title = "ワーカーホリック"
+title_reading = "ワウカウホリツク"
+artist = "ミディ feat.小鈴"
+image = "9fd5da213db55b55.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2577"
+title = "Overturn"
+title_reading = "OVERTURN"
+artist = "Mameyudoufu feat.Kanata.N"
+image = "131d1386984ce146.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "14"
+
+[[songs]]
+id = "2578"
+title = "First Light"
+title_reading = "FIRSTLIGHT"
+artist = "Carpainter"
+image = "ab1f8aec640e9d31.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "13+"
+
+[[songs]]
 id = "8275"
 title = "シル・ヴ・プレジデント"
 title_reading = "シルウフレシテント"
 artist = "P丸様。"
 image = "08387606c829a936.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "敷"
@@ -19756,7 +19831,7 @@ title_reading = "ウマヒヨイテンセツ"
 artist = "スペシャルウィーク （CV.和氣あず未）、サイレンススズカ （CV.高野麻里佳）、トウカイテイオー （CV.Machico）"
 image = "4e20abe3e2d1b084.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "両"
@@ -19769,7 +19844,7 @@ title_reading = "レウイレウイ"
 artist = "かいりきベア feat.松下"
 image = "69c42af6e2583d45.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "？"

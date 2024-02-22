@@ -1,6 +1,96 @@
 name = "soundvoltex"
-count = 1992
-last_updated = "2024-02-15T03:02:46.929155067Z"
+count = 1998
+last_updated = "2024-02-22T03:02:30.089798193Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=sGscT7-g6cSTiUlAdfZw5A"
+title = "イグジスター"
+artist = "東雲蛍 feat. はぁち"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Yvvl3QSUKoflj1DP-UOlrA"
+title = "カミサマ・ネコサマ"
+artist = "猫又おかゆ"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=kUTOvVGw4Ks8wfUZymxAbQ"
+title = "毒杯スワロウ"
+artist = "猫又おかゆ"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=2cxjpIh09HNE7HnqyJwDmA"
+title = "花火のおもちゃ箱"
+artist = "Yu-dachi"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=e8h_sAG8BqjASWi41K6HKA"
+title = "もぐもぐYUMMY！"
+artist = "猫又おかゆ"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "2"
+advanced = "9"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=1N__KcHUZo7O6BDetPM3vg"
+title = "La Nostra Storia!"
+artist = "polysha w/ mikanzil"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=SK_Xm1l5h1KvW0pJV0xXeA"
