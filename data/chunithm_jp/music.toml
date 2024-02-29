@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1384
-last_updated = "2024-02-22T03:02:19.243553868Z"
+count = 1386
+last_updated = "2024-02-29T03:02:14.842930894Z"
 
 [[songs]]
 id = "2497"
@@ -13485,6 +13485,21 @@ expert = "13"
 master = "14"
 
 [[songs]]
+id = "2556"
+title = "Mutation"
+title_reading = "MUTATION"
+artist = "Laur"
+image = "6539e0d5d93f4e83.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12+"
+master = "14+"
+
+[[songs]]
 id = "802"
 title = "STARTLINER"
 title_reading = "STARTLINER"
@@ -14786,6 +14801,21 @@ is_new = false
 [songs.levels]
 basic = "5"
 advanced = "11+"
+expert = "14"
+master = "15"
+
+[[songs]]
+id = "2579"
+title = "ラストピースに祝福と栄光を"
+title_reading = "ラストヒウスニシユクフクトエイコウヲ"
+artist = "cosMo＠暴走P"
+image = "2ad19c9da7f807e4.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "10"
 expert = "14"
 master = "15"
 
@@ -19743,7 +19773,7 @@ title_reading = "LUCKYOMEN"
 artist = "TEMPLIME feat.星宮とと"
 image = "07aef52349843386.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -19758,7 +19788,7 @@ title_reading = "SUNLIGHTSTARLIGHT"
 artist = "Palme"
 image = "c170f8680f69b4a4.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -19773,7 +19803,7 @@ title_reading = "ワウカウホリツク"
 artist = "ミディ feat.小鈴"
 image = "9fd5da213db55b55.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -19788,7 +19818,7 @@ title_reading = "OVERTURN"
 artist = "Mameyudoufu feat.Kanata.N"
 image = "131d1386984ce146.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -19803,7 +19833,7 @@ title_reading = "FIRSTLIGHT"
 artist = "Carpainter"
 image = "ab1f8aec640e9d31.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"

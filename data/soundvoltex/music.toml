@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 1998
-last_updated = "2024-02-22T03:02:30.089798193Z"
+count = 2001
+last_updated = "2024-02-29T03:02:26.121609083Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=_IdVkMWlXr4Vk6h7mPWEbg"
+title = "グリーディ・スターズ！"
+artist = "みーに feat. しろさきあや"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qwK9ms93HXSHjnfyowPkQA"
+title = "Di-Da-De-Doo"
+artist = "Yu_Asahina ft.Mizutama"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "13"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=vSxDS0Q0T7DYE9TW-Ydnmg"
+title = "Break Through Δpex"
+artist = "Halv feat.Kuroa*"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=sGscT7-g6cSTiUlAdfZw5A"
