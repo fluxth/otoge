@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2001
-last_updated = "2024-02-29T03:02:26.121609083Z"
+count = 2005
+last_updated = "2024-03-07T03:02:23.932857978Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=xqavXiKAYKlxynItUQer4g"
+title = "Ars Magna"
+artist = "Riz"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=tXaMJOWD81tmrW8TurN21Q"
+title = "Inevitable Magic"
+artist = "Alkome"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ZVDJvSC5fx9tTI0mhC9Irw"
+title = "LOVE TONIC"
+artist = "影虎。"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=NlULHwSBix6ZKGXqbzfj3Q"
+title = "waxing and wanding"
+artist = "青龍"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=_IdVkMWlXr4Vk6h7mPWEbg"
