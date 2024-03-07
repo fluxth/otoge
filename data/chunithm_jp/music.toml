@@ -1,6 +1,51 @@
 name = "chunithm_jp"
-count = 1386
-last_updated = "2024-02-29T03:02:14.842930894Z"
+count = 1392
+last_updated = "2024-03-07T03:02:12.199672891Z"
+
+[[songs]]
+id = "2500"
+title = "不可解"
+title_reading = "フカカイ"
+artist = "花譜"
+image = "2aa0e4f4f579e4ff.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12"
+
+[[songs]]
+id = "2501"
+title = "海に化ける"
+title_reading = "ウミニハケル"
+artist = "花譜"
+image = "8347f7b54f46f4c5.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2502"
+title = "パラレルサーチライト"
+title_reading = "ハラレルサウチライト"
+artist = "名取さな"
+image = "8f91117f0cfcdc93.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "13"
 
 [[songs]]
 id = "2497"
@@ -2106,6 +2151,36 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "14+"
+
+[[songs]]
+id = "2518"
+title = "ミラクルペイント"
+title_reading = "ミラクルヘイント"
+artist = "OSTER project"
+image = "6add44572b7b8cce.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "12"
+
+[[songs]]
+id = "2519"
+title = "ブラック★ロックシューター"
+title_reading = "フラツクロツクシユウタウ"
+artist = "supercell feat.初音ミク"
+image = "94f9d229cf91aa84.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "8+"
+master = "12"
 
 [[songs]]
 id = "2515"
@@ -13491,7 +13566,7 @@ title_reading = "MUTATION"
 artist = "Laur"
 image = "6539e0d5d93f4e83.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -14098,6 +14173,21 @@ basic = "3"
 advanced = "7"
 expert = "10+"
 master = "14"
+
+[[songs]]
+id = "2559"
+title = "Catch Me If You Can"
+title_reading = "CATCHMEIFYOUCAN"
+artist = "曲：TAKU INOUE／歌：早乙女 彩華(CV：中島 唯)"
+image = "73f0080b80162f0e.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "2366"
@@ -14811,7 +14901,7 @@ title_reading = "ラストヒウスニシユクフクトエイコウヲ"
 artist = "cosMo＠暴走P"
 image = "2ad19c9da7f807e4.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
