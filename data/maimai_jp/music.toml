@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1199
-last_updated = "2024-02-29T03:02:14.757830560Z"
+count = 1202
+last_updated = "2024-03-08T03:02:25.172590171Z"
 
 [[songs]]
 id = "934"
@@ -3720,6 +3720,7 @@ basic = "4"
 advanced = "7"
 expert = "10+"
 master = "13"
+remaster = "13"
 
 [[songs]]
 id = "753"
@@ -19719,7 +19720,7 @@ image = "dae3ed9c3ccbcdb2.png"
 category = "オンゲキ＆CHUNITHM"
 version = "24015"
 release = "2024-02-29"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19737,7 +19738,7 @@ image = "f3e016cdb888c313.png"
 category = "オンゲキ＆CHUNITHM"
 version = "24015"
 release = "2024-02-29"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -19755,7 +19756,7 @@ image = "31d7d548f4a52676.png"
 category = "オンゲキ＆CHUNITHM"
 version = "24015"
 release = "2024-02-29"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20272,6 +20273,60 @@ expert = "12"
 master = "13+"
 
 [[songs]]
+id = "111"
+title = "QUEEN"
+title_reading = "QUEEN"
+artist = "Kanaria"
+image = "4c8911dff643e5cb.png"
+category = "niconico＆ボーカロイド"
+version = "24016"
+release = "2024-03-08"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "12+"
+
+[[songs]]
+id = "113"
+title = "天使の翼。"
+title_reading = "テンシノツハサ"
+artist = "A4。"
+image = "0412717b893fe247.png"
+category = "niconico＆ボーカロイド"
+version = "24016"
+release = "2024-03-08"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "112"
+title = "さよならプリンセス"
+title_reading = "サヨナラフリンセス"
+artist = "Kai"
+image = "a98a61705b5d5c24.png"
+category = "niconico＆ボーカロイド"
+version = "24016"
+release = "2024-03-08"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[[songs]]
 id = "1113"
 title = "Apollo"
 title_reading = "APOLLO"
@@ -20316,7 +20371,7 @@ image = "1ace9e4612c5e020.png"
 category = "maimai"
 version = "24015"
 release = "2024-02-29"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
