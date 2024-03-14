@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2005
-last_updated = "2024-03-07T03:02:23.932857978Z"
+count = 2009
+last_updated = "2024-03-14T03:02:27.980585356Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=LtWfwYmEWNbqfO4XgFYNTA"
+title = "異次元の孤独～カナタノキミヘ～"
+artist = "RoughSkreamZ feat. Sennzai"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=5WBoISaYq1sZtt7kgX5ZBg"
+title = "Crawl Out Immortal"
+artist = "U-ske feat.Parfaitty"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=5vl8Ag_o4hPfk1UojaZm1w"
+title = "SΛMVICΛ"
+artist = "seatrus -Reborn-"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=E1OC9IcOfiMqcSZpHAyk_A"
+title = "MΔX FLAVØR"
+artist = "EmoCosine overlay"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "14"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=xqavXiKAYKlxynItUQer4g"
