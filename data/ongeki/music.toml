@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 882
-last_updated = "2024-03-07T03:02:12.303928563Z"
+count = 885
+last_updated = "2024-03-21T03:02:27.485547970Z"
 
 [[songs]]
 id = "583100"
@@ -25216,7 +25216,7 @@ title_reading = "MEGALOVANIA"
 artist = "Toby Fox「UNDERTALE」"
 date = "2024-03-07"
 image = "bfa1d05603a89209.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "UNDERTALE © Toby Fox 2015-2022. All rights reserved."
@@ -25246,7 +25246,7 @@ title_reading = "ANDREVIVETHEMELODY"
 artist = "黒魔"
 date = "2024-03-07"
 image = "0fcff21060a04c79.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25275,7 +25275,7 @@ title_reading = "DRAMATIC"
 artist = "曲：Kijibato／歌：星咲 あかり(CV：赤尾 ひかる)、珠洲島 有栖(CV：長縄 まりあ)、日向 千夏(CV：岡咲 美保)、皇城 セツナ(CV：八巻 アンナ)"
 date = "2024-03-07"
 image = "91eb7c26a9c0af92.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25304,7 +25304,7 @@ title_reading = "STEPBYSTEP"
 artist = "曲：竹内サティフォ／歌：星咲 あかり(CV：赤尾 ひかる)"
 date = "2024-03-07"
 image = "d4a2639a318c4c8c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25333,7 +25333,7 @@ title_reading = "ハツヒシユテインクスタ"
 artist = "曲：森羅万象／歌：藤沢 柚子(CV：久保田 梨沙)"
 date = "2024-03-07"
 image = "68a92dbe8f685759.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25362,7 +25362,7 @@ title_reading = "EVENTHORIZON"
 artist = "曲：5u5h1／歌：三角 葵(CV：春野 杏)"
 date = "2024-03-07"
 image = "b88d382cef32192e.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25391,7 +25391,7 @@ title_reading = "サトライアンクル"
 artist = "Yuta Imai"
 date = "2024-03-07"
 image = "188e63ea6f935fee.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25420,7 +25420,7 @@ title_reading = "INTERNETOVERDOSE"
 artist = "Aiobahn feat. KOTOKO"
 date = "2024-03-07"
 image = "3782718e5e37941f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©WSS playground"
@@ -25450,7 +25450,7 @@ title_reading = "シリウスノカカヤキノヨウニ"
 artist = "鳳 ここな(CV.石見舞菜香)、静香(CV.長谷川育美)、カトリナ・グリーベル(CV.天城サリー)、新妻八恵(CV.長縄まりあ)、柳場ぱんだ(CV.大空直美)、流石知冴(CV.佐々木李子)"
 date = "2024-03-07"
 image = "c5e4a159db6da949.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Sirius/Project WDS Developed and Published by KMS, inc."
@@ -25480,7 +25480,7 @@ title_reading = "キユウクラリン"
 artist = "いよわ"
 date = "2024-03-07"
 image = "aebe7912240183e4.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25509,7 +25509,7 @@ title_reading = "GRAYEDOUTANTIFRONT"
 artist = "Getty vs. DJ DiA"
 date = "2024-03-07"
 image = "81e724a9d024dd15.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -25538,7 +25538,7 @@ title_reading = "オンステシホシサキアカリソロVER"
 artist = "曲：塩野 海／歌：星咲 あかり(CV：赤尾 ひかる)"
 date = "2024-03-07"
 image = "207121d4fe7f96e1.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 copyright = "© Re:STAGE! PROJECT"
@@ -25568,7 +25568,7 @@ title_reading = "オンステシシキミヤマイナソロVER"
 artist = "曲：塩野 海／歌：式宮 舞菜(CV：牧野 天音)"
 date = "2024-03-07"
 image = "a42efba160362b0f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 copyright = "© Re:STAGE! PROJECT"
@@ -25598,7 +25598,7 @@ title_reading = "フロミネンススメラキセツナソロVER"
 artist = "曲：下野 隼／歌：皇城 セツナ(CV：八巻 アンナ)"
 date = "2024-03-07"
 image = "974dc5212ea3d597.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 copyright = "© Re:STAGE! PROJECT"
@@ -25628,7 +25628,7 @@ title_reading = "フロミネンスシキミヤアオネソロVER"
 artist = "曲：下野 隼／歌：式宮 碧音(CV：髙橋 ミナミ)"
 date = "2024-03-07"
 image = "abb8365c44e39d63.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 copyright = "© Re:STAGE! PROJECT"
@@ -25658,7 +25658,7 @@ title_reading = "MEGALOVANIA"
 artist = "Toby Fox「UNDERTALE」"
 date = "2024-03-07"
 image = "e267bb3859139563.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 copyright = "UNDERTALE © Toby Fox 2015-2022. All rights reserved."
@@ -25685,7 +25685,7 @@ title_reading = "RANDOMACCESSEMOTIONS"
 artist = "aran"
 date = "2024-03-07"
 image = "cd1f8982067ac4e3.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 
@@ -25703,6 +25703,93 @@ lunatic = "0"
 [songs.character]
 id = "9030"
 name = "みどニャン"
+
+[[songs]]
+id = "382700"
+title = "スカーレット警察のゲットーパトロール24時"
+title_reading = "スカレツトケイサツノケトハトロルニシユヨシ"
+artist = "七条レタスグループ"
+date = "2024-03-21"
+image = "650784306de4458d.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©上海アリス幻樂団"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "03"
+name = "東方Project"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "13+"
+
+[songs.character]
+id = "2060"
+name = "レミリア・スカーレット"
+
+[[songs]]
+id = "170300"
+title = "プラネタリウム・レヴュー"
+title_reading = "フラネタリウムレウユ"
+artist = "千寿 暦(CV.鳥部万里子)、ラモーナ・ウォルフ(CV.田中美海)、王 雪(CV.花井美春)、リリヤ・クルトベイ(CV.安齋由香里)、与那国緋花里(CV.下地紫野)"
+date = "2024-03-21"
+image = "ee0a864138d89096.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Sirius/Project WDS Developed and Published by KMS, inc."
+
+[songs.chapter]
+id = "99104"
+name = "ワールドダイスター 夢のステラリウム"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "10"
+master = "12"
+
+[songs.character]
+id = "7400"
+name = "千寿 暦"
+
+[[songs]]
+id = "985700"
+title = "シリウスの輝きのように"
+title_reading = "シリウスノカカヤキノヨウニ"
+artist = "鳳 ここな(CV.石見舞菜香)、静香(CV.長谷川育美)、カトリナ・グリーベル(CV.天城サリー)、新妻八恵(CV.長縄まりあ)、柳場ぱんだ(CV.大空直美)、流石知冴(CV.佐々木李子)"
+date = "2024-03-21"
+image = "43c68d7763273b82.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+copyright = "©Sirius/Project WDS Developed and Published by KMS, inc."
+
+[songs.chapter]
+id = "99104"
+name = "ワールドダイスター 夢のステラリウム"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+lunatic = "14+"
+
+[songs.character]
+id = "7340"
+name = "鳳 ここな"
 
 [[categories]]
 id = "06"
