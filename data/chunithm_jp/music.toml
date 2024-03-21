@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1392
-last_updated = "2024-03-07T03:02:12.199672891Z"
+count = 1397
+last_updated = "2024-03-21T03:02:26.258093594Z"
 
 [[songs]]
 id = "2500"
@@ -9,7 +9,7 @@ title_reading = "フカカイ"
 artist = "花譜"
 image = "2aa0e4f4f579e4ff.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -24,7 +24,7 @@ title_reading = "ウミニハケル"
 artist = "花譜"
 image = "8347f7b54f46f4c5.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -39,7 +39,7 @@ title_reading = "ハラレルサウチライト"
 artist = "名取さな"
 image = "8f91117f0cfcdc93.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2159,7 +2159,7 @@ title_reading = "ミラクルヘイント"
 artist = "OSTER project"
 image = "6add44572b7b8cce.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2174,7 +2174,7 @@ title_reading = "フラツクロツクシユウタウ"
 artist = "supercell feat.初音ミク"
 image = "94f9d229cf91aa84.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -7580,6 +7580,7 @@ basic = "3"
 advanced = "6"
 expert = "9+"
 master = "13+"
+ultima = "14+"
 
 [[songs]]
 id = "384"
@@ -9348,6 +9349,81 @@ basic = "4"
 advanced = "9"
 expert = "13"
 master = "14+"
+
+[[songs]]
+id = "2536"
+title = "D-Birth"
+title_reading = "DBIRTH"
+artist = "削除"
+image = "e5d646426fd0801e.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "2537"
+title = "GIGA BLAST"
+title_reading = "GIGABLAST"
+artist = "Blacklolita"
+image = "79b1429c107478c2.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2538"
+title = "Longinus"
+title_reading = "LONGINUS"
+artist = "xi"
+image = "98cfe15bbf406031.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "13+"
+master = "14+"
+
+[[songs]]
+id = "2539"
+title = "Ωκεανος"
+title_reading = "OKEANOS"
+artist = "cosMo@暴走P"
+image = "c54d971a915748b6.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "12+"
+master = "14"
+
+[[songs]]
+id = "2540"
+title = "Love's Theme of BADASS ～バッド・アス 愛のテーマ～"
+title_reading = "LOVESTHEMEOFBADASSハツトアスアイノテウマ"
+artist = "Hommarju"
+image = "5717d5cde3d50eb0.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "12+"
+master = "14"
 
 [[songs]]
 id = "1096"
@@ -14181,7 +14257,7 @@ title_reading = "CATCHMEIFYOUCAN"
 artist = "曲：TAKU INOUE／歌：早乙女 彩華(CV：中島 唯)"
 image = "73f0080b80162f0e.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
