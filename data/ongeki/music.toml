@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 885
-last_updated = "2024-03-21T03:02:27.485547970Z"
+count = 889
+last_updated = "2024-03-27T03:02:19.227592581Z"
 
 [[songs]]
 id = "583100"
@@ -25790,6 +25790,122 @@ lunatic = "14+"
 [songs.character]
 id = "7340"
 name = "鳳 ここな"
+
+[[songs]]
+id = "722700"
+title = "Dramatic…？ -珠洲島 有栖ソロver.-"
+title_reading = "トラマテイクススシマアリスソロVER"
+artist = "曲：Kijibato／歌：珠洲島 有栖(CV：長縄 まりあ)"
+date = "2024-03-27"
+image = "5a5e070e6e5a63b9.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "8+"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
+
+[[songs]]
+id = "722800"
+title = "Dramatic…？ -日向 千夏ソロver.-"
+title_reading = "トラマテイクヒナタチナツソロVER"
+artist = "曲：Kijibato／歌：日向 千夏(CV：岡咲 美保)"
+date = "2024-03-27"
+image = "6a05b45c14cf653d.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "8+"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
+
+[[songs]]
+id = "722900"
+title = "Dramatic…？ -皇城 セツナソロver.-"
+title_reading = "トラマテイクスメラキセツナソロVER"
+artist = "曲：Kijibato／歌：皇城 セツナ(CV：八巻 アンナ)"
+date = "2024-03-27"
+image = "3e0415545612cda4.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "8+"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1170"
+name = "皇城 セツナ"
+
+[[songs]]
+id = "722650"
+title = "Dramatic…？ -星咲 あかりソロver.-"
+title_reading = "トラマテイクホシサキアカリソロVER"
+artist = "曲：Kijibato／歌：星咲 あかり(CV：赤尾 ひかる)"
+date = "2024-03-27"
+image = "7b003f717148fa0c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "8+"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
 
 [[categories]]
 id = "06"
