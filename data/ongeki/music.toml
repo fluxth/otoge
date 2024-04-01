@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 889
-last_updated = "2024-03-27T03:02:19.227592581Z"
+count = 892
+last_updated = "2024-04-01T03:02:41.574685241Z"
 
 [[songs]]
 id = "583100"
@@ -25711,7 +25711,7 @@ title_reading = "スカレツトケイサツノケトハトロルニシユヨシ
 artist = "七条レタスグループ"
 date = "2024-03-21"
 image = "650784306de4458d.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©上海アリス幻樂団"
@@ -25741,7 +25741,7 @@ title_reading = "フラネタリウムレウユ"
 artist = "千寿 暦(CV.鳥部万里子)、ラモーナ・ウォルフ(CV.田中美海)、王 雪(CV.花井美春)、リリヤ・クルトベイ(CV.安齋由香里)、与那国緋花里(CV.下地紫野)"
 date = "2024-03-21"
 image = "ee0a864138d89096.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Sirius/Project WDS Developed and Published by KMS, inc."
@@ -25771,7 +25771,7 @@ title_reading = "シリウスノカカヤキノヨウニ"
 artist = "鳳 ここな(CV.石見舞菜香)、静香(CV.長谷川育美)、カトリナ・グリーベル(CV.天城サリー)、新妻八恵(CV.長縄まりあ)、柳場ぱんだ(CV.大空直美)、流石知冴(CV.佐々木李子)"
 date = "2024-03-21"
 image = "43c68d7763273b82.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 copyright = "©Sirius/Project WDS Developed and Published by KMS, inc."
@@ -25902,6 +25902,88 @@ basic = "5"
 advanced = "8+"
 expert = "11+"
 master = "13+"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
+
+[[songs]]
+id = "170200"
+title = "えんじぇる♡ピタゴリ☆ほーみたい！"
+title_reading = "エンシエルヒタコリホミタイ"
+artist = "あべにゅうぷろじぇくと feat.エンジェルオールスターズ(めぐる・すみれ・遥・葵・クルミ・テスラ・ナイン)"
+date = "2024-04-01"
+image = "36c34bb9dafaac26.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Sammy"
+
+[songs.chapter]
+id = "99105"
+name = "パチスロツインエンジェルPARTY"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "12+"
+
+[songs.character]
+id = "7450"
+name = "水無月 遥"
+
+[[songs]]
+id = "946000"
+title = "LAMIA"
+title_reading = "LAMIA"
+artist = "BlackY"
+date = "2024-04-01"
+image = "64c498779f6d3bf8.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+lunatic = "0"
+
+[songs.character]
+id = "1170"
+name = "皇城 セツナ"
+
+[[songs]]
+id = "946100"
+title = "μ3"
+title_reading = "μ3"
+artist = "水野健治 VS 穴山大輔"
+date = "2024-04-01"
+image = "2aad13cae8565d48.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+lunatic = "0"
 
 [songs.character]
 id = "1010"
