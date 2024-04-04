@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 2009
-last_updated = "2024-03-14T03:02:27.980585356Z"
+count = 2012
+last_updated = "2024-04-04T03:03:07.467950204Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=IISfHciu8vjO8u6NyyI7Kw"
+title = "Cuz we <3 this Game"
+artist = "打打だいず"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Wtesuln4mxYQzZfLzDBs6g"
+title = "Xeno Gravity"
+artist = "xi"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=2XzDzJauYCitW2H1-34MwQ"
+title = "NEMSYS ARENA World Hexathlon"
+artist = "隣の庭は青い(庭師+Aoi)"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "8"
+advanced = "15"
+exhaust = "18"
+maximum = "20"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=LtWfwYmEWNbqfO4XgFYNTA"
