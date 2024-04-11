@@ -1,6 +1,21 @@
 name = "chunithm_jp"
-count = 1409
-last_updated = "2024-04-01T03:02:41.468115458Z"
+count = 1417
+last_updated = "2024-04-11T03:02:21.309026286Z"
+
+[[songs]]
+id = "2503"
+title = "INTERNET YAMERO"
+title_reading = "INTERNETYAMERO"
+artist = "Aiobahn feat. KOTOKO「NEEDY GIRL OVERDOSE」"
+image = "3e6be4cb3e4b7322.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "2500"
@@ -6080,13 +6095,28 @@ master = "13"
 ultima = "14"
 
 [[songs]]
+id = "2523"
+title = "インターネットサバイバー"
+title_reading = "インタウネツトサハイハウ"
+artist = "あやぽんず＊ feat.ビートまりお × まろん"
+image = "736937d5a629151b.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "13"
+
+[[songs]]
 id = "2524"
 title = "ユックリ feat.餅千歳"
 title_reading = "ユツクリFEATモチトセ"
 artist = "まろん × COOL&CREATE"
 image = "daddc36dbb31ff58.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11263,6 +11293,36 @@ expert = "10"
 master = "13+"
 
 [[songs]]
+id = "2542"
+title = "Burn it All"
+title_reading = "BURNITALL"
+artist = "Cosmograph「勝利の女神：NIKKE」"
+image = "b98972fbfd78a11d.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "14+"
+
+[[songs]]
+id = "2543"
+title = "Stronghold LandEater"
+title_reading = "STRONGHOLDLANDEATER"
+artist = "Cosmograph「勝利の女神：NIKKE」"
+image = "b5af61d989302ad5.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "13+"
+
+[[songs]]
 id = "145"
 title = "Change Our MIRAI！"
 title_reading = "CHANGEOURMIRAI"
@@ -13664,6 +13724,21 @@ basic = "4"
 advanced = "9"
 expert = "12+"
 master = "14+"
+
+[[songs]]
+id = "2560"
+title = "四月の雨"
+title_reading = "シカツノアメ"
+artist = "cubesato"
+image = "0eb1af09bef4c16a.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "1"
+advanced = "5"
+expert = "11+"
+master = "13+"
 
 [[songs]]
 id = "802"
@@ -20023,13 +20098,52 @@ expert = "10"
 master = "13+"
 
 [[songs]]
+id = "8270"
+title = "セガサターン起動音[H.][Remix]"
+title_reading = "セカサタウンキトウオンHREMIX"
+artist = "Hiro"
+image = "0976666576bc8229.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.worlds_end]
+kanji = "舞"
+star = "7"
+
+[[songs]]
+id = "8271"
+title = "タイムカプセル"
+title_reading = "タイムカフセル"
+artist = "天月-あまつき-"
+image = "2391e136942afe31.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.worlds_end]
+kanji = "時"
+star = "5"
+
+[[songs]]
+id = "8272"
+title = "ガチ恋ラビリンス"
+title_reading = "カチコイラヒリンス"
+artist = "森羅万象"
+image = "a1cc8ab3ed3db183.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.worlds_end]
+kanji = "改"
+star = "5"
+
+[[songs]]
 id = "8273"
 title = "【ゆっくり実況】ゆっくりペンギンが怒槌をやってみた！ Part1"
 title_reading = "ユツクリシツキヨウユツクリヘンキンカイカスチヲヤツテミタPART1"
 artist = "ゲキ！チュウマイ公式ちゃんねる"
 image = "bcd2cd5ff570e8bb.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "嘘"
@@ -20042,7 +20156,7 @@ title_reading = "ラストハトルサシユウトノタタカイ"
 artist = "「IRODORIMIDORI FANTASY VII ～悠久のマイガハラント～」より"
 image = "2231e11bbb845c19.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "嘘"
