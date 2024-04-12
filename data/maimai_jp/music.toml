@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1225
-last_updated = "2024-04-01T03:02:41.491741121Z"
+count = 1229
+last_updated = "2024-04-12T03:02:44.961953640Z"
 
 [[songs]]
 id = "930"
@@ -1152,7 +1152,8 @@ artist = "「サクラ大戦」"
 image = "f364b690f9a0bff3.png"
 category = "ゲーム＆バラエティ"
 version = "11001"
-is_new = false
+release = "2024-04-12"
+is_new = true
 is_locked = false
 
 [songs.levels]
@@ -1160,6 +1161,12 @@ basic = "5"
 advanced = "7+"
 expert = "12"
 master = "12+"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13"
 
 [[songs]]
 id = "879"
@@ -20372,6 +20379,24 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "816"
+title = "IF:U"
+title_reading = "IFU"
+artist = "MisoilePunch♪"
+image = "0c04b513c0520392.png"
+category = "maimai"
+version = "24502"
+release = "2024-04-12"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "12+"
+master = "14+"
+
+[[songs]]
 id = "1128"
 title = "Λzure Vixen"
 title_reading = "AZUREVIXEN"
@@ -20600,7 +20625,7 @@ image = "90374370dd705b70.png"
 category = "ゲーム＆バラエティ"
 version = "24501"
 release = "2024-04-01"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -20608,6 +20633,60 @@ basic = "3"
 advanced = "6"
 expert = "9+"
 master = "13+"
+
+[[songs]]
+id = "566"
+title = "VOLT"
+title_reading = "VOLT"
+artist = "aran"
+image = "87162879cceeeb0b.png"
+category = "ゲーム＆バラエティ"
+version = "24502"
+release = "2024-04-12"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "567"
+title = "tiny tales continue"
+title_reading = "TINYTALESCONTINUE"
+artist = "黒魔"
+image = "f29a219f4a370552.png"
+category = "ゲーム＆バラエティ"
+version = "24502"
+release = "2024-04-12"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "568"
+title = "ouroboros -twin stroke of the end-"
+title_reading = "OUROBOROSTWINSTROKEOFTHEEND"
+artist = "Cranky VS MASAKI"
+image = "8b12a65d1c465e60.png"
+category = "ゲーム＆バラエティ"
+version = "24502"
+release = "2024-04-12"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "9"
+expert = "12"
+master = "14"
 
 [[songs]]
 id = "106"
@@ -20636,7 +20715,7 @@ image = "3340e09175faaa70.png"
 category = "オンゲキ＆CHUNITHM"
 version = "24501"
 release = "2024-04-01"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
