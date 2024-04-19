@@ -10,7 +10,7 @@ anyhow = "=1.0.82"
 async-trait = "=0.1.80"
 chrono = { version = "=0.4.38", features = ["serde"] }
 otoge = { path = "../lib" }
-reqwest = { version = "=0.12.3", features = ["json"] }
+reqwest = { version = "=0.12.4", features = ["json"] }
 serde = "=1.0.198"
 scraper = "=0.19.0"
 tokio = { version = "=1.37.0", features = ["full"] }
