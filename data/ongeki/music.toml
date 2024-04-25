@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 895
-last_updated = "2024-04-11T03:02:21.337476383Z"
+count = 897
+last_updated = "2024-04-25T03:02:16.886114197Z"
 
 [[songs]]
 id = "583100"
@@ -25623,7 +25623,7 @@ name = "皇城 セツナ"
 
 [[songs]]
 id = "723200"
-title = "Prominence -式宮碧音ソロver.-"
+title = "Prominence -式宮 碧音ソロver.-"
 title_reading = "フロミネンスシキミヤアオネソロVER"
 artist = "曲：下野 隼／歌：式宮 碧音(CV：髙橋 ミナミ)"
 date = "2024-03-07"
@@ -25944,7 +25944,7 @@ title_reading = "イタイナルアクマハシツハタイテンシハトラチ
 artist = "周防パトラ"
 date = "2024-04-11"
 image = "6234ebec9f316aa4.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©周防パトラ"
@@ -25974,7 +25974,7 @@ title_reading = "ハトサモクラフイ"
 artist = "周防パトラ"
 date = "2024-04-11"
 image = "ac19e7080033716b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©周防パトラ"
@@ -26004,7 +26004,7 @@ title_reading = "ヒストリフレイカタカセリオソロVER"
 artist = "曲：中土智博／歌：高瀬 梨緒(CV：久保 ユリカ)"
 date = "2024-04-11"
 image = "6b9a69c40ef38eab.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26033,7 +26033,7 @@ title_reading = "ヒストリフレイカアイハラツハキソロVER"
 artist = "曲：中土智博／歌：藍原 椿(CV：橋本 ちなみ)"
 date = "2024-04-11"
 image = "db5493c70baa7b8c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26062,7 +26062,7 @@ title_reading = "ヒストリフレイカユウキリクソロVER"
 artist = "曲：中土智博／歌：結城 莉玖(CV：朝日奈 丸佳)"
 date = "2024-04-11"
 image = "139381e0c5cff295.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26083,6 +26083,64 @@ master = "13"
 [songs.character]
 id = "1050"
 name = "結城 莉玖"
+
+[[songs]]
+id = "668400"
+title = "Livmetarryr"
+title_reading = "LIVMETARRYR"
+artist = "a_hisa"
+date = "2024-04-25"
+image = "1353fa1ef098fd1d.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80036"
+name = "Primera Fes. ～Cheer Stage～"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "8+"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
+
+[[songs]]
+id = "668300"
+title = "Cogit ergo sum"
+title_reading = "COGITERGOSUM"
+artist = "佐藤 優樹"
+date = "2024-04-25"
+image = "90d9853e1a59e2cd.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80036"
+name = "Primera Fes. ～Cheer Stage～"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "9+"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
 
 [[categories]]
 id = "06"
