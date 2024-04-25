@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1417
-last_updated = "2024-04-11T03:02:21.309026286Z"
+count = 1419
+last_updated = "2024-04-25T03:02:16.502841729Z"
 
 [[songs]]
 id = "2503"
@@ -9,7 +9,7 @@ title_reading = "INTERNETYAMERO"
 artist = "Aiobahn feat. KOTOKO「NEEDY GIRL OVERDOSE」"
 image = "3e6be4cb3e4b7322.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -6101,7 +6101,7 @@ title_reading = "インタウネツトサハイハウ"
 artist = "あやぽんず＊ feat.ビートまりお × まろん"
 image = "736937d5a629151b.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9817,6 +9817,7 @@ basic = "3"
 advanced = "7"
 expert = "10+"
 master = "14"
+ultima = "14+"
 
 [[songs]]
 id = "197"
@@ -11299,7 +11300,7 @@ title_reading = "BURNITALL"
 artist = "Cosmograph「勝利の女神：NIKKE」"
 image = "b98972fbfd78a11d.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11314,7 +11315,7 @@ title_reading = "STRONGHOLDLANDEATER"
 artist = "Cosmograph「勝利の女神：NIKKE」"
 image = "b5af61d989302ad5.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -13732,7 +13733,7 @@ title_reading = "シカツノアメ"
 artist = "cubesato"
 image = "0eb1af09bef4c16a.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "1"
@@ -20098,13 +20099,43 @@ expert = "10"
 master = "13+"
 
 [[songs]]
+id = "2580"
+title = "crazy (about you)"
+title_reading = "CRAZYABOUTYOU"
+artist = "kamome sano"
+image = "4b9bee0569c335cc.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "11+"
+master = "14"
+
+[[songs]]
+id = "2581"
+title = "Dèfandour"
+title_reading = "DEFANDOUR"
+artist = "BlackY"
+image = "3408ab7d50ad67c1.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "12"
+master = "14"
+
+[[songs]]
 id = "8270"
 title = "セガサターン起動音[H.][Remix]"
 title_reading = "セカサタウンキトウオンHREMIX"
 artist = "Hiro"
 image = "0976666576bc8229.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "舞"
@@ -20117,7 +20148,7 @@ title_reading = "タイムカフセル"
 artist = "天月-あまつき-"
 image = "2391e136942afe31.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "時"
@@ -20130,7 +20161,7 @@ title_reading = "カチコイラヒリンス"
 artist = "森羅万象"
 image = "a1cc8ab3ed3db183.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "改"
