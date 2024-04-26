@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1229
-last_updated = "2024-04-12T03:02:44.961953640Z"
+count = 1233
+last_updated = "2024-04-26T03:02:36.555814519Z"
 
 [[songs]]
 id = "930"
@@ -1152,8 +1152,7 @@ artist = "「サクラ大戦」"
 image = "f364b690f9a0bff3.png"
 category = "ゲーム＆バラエティ"
 version = "11001"
-release = "2024-04-12"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -20387,7 +20386,7 @@ image = "0c04b513c0520392.png"
 category = "maimai"
 version = "24502"
 release = "2024-04-12"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20643,7 +20642,7 @@ image = "87162879cceeeb0b.png"
 category = "ゲーム＆バラエティ"
 version = "24502"
 release = "2024-04-12"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -20661,7 +20660,7 @@ image = "f29a219f4a370552.png"
 category = "ゲーム＆バラエティ"
 version = "24502"
 release = "2024-04-12"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -20679,7 +20678,7 @@ image = "8b12a65d1c465e60.png"
 category = "ゲーム＆バラエティ"
 version = "24502"
 release = "2024-04-12"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20687,6 +20686,78 @@ basic = "6"
 advanced = "9"
 expert = "12"
 master = "14"
+
+[[songs]]
+id = "109"
+title = "カーニバルハッピー"
+title_reading = "カアニハルハツヒイ"
+artist = "かいりきベア"
+image = "3595660bf2057942.png"
+category = "niconico＆ボーカロイド"
+version = "24503"
+release = "2024-04-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "13"
+
+[[songs]]
+id = "110"
+title = "つづみぐさ"
+title_reading = "ツツミクサ"
+artist = "いよわ"
+image = "567cedcde11724e1.png"
+category = "niconico＆ボーカロイド"
+version = "24503"
+release = "2024-04-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "111"
+title = "サイバーサンダーサイダー"
+title_reading = "サイハアサンタアサイタア"
+artist = "EZFG"
+image = "8489c52144bb8be5.png"
+category = "niconico＆ボーカロイド"
+version = "24503"
+release = "2024-04-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "112"
+title = "おくすり飲んで寝よう"
+title_reading = "オクスリノンテネヨウ"
+artist = "もちうつね"
+image = "848ca5372a825d86.png"
+category = "niconico＆ボーカロイド"
+version = "24503"
+release = "2024-04-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
 
 [[songs]]
 id = "106"
