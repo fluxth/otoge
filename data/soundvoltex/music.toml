@@ -1,6 +1,171 @@
 name = "soundvoltex"
-count = 2012
-last_updated = "2024-04-04T03:03:07.467950204Z"
+count = 2023
+last_updated = "2024-05-02T03:02:34.456568991Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=rv_NEOS_pQdCrK-FG0EcSQ"
+title = "ARISE"
+artist = "Juggernaut."
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=hwlA74z5TZKsa976uxBP0A"
+title = "Allegro Saetta"
+artist = "天束 vs. siromaru"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=z1YGj6KOY7yfSVwBW6qMlQ"
+title = "{ eXLIPXe }"
+artist = "{ かめりあ }"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "8"
+advanced = "15"
+exhaust = "18"
+maximum = "20"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=k1nye2RhpRJs9qCLV8ONGA"
+title = "ウイジン"
+artist = "CHUBAY as \"NOVICE\""
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=7OqXVicyR1jzDIyJ4MzHbA"
+title = "Ex concordia felicitas"
+artist = "Connexio"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=FteGSJZoWpANsCkeXrZbcQ"
+title = "Colorful Magical Parade"
+artist = "Tsubusare BOZZ feat.madoka*"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=iiIUpYumn81_q_rRSZjrTA"
+title = "StellarflightS"
+artist = "otoshi.b"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=vWgcFxhcJDsgR7iaKmR-Ig"
+title = "Knew Order"
+artist = "あまみ×ひなみ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=OpyMQ6-du7OdXiimXoPXiw"
+title = "NO SURRENDER"
+artist = "493Water"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=4yed6CAcvtAIi6Rc9Xg-VA"
+title = "BEMANI PRO LEAGUE -SEASON 2- SOUND VOLTEX ULTIMATE MEDLEY"
+artist = "FLOOR LEGENDS -BPL S2 SDVX-"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=1fCUDeEoi_ln2kpBmqUq0A"
+title = "プリュネシエル"
+artist = "瀬名 feat. 音羽ことり。"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=IISfHciu8vjO8u6NyyI7Kw"
@@ -22659,6 +22824,7 @@ name = "FLOOR"
 novice = "6"
 advanced = "12"
 exhaust = "18"
+exceed = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=KQUOX_CAFOpQpJ3lzLsXtg"
@@ -25557,6 +25723,7 @@ name = "BEMANI"
 novice = "3"
 advanced = "9"
 exhaust = "15"
+exceed = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=doa8HAO-hjSo-fPJOe1PNQ"
@@ -29578,6 +29745,7 @@ name = "その他"
 novice = "5"
 advanced = "10"
 exhaust = "13"
+exceed = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=_GApiV1gdpr7yn8HF48EOw"
