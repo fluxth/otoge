@@ -5,10 +5,10 @@ use serde::de::DeserializeOwned;
 
 use crate::traits::{Extractor, FetchTask};
 
-pub struct SerdeExtractor;
+pub struct SerdeGetExtractor;
 
 #[async_trait]
-impl<G> Extractor<G> for SerdeExtractor
+impl<G> Extractor<G> for SerdeGetExtractor
 where
     G: Otoge + FetchTask<G>,
     G::Song: std::convert::From<G::ApiSong>,

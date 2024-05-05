@@ -4,6 +4,7 @@ mod traits;
 mod chunithm;
 mod maimai;
 mod ongeki;
+mod polarischord;
 mod soundvoltex;
 
 use std::path::Path;
@@ -14,6 +15,7 @@ use traits::{Extractor, FetchTask};
 use otoge::chunithm::{ChunithmIntl, ChunithmJP};
 use otoge::maimai::{MaimaiIntl, MaimaiJP};
 use otoge::ongeki::Ongeki;
+use otoge::polarischord::PolarisChord;
 use otoge::shared::traits::{DataStore as DataStoreTrait, Otoge};
 use otoge::soundvoltex::SoundVoltex;
 
@@ -63,6 +65,7 @@ async fn main() -> Result<()> {
         process::<Ongeki>(),
         process::<MaimaiJP>(),
         process::<MaimaiIntl>(),
+        process::<PolarisChord>(),
     );
 
     info!("All fetch completed");
@@ -75,6 +78,7 @@ async fn main() -> Result<()> {
     handle_result!(3, Ongeki, results, return_result);
     handle_result!(4, MaimaiJP, results, return_result);
     handle_result!(5, MaimaiIntl, results, return_result);
+    handle_result!(6, PolarisChord, results, return_result);
 
     info!("Exiting");
     return_result
@@ -109,7 +113,7 @@ where
         .instrument(info_span!("fetch_remote", name))
         .await?;
 
-    G::verify_categories(&new_data_store)?;
+    G::verify_categories(&new_data_store).await?;
 
     async {
         let should_update = if let Some(data_store) = local_data_store {

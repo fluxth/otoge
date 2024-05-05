@@ -3,6 +3,7 @@ use anyhow::Result;
 use async_trait::async_trait;
 use otoge::shared::traits::Otoge;
 
+#[async_trait]
 pub trait FetchTask<G>
 where
     G: Otoge,
@@ -13,7 +14,7 @@ where
     fn api_url() -> &'static str;
 
     fn new_data_store(songs: Vec<G::Song>) -> G::DataStore;
-    fn verify_categories(_data_store: &G::DataStore) -> Result<()> {
+    async fn verify_categories(_data_store: &G::DataStore) -> Result<()> {
         Ok(())
     }
 }
