@@ -180,8 +180,6 @@ pub struct Category {
     pub name: Cow<'static, str>,
 }
 
-trait Region {}
-
 #[derive(Serialize, Deserialize, Debug)]
 pub struct DataStore {
     name: Cow<'static, str>,

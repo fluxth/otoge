@@ -25,18 +25,23 @@ impl Default for APIInput {
 pub struct LevelMap {
     #[serde(deserialize_with = "all_default_values_as_none")]
     #[serde(skip_serializing_if = "Option::is_none")]
+    #[serde(default = "Option::default")]
     easy: Option<i32>,
     #[serde(deserialize_with = "all_default_values_as_none")]
     #[serde(skip_serializing_if = "Option::is_none")]
+    #[serde(default = "Option::default")]
     normal: Option<i32>,
     #[serde(deserialize_with = "all_default_values_as_none")]
     #[serde(skip_serializing_if = "Option::is_none")]
+    #[serde(default = "Option::default")]
     hard: Option<i32>,
     #[serde(deserialize_with = "all_default_values_as_none")]
     #[serde(skip_serializing_if = "Option::is_none")]
+    #[serde(default = "Option::default")]
     influence: Option<i32>,
     #[serde(deserialize_with = "all_default_values_as_none")]
     #[serde(skip_serializing_if = "Option::is_none")]
+    #[serde(default = "Option::default")]
     polar: Option<i32>,
 }
 
