@@ -1,12 +1,13 @@
 use std::collections::HashSet;
 
 use anyhow::{ensure, Result};
+use async_trait::async_trait;
 
 use otoge::maimai::models::{DataStore, Song, SongFromAPI};
 use otoge::maimai::{get_all_intl_categories, get_all_jp_categories, MaimaiIntl, MaimaiJP};
 use otoge::shared::traits::Otoge;
 
-use crate::extractors::serde::SerdeExtractor;
+use crate::extractors::serde::SerdeGetExtractor;
 use crate::FetchTask;
 
 trait Maimai {
@@ -36,15 +37,16 @@ trait Maimai {
 }
 
 impl Maimai for MaimaiJP {}
+#[async_trait]
 impl FetchTask<Self> for MaimaiJP {
     type ApiSong = SongFromAPI;
-    type Extractor = SerdeExtractor;
+    type Extractor = SerdeGetExtractor;
 
     fn api_url() -> &'static str {
         "https://maimai.sega.jp/data/maimai_songs.json"
     }
 
-    fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
         Self::impl_verify_categories(data_store)
     }
 
@@ -54,15 +56,16 @@ impl FetchTask<Self> for MaimaiJP {
 }
 
 impl Maimai for MaimaiIntl {}
+#[async_trait]
 impl FetchTask<Self> for MaimaiIntl {
     type ApiSong = SongFromAPI;
-    type Extractor = SerdeExtractor;
+    type Extractor = SerdeGetExtractor;
 
     fn api_url() -> &'static str {
         "https://maimai.sega.com/assets/data/maimai_songs.json"
     }
 
-    fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
         Self::impl_verify_categories(data_store)
     }
 

@@ -1,12 +1,13 @@
 use std::collections::HashSet;
 
 use anyhow::{ensure, Result};
+use async_trait::async_trait;
 
 use otoge::chunithm::models::{DataStore, Song, SongFromAPI};
 use otoge::chunithm::{ChunithmIntl, ChunithmJP};
 use otoge::shared::traits::Otoge;
 
-use crate::extractors::serde::SerdeExtractor;
+use crate::extractors::serde::SerdeGetExtractor;
 use crate::traits::FetchTask;
 
 trait Chunithm {
@@ -36,15 +37,16 @@ trait Chunithm {
 }
 
 impl Chunithm for ChunithmJP {}
+#[async_trait]
 impl FetchTask<Self> for ChunithmJP {
     type ApiSong = SongFromAPI;
-    type Extractor = SerdeExtractor;
+    type Extractor = SerdeGetExtractor;
 
     fn api_url() -> &'static str {
         "https://chunithm.sega.jp/storage/json/music.json"
     }
 
-    fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
         Self::impl_verify_categories(data_store)
     }
 
@@ -54,15 +56,16 @@ impl FetchTask<Self> for ChunithmJP {
 }
 
 impl Chunithm for ChunithmIntl {}
+#[async_trait]
 impl FetchTask<Self> for ChunithmIntl {
     type ApiSong = SongFromAPI;
-    type Extractor = SerdeExtractor;
+    type Extractor = SerdeGetExtractor;
 
     fn api_url() -> &'static str {
         "https://chunithm.sega.com/assets/data/music.json"
     }
 
-    fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
         Self::impl_verify_categories(data_store)
     }
 

@@ -1,16 +1,18 @@
 use std::collections::HashSet;
 
 use anyhow::{ensure, Result};
+use async_trait::async_trait;
 
-use crate::extractors::serde::SerdeExtractor;
+use crate::extractors::serde::SerdeGetExtractor;
 use crate::traits::FetchTask;
 use otoge::ongeki::models::{DataStore, Song, SongFromAPI};
 use otoge::ongeki::Ongeki;
 use otoge::shared::traits::Otoge;
 
+#[async_trait]
 impl FetchTask<Self> for Ongeki {
     type ApiSong = SongFromAPI;
-    type Extractor = SerdeExtractor;
+    type Extractor = SerdeGetExtractor;
 
     fn api_url() -> &'static str {
         "https://ongeki.sega.jp/assets/json/music/music.json"
@@ -20,7 +22,7 @@ impl FetchTask<Self> for Ongeki {
         DataStore::new(Self::name(), songs)
     }
 
-    fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
         let categories = &data_store.categories;
         let songs = &data_store.songs;
 

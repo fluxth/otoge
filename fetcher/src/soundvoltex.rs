@@ -1,6 +1,7 @@
 use std::collections::HashSet;
 
 use anyhow::{ensure, Result};
+use async_trait::async_trait;
 
 use crate::extractors::soundvoltex_vi::SoundVoltexVIExtractor;
 use crate::traits::FetchTask;
@@ -8,6 +9,7 @@ use otoge::shared::traits::Otoge;
 use otoge::soundvoltex::models::{DataStore, Song};
 use otoge::soundvoltex::SoundVoltex;
 
+#[async_trait]
 impl FetchTask<Self> for SoundVoltex {
     type ApiSong = Song;
     type Extractor = SoundVoltexVIExtractor;
@@ -20,7 +22,7 @@ impl FetchTask<Self> for SoundVoltex {
         DataStore::new(Self::name(), songs)
     }
 
-    fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
         let categories = &data_store.categories;
         let songs = &data_store.songs;
 
