@@ -1,0 +1,2010 @@
+name = "polarischord"
+count = 115
+last_updated = "2024-05-05T10:56:52.486322Z"
+
+[[songs]]
+id = "77b0f98b7f247b0251da420959ed4717"
+title = "Crossfade"
+artist = "La prière"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "8cf4ddbdc70fd5fbd9bc93a0afd0ec07"
+title = "ぐしゃ"
+artist = "ポラリスピー"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "a98945e3adef76f16f24bdec6ce53ae8"
+title = "アイドル"
+artist = "YOASOBI"
+license = "Licensed by Sony Music Entertainment(Japan)Inc."
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 8
+
+[[songs.categories]]
+bitflag = 3
+slug = "pops&anime"
+name = "POPS&アニメ"
+
+[[songs]]
+id = "6c203f4ace369473e669874ca38a7604"
+title = "神っぽいな"
+artist = "ピノキオピー"
+license = "Licensed by mui"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "a42844243f7af9bc48c7de755110363e"
+title = "強風オールバック"
+artist = "Yukopi"
+license = "Licensed by Yukopi/Licensed by 小津/歌愛ユキ ⒸAHS Co. Ltd."
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 8
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "8ca4369e2b2e696061a03006341d7ee5"
+title = "エイリアンエイリアン"
+artist = "富士葵"
+license = "Licensed by Aoi ch."
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "dbd60c359a9936adf7d38860ad050fd5"
+title = "Accelerate"
+artist = "すとぷり"
+license = "Licensed by STPR Records"
+
+[songs.levels]
+easy = 1
+normal = 4
+hard = 6
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 3
+slug = "pops&anime"
+name = "POPS&アニメ"
+
+[[songs]]
+id = "22c4f66a905842adfcab58d2456fa821"
+title = "ホイホイ☆幻想ホロイズム"
+artist = "COOL&CREATE × 宝鐘マリン with ホロイズムファンタジー"
+license = "Licensed by COOL&CREATE"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "c7a281dbf524ea303bc247148a93de44"
+title = "Oh wow!"
+artist = "メガテラ・ゼロ"
+license = "Licensed by FOR LIFE MUSIC ENTERTAINMENT, INC."
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 6
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "a1dc620609cb079b238f048d8174e6ab"
+title = "インドア系ならトラックメイカー"
+artist = "Yunomi & nicamoq"
+license = "Licensed by Yunomi & nicamoq"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 7
+influence = 10
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "aa60e63d59e237dc4bcdbe73006660ca"
+title = "#あくあ色ぱれっと"
+artist = "湊あくあ"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 7
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "c4f990634ccc0b3e3ba5c9a77bdb653a"
+title = "放課後ストライド"
+artist = "Last Note."
+license = "Licensed by Last Note．"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 9
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "d88634a366ca58c96c13a47ab5934fb7"
+title = "KING"
+artist = "Kanaria"
+license = "Licensed by Kanaria"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "432f213935a288990d8c4a9d095c2e4a"
+title = "エゴロック"
+artist = "すりぃ"
+license = "Licensed by すりぃ"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 7
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "8e49050aec857b08e703ad2a11aaf3df"
+title = "ロキ"
+artist = "みきとP"
+license = "Licensed by mikitoP"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "33ba1d8163621f5962d6021f5841f2f6"
+title = "ロストワンの号哭"
+artist = "Neru"
+license = "Licensed by EMP INC., Licensed by 456"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "c50744c81933df5e1887070cbcd3e358"
+title = "ヒトガタ"
+artist = "HIMEHINA"
+license = "Licensed by LaRa"
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 3
+slug = "pops&anime"
+name = "POPS&アニメ"
+
+[[songs]]
+id = "5a0be715d9ba1c7614770001b8b87bf3"
+title = "Hello, Hologram"
+artist = "HIMEHINA"
+license = "Licensed by LaRa"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "025cc6c0296713c3c7c5a6ec9978bb75"
+title = "空っぽの箱庭"
+artist = "田中ヒメ(HIMEHINA)"
+license = "Licensed by LaRa"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 7
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "134595e72024cd95cdc8a1e0dbcab8ed"
+title = "Raise your voice!"
+artist = "鈴木ヒナ(HIMEHINA)"
+license = "Licensed by LaRa"
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 7
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "ea0df24cb7832d49e3dc28ad075c05e8"
+title = "少女レイ"
+artist = "みきとP"
+license = "Licensed by mikitoP"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "1d1afcc9cbdaf293ae36a54f534598f6"
+title = "シアワセうさぎ・ぺこみこマリン"
+artist = "COOL&CREATE × 兎田ぺこら、さくらみこ、宝鐘マリン"
+license = "Licensed by COOL&CREATE"
+
+[songs.levels]
+easy = 1
+normal = 3
+hard = 6
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "0334938c5d9248e9b167425d23a021eb"
+title = "キャプテン・マリンのケツアンカー"
+artist = "COOL&CREATE × 宝鐘マリン"
+license = "Licensed by COOL&CREATE"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 8
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "69051b33a543f6ba31225636910ce6f8"
+title = "イヤホンロマンス"
+artist = "COOL&CREATE × 宝鐘マリン"
+license = "Licensed by COOL&CREATE"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "e9fc5526fae6c7491987ede5106af9cc"
+title = "Over the Border"
+artist = "COOL&CREATE × 宝鐘マリン feat.不知火フレア"
+license = "Licensed by COOL&CREATE"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 10
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "4e67ebe4e4be30784ef81855ed81811f"
+title = "Help me, ERINNNNNN!! #幻想郷ホロイズムver."
+artist = "COOL&CREATE × 宝鐘マリンと愉快な仲間たち"
+license = "Licensed by COOL&CREATE"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "ba4a846fed6671b499edf552ad96daa5"
+title = "閃光花火"
+artist = "HIMEHINA"
+license = "Licensed by LaRa"
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 10
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "d3295e78df52b5211cee04a2257cbdf9"
+title = "逆転劇"
+artist = "月詠み"
+license = "Licensed by Tsukuyomi"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+
+[[songs.categories]]
+bitflag = 3
+slug = "pops&anime"
+name = "POPS&アニメ"
+
+[[songs]]
+id = "17a28f71118d2d4bea7f7e78b4245168"
+title = "ラヴィット"
+artist = "ピノキオピー"
+license = "Licensed by mui"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "b27e4679f70c94fb2ab441b77118d8a4"
+title = "秘密のメリーゴーランド"
+artist = "ミカヅキBIGWAVE feat. somunia"
+license = "Licensed by Mikazuki Bigwave"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "ce7d57d1319af742cea4fe4b3878dd68"
+title = "UMenity"
+artist = "涼海ネモ"
+license = "Licensed by 774inc."
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "0fb27e25ec15337d8c0fa5e6e45e067a"
+title = "Nobody knows"
+artist = "茜音カンナ"
+license = "Licensed by 774inc."
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "921809730bc762b233cd9d89cbd19697"
+title = "トウキョウ・シャンディ・ランデヴ"
+artist = ""
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+
+[[songs.categories]]
+bitflag = 3
+slug = "pops&anime"
+name = "POPS&アニメ"
+
+[[songs]]
+id = "5a1dcd0c41a66f700801e9b4f9ebd19d"
+title = "What an amazing swing"
+artist = "角巻わため"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "cb08d5a78176f8e89eaa2fc1741d825d"
+title = "ヴァンパイア"
+artist = "DECO*27"
+license = "Licensed by OTOIRO"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "0d96df03e20ced25c4c97484fd68ef3c"
+title = "デンノウス・キルズ"
+artist = "cosMo＠暴走P"
+license = "Licensed by cosMo＠暴走P(CHEMICAL SYSTEM)"
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 10
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "6e1c9d51b17cc467633ce6ff8e1dd312"
+title = "エゴロック (すりぃ Cover)"
+artist = "すりぃ"
+license = "Licensed by すりぃ"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 7
+influence = 10
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "07c62dbfdd2ea4db66a2a84061da7063"
+title = "ロキ (HIMEHINA Cover)"
+artist = "みきとP"
+license = "Licensed by mikitoP, Licensed by LaRa"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "a84bfc45ad79b3874be314a8699e4b9c"
+title = "シンクロニティ"
+artist = "おめがシスターズ"
+license = "Licensed by Activ8 Inc."
+
+[songs.levels]
+easy = 1
+normal = 6
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "9e68dedaad4e106d5dbd2c2b5398fb7e"
+title = "抜刀"
+artist = "缶缶"
+license = "Licensed by 缶缶"
+
+[songs.levels]
+easy = 1
+normal = 6
+hard = 10
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "55dcb7f0657cfa3907c6016fc1ed82ce"
+title = "魔法少女とチョコレゐト (絲依とい Cover)"
+artist = "ピノキオピー"
+license = "Licensed by mui, Licensed by 絲依とい"
+
+[songs.levels]
+easy = 1
+normal = 6
+hard = 7
+influence = 10
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "18cd922baa4ceb46501f1cf8cd471844"
+title = "魔法少女とチョコレゐト"
+artist = "ピノキオピー"
+license = "Licensed by mui"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 7
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "e13c7ade7d5b548a0407a501acab6cd2"
+title = "少女レイ (緋月ゆい Cover)"
+artist = "みきとP"
+license = "Licensed by mikitoP, Licensed by 緋月ゆい"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "e7e8753b39d2889f67557fe0adba7c21"
+title = "ラグトレイン"
+artist = "稲葉曇"
+license = "Licensed by 稲葉曇"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "d734a3d4482ddfea507c18006cb72c08"
+title = "感情ディシーブ"
+artist = "ろーある"
+license = "℗2022 ろーある"
+
+[songs.levels]
+easy = 2
+normal = 8
+hard = 10
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "ca137c9945929117e91033e5908f64ee"
+title = "イタズラネコライフ"
+artist = "ENDOG"
+license = "Licensed by ENDOG, Licensed by miyoru"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "9a50b257302539e1d702ae45d8a566c4"
+title = "#病みカワ"
+artist = "La prière x 森羅万象"
+license = "Licensed by La prière x 森羅万象"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "0c84062d605fdb2d0b02d2df00daf0e4"
+title = "Oh my！Follow me"
+artist = "La prière x 森羅万象"
+license = "Licensed by La prière x 森羅万象"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 10
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "8d396814860290d65d98b95bb3329700"
+title = "粛聖!! ロリ神レクイエム☆"
+artist = "しぐれうい (9さい)"
+license = "Ⓒしぐれうい Ⓒumbrella records"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 10
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "7e7d0e8d73c2c641eaa5628b8b4c8826"
+title = "シャングリラ"
+artist = "花奏かのん"
+license = "Licensed by 774inc."
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "3138caf4a50ea7ba6dc20e9ccc611945"
+title = "バタフライエフェクト"
+artist = "宗谷いちか"
+license = "Licensed by 774inc."
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "9dfa555af968dc8b77104f2bf218acc4"
+title = "追熟"
+artist = "龍ヶ崎リン"
+license = "Licensed by 774inc."
+
+[songs.levels]
+easy = 1
+normal = 3
+hard = 8
+influence = 10
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "c13baa5f09982154d5e6d777e940344d"
+title = "レクイエム (feat. 星街すいせい)"
+artist = "Kanaria"
+license = "℗Kanaria ⒸKanaria"
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 7
+influence = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "dfc3dcf93e5af7e957064926c9cba725"
+title = "ファビュラス"
+artist = "豚乙女"
+license = "Licensed by 豚乙女"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 10
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "be1e9cde02405dcf5f3922f89beb79cd"
+title = "待チ人ハ来ズ。"
+artist = "豚乙女"
+license = "Licensed by 豚乙女"
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "1a5a40723b95f76942f99a605438cc9c"
+title = "幻想のサテライト"
+artist = "豚乙女"
+license = "Licensed by 豚乙女"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "b021bc4ab68a26976875e57b3c69630e"
+title = "チルノのパーフェクトさんすう教室"
+artist = "ARM + 夕野ヨシミ feat. miko"
+license = "Licensed by IOSYS"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "bba05555a816f2624c4fc1c19f241234"
+title = "スカーレット警察のゲットーパトロール24時"
+artist = "七条レタスグループ"
+license = "Licensed by IOSYS"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "c5590464602b97f7584b51d0bd5eadb6"
+title = "魔理沙は大変なものを盗んでいきました"
+artist = "ARM + 夕野ヨシミ feat. 藤咲かりん"
+license = "Licensed by IOSYS"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "cc78be92a237678a93e550245c9b9cb4"
+title = "Only You"
+artist = "キョンシーのCiちゃん"
+license = "Licensed by キョンシーのCiちゃん"
+
+[songs.levels]
+easy = 1
+normal = 4
+hard = 7
+influence = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "9d49f507fa1621d4b6d284fbe9e6dec1"
+title = "モンスターカミング"
+artist = "おめがシスターズ"
+license = "Licensed by OMEGA-SISTERS"
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 8
+influence = 12
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "a54acdda33dac1d8124186a508c8da9f"
+title = "STAY PROUD"
+artist = "すとぷり"
+license = "Licensed by STPR Records"
+
+[songs.levels]
+easy = 1
+normal = 5
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "55adf58bc6888727257bf45046a9c332"
+title = "Streamer"
+artist = "すとぷり"
+license = "Licensed by STPR Records"
+
+[songs.levels]
+easy = 1
+normal = 5
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "75e459779ed07673fef962ff409ed6a7"
+title = "おかえりらぶっ！"
+artist = "すとぷり"
+license = "Licensed by STPR Records"
+
+[songs.levels]
+easy = 1
+normal = 4
+hard = 7
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "3457fd2e2549a32466e4e8a149c028ee"
+title = "ストロベリー☆プラネット！"
+artist = "すとぷり"
+license = "Licensed by STPR Records"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "bb8a9e285d7a5ae836953f3b21c58706"
+title = "青春チョコレート"
+artist = "すとぷり"
+license = "Licensed by STPR Records"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "0403e4a8ec21e6f3401c7ef9cee791d0"
+title = "唱"
+artist = "Ado"
+license = "Licensed by Virgin Music, A UNIVERSAL MUSIC COMPANY"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs.categories]]
+bitflag = 3
+slug = "pops&anime"
+name = "POPS&アニメ"
+
+[[songs]]
+id = "f293bd39e9e7352421fbe028691512ab"
+title = "Now on step"
+artist = "角巻わため"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 10
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "d9be81825aa0d80a2ee1c8bc927a0122"
+title = "My song"
+artist = "角巻わため"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 8
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "5ce6f0f90d5c8419e42742608cf36cc1"
+title = "夢見る羊"
+artist = "角巻わため"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "9d449b4b3aa1f42dd2ee9a1b1ecb33c9"
+title = "れすきゅぅうぅぅ"
+artist = "花丸はれる"
+license = "Licensed by Hareru Hanamaru"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "b2631189e93dd63955fc02f9d72a36aa"
+title = "ジェヘナ"
+artist = "wotaku"
+license = "Licensed by wotaku, Licensed by 東の空まで会いにきて"
+
+[songs.levels]
+easy = 1
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "1af07e3884a9559600d876260509e192"
+title = "可惜夜の残り火"
+artist = "餅屋羽乃"
+license = "Licensed by 餅屋羽乃"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "a03c8cb46a07198bc4655db803bf0899"
+title = "PUPA"
+artist = "モリモリあつし"
+license = "Licensed by 非可逆リズム(モリモリあつし)"
+
+[songs.levels]
+easy = 4
+normal = 8
+hard = 10
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "eb1d4dc9fc4672d4d32c10fa15ba9850"
+title = "めうめうぺったんたん！！"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "e6b4884000144f8bb212f9735534e1b8"
+title = "滅亡天使 † にこきゅっぴん"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "cf2e098c0ca80f65ebdbe9a68d1e035a"
+title = "チョコレートスマイル"
+artist = "日向美ビタースイーツ♪ & ここなつ"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "152cea71026329e0f89d0cfa43d497b4"
+title = "カタルシスの月"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "8436dfec47b30db9e000b418cca18aa3"
+title = "ポラリスノウタ"
+artist = "ここなつ2.0"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 10
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "b9fc0469bffc0523a06ab015a4adb294"
+title = "Lockdown"
+artist = "PIKASONIC & Tatsunoshin ft.NEONA"
+license = "Licensed by Psyber Comet"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "9cb3a8d74d3fde8301193a4f5d767f1e"
+title = "Let’s Ghost"
+artist = "暁Records"
+license = "Licensed by 暁Records"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "4decfa07031dbce51fb49886ab15b49b"
+title = "Necromantic"
+artist = "暁Records"
+license = "Licensed by 暁Records"
+
+[songs.levels]
+easy = 1
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "2b244addb31ab453ecfdb45898230be7"
+title = "トランスダンスアナーキー"
+artist = "暁Records"
+license = "Licensed by 暁Records"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "3794ed4e287b1fb9cd7b330719d8cdfc"
+title = "Last danceR"
+artist = "森羅万象"
+license = "Licensed by 森羅万象"
+
+[songs.levels]
+easy = 1
+normal = 6
+hard = 8
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "4983b49ce621a51171ca79864f1a3bbc"
+title = "悪戯センセーション"
+artist = "森羅万象"
+license = "Licensed by 森羅万象"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "b0e2ff92aecced7377cd23ba599397b3"
+title = "運命線上のアリア"
+artist = "森羅万象"
+license = "Licensed by 森羅万象"
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 10
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "3e553f683f3198814791d9e656e12037"
+title = "Blossom"
+artist = "Synthion"
+license = "Licensed by Synthion"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "866a9bbaea82cf0971c0995f3c43705f"
+title = "cyanotype"
+artist = "Synthion"
+license = "Licensed by Synthion"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "4e371e043d2e36f80ba03f54372064ac"
+title = "アルティメットセンパイ"
+artist = "ピノキオピー"
+license = "Licensed by mui"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "c429c66a9b633ff6f478d5c6eed57fa0"
+title = "マツヨイナイトバグ"
+artist = "ビートまりおとまろん"
+license = "Licensed by COOL&CREATE"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "42e24cfb9a87ddda41e6464c6373799e"
+title = "さよならトリップ ～夏陽 EDM edition～"
+artist = "東雲夏陽"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "a6dd13886baccce6b75f804915340d89"
+title = "魔法のたまご ～心菜 ELECTRO POP edition～"
+artist = "東雲心菜"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+influence = 10
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "9db7bd991d26524a38c80935de6b3111"
+title = "Triptych Symphony"
+artist = "La prière"
+license = "Licensed by La prière"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "1ed2e6d3ee07c77a06c14bb4672e2377"
+title = "conflict"
+artist = "siromaru+cranky"
+license = "Licensed by siromaru + cranky"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "6ba5cd230a18881ed2b628b8edd2468d"
+title = "ラビットホール"
+artist = "DECO*27"
+license = "Licensed by OTOIRO"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "73e237e9203eeff76466cf13a3e256bb"
+title = "Prince"
+artist = "すとぷり"
+license = "Licensed by STPR Records"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "aa1d4ccb5e236aa702522237134e6f72"
+title = "はりーはりーらぶ"
+artist = "すとぷり"
+license = "Licensed by STPR Records"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "697427d680c78e5908555f55ed9aae8e"
+title = "ルマ"
+artist = "莉犬"
+license = "Licensed by STPR Records"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "75aaaf087bbd09c47b13f18afdacb245"
+title = "ワンダラー"
+artist = "さとみ"
+license = "Licensed by STPR Records"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 8
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "26f4e40c22afcb713a36f574a97a4712"
+title = "僕らだけのシャングリラ"
+artist = "すとぷり"
+license = "Licensed by STPR Records"
+
+[songs.levels]
+easy = 1
+normal = 5
+hard = 7
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "27f3451d2105b7cefb31149d8879e329"
+title = "地方創生☆チクワクティクス"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "8dfc50e0739b5309de7d73700e757a73"
+title = "乙女繚乱 舞い咲き誇れ"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "1df2e699e440ee5afbbe4e2130e2941d"
+title = "neko＊neko"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+influence = 10
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "5520b99fbbaa268f7acaf1de1f6f99f5"
+title = "Chronomia"
+artist = "Lime"
+license = "Licensed by Lime"
+
+[songs.levels]
+easy = 4
+normal = 8
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "b2cb51abcba479c4bdd0cb151bdfba92"
+title = "I.R.O"
+artist = "おめがシスターズ"
+license = "Licensed by OMEGA-SISTERS"
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "df41f59dc6a19dfc3573788fdc7c717c"
+title = "RunRunAround"
+artist = "おめがシスターズ"
+license = "Licensed by OMEGA-SISTERS"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "611b9f5b75502cd0c9c7c6350b6caef9"
+title = "周回軌道"
+artist = "おめがシスターズ"
+license = "Licensed by OMEGA-SISTERS"
+
+[songs.levels]
+easy = 1
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "5f06dcded71be16124cc4decf1d34168"
+title = "コネクトリップ"
+artist = "おめがシスターズ"
+license = "Licensed by OMEGA-SISTERS"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 7
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "e49418210ecf949c22f3432ec720bfbc"
+title = "Who are you...?"
+artist = "BPM15Q"
+license = "Licensed by Victor Entertainment"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+influence = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "f4abcd9ad520441bf65b335ea53f9e4e"
+title = "臨界ダイバー"
+artist = "うみろ"
+license = "Licensed by うみろ"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "2d61b76aac812712bd104c87e22f21ee"
+title = "パ→ピ→プ→Yeah! (大海嘯オルカ Cover)"
+artist = "ヒゲドライバー join. shully & Nimo"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "432a34294d070c3947af5a13ed0232da"
+title = "こぐまがいるんだ (大隈子熊 Cover)"
+artist = "ピノキオP"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "bc06853c76a4c11e1edca8232949f05e"
+title = "エゴロック (宿木鷹臣 Cover)"
+artist = "すりぃ"
+license = "Licensed by すりぃ"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 7
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "6c0ffd952559f05fc0220204fc6b4510"
+title = "レイドバックジャーニー"
+artist = "キミのね"
+license = "Licensed by MAGES.Inc."
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 10
+
+[[songs.categories]]
+bitflag = 3
+slug = "pops&anime"
+name = "POPS&アニメ"
+
+[[songs]]
+id = "6ca20e9f79817ef5e614d5b60e113629"
+title = "ビビデバ"
+artist = "星街すいせい"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[categories]]
+bitflag = 3
+slug = "pops&anime"
+name = "POPS&アニメ"
+
+[[categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
