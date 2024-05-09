@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 897
-last_updated = "2024-04-25T03:02:16.886114197Z"
+count = 900
+last_updated = "2024-05-09T03:02:59.754570037Z"
 
 [[songs]]
 id = "583100"
@@ -26091,7 +26091,7 @@ title_reading = "LIVMETARRYR"
 artist = "a_hisa"
 date = "2024-04-25"
 image = "1353fa1ef098fd1d.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26120,7 +26120,7 @@ title_reading = "COGITERGOSUM"
 artist = "佐藤 優樹"
 date = "2024-04-25"
 image = "90d9853e1a59e2cd.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26141,6 +26141,97 @@ master = "14+"
 [songs.character]
 id = "1080"
 name = "早乙女 彩華"
+
+[[songs]]
+id = "275200"
+title = "ロミオとシンデレラ"
+title_reading = "ロミオトシンテレラ"
+artist = "doriko"
+date = "2024-05-09"
+image = "944a654b0c714172.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "12+"
+
+[songs.character]
+id = "1060"
+name = "藍原 椿"
+
+[[songs]]
+id = "275100"
+title = "おひめさまになりたいのッ！"
+title_reading = "オヒメサマニナリタイノツ"
+artist = "OSTER project"
+date = "2024-05-09"
+image = "9a6458e966a0c274.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©OSTER project"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "2"
+advanced = "8"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
+
+[[songs]]
+id = "275000"
+title = "ずんだパーリナイ"
+title_reading = "スンタハリナイ"
+artist = "なみぐる feat.ずんだもん"
+date = "2024-05-09"
+image = "2db1cb4364d82920.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = """
+©なみぐる\r
+©nekomo"""
+
+[songs.chapter]
+id = "99107"
+name = "東北ずん子"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "9+"
+master = "13"
+
+[songs.character]
+id = "7590"
+name = "ずんだもん"
 
 [[categories]]
 id = "06"
