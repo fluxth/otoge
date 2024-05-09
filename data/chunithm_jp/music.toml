@@ -1,6 +1,21 @@
 name = "chunithm_jp"
-count = 1419
-last_updated = "2024-04-25T03:02:16.502841729Z"
+count = 1425
+last_updated = "2024-05-09T03:02:59.522009794Z"
+
+[[songs]]
+id = "2504"
+title = "とまどい→レシピ"
+title_reading = "トマトイレシヒ"
+artist = "みかくにんぐッ！「未確認で進行形」"
+image = "38f77941c4eb6fc7.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "8"
+master = "11+"
 
 [[songs]]
 id = "2503"
@@ -2166,6 +2181,51 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "14+"
+
+[[songs]]
+id = "2520"
+title = "アンダーキッズ"
+title_reading = "アンタウキツス"
+artist = "ツユ"
+image = "874cf61ea3abd287.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "9"
+master = "13+"
+
+[[songs]]
+id = "2522"
+title = "ヒアソビ"
+title_reading = "ヒアソヒ"
+artist = "かめりあ"
+image = "23713cd79a45b799.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "2521"
+title = "flos"
+title_reading = "FLOS"
+artist = "R Sound Design"
+image = "f2f1015a4a7ee4ed.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "1"
+advanced = "5"
+expert = "8+"
+master = "12"
 
 [[songs]]
 id = "2518"
@@ -5845,6 +5905,7 @@ basic = "3"
 advanced = "7"
 expert = "10+"
 master = "13+"
+ultima = "14+"
 
 [[songs]]
 id = "156"
@@ -12105,6 +12166,21 @@ basic = "3"
 advanced = "5"
 expert = "9"
 master = "13"
+
+[[songs]]
+id = "2552"
+title = "ALL I WANNA DO"
+title_reading = "ALLIWANNADO"
+artist = "月鈴 白奈(CV:高野 麻里佳)"
+image = "167d4a6409c6b7dd.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
 
 [[songs]]
 id = "683"
@@ -20105,7 +20181,7 @@ title_reading = "CRAZYABOUTYOU"
 artist = "kamome sano"
 image = "4b9bee0569c335cc.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20120,13 +20196,28 @@ title_reading = "DEFANDOUR"
 artist = "BlackY"
 image = "3408ab7d50ad67c1.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
 advanced = "7"
 expert = "12"
 master = "14"
+
+[[songs]]
+id = "2582"
+title = "Ultimate Force"
+title_reading = "ULTIMATEFORCE"
+artist = "削除"
+image = "40ff64380c4b4833.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.levels]
+basic = "5"
+advanced = "10"
+expert = "14+"
+master = "15"
 
 [[songs]]
 id = "8270"
