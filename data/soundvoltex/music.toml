@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2023
-last_updated = "2024-05-02T03:02:34.456568991Z"
+count = 2027
+last_updated = "2024-05-23T03:03:21.758581644Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=18fscvVe5CgxD7RX275I9w"
+title = "Appliqué(Vocal Remix)"
+artist = "nonomori feat. Nanao"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=JriTS1w5Vb7kur85TrCM4A"
+title = "Gate of Atlantis (Vocal ∞ Mix)"
+artist = "MasKaleido feat. ぁゅ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=s4fs2CO5QVY8N3XQMGRInA"
+title = "The setting sun(burst)"
+artist = "nozakita kazumi"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=79KzWyDIxQY054XH_vrpnw"
+title = "Max Burning!!(GαineN Beyond yΩu Remix)"
+artist = "概念"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=rv_NEOS_pQdCrK-FG0EcSQ"

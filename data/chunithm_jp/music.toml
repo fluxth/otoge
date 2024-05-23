@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1425
-last_updated = "2024-05-09T03:02:59.522009794Z"
+count = 1430
+last_updated = "2024-05-23T03:03:12.505723512Z"
 
 [[songs]]
 id = "2504"
@@ -9,7 +9,7 @@ title_reading = "トマトイレシヒ"
 artist = "みかくにんぐッ！「未確認で進行形」"
 image = "38f77941c4eb6fc7.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2189,7 +2189,7 @@ title_reading = "アンタウキツス"
 artist = "ツユ"
 image = "874cf61ea3abd287.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -2204,7 +2204,7 @@ title_reading = "ヒアソヒ"
 artist = "かめりあ"
 image = "23713cd79a45b799.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2219,7 +2219,7 @@ title_reading = "FLOS"
 artist = "R Sound Design"
 image = "f2f1015a4a7ee4ed.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "1"
@@ -9217,6 +9217,81 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
+id = "2544"
+title = "MuseDashを作っているPeroPeroGamesさんが倒産しちゃったよ～"
+title_reading = "MUSEDASHヲツクツテイルPEROPEROGAMESサンカトウサンシチヤツタヨウ"
+artist = "立秋 feat.ちょこ「Muse Dash」"
+image = "ea06b902af001640.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "8+"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2545"
+title = "Rush B"
+title_reading = "RUSHB"
+artist = "iKz「Muse Dash」"
+image = "9bc2905b797cd4d0.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "2546"
+title = "それはもうらぶちゅ"
+title_reading = "ソレハモウラフチユ"
+artist = "タケノコ少年 feat. 周央サンゴ（にじさんじ）「Muse Dash」"
+image = "3d53c7b59b5db258.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "2547"
+title = "Cthugha"
+title_reading = "CTHUGHA"
+artist = "USAO「Muse Dash」"
+image = "372c558463ccc40c.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2548"
+title = "XING"
+title_reading = "XING"
+artist = "ginkiha「Muse Dash」"
+image = "bcc06ce83c3e6dfb.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "13+"
+
+[[songs]]
 id = "2533"
 title = "ΩΩPARTS"
 title_reading = "OOPARTS"
@@ -12174,7 +12249,7 @@ title_reading = "ALLIWANNADO"
 artist = "月鈴 白奈(CV:高野 麻里佳)"
 image = "167d4a6409c6b7dd.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
