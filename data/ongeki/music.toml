@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 900
-last_updated = "2024-05-09T03:02:59.754570037Z"
+count = 902
+last_updated = "2024-05-23T03:03:12.895650093Z"
 
 [[songs]]
 id = "583100"
@@ -26149,7 +26149,7 @@ title_reading = "ロミオトシンテレラ"
 artist = "doriko"
 date = "2024-05-09"
 image = "944a654b0c714172.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26178,7 +26178,7 @@ title_reading = "オヒメサマニナリタイノツ"
 artist = "OSTER project"
 date = "2024-05-09"
 image = "9a6458e966a0c274.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©OSTER project"
@@ -26208,7 +26208,7 @@ title_reading = "スンタハリナイ"
 artist = "なみぐる feat.ずんだもん"
 date = "2024-05-09"
 image = "2db1cb4364d82920.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -26232,6 +26232,64 @@ master = "13"
 [songs.character]
 id = "7590"
 name = "ずんだもん"
+
+[[songs]]
+id = "577800"
+title = "雪男"
+title_reading = "ユキオトコ"
+artist = "かねこちはる"
+date = "2024-05-23"
+image = "89495378e8ccaf1a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "6"
+advanced = "10+"
+expert = "13"
+master = "15"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
+
+[[songs]]
+id = "577700"
+title = "Blessed Rain"
+title_reading = "BLESSEDRAIN"
+artist = "ぺのれり"
+date = "2024-05-23"
+image = "52b5f7bda066b73a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "1160"
+name = "東雲 つむぎ"
 
 [[categories]]
 id = "06"
