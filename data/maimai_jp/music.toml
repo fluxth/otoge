@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1237
-last_updated = "2024-05-10T03:02:49.943524704Z"
+count = 1244
+last_updated = "2024-05-24T03:02:54.798882252Z"
 
 [[songs]]
 id = "939"
@@ -20404,7 +20404,7 @@ image = "4839dab189ca43a1.png"
 category = "maimai"
 version = "24504"
 release = "2024-05-10"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20422,7 +20422,7 @@ image = "f724f87d64fa40db.png"
 category = "maimai"
 version = "24504"
 release = "2024-05-10"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20440,7 +20440,7 @@ image = "7ab09df82652c586.png"
 category = "maimai"
 version = "24504"
 release = "2024-05-10"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20458,7 +20458,7 @@ image = "e9c5825f3cebbfe1.png"
 category = "maimai"
 version = "24504"
 release = "2024-05-10"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20632,6 +20632,24 @@ advanced = "6"
 expert = "8"
 master = "11+"
 remaster = "13"
+
+[[songs]]
+id = "109"
+title = "新人類"
+title_reading = "シンシンルイ"
+artist = "まらしぃ×じん×堀江晶太(kemu) feat.鏡音リン"
+image = "3d83103605f1e63c.png"
+category = "niconico＆ボーカロイド"
+version = "24505"
+release = "2024-05-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13+"
 
 [[songs]]
 id = "118"
@@ -20832,6 +20850,24 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
+id = "5"
+title = "バラバラ〜仮初レインボーローズ〜"
+title_reading = "ハラハラカリソメレインホオロオス"
+artist = "花畑チャイカ＆椎名唯華"
+image = "119e1fa2c7387aa9.png"
+category = "POPS＆アニメ"
+version = "24505"
+release = "2024-05-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "12+"
+
+[[songs]]
 id = "107"
 title = "匿名M"
 title_reading = "トクメイM"
@@ -20848,6 +20884,42 @@ basic = "3"
 advanced = "7"
 expert = "9+"
 master = "12+"
+
+[[songs]]
+id = "116"
+title = "ライアーダンサー"
+title_reading = "ライアアタンサア"
+artist = "マサラダ"
+image = "3ecd712a72f9b81a.png"
+category = "niconico＆ボーカロイド"
+version = "24505"
+release = "2024-05-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "117"
+title = "バカ通信"
+title_reading = "ハカツウシン"
+artist = "isonosuke"
+image = "5826cc96ab759012.png"
+category = "niconico＆ボーカロイド"
+version = "24505"
+release = "2024-05-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "11"
+master = "13+"
 
 [[songs]]
 id = "1136"
@@ -20884,6 +20956,24 @@ basic = "3"
 advanced = "7"
 expert = "11"
 master = "13+"
+
+[[songs]]
+id = "108"
+title = "ザムザ"
+title_reading = "サムサ"
+artist = "てにをは"
+image = "8032e0a4e5be70bf.png"
+category = "niconico＆ボーカロイド"
+version = "24505"
+release = "2024-05-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "1"
+advanced = "6"
+expert = "9+"
+master = "12+"
 
 [[songs]]
 id = "1284"
@@ -21158,6 +21248,23 @@ kanji = "協"
 comment = "なりきれ！プリズムリバー三姉妹"
 
 [[songs]]
+id = "1257"
+title = "[宴]Oshama Scramble! (Cranky Remix)"
+title_reading = "OSHAMASCRAMBLECRANKYREMIX"
+artist = "Cranky"
+image = "262844c08ce50193.png"
+category = "宴会場"
+version = "24505"
+release = "2024-05-24"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14+?"
+kanji = "宴"
+comment = "ぼくらのかんがえたさいきょうのまいまい"
+
+[[songs]]
 id = "1266"
 title = "[耐]Space Harrier Main Theme [Reborn]"
 title_reading = "SPACEHARRIERMAINTHEMEREBORN"
@@ -21428,6 +21535,23 @@ is_locked = false
 level = "14+?"
 kanji = "協"
 comment = "バンドメンバーを集めて挑め！（ヒーロー級）"
+
+[[songs]]
+id = "1256"
+title = "[奏]さくゆいたいそう"
+title_reading = "サクユイタイソウ"
+artist = "さくゆい"
+image = "4a865397a5170d82.png"
+category = "宴会場"
+version = "24505"
+release = "2024-05-24"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "12+?"
+kanji = "奏"
+comment = "2人合わせてさくゆいたいそう"
 
 [[songs]]
 id = "1274"
