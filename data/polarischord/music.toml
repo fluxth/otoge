@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 121
-last_updated = "2024-05-23T03:03:12.612074424Z"
+count = 127
+last_updated = "2024-05-30T03:02:36.435458268Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -2080,6 +2080,108 @@ influence = 11
 bitflag = 5
 slug = "variety"
 name = "バラエティ"
+
+[[songs]]
+id = "3b2862c76f3367d5aa10d852dfbc03fb"
+title = "むしみこうにゃーのハッピッピー"
+artist = "ARM feat. miko + 山本椛"
+license = "Licensed by IOSYS"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "25ce6c0130dcc96b32e0510078c79a8f"
+title = "三妖精SAY YA!!!"
+artist = "森羅万象"
+license = "Licensed by 森羅万象"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "0b30c97c3cae8c4455e4f27f613e1383"
+title = "Grip & Break down !!"
+artist = "SOUND HOLIC feat. Nana Takahashi"
+license = "Licensed by SOUND HOLIC"
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "cab8f1f7377de7da6a2a1a8cfa836ef6"
+title = "INFINITE WORLD"
+artist = "SOUND HOLIC feat. Nana Takahashi"
+license = "Licensed by SOUND HOLIC"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "004b380b894e5d6cb71545a295ad6d85"
+title = "異常な音を出すガール"
+artist = "cosMo＠暴走P"
+license = "Licensed by cosMo@暴走P"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "4462c2c6c63ddf27574f561ea423124c"
+title = "ダーリン"
+artist = "MARETU"
+license = "Licensed by MARETU"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1
