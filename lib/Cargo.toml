@@ -10,5 +10,5 @@ anyhow = "=1.0.86"
 chrono = { version = "=0.4.38", features = ["serde"] }
 serde = { version = "=1.0.203", features = ["serde_derive"] }
 tokio = { version = "=1.38.0", features = ["fs"] }
-toml = "=0.8.13"
+toml = "=0.8.14"
 tracing = "=0.1.40"
