@@ -1,6 +1,6 @@
 name = "polarischord"
 count = 127
-last_updated = "2024-05-30T03:02:36.435458268Z"
+last_updated = "2024-06-05T03:02:37.846955967Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -1628,7 +1628,7 @@ name = "バラエティ"
 id = "6ba5cd230a18881ed2b628b8edd2468d"
 title = "ラビットホール"
 artist = "DECO*27"
-license = "Licensed by OTOIRO"
+license = "Ⓒ DECO*27 Ⓒ OTOIRO"
 
 [songs.levels]
 easy = 4
