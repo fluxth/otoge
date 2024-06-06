@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2027
-last_updated = "2024-05-23T03:03:21.758581644Z"
+count = 2025
+last_updated = "2024-06-06T03:02:43.369285927Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=OqsN8XS_woWCGyRuhPK1Qw"
+title = "愛昧ショコラーテ"
+artist = "角巻わため"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "2"
+advanced = "9"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=5CNQ-Rc-7gyvWTGoa51ZRg"
+title = "曇天羊"
+artist = "角巻わため"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Irat_vBu282r3a2inhYejA"
+title = "My song"
+artist = "角巻わため"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=kniuVUA6DP0d_zwOISOlkA"
+title = "What an amazing swing"
+artist = "角巻わため"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "15"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=18fscvVe5CgxD7RX275I9w"
@@ -110,7 +170,7 @@ maximum = "20"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=k1nye2RhpRJs9qCLV8ONGA"
 title = "ウイジン"
-artist = "CHUBAY as \"NOVICE\""
+artist = 'CHUBAY as "NOVICE"'
 
 [[songs.categories]]
 id = "floor"
@@ -530,7 +590,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=SK_Xm1l5h1KvW0pJV0xXeA"
 title = "Ambivalent Vermilia"
-artist = "BEMANI Sound Team \"二代目朱雀 feat.朱雀\""
+artist = 'BEMANI Sound Team "二代目朱雀 feat.朱雀"'
 
 [[songs.categories]]
 id = "bemani"
@@ -590,7 +650,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=uSucRG2xJGVkQZ4mR6XIEw"
 title = "Deep tenDon Reflex"
-artist = "BEMANI Sound Team \"Coyaan\""
+artist = 'BEMANI Sound Team "Coyaan"'
 
 [[songs.categories]]
 id = "bemani"
@@ -755,7 +815,7 @@ maximum = "19"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=E10i1TNenxnlHHoYj_36Tg"
 title = "ちくわパフェだよ☆ＣＫＰ (Yvya Remix)"
-artist = "Remixed by BEMANI Sound Team \"Yvya\""
+artist = 'Remixed by BEMANI Sound Team "Yvya"'
 
 [[songs.categories]]
 id = "bemani"
@@ -789,7 +849,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=v8OqPWRHvNKvCISBPY3s6w"
 title = "めうめうぺったんたん！！ (ZAQUVA Remix)"
-artist = "Remixed by BEMANI Sound Team \"ZAQUVA\""
+artist = 'Remixed by BEMANI Sound Team "ZAQUVA"'
 
 [[songs.categories]]
 id = "bemani"
@@ -1078,7 +1138,7 @@ maximum = "16"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=lC2ay1iLKPgN84_pOm_AAA"
 title = "QQ"
-artist = "BEMANI Sound Team \"PHQUASE & ZAQUVA\""
+artist = 'BEMANI Sound Team "PHQUASE & ZAQUVA"'
 
 [[songs.categories]]
 id = "bemani"
@@ -1097,7 +1157,7 @@ maximum = "19"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=Sv6UFG7vkMtRmgXHj5OHBA"
 title = "Stylus"
-artist = "BEMANI Sound Team \"HuΣeR\""
+artist = 'BEMANI Sound Team "HuΣeR"'
 
 [[songs.categories]]
 id = "bemani"
@@ -1371,7 +1431,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=U0taamONXqby-Ept37R6HA"
 title = "suspicions"
-artist = "BEMANI Sound Team \"猫叉Master VS dj TAKA\""
+artist = 'BEMANI Sound Team "猫叉Master VS dj TAKA"'
 
 [[songs.categories]]
 id = "bemani"
@@ -1386,7 +1446,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=fpgx5V_0saDLXn3zylicmw"
 title = "THE PEERLESS UNDER HEAVEN"
-artist = "Yuta Imai Vs. BEMANI Sound Team \"L.E.D.-G\""
+artist = 'Yuta Imai Vs. BEMANI Sound Team "L.E.D.-G"'
 
 [[songs.categories]]
 id = "bemani"
@@ -1401,7 +1461,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=DfKTm_aRtuydlC0dOHV6nw"
 title = "stellar rain"
-artist = "BEMANI Sound Team \"PHQUASE\""
+artist = 'BEMANI Sound Team "PHQUASE"'
 
 [[songs.categories]]
 id = "bemani"
@@ -1431,7 +1491,7 @@ maximum = "20"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=SH3_VKaV0RiDZQ0b4ef3ug"
 title = "パーフェクトイーター"
-artist = "BEMANI Sound Team \"PON\" feat.かなたん"
+artist = 'BEMANI Sound Team "PON" feat.かなたん'
 
 [[songs.categories]]
 id = "bemani"
@@ -2470,7 +2530,7 @@ maximum = "19"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=pN_R4PGijy3H2stBGX-8_A"
 title = "Tickled Pink"
-artist = "BEMANI Sound Team \"ZAQUVA\""
+artist = 'BEMANI Sound Team "ZAQUVA"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -2530,7 +2590,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=g26emE5q3i5bH1_LHsbHrA"
 title = "恋愛＝精度×認識力"
-artist = "立秋 vs. BEMANI Sound Team \"L.E.D.-G\" feat.ちょこ＆ななひら"
+artist = '立秋 vs. BEMANI Sound Team "L.E.D.-G" feat.ちょこ＆ななひら'
 
 [[songs.categories]]
 id = "bemani"
@@ -2939,7 +2999,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=bmNBiPW1TD3vJ4bIZpJdVg"
 title = "[ ]DENTITY"
-artist = "BEMANI Sound Team \"HuΣeR\""
+artist = 'BEMANI Sound Team "HuΣeR"'
 
 [[songs.categories]]
 id = "bemani"
@@ -2969,7 +3029,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=CnsYTarjVV8fjy98B8t1Qw"
 title = "VOLAQUAS"
-artist = "BEMANI Sound Team \"DJ TOTTO VS 兎々\""
+artist = 'BEMANI Sound Team "DJ TOTTO VS 兎々"'
 
 [[songs.categories]]
 id = "bemani"
@@ -2984,7 +3044,7 @@ maximum = "19"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=vpjvQlXOedC3x0dFUF6gFw"
 title = "Snowmelt"
-artist = "nora2r × BEMANI Sound Team \"Yvya\""
+artist = 'nora2r × BEMANI Sound Team "Yvya"'
 
 [[songs.categories]]
 id = "bemani"
@@ -3014,7 +3074,7 @@ maximum = "19"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=7XtiBVfheemfFhXCMo8Q5w"
 title = "White Stream"
-artist = "BEMANI Sound Team \"ZAQUVA\""
+artist = 'BEMANI Sound Team "ZAQUVA"'
 
 [[songs.categories]]
 id = "bemani"
@@ -3284,7 +3344,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=VZsFo4lpw1ZFNyaC0XLmIw"
 title = "いまきみに"
-artist = "Silentroom as \"少年R\""
+artist = 'Silentroom as "少年R"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -3492,36 +3552,6 @@ exhaust = "13"
 maximum = "16"
 
 [[songs]]
-image = "/game/sdvx/vi/common/jacket.html?img=cJCV-urCHnEyyaneUzo8BA"
-title = "過去に囚われている"
-artist = "ツユ"
-
-[[songs.categories]]
-id = "others"
-name = "その他"
-
-[songs.levels]
-novice = "5"
-advanced = "12"
-exhaust = "15"
-maximum = "18"
-
-[[songs]]
-image = "/game/sdvx/vi/common/jacket.html?img=dr3IFIq_qIVuMiRJ5PztZA"
-title = "終点の先が在るとするならば。"
-artist = "ツユ"
-
-[[songs.categories]]
-id = "others"
-name = "その他"
-
-[songs.levels]
-novice = "4"
-advanced = "11"
-exhaust = "14"
-maximum = "17"
-
-[[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=nEnBmww1AHTyM715Qmz80Q"
 title = "Avalanx"
 artist = "隣の庭は青い(庭師+Aoi)"
@@ -3718,8 +3748,8 @@ maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=rn54zRbzHAAAsJKiFxuMuw"
-title = "ピアノ独奏無言歌 \"灰燼\""
-artist = "BEMANI Sound Team \"Virkato Wakhmaninov\""
+title = 'ピアノ独奏無言歌 "灰燼"'
+artist = 'BEMANI Sound Team "Virkato Wakhmaninov"'
 
 [[songs.categories]]
 id = "bemani"
@@ -4743,7 +4773,7 @@ maximum = "19"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=zQd3SzvgzaTvzmSS8UzW4w"
 title = "Aftermath"
-artist = "BEMANI Sound Team \"猫叉Master & あさき & Yvya\""
+artist = 'BEMANI Sound Team "猫叉Master & あさき & Yvya"'
 
 [[songs.categories]]
 id = "bemani"
@@ -5148,7 +5178,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=zyA4WZWjMpA1OwzjQTBiew"
 title = "Triple Cross"
-artist = "BEMANI Sound Team \"dj TAKA & DJ YOSHITAKA & SYUNN\""
+artist = 'BEMANI Sound Team "dj TAKA & DJ YOSHITAKA & SYUNN"'
 
 [[songs.categories]]
 id = "bemani"
@@ -5253,7 +5283,7 @@ maximum = "19"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=_Jquoy_Vx8W3W__lj82Ihg"
 title = "まみむめ🍄まるっと🍄まっしゅるーむ🍄🍄"
-artist = "かめりあ as \"まいたけラヴ\" feat. ななひら as \"エリンギ大好き\""
+artist = 'かめりあ as "まいたけラヴ" feat. ななひら as "エリンギ大好き"'
 
 [[songs.categories]]
 id = "floor"
@@ -5453,7 +5483,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=7Z1oUBoYMJoeo9DCCvAVXQ"
 title = "ユメブキ"
-artist = "紫崎 雪,Risa Yuzuki,709sec. by BEMANI Sound Team \"PHQUASE & SYUNN\""
+artist = '紫崎 雪,Risa Yuzuki,709sec. by BEMANI Sound Team "PHQUASE & SYUNN"'
 
 [[songs.categories]]
 id = "bemani"
@@ -5472,7 +5502,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=oRJvmCeyLh-V-Lm0xoludA"
 title = "斑咲花"
-artist = "mami,駄々子 by BEMANI Sound Team \"Akhuta Works\""
+artist = 'mami,駄々子 by BEMANI Sound Team "Akhuta Works"'
 
 [[songs.categories]]
 id = "bemani"
@@ -5502,7 +5532,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=tMzcKctsyXlvI3lYm8uj_w"
 title = "スーパー戦湯ババンバーン"
-artist = "すわひでお,秋成,かぼちゃ,藍月なくる,NU-KO by BEMANI Sound Team \"八戸亀生羅\""
+artist = 'すわひでお,秋成,かぼちゃ,藍月なくる,NU-KO by BEMANI Sound Team "八戸亀生羅"'
 
 [[songs.categories]]
 id = "bemani"
@@ -5517,7 +5547,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=x33THRVvhFn_3dfHXLgA2w"
 title = "LIKE A VAMPIRE"
-artist = "koyomi,星野奏子 by BEMANI Sound Team \"TAKA\""
+artist = 'koyomi,星野奏子 by BEMANI Sound Team "TAKA"'
 
 [[songs.categories]]
 id = "bemani"
@@ -5547,7 +5577,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=Xy1lefLmWXKds2oAr7ipeQ"
 title = "BAYONEX"
-artist = "かめりあ as \"Revenge of Riot\""
+artist = 'かめりあ as "Revenge of Riot"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -5562,7 +5592,7 @@ maximum = "19"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=VN0VjNFdKQVrgnd_tohMiw"
 title = "MOVE! (We Keep It Movin')"
-artist = "Jonny Dynamite!,Lisa - paint with stars -,Rio Hiiragi by BEMANI Sound Team \"U1-ASAMi\""
+artist = 'Jonny Dynamite!,Lisa - paint with stars -,Rio Hiiragi by BEMANI Sound Team "U1-ASAMi"'
 
 [[songs.categories]]
 id = "bemani"
@@ -5577,7 +5607,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=182IC1vQqrsZdCfhZW58kA"
 title = "MA・TSU・RI"
-artist = "かなたん,アマギセーラ,ぁゅ by BEMANI Sound Team \"藤森崇多\""
+artist = 'かなたん,アマギセーラ,ぁゅ by BEMANI Sound Team "藤森崇多"'
 
 [[songs.categories]]
 id = "bemani"
@@ -5770,21 +5800,6 @@ exhaust = "16"
 maximum = "18"
 
 [[songs]]
-image = "/game/sdvx/vi/common/jacket.html?img=sa6x6EpBkGs8BDuSjt_3OA"
-title = "くらべられっ子"
-artist = "ツユ"
-
-[[songs.categories]]
-id = "others"
-name = "その他"
-
-[songs.levels]
-novice = "2"
-advanced = "9"
-exhaust = "14"
-maximum = "16"
-
-[[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=gTf39Pc1au0YLLPGH28EHQ"
 title = "Xymatic Scope"
 artist = "MasKaleido feat. ぁゅ"
@@ -5798,36 +5813,6 @@ novice = "5"
 advanced = "12"
 exhaust = "15"
 maximum = "17"
-
-[[songs]]
-image = "/game/sdvx/vi/common/jacket.html?img=xvaiakx0ZROYfprAtsOPjw"
-title = "泥の分際で私だけの大切を奪おうだなんて"
-artist = "ツユ"
-
-[[songs.categories]]
-id = "others"
-name = "その他"
-
-[songs.levels]
-novice = "3"
-advanced = "11"
-exhaust = "15"
-maximum = "17"
-
-[[songs]]
-image = "/game/sdvx/vi/common/jacket.html?img=c4qreQr8ChwBa2527NBMAg"
-title = "ナミカレ"
-artist = "ツユ"
-
-[[songs.categories]]
-id = "others"
-name = "その他"
-
-[songs.levels]
-novice = "5"
-advanced = "13"
-exhaust = "16"
-maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=vMRlaczUviRKot5diUhhPw"
@@ -6208,7 +6193,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=6ao5CyEhzNUPa3QeA_GYGQ"
 title = "ディスコルディア"
-artist = "ぺのれり vs. BEMANI Sound Team \"HuΣeR\""
+artist = 'ぺのれり vs. BEMANI Sound Team "HuΣeR"'
 
 [[songs.categories]]
 id = "bemani"
@@ -7014,7 +6999,7 @@ maximum = "19"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=oTSHAA9CzqjCryj-wdoXNA"
 title = "VALKYRIE ASSAULT"
-artist = "BEMANI Sound Team \"SYUNN\""
+artist = 'BEMANI Sound Team "SYUNN"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -7153,7 +7138,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=tceoUBU6996JTzOs8NRdzA"
 title = "ここからよろしく大作戦143"
-artist = "BEMANI Sound Team \"あさき隊\""
+artist = 'BEMANI Sound Team "あさき隊"'
 
 [[songs.categories]]
 id = "others"
@@ -7183,7 +7168,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=D7vUdmGEphTJbOnU5DhIgw"
 title = "Symphonic Tear"
-artist = "BEMANI Sound Team \"TAG\""
+artist = 'BEMANI Sound Team "TAG"'
 
 [[songs.categories]]
 id = "others"
@@ -7198,7 +7183,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ORStxLZgtFKNNPTwVrWnpg"
 title = "世界の果てに約束の凱歌を -VOLTEX Mix-"
-artist = "BEMANI Sound Team \"Sota Fujimori\""
+artist = 'BEMANI Sound Team "Sota Fujimori"'
 
 [[songs.categories]]
 id = "bemani"
@@ -7378,7 +7363,7 @@ maximum = "19"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=eoKLght96DtxsUXjk96c8g"
 title = "プログレなぞなぞクイズのテーマ"
-artist = "BEMANI Sound Team \"プログレッシブなぞなぞ星人\""
+artist = 'BEMANI Sound Team "プログレッシブなぞなぞ星人"'
 
 [[songs.categories]]
 id = "others"
@@ -7622,7 +7607,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=NzCDZAP_NN2_WpT_pRIglg"
 title = "Jetcoaster Windy"
-artist = "BEMANI Sound Team \"dj TAKA\" feat.のの"
+artist = 'BEMANI Sound Team "dj TAKA" feat.のの'
 
 [[songs.categories]]
 id = "bemani"
@@ -7701,7 +7686,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=IqZ0VgSgwL8Jrgm1sAwZ4w"
 title = "狂水一華"
-artist = "BEMANI Sound Team \"HuΣeR Vs. SYUNN\" feat.いちか"
+artist = 'BEMANI Sound Team "HuΣeR Vs. SYUNN" feat.いちか'
 
 [[songs.categories]]
 id = "bemani"
@@ -8031,7 +8016,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=LyPpRl2-xxaXgqU7VFUk7Q"
 title = "Xroniàl Xéro(EXIT TUNES)"
-artist = "かめりあ as \"menaXe inXonnu\""
+artist = 'かめりあ as "menaXe inXonnu"'
 
 [[songs.categories]]
 id = "others"
@@ -8136,7 +8121,7 @@ vivid = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=x2Ry2i1IypkJTBdnBdfV5g"
 title = "Sparkle Smilin'"
-artist = "BEMANI Sound Team \"Qrispy Joybox\" feat.いちか"
+artist = 'BEMANI Sound Team "Qrispy Joybox" feat.いちか'
 
 [[songs.categories]]
 id = "bemani"
@@ -8208,7 +8193,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=r-u7bjgoZKUCDokREf2mjQ"
 title = "Daydream café (Euro Hopping Mix)"
-artist = "Remixed by BEMANI Sound Team \"TAG\" feat. ななひら"
+artist = 'Remixed by BEMANI Sound Team "TAG" feat. ななひら'
 
 [[songs.categories]]
 id = "pops"
@@ -8253,7 +8238,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=AcyqJZAJnBfYSL06e8J6zg"
 title = "ユニバーページ（i-world Mix）"
-artist = "Remixed by BEMANI Sound Team \"Yvya\" feat. かなたん"
+artist = 'Remixed by BEMANI Sound Team "Yvya" feat. かなたん'
 
 [[songs.categories]]
 id = "pops"
@@ -8418,7 +8403,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=eesbnoCVnjOoK6SKK5ANYw"
 title = "Nebulas"
-artist = "BEMANI Sound Team \"Yvya\""
+artist = 'BEMANI Sound Team "Yvya"'
 
 [[songs.categories]]
 id = "bemani"
@@ -8463,7 +8448,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=RqQbFeA321NzSlCnlXldcw"
 title = "BLAZE∞BREEZE"
-artist = "BEMANI Sound Team \"TAG×PON\""
+artist = 'BEMANI Sound Team "TAG×PON"'
 
 [[songs.categories]]
 id = "bemani"
@@ -8478,7 +8463,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=yFJmSHInbILlBdnDBvX2tg"
 title = "ラブキラ☆スプラッシュ"
-artist = "BEMANI Sound Team \"Sota F.\" feat.いちか"
+artist = 'BEMANI Sound Team "Sota F." feat.いちか'
 
 [[songs.categories]]
 id = "bemani"
@@ -8636,7 +8621,7 @@ maximum = "16"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=bky2qlbw-ny2RzN6Na0FzQ"
 title = "鏡面の波（ramble mix）"
-artist = "YURiKA Remixed by BEMANI Sound Team \"DJ TOTTO\""
+artist = 'YURiKA Remixed by BEMANI Sound Team "DJ TOTTO"'
 
 [[songs.categories]]
 id = "pops"
@@ -8868,7 +8853,7 @@ maximum = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=BJDWcUbMP2p0KfJ3a_E0iw"
-title = "動く、動く（\"A&M Chillin' \" Electro Remix）"
+title = '''動く、動く（"A&M Chillin' " Electro Remix）'''
 artist = "Remixed by かめりあ feat.響木アオ＆虹乃まほろ"
 
 [[songs.categories]]
@@ -8884,7 +8869,7 @@ maximum = "16"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=686YlFxHzx3lsTwaJJdiGw"
 title = "STYX HELIX（Digi-Rock Remix）"
-artist = "Remixed by BEMANI Sound Team \"RealRemixer0123\" feat.かなたん"
+artist = 'Remixed by BEMANI Sound Team "RealRemixer0123" feat.かなたん'
 
 [[songs.categories]]
 id = "pops"
@@ -8899,7 +8884,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=qLGY5ZB5nZEg0aVgRC5Tyg"
 title = "Princess Rose（Sunshine Mix）"
-artist = "Remixed by BEMANI Sound Team \"Sota Fujimori\" feat.ななひら"
+artist = 'Remixed by BEMANI Sound Team "Sota Fujimori" feat.ななひら'
 
 [[songs.categories]]
 id = "pops"
@@ -9151,7 +9136,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=TNLXcap5IkehwceTgGItDw"
 title = "OZONE"
-artist = "BEMANI Sound Team \"Sota Fujimori\""
+artist = 'BEMANI Sound Team "Sota Fujimori"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -9316,7 +9301,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=laFxWyUMKOBxorplUo64tQ"
 title = "SAKURAスキップ（ハピネス mix）"
-artist = "Remixed by BEMANI Sound Team \"D.J.KOBINATA\" feat.momoca"
+artist = 'Remixed by BEMANI Sound Team "D.J.KOBINATA" feat.momoca'
 
 [[songs.categories]]
 id = "pops"
@@ -9451,7 +9436,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=I-QgpcLzf9WApCK8iDgl_Q"
 title = "Afterimage d'automne"
-artist = "BEMANI Sound Team \"猫叉劇団\""
+artist = 'BEMANI Sound Team "猫叉劇団"'
 
 [[songs.categories]]
 id = "bemani"
@@ -9466,7 +9451,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=07L7fCtzmaCzcRm5krnQrg"
 title = "おーまい！らぶりー！すうぃーてぃ！だーりん！"
-artist = "BEMANI Sound Team \"PON\" feat.NU-KO"
+artist = 'BEMANI Sound Team "PON" feat.NU-KO'
 
 [[songs.categories]]
 id = "bemani"
@@ -9496,7 +9481,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=xp8ysGqbb_Lyu_mpf0HiaQ"
 title = "Six String Proof"
-artist = "BEMANI Sound Team \"Yvya × Mutsuhiko Izumi\""
+artist = 'BEMANI Sound Team "Yvya × Mutsuhiko Izumi"'
 
 [[songs.categories]]
 id = "bemani"
@@ -9511,7 +9496,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=DX8hy7AaqI0MMSyWizDhsQ"
 title = "toy boxer"
-artist = "BEMANI Sound Team \"S-C-U & SYUNN\""
+artist = 'BEMANI Sound Team "S-C-U & SYUNN"'
 
 [[songs.categories]]
 id = "bemani"
@@ -9526,7 +9511,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=KCxJfaeE2Ythp4v5tlfdjw"
 title = "Trill auf G"
-artist = "BEMANI Sound Team \"dj TAKA\""
+artist = 'BEMANI Sound Team "dj TAKA"'
 
 [[songs.categories]]
 id = "bemani"
@@ -9556,7 +9541,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=lNW64BfF4uuefb9MTcoNtw"
 title = "voltississimo"
-artist = "BEMANI Sound Team \"PHQUASE\""
+artist = 'BEMANI Sound Team "PHQUASE"'
 
 [[songs.categories]]
 id = "bemani"
@@ -9620,7 +9605,7 @@ gravity = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=khrKXmMS8spn_nCfUDenbA"
 title = "太陽曰く燃えよカオス（Sol oscuro ¡Nya! Mix）"
-artist = "Remixed by BEMANI Sound Team \"U1-ASAMi\" feat.ななひら"
+artist = 'Remixed by BEMANI Sound Team "U1-ASAMi" feat.ななひら'
 
 [[songs.categories]]
 id = "pops"
@@ -11660,7 +11645,7 @@ gravity = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=mWX7wVoyAuixo6wJ9n6QIg"
 title = "She Turns Me On"
-artist = "BEMANI Sound Team \"Sota Fujimori\""
+artist = 'BEMANI Sound Team "Sota Fujimori"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -11705,7 +11690,7 @@ gravity = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=5m_evsG0z33QwLN6tJSCLQ"
 title = "MODEL FT4"
-artist = "BEMANI Sound Team \"Mutsuhiko Izumi\""
+artist = 'BEMANI Sound Team "Mutsuhiko Izumi"'
 
 [[songs.categories]]
 id = "bemani"
@@ -11945,7 +11930,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=O6jq9rMMbUJpSh6idcvNLw"
 title = "逆月"
-artist = "BEMANI Sound Team \"HuΣeR\" feat.Fernweh"
+artist = 'BEMANI Sound Team "HuΣeR" feat.Fernweh'
 
 [[songs.categories]]
 id = "sdvx"
@@ -12254,7 +12239,7 @@ maximum = "16"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=8HKKJHLXGc8brsU9qvkdCg"
 title = "PROVOES*PROPOSE <<êl fine>>"
-artist = "Yu_Asahina as \"papyrus\""
+artist = 'Yu_Asahina as "papyrus"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -12454,7 +12439,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=pRpyr1vjoUePQHbVhLe3Bg"
 title = "SUPER SUMMER SALE"
-artist = "BEMANI Sound Team \"U1 overground\""
+artist = 'BEMANI Sound Team "U1 overground"'
 
 [[songs.categories]]
 id = "bemani"
@@ -12469,7 +12454,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=d9YE2HKf5gVNNOOiJ_uPmQ"
 title = "星座が恋した瞬間を。"
-artist = "BEMANI Sound Team \"DJ TOTTO feat.MarL\""
+artist = 'BEMANI Sound Team "DJ TOTTO feat.MarL"'
 
 [[songs.categories]]
 id = "bemani"
@@ -12484,7 +12469,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=53xJVdfELwI8AmpWoidMjg"
 title = "Puberty Dysthymia"
-artist = "BEMANI Sound Team \"person09\""
+artist = 'BEMANI Sound Team "person09"'
 
 [[songs.categories]]
 id = "bemani"
@@ -12499,7 +12484,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=lYXMGz0GnH5ijHjDFcADgQ"
 title = "風鈴花火"
-artist = "BEMANI Sound Team \"劇団レコード\"feat.結良まり"
+artist = 'BEMANI Sound Team "劇団レコード"feat.結良まり'
 
 [[songs.categories]]
 id = "bemani"
@@ -12514,7 +12499,7 @@ maximum = "16"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=fQMR3dNJFWPLdjCDes3SDQ"
 title = "Prey"
-artist = "BEMANI Sound Team \"Dustup\""
+artist = 'BEMANI Sound Team "Dustup"'
 
 [[songs.categories]]
 id = "bemani"
@@ -12529,7 +12514,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ulcHqnFt1g436kO9Vxb_JQ"
 title = "Life is beautiful"
-artist = "BEMANI Sound Team \"猫叉Master\""
+artist = 'BEMANI Sound Team "猫叉Master"'
 
 [[songs.categories]]
 id = "bemani"
@@ -12544,7 +12529,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=cO611xJArNG8urSX5tmecg"
 title = "Rejoin"
-artist = "BEMANI Sound Team \"HuΣeR feat.PON\""
+artist = 'BEMANI Sound Team "HuΣeR feat.PON"'
 
 [[songs.categories]]
 id = "bemani"
@@ -12574,7 +12559,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ME3r6KpOX2Yk1SawWJoKNw"
 title = "MAXIVCORD"
-artist = "BEMANI Sound Team \"dj TAKA\""
+artist = 'BEMANI Sound Team "dj TAKA"'
 
 [[songs.categories]]
 id = "others"
@@ -12589,7 +12574,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=dnACzQNByVnwasPJpjZ1aw"
 title = "Let's Bounce !!"
-artist = "BEMANI Sound Team \"Sota F.\""
+artist = 'BEMANI Sound Team "Sota F."'
 
 [[songs.categories]]
 id = "others"
@@ -12740,7 +12725,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=FeTAXjsJO1gXsEGTk_RMqg"
 title = "Xronièr"
-artist = "かめりあ as \"fluX Xroisé\""
+artist = 'かめりあ as "fluX Xroisé"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -13086,7 +13071,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ugP4ZpoHgjhZQa3PC4aevQ"
 title = "Reb∞t"
-artist = "BEMANI Sound Team \"TAG\""
+artist = 'BEMANI Sound Team "TAG"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -13782,7 +13767,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=M3vLXc0I6mDJonqWe-VISg"
 title = "BELOBOG"
-artist = "BEMANI Sound Team \"純白のIVORY\""
+artist = 'BEMANI Sound Team "純白のIVORY"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -14352,7 +14337,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ShzVroiMKRapIbixrNV6UA"
 title = "VOLTEXES IV"
-artist = "BEMANI Sound Team \"Sota Fujimori\""
+artist = 'BEMANI Sound Team "Sota Fujimori"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -14742,7 +14727,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ap6SkPbX_0-WHCnDi0aKoQ"
 title = "TWO-TORIAL"
-artist = "BEMANI Sound Team \"PHQUASE vs DJ TOTTO\""
+artist = 'BEMANI Sound Team "PHQUASE vs DJ TOTTO"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -14817,7 +14802,7 @@ maximum = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ojyw_UJZD1oBSMg0vX7I8g"
 title = "GERBERA"
-artist = "BEMANI Sound Team \"TAG\""
+artist = 'BEMANI Sound Team "TAG"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -17116,7 +17101,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ve0FO3XNwUMCA3fuo-XQZQ"
 title = "3y3s (JMBS FUNKOT RMX)"
-artist = "Jockie \"MASTA BASS\" Suama"
+artist = 'Jockie "MASTA BASS" Suama'
 
 [[songs.categories]]
 id = "bemani"
@@ -18488,7 +18473,7 @@ exhaust = "17"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=oeR8vweOnOXFelKib4cPIQ"
 title = "Completeness Under Incompleteness"
-artist = "かめりあ as \"Reverse of Riot\""
+artist = 'かめりあ as "Reverse of Riot"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -21567,7 +21552,7 @@ exhaust = "15"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=C2KDDufCoahQMWMFCg0FhQ"
 title = "Blastix Riotz"
-artist = "かめりあ as \"Bang Riot\""
+artist = 'かめりあ as "Bang Riot"'
 
 [[songs.categories]]
 id = "sdvx"
@@ -21964,7 +21949,7 @@ gravity = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=crZRqULgOfJ6m3pUTdOyWg"
-title = "gigadelic (かめりあ's \"The TERA\" RMX)"
+title = '''gigadelic (かめりあ's "The TERA" RMX)'''
 artist = "かめりあ"
 
 [[songs.categories]]
@@ -24597,21 +24582,6 @@ advanced = "12"
 exhaust = "17"
 
 [[songs]]
-image = "/game/sdvx/vi/common/jacket.html?img=OvVOy50Ho_qjC0nDkTTbyw"
-title = "リズの内心革命(EXIT TUNES)"
-artist = "じっぷす"
-
-[[songs.categories]]
-id = "vocaloid"
-name = "ボーカロイド"
-
-[songs.levels]
-novice = "4"
-advanced = "10"
-exhaust = "13"
-infinite = "16"
-
-[[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=kdKNiA_kwwt7UbWkbWhKdg"
 title = "wander+wonder+wand"
 artist = "uma"
@@ -25653,7 +25623,7 @@ exhaust = "13"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=2bV5yGckAOlmdjP7X0HlAw"
-title = "コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\""
+title = 'コンベア速度Max!? しゃいにん☆廻転ズシ"Sushi&Peace"'
 artist = "かめりあ feat. ななひら"
 
 [[songs.categories]]
@@ -26409,7 +26379,7 @@ exhaust = "14"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=29ihlHPLLmzvcULQRbzKCA"
-title = "Electric \"Sister\" Bitch"
+title = 'Electric "Sister" Bitch'
 artist = "t+pazolite"
 
 [[songs.categories]]
@@ -26998,7 +26968,7 @@ exhaust = "15"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=0XEj4pTud_SZlXPUaMAYhw"
 title = "Booths of Fighters"
-artist = "RoughSketch + DD\"ナカタ\"Metal"
+artist = 'RoughSketch + DD"ナカタ"Metal'
 
 [[songs.categories]]
 id = "floor"

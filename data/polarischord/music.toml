@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 127
-last_updated = "2024-06-05T03:02:37.846955967Z"
+count = 130
+last_updated = "2024-06-06T03:02:31.457342942Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -1495,6 +1495,7 @@ license = "Licensed by Synthion"
 easy = 4
 normal = 7
 hard = 9
+influence = 11
 
 [[songs.categories]]
 bitflag = 1
@@ -2182,6 +2183,54 @@ influence = 11
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "2067d13e81d909f60e624cd84cc57a62"
+title = "ギザバ怪文書"
+artist = "cosMo＠暴走P"
+license = "Licensed by cosMo＠暴走P"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "2dc3c899548f4bf30136c855788acf0f"
+title = "ちくわパフェだよ☆ＣＫＰ"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "10b743c637c4052e76cec26e6ef552b0"
+title = "ロンロンへライライライ!"
+artist = "ここなつ"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1

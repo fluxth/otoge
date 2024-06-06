@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1430
-last_updated = "2024-05-23T03:03:12.505723512Z"
+count = 1435
+last_updated = "2024-06-06T03:02:31.673088016Z"
 
 [[songs]]
 id = "2504"
@@ -6607,7 +6607,7 @@ master = "13"
 
 [[songs]]
 id = "2031"
-title = "Little \"Sister\" Bitch"
+title = 'Little "Sister" Bitch'
 title_reading = "LITTLESISTERBITCH"
 artist = "t+pazolite"
 image = "c10cd4ee500b93b4.jpg"
@@ -8646,7 +8646,7 @@ master = "14+"
 id = "2385"
 title = "eden"
 title_reading = "EDEN"
-artist = "\"漆黒\"の堕天使《Gram》†Versus† \"聖刻\"の熾天使《Gram》「WACCA」"
+artist = '"漆黒"の堕天使《Gram》†Versus† "聖刻"の熾天使《Gram》「WACCA」'
 image = "da931d64715b9b4f.jpg"
 category = "VARIETY"
 is_new = false
@@ -9223,7 +9223,7 @@ title_reading = "MUSEDASHヲツクツテイルPEROPEROGAMESサンカトウサン
 artist = "立秋 feat.ちょこ「Muse Dash」"
 image = "ea06b902af001640.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -9238,7 +9238,7 @@ title_reading = "RUSHB"
 artist = "iKz「Muse Dash」"
 image = "9bc2905b797cd4d0.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9253,7 +9253,7 @@ title_reading = "ソレハモウラフチユ"
 artist = "タケノコ少年 feat. 周央サンゴ（にじさんじ）「Muse Dash」"
 image = "3d53c7b59b5db258.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9268,7 +9268,7 @@ title_reading = "CTHUGHA"
 artist = "USAO「Muse Dash」"
 image = "372c558463ccc40c.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -9283,7 +9283,7 @@ title_reading = "XING"
 artist = "ginkiha「Muse Dash」"
 image = "bcc06ce83c3e6dfb.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9760,7 +9760,7 @@ master = "14"
 id = "670"
 title = "GERBERA"
 title_reading = "GERBERA"
-artist = "BEMANI Sound Team \"TAG\"「SOUND VOLTEX」より"
+artist = 'BEMANI Sound Team "TAG"「SOUND VOLTEX」より'
 image = "859274e4f5663080.jpg"
 category = "VARIETY"
 is_new = false
@@ -11703,7 +11703,7 @@ master = "11"
 
 [[songs]]
 id = "821"
-title = "\"STAR\"T"
+title = '"STAR"T'
 title_reading = "START"
 artist = "HaNaMiNa feat.Nadeshiko"
 image = "0ef28e1704c0e7b9.jpg"
@@ -11910,6 +11910,7 @@ basic = "3"
 advanced = "5"
 expert = "10"
 master = "12"
+ultima = "13+"
 
 [[songs]]
 id = "158"
@@ -13893,6 +13894,36 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
+id = "2564"
+title = "Beautiful Future"
+title_reading = "BEAUTIFULFUTURE"
+artist = "PSYQUI"
+image = "2374b52c2d685995.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "12"
+master = "13+"
+
+[[songs]]
+id = "2565"
+title = "Alcyone"
+title_reading = "ALCYONE"
+artist = "PRASTIK DANCEFLOOR"
+image = "37649fabc6ab8582.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "11+"
+master = "14+"
+
+[[songs]]
 id = "802"
 title = "STARTLINER"
 title_reading = "STARTLINER"
@@ -13906,6 +13937,21 @@ basic = "1"
 advanced = "5"
 expert = "7+"
 master = "10"
+
+[[songs]]
+id = "2561"
+title = "Jump!! Jump!! Jump!!"
+title_reading = "JUMPJUMPJUMP"
+artist = "曲：宮崎誠／歌：オンゲキシューターズ"
+image = "5b457a6e66fcbdc9.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
 
 [[songs]]
 id = "2077"
@@ -14116,6 +14162,21 @@ basic = "3"
 advanced = "6"
 expert = "8+"
 master = "12"
+
+[[songs]]
+id = "2562"
+title = "Prominence"
+title_reading = "PROMINENCE"
+artist = "曲：下野 隼／歌：皇城 セツナ(CV：八巻 アンナ)、式宮 碧音(CV：髙橋 ミナミ)"
+image = "1835f7b870f41b3d.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "11"
+master = "14"
 
 [[songs]]
 id = "2235"
@@ -15015,6 +15076,21 @@ is_new = false
 basic = "3"
 advanced = "8"
 expert = "13"
+master = "14+"
+
+[[songs]]
+id = "2563"
+title = "Stargazing Dreamer"
+title_reading = "STARGAZINGDREAMER"
+artist = "xi"
+image = "7afaeb369b97d412.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "12"
 master = "14+"
 
 [[songs]]
@@ -18901,7 +18977,7 @@ master = "13+"
 
 [[songs]]
 id = "1065"
-title = "Athlete Killer \"Meteor\""
+title = 'Athlete Killer "Meteor"'
 title_reading = "ATHLETEKILLERMETEOR"
 artist = "LamazeP feat.月乃"
 image = "c7cd88931b17f273.jpg"
@@ -19368,7 +19444,7 @@ master = "13+"
 id = "2210"
 title = "Scythe of Death"
 title_reading = "SCYTHEOFDEATH"
-artist = "Masahiro \"Godspeed\" Aoki"
+artist = 'Masahiro "Godspeed" Aoki'
 image = "a9f5e2205d97833b.jpg"
 category = "ORIGINAL"
 is_new = false

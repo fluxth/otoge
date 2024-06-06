@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 902
-last_updated = "2024-05-23T03:03:12.895650093Z"
+count = 905
+last_updated = "2024-06-06T03:02:32.026839201Z"
 
 [[songs]]
 id = "583100"
@@ -2175,7 +2175,7 @@ id = "2010"
 name = "博麗 霊夢"
 
 [[songs]]
-id = "946700"
+id = "911700"
 title = "ナイト・オブ・ナイツ"
 title_reading = "ナイトオフナイツ"
 artist = "ビートまりお（COOL&CREATE）"
@@ -22555,7 +22555,7 @@ name = "藤沢 柚子"
 id = "687900"
 title = "FestA of PandemoniuM"
 title_reading = "FESTAOFPANDEMONIUM"
-artist = "山本真央樹 vs Masahiro \"Godspeed\" Aoki (feat. Dylan Reavey)"
+artist = '山本真央樹 vs Masahiro "Godspeed" Aoki (feat. Dylan Reavey)'
 date = "2023-03-02"
 image = "119220d2b74a17d5.png"
 is_new = false
@@ -26115,7 +26115,7 @@ name = "柏木 咲姫"
 
 [[songs]]
 id = "668300"
-title = "Cogit ergo sum"
+title = "Cogito ergo sum"
 title_reading = "COGITERGOSUM"
 artist = "佐藤 優樹"
 date = "2024-04-25"
@@ -26240,7 +26240,7 @@ title_reading = "ユキオトコ"
 artist = "かねこちはる"
 date = "2024-05-23"
 image = "89495378e8ccaf1a.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26269,7 +26269,7 @@ title_reading = "BLESSEDRAIN"
 artist = "ぺのれり"
 date = "2024-05-23"
 image = "52b5f7bda066b73a.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26290,6 +26290,96 @@ master = "14"
 [songs.character]
 id = "1160"
 name = "東雲 つむぎ"
+
+[[songs]]
+id = "481500"
+title = "10pt8ion"
+title_reading = "10PT8TION"
+artist = "Lite Show Magic「グルーヴコースター」"
+date = "2024-06-06"
+image = "9d9b4a86a44bd07f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
+
+[songs.chapter]
+id = "99100"
+name = "グルーヴコースター【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "6970"
+name = "リンカ"
+
+[[songs]]
+id = "481400"
+title = "Got more raves? -xiRemix-"
+title_reading = "GOTMORERAVESXIREMIX"
+artist = "xi「グルーヴコースター」"
+date = "2024-06-06"
+image = "10e4c4301d096df9.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
+
+[songs.chapter]
+id = "99100"
+name = "グルーヴコースター【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "7+"
+advanced = "10"
+expert = "13+"
+master = "14+"
+
+[songs.character]
+id = "6980"
+name = "ユメ"
+
+[[songs]]
+id = "481300"
+title = "Lethal Dose"
+title_reading = "LETHALDOSE"
+artist = "sky_delta「グルーヴコースター」"
+date = "2024-06-06"
+image = "2cbe5a459de45ac1.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
+
+[songs.chapter]
+id = "99100"
+name = "グルーヴコースター【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "5"
+advanced = "9+"
+expert = "12+"
+master = "13+"
+
+[songs.character]
+id = "6990"
+name = "セイネ"
 
 [[categories]]
 id = "06"
