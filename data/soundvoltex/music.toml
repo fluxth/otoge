@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2025
-last_updated = "2024-06-06T03:02:43.369285927Z"
+count = 2029
+last_updated = "2024-06-13T03:02:50.536423860Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=RIoy8tF5pHgFVomwmmO9iw"
+title = "King's Gambit"
+artist = "brz1128"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=yCGvlied-n3JYw_B4JRRnQ"
+title = "七七七夕"
+artist = "Mono. + uynet"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=iZ2CHT3Nnxz9P7Q5LPzOmg"
+title = "HEAVEN KNOWS"
+artist = "U-ske feat.石橋桃"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=PPSmA7PDJsQwcWSDE4m7rw"
+title = "You Only Live Twice"
+artist = "Sephid feat. aria"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=OqsN8XS_woWCGyRuhPK1Qw"
