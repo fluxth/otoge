@@ -1,6 +1,6 @@
 name = "polarischord"
 count = 133
-last_updated = "2024-06-13T03:02:38.115562094Z"
+last_updated = "2024-06-20T03:02:40.609503387Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -157,6 +157,7 @@ license = "Licensed by FOR LIFE MUSIC ENTERTAINMENT, INC."
 easy = 2
 normal = 4
 hard = 6
+influence = 11
 
 [[songs.categories]]
 bitflag = 2
@@ -216,6 +217,7 @@ license = "Licensed by Last Note．"
 easy = 4
 normal = 6
 hard = 9
+influence = 12
 
 [[songs.categories]]
 bitflag = 2
@@ -620,6 +622,7 @@ license = "Licensed by OTOIRO"
 easy = 2
 normal = 6
 hard = 9
+influence = 11
 
 [[songs.categories]]
 bitflag = 2
@@ -1241,6 +1244,7 @@ license = "Licensed by Hareru Hanamaru"
 easy = 2
 normal = 6
 hard = 9
+influence = 12
 
 [[songs.categories]]
 bitflag = 1

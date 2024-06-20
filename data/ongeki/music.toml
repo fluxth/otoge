@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 905
-last_updated = "2024-06-06T03:02:32.026839201Z"
+count = 907
+last_updated = "2024-06-20T03:02:40.992599756Z"
 
 [[songs]]
 id = "583100"
@@ -26298,7 +26298,7 @@ title_reading = "10PT8TION"
 artist = "Lite Show Magic「グルーヴコースター」"
 date = "2024-06-06"
 image = "9d9b4a86a44bd07f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
@@ -26328,7 +26328,7 @@ title_reading = "GOTMORERAVESXIREMIX"
 artist = "xi「グルーヴコースター」"
 date = "2024-06-06"
 image = "10e4c4301d096df9.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
@@ -26358,7 +26358,7 @@ title_reading = "LETHALDOSE"
 artist = "sky_delta「グルーヴコースター」"
 date = "2024-06-06"
 image = "2cbe5a459de45ac1.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© TAITO CORPORATION 1978, 2023 ALL RIGHTS RESERVED."
@@ -26380,6 +26380,64 @@ master = "13+"
 [songs.character]
 id = "6990"
 name = "セイネ"
+
+[[songs]]
+id = "481100"
+title = "風仁雷仁"
+title_reading = "フウシンライシン"
+artist = "カラフル・サウンズ・ポート"
+date = "2024-06-20"
+image = "269e6c78776abd4f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[songs.character]
+id = "1070"
+name = "桜井 春菜"
+
+[[songs]]
+id = "481200"
+title = "Synthesis."
+title_reading = "SYNTHESIS"
+artist = "tn-shi"
+date = "2024-06-20"
+image = "506d3d2712eb7685.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "1170"
+name = "皇城 セツナ"
 
 [[categories]]
 id = "06"
