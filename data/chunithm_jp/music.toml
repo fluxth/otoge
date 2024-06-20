@@ -1,6 +1,66 @@
 name = "chunithm_jp"
-count = 1435
-last_updated = "2024-06-06T03:02:31.673088016Z"
+count = 1404
+last_updated = "2024-06-20T03:02:40.772568486Z"
+
+[[songs]]
+id = "2584"
+title = "勇者"
+title_reading = "ユウシヤ"
+artist = "YOASOBI「葬送のフリーレン」"
+image = "a1b3309dc43d04d5.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "8+"
+master = "13"
+
+[[songs]]
+id = "2585"
+title = "カオスが極まる"
+title_reading = "カオスカキワマル"
+artist = "UNISON SQUARE GARDEN「ブルーロック」"
+image = "b77408768afa58d4.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "2586"
+title = "唱"
+title_reading = "シヨウ"
+artist = "Ado"
+image = "2274030518738fc8.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "8"
+master = "12+"
+
+[[songs]]
+id = "2587"
+title = "美少女無罪♡パイレーツ"
+title_reading = "ヒシヨウシヨムサイハイレウツ"
+artist = "宝鐘マリン（ホロライブ）"
+image = "6d85a62c5e9dcae8.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12"
 
 [[songs]]
 id = "2504"
@@ -45,7 +105,7 @@ is_new = false
 basic = "2"
 advanced = "5"
 expert = "9"
-master = "12"
+master = "12+"
 
 [[songs]]
 id = "2501"
@@ -90,7 +150,7 @@ is_new = false
 basic = "3"
 advanced = "5"
 expert = "9+"
-master = "12"
+master = "11+"
 
 [[songs]]
 id = "2498"
@@ -240,7 +300,7 @@ is_new = false
 basic = "3"
 advanced = "5"
 expert = "8+"
-master = "11+"
+master = "12"
 
 [[songs]]
 id = "2479"
@@ -270,7 +330,7 @@ is_new = false
 basic = "3"
 advanced = "7+"
 expert = "9+"
-master = "13"
+master = "13+"
 
 [[songs]]
 id = "2482"
@@ -300,7 +360,7 @@ is_new = false
 basic = "2"
 advanced = "6"
 expert = "8"
-master = "12"
+master = "11+"
 
 [[songs]]
 id = "2464"
@@ -524,7 +584,7 @@ is_new = false
 [songs.levels]
 basic = "3"
 advanced = "6"
-expert = "8+"
+expert = "9"
 master = "12"
 
 [[songs]]
@@ -659,7 +719,7 @@ is_new = false
 [songs.levels]
 basic = "3"
 advanced = "7"
-expert = "10+"
+expert = "11"
 master = "13+"
 
 [[songs]]
@@ -1143,66 +1203,6 @@ expert = "9"
 master = "12+"
 
 [[songs]]
-id = "2100"
-title = "Realize"
-title_reading = "REALIZE"
-artist = "鈴木このみ「Re:ゼロから始める異世界生活」"
-image = "0249b8944105c8b3.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "10"
-master = "13"
-
-[[songs]]
-id = "2136"
-title = "Long shot"
-title_reading = "LONGSHOT"
-artist = "前島麻由「Re:ゼロから始める異世界生活」"
-image = "1d308685d00b32d6.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9+"
-master = "12"
-
-[[songs]]
-id = "2107"
-title = "FLARE"
-title_reading = "FLARE"
-artist = "Void_Chords feat. LIO「ありふれた職業で世界最強」"
-image = "5a572b327f9903a5.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "9+"
-master = "12+"
-
-[[songs]]
-id = "2095"
-title = "天空カフェテリア"
-title_reading = "テンクウカフエテリア"
-artist = "Petit Rabbit's「ご注文はうさぎですか？BLOOM」"
-image = "203fbc68368b3faa.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "8+"
-master = "12"
-
-[[songs]]
 id = "2096"
 title = "ヒバリ"
 title_reading = "ヒハリ"
@@ -1248,111 +1248,6 @@ expert = "9+"
 master = "11"
 
 [[songs]]
-id = "2139"
-title = "圧　倒　的　存　在　感"
-title_reading = "アツトウテキソンサイカン"
-artist = "鈴原るる／でびでび・でびる"
-image = "30fa1985426c6197.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "10"
-master = "13"
-
-[[songs]]
-id = "2123"
-title = "なだめスかし Negotiation（TVsize）"
-title_reading = "ナタメスカシNEGOTIATIONTVSIZE"
-artist = "鹿乃と宇崎ちゃん「宇崎ちゃんは遊びたい！」"
-image = "17de51eed9194d3a.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "9+"
-master = "12+"
-
-[[songs]]
-id = "2112"
-title = "Lost Princess"
-title_reading = "LOSTPRINCESS"
-artist = "ペコリーヌ（M・A・O）、コッコロ（伊藤美来）、キャル（立花理香）「プリンセスコネクト！Re:Dive」"
-image = "fb9c74ded8734e84.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9"
-master = "11+"
-
-[[songs]]
-id = "2113"
-title = "Mirage Game"
-title_reading = "MIRAGEGAME"
-artist = "ペコリーヌ（M・A・O）、コッコロ（伊藤美来）、キャル（立花理香）、ユイ（種田梨沙）、ヒヨリ（東山奈央）、レイ（早見沙織）、シェフィ（近藤玲奈）「プリンセスコネクト！Re:Dive」"
-image = "e451a2fbb6717ef1.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9+"
-master = "12"
-
-[[songs]]
-id = "2141"
-title = "永遠のAria"
-title_reading = "エイエンノARIA"
-artist = "雨宮天「七つの大罪 憤怒の審判」"
-image = "d51ad05982838109.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "8+"
-master = "12+"
-
-[[songs]]
-id = "2075"
-title = "キズナミュージック♪"
-title_reading = "キスナミユウシツク"
-artist = "Poppin'Party「バンドリ！ ガールズバンドパーティ！」"
-image = "e610fb21d4f76941.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "9"
-master = "12"
-
-[[songs]]
-id = "2076"
-title = "FIRE BIRD"
-title_reading = "FIREBIRD"
-artist = "Roselia「バンドリ！ ガールズバンドパーティ！」"
-image = "ca5aa0c10dd79b13.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "9+"
-master = "13+"
-
-[[songs]]
 id = "2010"
 title = "夜に駆ける"
 title_reading = "ヨルニカケル"
@@ -1364,201 +1259,6 @@ is_new = false
 [songs.levels]
 basic = "2"
 advanced = "5"
-expert = "9"
-master = "11+"
-
-[[songs]]
-id = "2006"
-title = "香水"
-title_reading = "コウスイ"
-artist = "瑛人"
-image = "bed1e1a45185a438.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "2"
-advanced = "4"
-expert = "7"
-master = "10"
-
-[[songs]]
-id = "2007"
-title = "猫 ～THE FIRST TAKE ver.～"
-title_reading = "ネコTHEFIRSTTAKEVER"
-artist = "DISH//"
-image = "5b9aba986cfbb198.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "1"
-advanced = "4"
-expert = "8"
-master = "11"
-
-[[songs]]
-id = "2008"
-title = "インフェルノ"
-title_reading = "インフエルノ"
-artist = "Mrs. GREEN APPLE"
-image = "48e0e341da2cdc7d.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "9+"
-master = "12"
-
-[[songs]]
-id = "2009"
-title = "残酷な天使のテーゼ"
-title_reading = "サンコクナテンシノテウセ"
-artist = "高橋洋子「新世紀エヴァンゲリオン」"
-image = "e3a6d720dd84af58.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "8"
-master = "11"
-
-[[songs]]
-id = "2012"
-title = "紅"
-title_reading = "クレナイ"
-artist = "X JAPAN [covered by 光吉猛修]"
-image = "38688fb478269912.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "7"
-expert = "11"
-master = "14+"
-
-[[songs]]
-id = "2142"
-title = "うまぴょい伝説"
-title_reading = "ウマヒヨイテンセツ"
-artist = "スペシャルウィーク （CV.和氣あず未）、サイレンススズカ （CV.高野麻里佳）、トウカイテイオー （CV.Machico）"
-image = "886b18df2812e35c.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9+"
-master = "12+"
-
-[[songs]]
-id = "2013"
-title = "GO! GO! MANIAC"
-title_reading = "GOGOMANIAC"
-artist = "放課後ティータイム「けいおん！！」"
-image = "30f81c9ab7032bdd.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "10"
-master = "13+"
-
-[[songs]]
-id = "2015"
-title = "エクストラ・マジック・アワー"
-title_reading = "エクストラマシツクアワウ"
-artist = "AKINO with bless4「甘城ブリリアントパーク」"
-image = "de4999367cd5a4c3.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "8+"
-master = "12+"
-
-[[songs]]
-id = "2016"
-title = "名前のない怪物"
-title_reading = "ナマエノナイカイフツ"
-artist = "EGOIST CX系ノイタミナ「PSYCHO-PASS サイコパス」エンディングテーマ"
-image = "d7cdb597c60c5395.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9"
-master = "12+"
-
-[[songs]]
-id = "2143"
-title = "うっせぇわ"
-title_reading = "ウツセエワ"
-artist = "Ado"
-image = "afd7a2a367142f74.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "9"
-master = "12+"
-
-[[songs]]
-id = "2014"
-title = "廻廻奇譚"
-title_reading = "カイカイキタン"
-artist = "Eve TVアニメ「呪術廻戦」第1クールオープニングテーマ"
-image = "a4a119b5e1c3892e.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9"
-master = "12"
-
-[[songs]]
-id = "2078"
-title = "I believe what you said"
-title_reading = "IBELIEVEWHATYOUSAID"
-artist = "亜咲花「ひぐらしのなく頃に 業」"
-image = "36c8c79a4dff4771.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9"
-master = "11+"
-
-[[songs]]
-id = "2000"
-title = "No.1"
-title_reading = "NO1"
-artist = "DISH//「僕のヒーローアカデミア」"
-image = "9541389b71c5e06a.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
 expert = "9"
 master = "11+"
 
@@ -2119,22 +1819,6 @@ expert = "8"
 master = "11+"
 
 [[songs]]
-id = "343"
-title = "Daydream café"
-title_reading = "DAYDREAMCAFE"
-artist = "Petit Rabbit's「ご注文はうさぎですか？」"
-image = "e21129db8b503610.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "8"
-master = "11"
-ultima = "12+"
-
-[[songs]]
 id = "37"
 title = "鳥の詩"
 title_reading = "トリノウタ"
@@ -2181,6 +1865,51 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "14+"
+
+[[songs]]
+id = "2589"
+title = "ÅMARA (大未来電脳)"
+title_reading = "AMARAタイミライテンノウ"
+artist = "sasakure.UK"
+image = "c89005d17d7b7fe0.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "13"
+master = "14+"
+
+[[songs]]
+id = "2671"
+title = "デビルじゃないもん"
+title_reading = "テヒルシヤナイモン"
+artist = "DECO*27, ピノキオピー"
+image = "981267d900491f1e.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12"
+
+[[songs]]
+id = "2591"
+title = "寝起きヤシの木"
+title_reading = "ネオキヤシノキ"
+artist = "ゆこぴ"
+image = "2fd2f32404ad09cb.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
 
 [[songs]]
 id = "2520"
@@ -2375,7 +2104,7 @@ is_new = false
 basic = "3"
 advanced = "6"
 expert = "9"
-master = "13"
+master = "13+"
 
 [[songs]]
 id = "2509"
@@ -2539,7 +2268,7 @@ is_new = false
 [songs.levels]
 basic = "3"
 advanced = "6"
-expert = "10"
+expert = "11"
 master = "13"
 
 [[songs]]
@@ -3383,36 +3112,6 @@ expert = "10"
 master = "14"
 
 [[songs]]
-id = "2020"
-title = "心予報"
-title_reading = "ココロヨホウ"
-artist = "Eve"
-image = "02492db7decaffd3.jpg"
-category = "niconico"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "8+"
-master = "12+"
-
-[[songs]]
-id = "2021"
-title = "拝啓、桜舞い散るこの日に"
-title_reading = "ハイケイサクラマイチルコノヒニ"
-artist = "まふまふ"
-image = "207d549fee21638d.jpg"
-category = "niconico"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9+"
-master = "12+"
-
-[[songs]]
 id = "2022"
 title = "セカイ"
 title_reading = "セカイ"
@@ -3501,21 +3200,6 @@ basic = "4"
 advanced = "6"
 expert = "8+"
 master = "12"
-
-[[songs]]
-id = "2027"
-title = "深海のリトルクライ feat. 土岐麻子"
-title_reading = "シンカイノリトルクライFEATトキアサコ"
-artist = "sasakure.UK"
-image = "c715660b39aaba46.jpg"
-category = "niconico"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9+"
-master = "13+"
 
 [[songs]]
 id = "2037"
@@ -4465,21 +4149,6 @@ expert = "9+"
 master = "13+"
 
 [[songs]]
-id = "658"
-title = "おちゃめ機能"
-title_reading = "オチヤメキノウ"
-artist = "ろん"
-image = "ce378b2efae567ec.jpg"
-category = "niconico"
-is_new = false
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "8"
-master = "12+"
-
-[[songs]]
 id = "654"
 title = "ブリキノダンス"
 title_reading = "フリキノタンス"
@@ -4537,21 +4206,6 @@ is_new = false
 basic = "3"
 advanced = "5"
 expert = "9"
-master = "11+"
-
-[[songs]]
-id = "660"
-title = "シャルル"
-title_reading = "シヤルル"
-artist = "バルーン"
-image = "0bbd22cb8d4513a2.jpg"
-category = "niconico"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "8"
 master = "11+"
 
 [[songs]]
@@ -4987,7 +4641,7 @@ is_new = false
 basic = "2"
 advanced = "5"
 expert = "9"
-master = "11+"
+master = "12"
 
 [[songs]]
 id = "445"
@@ -5632,7 +5286,8 @@ is_new = false
 basic = "3"
 advanced = "6"
 expert = "9+"
-master = "13"
+master = "12+"
+ultima = "14"
 
 [[songs]]
 id = "211"
@@ -5908,21 +5563,6 @@ master = "13+"
 ultima = "14+"
 
 [[songs]]
-id = "156"
-title = "FREELY TOMORROW"
-title_reading = "FREELYTOMORROW"
-artist = "Mitchie M"
-image = "b33923bd4e6e5609.jpg"
-category = "niconico"
-is_new = false
-
-[songs.levels]
-basic = "2"
-advanced = "4"
-expert = "8"
-master = "11"
-
-[[songs]]
 id = "157"
 title = "ギガンティックO.T.N"
 title_reading = "キカンテイツクOTN"
@@ -6154,6 +5794,21 @@ advanced = "6"
 expert = "9"
 master = "13"
 ultima = "14"
+
+[[songs]]
+id = "2592"
+title = "マツヨイナイトバグ"
+title_reading = "マツヨイナイトハク"
+artist = "ビートまりおとまろん"
+image = "b49322bf2826a9ec.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "14"
 
 [[songs]]
 id = "2523"
@@ -8384,7 +8039,7 @@ is_new = false
 [songs.levels]
 basic = "7+"
 advanced = "12+"
-expert = "14"
+expert = "14+"
 master = "15"
 
 [[songs]]
@@ -9217,6 +8872,21 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
+id = "2593"
+title = "Rrhar'il"
+title_reading = "RRHARIL"
+artist = "Team Grimoire「Phigros」"
+image = "49e97ab81aaf16ff.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "12"
+master = "14+"
+
+[[songs]]
 id = "2544"
 title = "MuseDashを作っているPeroPeroGamesさんが倒産しちゃったよ～"
 title_reading = "MUSEDASHヲツクツテイルPEROPEROGAMESサンカトウサンシチヤツタヨウ"
@@ -9307,21 +8977,6 @@ expert = "13+"
 master = "14+"
 
 [[songs]]
-id = "2039"
-title = "]-[|/34<#!"
-title_reading = "HIBACHI"
-artist = "並木学（ナミキマナブ）「怒首領蜂大復活」"
-image = "77bb3ca5929cb8f6.jpg"
-category = "VARIETY"
-is_new = false
-
-[songs.levels]
-basic = "4"
-advanced = "8+"
-expert = "14"
-master = "14+"
-
-[[songs]]
 id = "2137"
 title = "MEGALOVANIA"
 title_reading = "MEGALOVANIA"
@@ -9349,7 +9004,7 @@ is_new = false
 basic = "3"
 advanced = "6"
 expert = "11+"
-master = "14"
+master = "14+"
 
 [[songs]]
 id = "2526"
@@ -9580,7 +9235,7 @@ master = "14+"
 id = "2539"
 title = "Ωκεανος"
 title_reading = "OKEANOS"
-artist = "cosMo@暴走P"
+artist = "cosMo＠暴走P"
 image = "c54d971a915748b6.jpg"
 category = "VARIETY"
 is_new = false
@@ -9952,7 +9607,7 @@ is_new = false
 basic = "3"
 advanced = "7"
 expert = "10+"
-master = "14"
+master = "14+"
 ultima = "14+"
 
 [[songs]]
@@ -11099,6 +10754,21 @@ expert = "11"
 master = "14"
 
 [[songs]]
+id = "2594"
+title = "ヒュブリスの頂に聳えるのは"
+title_reading = "ヒユフリスノイタタキニソヒエルノハ"
+artist = "qfeileadh feat.のあ"
+image = "46a06ee1d4fee2ac.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "12+"
+master = "14+"
+
+[[songs]]
 id = "6"
 title = "Reach For The Stars"
 title_reading = "REACHFORTHESTARS"
@@ -11367,7 +11037,7 @@ is_new = false
 basic = "1"
 advanced = "5"
 expert = "8"
-master = "12+"
+master = "13"
 
 [[songs]]
 id = "901"
@@ -11864,7 +11534,7 @@ is_new = false
 basic = "3"
 advanced = "5"
 expert = "9"
-master = "12+"
+master = "13"
 
 [[songs]]
 id = "2186"
@@ -12256,6 +11926,21 @@ is_new = false
 basic = "3"
 advanced = "6"
 expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "2596"
+title = "The Greatest Night"
+title_reading = "THEGREATESTNIGHT"
+artist = "御形 アリシアナ(CV:福原 綾香)"
+image = "cb8c19677a5f89f9.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
 master = "12+"
 
 [[songs]]
@@ -12886,7 +12571,8 @@ is_new = false
 basic = "3"
 advanced = "7"
 expert = "9+"
-master = "12+"
+master = "13"
+ultima = "14"
 
 [[songs]]
 id = "160"
@@ -13261,7 +12947,7 @@ is_new = false
 basic = "4"
 advanced = "8"
 expert = "12"
-master = "14"
+master = "14+"
 
 [[songs]]
 id = "715"
@@ -13352,6 +13038,7 @@ basic = "4"
 advanced = "8"
 expert = "11"
 master = "14"
+ultima = "14+"
 
 [[songs]]
 id = "1009"
@@ -13770,7 +13457,7 @@ is_new = false
 [songs.levels]
 basic = "4"
 advanced = "9+"
-expert = "12"
+expert = "11+"
 master = "14"
 
 [[songs]]
@@ -13900,7 +13587,7 @@ title_reading = "BEAUTIFULFUTURE"
 artist = "PSYQUI"
 image = "2374b52c2d685995.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -13915,13 +13602,28 @@ title_reading = "ALCYONE"
 artist = "PRASTIK DANCEFLOOR"
 image = "37649fabc6ab8582.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
 advanced = "7+"
 expert = "11+"
 master = "14+"
+
+[[songs]]
+id = "2598"
+title = "HECATONCHEIR"
+title_reading = "HECATONCHEIR"
+artist = "Yuta Imai"
+image = "27385d0203ddabc0.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "14"
 
 [[songs]]
 id = "802"
@@ -13945,7 +13647,7 @@ title_reading = "JUMPJUMPJUMP"
 artist = "曲：宮崎誠／歌：オンゲキシューターズ"
 image = "5b457a6e66fcbdc9.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -14029,6 +13731,21 @@ expert = "9+"
 master = "12"
 
 [[songs]]
+id = "2599"
+title = "夏宵スターマイン"
+title_reading = "ナツヨイスタウマイン"
+artist = "曲：本多友紀（Arte Refact）／歌：オンゲキシューターズ"
+image = "c0d524f3846ed0e2.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[[songs]]
 id = "2134"
 title = "Iudicium “Apocalypsis Mix”"
 title_reading = "IUDICIUMAPOCALYPSISMIX"
@@ -14101,7 +13818,7 @@ is_new = false
 basic = "3"
 advanced = "6"
 expert = "9"
-master = "12"
+master = "12+"
 
 [[songs]]
 id = "2463"
@@ -14131,6 +13848,21 @@ is_new = false
 basic = "3"
 advanced = "5"
 expert = "9"
+master = "12"
+
+[[songs]]
+id = "2309"
+title = "Let's Starry Party！"
+title_reading = "LETSSTARRYPARTY"
+artist = "曲：原田篤（Arte Refact）／歌：⊿TRiEDGE [高瀬 梨緒(CV：久保 ユリカ)、結城 莉玖(CV：朝日奈 丸佳)、藍原 椿(CV：橋本 ちなみ)]"
+image = "5326c1c936cde91e.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
 master = "12"
 
 [[songs]]
@@ -14170,7 +13902,7 @@ title_reading = "PROMINENCE"
 artist = "曲：下野 隼／歌：皇城 セツナ(CV：八巻 アンナ)、式宮 碧音(CV：髙橋 ミナミ)"
 image = "1835f7b870f41b3d.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -14281,21 +14013,6 @@ is_new = false
 basic = "2"
 advanced = "5"
 expert = "9"
-master = "12"
-
-[[songs]]
-id = "2309"
-title = "Let's Starry Party！"
-title_reading = "LETSSTARRYPARTY"
-artist = "曲：原田篤（Arte Refact）／歌：⊿TRiEDGE [高瀬 梨緒(CV：久保 ユリカ)、結城 莉玖(CV：朝日奈 丸佳)、藍原 椿(CV：橋本 ちなみ)]"
-image = "5326c1c936cde91e.jpg"
-category = "ゲキマイ"
-is_new = false
-
-[songs.levels]
-basic = "2"
-advanced = "6"
-expert = "10"
 master = "12"
 
 [[songs]]
@@ -15000,7 +14717,7 @@ is_new = false
 [songs.levels]
 basic = "3"
 advanced = "8+"
-expert = "13"
+expert = "12+"
 master = "14+"
 
 [[songs]]
@@ -15015,8 +14732,8 @@ is_new = false
 [songs.levels]
 basic = "2"
 advanced = "7+"
-expert = "12"
-master = "14+"
+expert = "11+"
+master = "14"
 
 [[songs]]
 id = "2480"
@@ -15030,8 +14747,8 @@ is_new = false
 [songs.levels]
 basic = "3"
 advanced = "8+"
-expert = "13"
-master = "14"
+expert = "12"
+master = "14+"
 
 [[songs]]
 id = "2485"
@@ -15084,6 +14801,21 @@ title = "Stargazing Dreamer"
 title_reading = "STARGAZINGDREAMER"
 artist = "xi"
 image = "7afaeb369b97d412.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2600"
+title = "其のエメラルドを見よ"
+title_reading = "ソノエメラルトヲミヨ"
+artist = "庭師"
+image = "e58cfa03ae9c14ce.jpg"
 category = "ゲキマイ"
 is_new = true
 
@@ -15535,7 +15267,7 @@ is_new = false
 basic = "2"
 advanced = "5"
 expert = "10"
-master = "13"
+master = "13+"
 
 [[songs]]
 id = "100"
@@ -15551,6 +15283,7 @@ basic = "2"
 advanced = "5"
 expert = "8"
 master = "12"
+ultima = "13"
 
 [[songs]]
 id = "108"
@@ -19573,7 +19306,7 @@ is_new = false
 basic = "1"
 advanced = "5"
 expert = "9+"
-master = "12"
+master = "11+"
 
 [[songs]]
 id = "2275"
@@ -20053,7 +19786,7 @@ is_new = false
 basic = "3"
 advanced = "6"
 expert = "11"
-master = "13+"
+master = "14"
 
 [[songs]]
 id = "2458"
@@ -20263,7 +19996,7 @@ is_new = false
 basic = "2"
 advanced = "6"
 expert = "10"
-master = "13+"
+master = "13"
 
 [[songs]]
 id = "2575"
@@ -20371,6 +20104,135 @@ expert = "14+"
 master = "15"
 
 [[songs]]
+id = "2601"
+title = "バッドトリッパー"
+title_reading = "ハツトトリツハウ"
+artist = "マイキP"
+image = "b5e3b0b18571e575.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "8"
+master = "12"
+
+[[songs]]
+id = "2602"
+title = "幻想ロードオブキング"
+title_reading = "ケンソウロウトオフキンク"
+artist = "DJ SHARPNEL feat. 相川なつ"
+image = "3efa87953ad18f1c.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "11+"
+master = "14+"
+
+[[songs]]
+id = "2603"
+title = "イーヴィルガール"
+title_reading = "イウウイルカウル"
+artist = "Fushi feat.吉乃"
+image = "b03747cba3140e03.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "14"
+
+[[songs]]
+id = "2604"
+title = "わたしはオッセルヴァトリーチェ！"
+title_reading = "ワタシハオツセルウアトリウチエ"
+artist = "アオワイファイ feat.秋山雫"
+image = "fdf12f0675887aa0.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "2636"
+title = "コメクエスト"
+title_reading = "コメクエスト"
+artist = "ELEMENTAS feat.miko"
+image = "98113879afe275be.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "2606"
+title = "リ・フィクション・O"
+title_reading = "リフイクシヨンO"
+artist = "sasakure.UK feat.ピリオ"
+image = "2c4db7af555e44f4.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "9+"
+expert = "13+"
+master = "15"
+
+[[songs]]
+id = "8283"
+title = "強風オールバック"
+title_reading = "キヨウフウオウルハツク"
+artist = "ゆこぴ"
+image = "78290c2cb56f2192.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "戻"
+star = "5"
+
+[[songs]]
+id = "8284"
+title = "強風オールバック"
+title_reading = "キヨウフウオウルハツク"
+artist = "ゆこぴ"
+image = "9e9101ae104e1391.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "弾"
+star = "5"
+
+[[songs]]
+id = "8285"
+title = "強風オールバック"
+title_reading = "キヨウフウオウルハツク"
+artist = "ゆこぴ"
+image = "6d4d6af0f1f2320a.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "避"
+star = "3"
+
+[[songs]]
 id = "8270"
 title = "セガサターン起動音[H.][Remix]"
 title_reading = "セカサタウンキトウオンHREMIX"
@@ -20410,32 +20272,6 @@ kanji = "改"
 star = "5"
 
 [[songs]]
-id = "8273"
-title = "【ゆっくり実況】ゆっくりペンギンが怒槌をやってみた！ Part1"
-title_reading = "ユツクリシツキヨウユツクリヘンキンカイカスチヲヤツテミタPART1"
-artist = "ゲキ！チュウマイ公式ちゃんねる"
-image = "bcd2cd5ff570e8bb.jpg"
-category = "ORIGINAL"
-is_new = false
-
-[songs.worlds_end]
-kanji = "嘘"
-star = "7"
-
-[[songs]]
-id = "8274"
-title = "ラストバトル ～サシュウとの戦い～"
-title_reading = "ラストハトルサシユウトノタタカイ"
-artist = "「IRODORIMIDORI FANTASY VII ～悠久のマイガハラント～」より"
-image = "2231e11bbb845c19.jpg"
-category = "イロドリミドリ"
-is_new = false
-
-[songs.worlds_end]
-kanji = "嘘"
-star = "5"
-
-[[songs]]
 id = "8275"
 title = "シル・ヴ・プレジデント"
 title_reading = "シルウフレシテント"
@@ -20447,19 +20283,6 @@ is_new = false
 [songs.worlds_end]
 kanji = "敷"
 star = "1"
-
-[[songs]]
-id = "8276"
-title = "うまぴょい伝説"
-title_reading = "ウマヒヨイテンセツ"
-artist = "スペシャルウィーク （CV.和氣あず未）、サイレンススズカ （CV.高野麻里佳）、トウカイテイオー （CV.Machico）"
-image = "4e20abe3e2d1b084.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.worlds_end]
-kanji = "両"
-star = "3"
 
 [[songs]]
 id = "8277"
@@ -20485,19 +20308,6 @@ is_new = false
 
 [songs.worlds_end]
 kanji = "招"
-star = "1"
-
-[[songs]]
-id = "8279"
-title = "フリーフォール"
-title_reading = "フリウフオウル"
-artist = "Zekk「WACCA」"
-image = "497d4f2cfba41251.jpg"
-category = "VARIETY"
-is_new = false
-
-[songs.worlds_end]
-kanji = "跳"
 star = "1"
 
 [[songs]]
@@ -20605,19 +20415,6 @@ kanji = "覚"
 star = "3"
 
 [[songs]]
-id = "8262"
-title = "なにやってもうまくいかない"
-title_reading = "ナニヤツテモウマクイカナイ"
-artist = "meiyo"
-image = "c5f84b39d246d54b.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.worlds_end]
-kanji = "光"
-star = "3"
-
-[[songs]]
 id = "8263"
 title = "Aleph-0"
 title_reading = "ALEPH0"
@@ -20631,32 +20428,6 @@ kanji = "避"
 star = "9"
 
 [[songs]]
-id = "8260"
-title = "4月1日でございました"
-title_reading = "4カツ1タチテコサイマシタ"
-artist = "Cranky"
-image = "cb494e0e94ede82c.jpg"
-category = "ORIGINAL"
-is_new = false
-
-[songs.worlds_end]
-kanji = "嘘"
-star = "5"
-
-[[songs]]
-id = "8259"
-title = "【3Dサウンド】小夜ちゃんが秘密裏に手に入れたヤベエ機材でヤベエ音を録る話【イヤホン推奨】（EDテーマ：A.S.S.S.M.R.）"
-title_reading = "3DサウントサヨチヤンカヒミツリニテニイレタヤヘエキサイテヤヘエオトヲトルハナシイヤホンスイシヨウEDテウマASSSMR"
-artist = "桔梗 小夜曲(CV:原田 彩楓)"
-image = "7c2112df4bfbf10f.jpg"
-category = "イロドリミドリ"
-is_new = false
-
-[songs.worlds_end]
-kanji = "嘘"
-star = "5"
-
-[[songs]]
 id = "8258"
 title = "ホーリーサンバランド"
 title_reading = "ホウリウサンハラント"
@@ -20668,19 +20439,6 @@ is_new = false
 [songs.worlds_end]
 kanji = "狂"
 star = "9"
-
-[[songs]]
-id = "8257"
-title = "Satellite System ft.Diana Chiaki"
-title_reading = "SATELLITESYSTEMFTDIANACHIAKI"
-artist = "GRATEC MOUR「CROSSxBEATS」"
-image = "ec4ad66f221651c5.jpg"
-category = "VARIETY"
-is_new = false
-
-[songs.worlds_end]
-kanji = "止"
-star = "7"
 
 [[songs]]
 id = "8256"
@@ -20761,19 +20519,6 @@ kanji = "撃"
 star = "5"
 
 [[songs]]
-id = "8250"
-title = "FIRE BIRD"
-title_reading = "FIREBIRD"
-artist = "Roselia「バンドリ！ ガールズバンドパーティ！」"
-image = "dbadea83d87d02e6.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.worlds_end]
-kanji = "招"
-star = "1"
-
-[[songs]]
 id = "8242"
 title = "Love & Justice"
 title_reading = "LOVEJUSTICE"
@@ -20785,19 +20530,6 @@ is_new = false
 [songs.worlds_end]
 kanji = "狂"
 star = "9"
-
-[[songs]]
-id = "8241"
-title = "Aragami"
-title_reading = "ARAGAMI"
-artist = "xi"
-image = "3932e97b0757b6ae.jpg"
-category = "VARIETY"
-is_new = false
-
-[songs.worlds_end]
-kanji = "光"
-star = "1"
 
 [[songs]]
 id = "8238"
@@ -20826,19 +20558,6 @@ kanji = "蔵"
 star = "7"
 
 [[songs]]
-id = "8233"
-title = "宙の隣"
-title_reading = "ソラノトナリ"
-artist = "くるぶっこちゃん"
-image = "a896471da13b3fc8.jpg"
-category = "ORIGINAL"
-is_new = false
-
-[songs.worlds_end]
-kanji = "？"
-star = "5"
-
-[[songs]]
 id = "8215"
 title = "Viyella's Tears"
 title_reading = "VIYELLASTEARS"
@@ -20862,19 +20581,6 @@ is_new = false
 
 [songs.worlds_end]
 kanji = "蔵"
-star = "5"
-
-[[songs]]
-id = "8219"
-title = "やらなきゃいけないことばかり"
-title_reading = "ヤラナキヤイケナイコトハカリ"
-artist = "小仏 凪(CV:佐倉 薫)＆月鈴 白奈(CV:高野 麻里佳)"
-image = "97df89f8b43d6233.jpg"
-category = "イロドリミドリ"
-is_new = false
-
-[songs.worlds_end]
-kanji = "狂"
 star = "5"
 
 [[songs]]
@@ -20904,19 +20610,6 @@ kanji = "狂"
 star = "7"
 
 [[songs]]
-id = "8228"
-title = "Trrricksters!!"
-title_reading = "TRRRICKSTERS"
-artist = "s-don vs. 翡乃イスカ"
-image = "7615de9e9eced518.jpg"
-category = "ORIGINAL"
-is_new = false
-
-[songs.worlds_end]
-kanji = "狂"
-star = "9"
-
-[[songs]]
 id = "8230"
 title = "董卓討つべし"
 title_reading = "トウタクウツヘシ"
@@ -20936,32 +20629,6 @@ title_reading = "ウラオモテラハウス"
 artist = "wowaka"
 image = "a1ce1238fb07d087.jpg"
 category = "niconico"
-is_new = false
-
-[songs.worlds_end]
-kanji = "招"
-star = "5"
-
-[[songs]]
-id = "8206"
-title = "恋はりんりん☆あーりんベル"
-title_reading = "コイハリンリンアウリンヘル"
-artist = "御形 アリシアナ(CV:福原 綾香)"
-image = "fa7f503d763cbf2e.jpg"
-category = "イロドリミドリ"
-is_new = false
-
-[songs.worlds_end]
-kanji = "嘘"
-star = "5"
-
-[[songs]]
-id = "8204"
-title = "Memory of Beach"
-title_reading = "MEMORYOFBEACH"
-artist = "M2U"
-image = "2c130ba076519882.jpg"
-category = "VARIETY"
 is_new = false
 
 [songs.worlds_end]
@@ -21008,45 +20675,6 @@ kanji = "割"
 star = "3"
 
 [[songs]]
-id = "8180"
-title = "【3Dサウンド】小野ちゃんが真夏のビーチでスイカを叩き割る話【イヤホン推奨】"
-title_reading = "3Dサウントオノチヤンカマナツノヒウチテスイカヲタタキワルハナシイヤホンスイシヨウ"
-artist = "HaNaMiNa"
-image = "fa6efefb66c38dd2.jpg"
-category = "イロドリミドリ"
-is_new = false
-
-[songs.worlds_end]
-kanji = "嘘"
-star = "1"
-
-[[songs]]
-id = "8181"
-title = "conflict(斉唱)"
-title_reading = "CONFLICTセイシヨウ"
-artist = "イロドリミドリ"
-image = "e69344eb5159304d.jpg"
-category = "イロドリミドリ"
-is_new = false
-
-[songs.worlds_end]
-kanji = "嘘"
-star = "5"
-
-[[songs]]
-id = "8176"
-title = "星の器～STAR OF ANDROMEDA"
-title_reading = "ホシノウツワSTAROFANDROMEDA"
-artist = "sun3"
-image = "b96e06ff2c7cdb83.jpg"
-category = "東方Project"
-is_new = false
-
-[songs.worlds_end]
-kanji = "狂"
-star = "1"
-
-[[songs]]
 id = "8168"
 title = "STARTLINER"
 title_reading = "STARTLINER"
@@ -21084,19 +20712,6 @@ is_new = false
 [songs.worlds_end]
 kanji = "！"
 star = "7"
-
-[[songs]]
-id = "8146"
-title = "なるがちゃんなぎにいよいよえれー目にあわされる話"
-title_reading = "ナルカチヤンナキニイヨイヨエレウメニアワサレルハナシ"
-artist = "イロドリミドリ"
-image = "56f3a98028b88321.jpg"
-category = "イロドリミドリ"
-is_new = false
-
-[songs.worlds_end]
-kanji = "嘘"
-star = "5"
 
 [[songs]]
 id = "8141"
@@ -21216,19 +20831,6 @@ kanji = "布"
 star = "5"
 
 [[songs]]
-id = "8116"
-title = "イロドリミドリ杯花映塚全一決定戦公式テーマソング『ウソテイ』"
-title_reading = "イロトリミトリハイカエイツカセンイチケツテイセンコウシキテウマソンクウソテイ"
-artist = "イロドリミドリ"
-image = "43bd6cbc31e4c02c.jpg"
-category = "イロドリミドリ"
-is_new = false
-
-[songs.worlds_end]
-kanji = "嘘"
-star = "7"
-
-[[songs]]
 id = "8110"
 title = "AMAZING MIGHTYYYY!!!!"
 title_reading = "AMAZINGMIGHTYYYY"
@@ -21266,19 +20868,6 @@ is_new = false
 [songs.worlds_end]
 kanji = "時"
 star = "1"
-
-[[songs]]
-id = "8078"
-title = "あねぺったん"
-title_reading = "アネヘツタン"
-artist = "月鈴姉妹(イロドリミドリ)"
-image = "a6889b8a729210be.jpg"
-category = "イロドリミドリ"
-is_new = false
-
-[songs.worlds_end]
-kanji = "嘘"
-star = "7"
 
 [[songs]]
 id = "8091"
@@ -21383,19 +20972,6 @@ is_new = false
 [songs.worlds_end]
 kanji = "戻"
 star = "7"
-
-[[songs]]
-id = "8025"
-title = "Help me, あーりん！"
-title_reading = "HELPMEアウリン"
-artist = "イロドリミドリ"
-image = "c1ff8df1757fedf4.jpg"
-category = "イロドリミドリ"
-is_new = false
-
-[songs.worlds_end]
-kanji = "嘘"
-star = "5"
 
 [[songs]]
 id = "8024"
