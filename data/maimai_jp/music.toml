@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1250
-last_updated = "2024-06-07T03:02:49.856168752Z"
+count = 1254
+last_updated = "2024-06-21T03:02:25.578196494Z"
 
 [[songs]]
 id = "948"
@@ -1027,8 +1027,7 @@ artist = "Hiro/森山愛子"
 image = "40800dfb586539a2.png"
 category = "maimai"
 version = "11006"
-release = "2024-06-07"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -2217,8 +2216,7 @@ artist = "Silver Forest"
 image = "937d88b9bec425ac.png"
 category = "東方Project"
 version = "13000"
-release = "2024-06-07"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -20482,6 +20480,78 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "822"
+title = "RE:INCARNATED DRAGNER"
+title_reading = "REINCARNATEDDRAGNER"
+artist = "黒沢ダイスケ × 小寺可南子"
+image = "08ecab27bca7f9f7.png"
+category = "maimai"
+version = "24507"
+release = "2024-06-21"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "823"
+title = "Beginning together!"
+title_reading = "BEGINNINGTOGETHER"
+artist = "高瀬一矢 feat. R.I.N.A"
+image = "091204c68ec374bc.png"
+category = "maimai"
+version = "24507"
+release = "2024-06-21"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "824"
+title = "Shining Ray ～僕らの絆～"
+title_reading = "SHININGRAYホクラノキスナ"
+artist = "伊藤和馬(Arte Refact) feat.konoco"
+image = "683b3ea0430e281e.png"
+category = "maimai"
+version = "24507"
+release = "2024-06-21"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "825"
+title = "DEVOTION"
+title_reading = "DEVOTION"
+artist = "AJURIKA feat.SAK."
+image = "dfe08aefe5fcd266.png"
+category = "maimai"
+version = "24507"
+release = "2024-06-21"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "11+"
+master = "14"
+
+[[songs]]
 id = "1147"
 title = "Λzure Vixen"
 title_reading = "AZUREVIXEN"
@@ -20783,7 +20853,7 @@ category = "ゲーム＆バラエティ"
 version = "24502"
 release = "2024-04-12"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "6"
@@ -20944,7 +21014,7 @@ image = "c825fb9620d74576.png"
 category = "東方Project"
 version = "24506"
 release = "2024-06-07"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -20962,7 +21032,7 @@ image = "72e6a54b6da5262b.png"
 category = "東方Project"
 version = "24506"
 release = "2024-06-07"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -20980,7 +21050,7 @@ image = "0847c38d2a623e99.png"
 category = "東方Project"
 version = "24506"
 release = "2024-06-07"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20998,7 +21068,7 @@ image = "486ae6dae890e7d7.png"
 category = "ゲーム＆バラエティ"
 version = "24506"
 release = "2024-06-07"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
