@@ -1,6 +1,81 @@
 name = "soundvoltex"
-count = 2029
-last_updated = "2024-06-13T03:02:50.536423860Z"
+count = 2034
+last_updated = "2024-06-27T03:02:49.562223717Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=iYxyeCVaUo7CRJoTk5hGxw"
+title = "Vigor(siqlo's Hi-Tech Veats)"
+artist = "siqlo"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=38l5JqLl26wXsr7UNriDww"
+title = "おにいちゃんグリッチホップ ～eternal love remix～"
+artist = "HOUJIROU feat. 杠葉えりか"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "3"
+advanced = "12"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=T1YoGQ1EAhd3YzqmyyLDiA"
+title = "Scarlet Pinheel -appassionato-"
+artist = "BlackY"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=0ihW6R5uisjK7Jq-oMg7tw"
+title = "ミュージックプレイヤー （J-pop Remix）"
+artist = "technoplanet feat. Risa Yuzuki"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=DLa61Itz4rYHp3IDSGVx_w"
+title = "WobbleTangleFestival (影虎。 & ikaruga_nex's HDM RMX)"
+artist = "影虎。 & ikaruga_nex"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=RIoy8tF5pHgFVomwmmO9iw"
