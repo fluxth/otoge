@@ -1,6 +1,6 @@
 name = "polarischord"
 count = 133
-last_updated = "2024-06-20T03:02:40.609503387Z"
+last_updated = "2024-06-27T03:02:40.731793103Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -709,6 +709,7 @@ license = "Licensed by 缶缶"
 easy = 1
 normal = 6
 hard = 10
+influence = 11
 
 [[songs.categories]]
 bitflag = 2
@@ -789,6 +790,7 @@ license = "Licensed by 稲葉曇"
 easy = 2
 normal = 5
 hard = 9
+influence = 10
 
 [[songs.categories]]
 bitflag = 2
@@ -837,6 +839,7 @@ license = "Licensed by La prière x 森羅万象"
 easy = 4
 normal = 6
 hard = 9
+influence = 12
 
 [[songs.categories]]
 bitflag = 1
@@ -1326,6 +1329,7 @@ artist = "日向美ビタースイーツ♪"
 easy = 3
 normal = 5
 hard = 9
+influence = 11
 
 [[songs.categories]]
 bitflag = 6
