@@ -21,35 +21,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4
 
-      - name: Resolve week ID
-        run: |
-          echo "WEEK_ID=$(date +%Y.%W)" >> "$GITHUB_ENV"
+      - name: Install rust toolchain
+        run: cargo version
 
-      - name: Cache rustup directory
-        uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4
+      - name: Cache rust artifacts
+        uses: Swatinem/rust-cache@23bce251a8cd2ffc3c1075eaa2367cf899916d84 # v2.7.3
         with:
-          path: ~/.rustup
-          key: rustup-${{ runner.os }}-${{ env.WEEK_ID }}
-          restore-keys: |
-            rustup-${{ runner.os }}-
-
-      - name: Install Rust stable
-        run: |
-          rustup update
-          rustup toolchain install stable --profile minimal
-          echo "RUSTC_HASH=$(rustc --version | sed 's/^.*(\(.*\))$/\1/' | awk '{ printf $1 }')" >> "$GITHUB_ENV"
-
-      - name: Run sccache-cache
-        uses: mozilla-actions/sccache-action@89e9040de88b577a072e3760aaf59f585da083af # v0.0.5
-
-      - name: Cache cargo registry
-        uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4
-        with:
-          path: |
-            ~/.cargo/registry
-          key: cargo-${{ runner.os }}-${{ hashFiles('**/Cargo.lock') }}
-          restore-keys: |
-            cargo-${{ runner.os }}-
+          shared-key: build
+          save-if: ${{ github.ref == 'refs/heads/main' }}
 
       - name: Build otoge
         run: cargo build --release
