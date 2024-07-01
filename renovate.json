@@ -6,7 +6,8 @@
     "regexManagers:githubActionsVersions",
     "npm:unpublishSafe",
     ":maintainLockFilesMonthly",
-    ":pinVersions"
+    ":pinVersions",
+    "github>Turbo87/renovate-config//rust/updateToolchain"
   ],
   "reviewers": ["fluxth"],
   "timezone": "Asia/Tokyo",
