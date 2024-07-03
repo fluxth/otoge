@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 133
-last_updated = "2024-06-27T03:02:40.731793103Z"
+count = 135
+last_updated = "2024-07-03T03:02:04.457735802Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -298,6 +298,7 @@ license = "Licensed by LaRa"
 easy = 2
 normal = 4
 hard = 9
+influence = 12
 
 [[songs.categories]]
 bitflag = 1
@@ -319,6 +320,7 @@ license = "Licensed by LaRa"
 easy = 2
 normal = 5
 hard = 8
+influence = 12
 
 [[songs.categories]]
 bitflag = 1
@@ -335,6 +337,7 @@ license = "Licensed by LaRa"
 easy = 3
 normal = 5
 hard = 7
+influence = 12
 
 [[songs.categories]]
 bitflag = 1
@@ -351,6 +354,7 @@ license = "Licensed by LaRa"
 easy = 2
 normal = 4
 hard = 7
+influence = 12
 
 [[songs.categories]]
 bitflag = 1
@@ -488,6 +492,7 @@ license = "Licensed by LaRa"
 easy = 2
 normal = 4
 hard = 10
+influence = 12
 
 [[songs.categories]]
 bitflag = 1
@@ -672,6 +677,7 @@ license = "Licensed by mikitoP, Licensed by LaRa"
 easy = 2
 normal = 5
 hard = 8
+influence = 11
 
 [[songs.categories]]
 bitflag = 1
@@ -2286,6 +2292,40 @@ license = "Licensed by COVER Corp."
 easy = 3
 normal = 5
 hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "efab2eaf540fa39a30c3b38041e4db5b"
+title = "GOLDEN"
+artist = "HIMEHINA"
+license = "Licensed by LaRa"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "024cfff8f7ae69d56f9fa46326ea1598"
+title = "愛包ダンスホール"
+artist = "HIMEHINA"
+license = "Licensed by LaRa"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 8
 influence = 11
 
 [[songs.categories]]
