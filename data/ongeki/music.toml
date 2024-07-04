@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 907
-last_updated = "2024-06-20T03:02:40.992599756Z"
+count = 909
+last_updated = "2024-07-04T03:02:23.671083575Z"
 
 [[songs]]
 id = "583100"
@@ -26388,7 +26388,7 @@ title_reading = "フウシンライシン"
 artist = "カラフル・サウンズ・ポート"
 date = "2024-06-20"
 image = "269e6c78776abd4f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26417,7 +26417,7 @@ title_reading = "SYNTHESIS"
 artist = "tn-shi"
 date = "2024-06-20"
 image = "506d3d2712eb7685.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26438,6 +26438,64 @@ master = "14+"
 [songs.character]
 id = "1170"
 name = "皇城 セツナ"
+
+[[songs]]
+id = "668100"
+title = "淵底のグレイ・ユークロニア"
+title_reading = "エンテイノクレイユクロニア"
+artist = "打打だいず vs. siromaru vs. Tanchiky"
+date = "2024-07-04"
+image = "ffaa5428ab030117.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80037"
+name = "Primera Fes. ～Summer Stage～"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "6"
+advanced = "10"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "668000"
+title = "冥乱幻舞"
+title_reading = "メイランケンフ"
+artist = "PRASTIK DANCEFLOOR"
+date = "2024-07-04"
+image = "bf3c0916aa22e22f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80037"
+name = "Primera Fes. ～Summer Stage～"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "1120"
+name = "逢坂 茜"
 
 [[categories]]
 id = "06"
