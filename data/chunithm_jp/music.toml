@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1404
-last_updated = "2024-06-20T03:02:40.772568486Z"
+count = 1410
+last_updated = "2024-07-05T03:02:20.446793839Z"
 
 [[songs]]
 id = "2584"
@@ -9,7 +9,7 @@ title_reading = "ユウシヤ"
 artist = "YOASOBI「葬送のフリーレン」"
 image = "a1b3309dc43d04d5.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "カオスカキワマル"
 artist = "UNISON SQUARE GARDEN「ブルーロック」"
 image = "b77408768afa58d4.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -39,7 +39,7 @@ title_reading = "シヨウ"
 artist = "Ado"
 image = "2274030518738fc8.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -54,7 +54,7 @@ title_reading = "ヒシヨウシヨムサイハイレウツ"
 artist = "宝鐘マリン（ホロライブ）"
 image = "6d85a62c5e9dcae8.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -1867,13 +1867,88 @@ master = "14+"
 ultima = "14+"
 
 [[songs]]
+id = "2657"
+title = "1000年生きてる"
+title_reading = "1000ネンイキテル"
+artist = "いよわ"
+image = "4574d2e1da81cc04.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "2658"
+title = "熱異常"
+title_reading = "ネツイシヨウ"
+artist = "いよわ"
+image = "ba8edfd987fa6bfb.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "14"
+
+[[songs]]
+id = "2659"
+title = "アプリコット"
+title_reading = "アフリコツト"
+artist = "いよわ"
+image = "31f717023ff9959b.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2610"
+title = "おくすり飲んで寝よう"
+title_reading = "オクスリノンテネヨウ"
+artist = "もちうつね"
+image = "e4ef530e84d34e1a.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2611"
+title = "匿名M"
+title_reading = "トクメイM"
+artist = "ピノキオピー"
+image = "64720792e35377e7.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "8+"
+master = "13"
+
+[[songs]]
 id = "2589"
 title = "ÅMARA (大未来電脳)"
 title_reading = "AMARAタイミライテンノウ"
 artist = "sasakure.UK"
 image = "c89005d17d7b7fe0.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -1888,7 +1963,7 @@ title_reading = "テヒルシヤナイモン"
 artist = "DECO*27, ピノキオピー"
 image = "981267d900491f1e.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -1903,7 +1978,7 @@ title_reading = "ネオキヤシノキ"
 artist = "ゆこぴ"
 image = "2fd2f32404ad09cb.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -5802,7 +5877,7 @@ title_reading = "マツヨイナイトハク"
 artist = "ビートまりおとまろん"
 image = "b49322bf2826a9ec.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -8878,7 +8953,7 @@ title_reading = "RRHARIL"
 artist = "Team Grimoire「Phigros」"
 image = "49e97ab81aaf16ff.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -10760,7 +10835,7 @@ title_reading = "ヒユフリスノイタタキニソヒエルノハ"
 artist = "qfeileadh feat.のあ"
 image = "46a06ee1d4fee2ac.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11935,7 +12010,7 @@ title_reading = "THEGREATESTNIGHT"
 artist = "御形 アリシアナ(CV:福原 綾香)"
 image = "cb8c19677a5f89f9.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -13617,7 +13692,7 @@ title_reading = "HECATONCHEIR"
 artist = "Yuta Imai"
 image = "27385d0203ddabc0.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -13737,7 +13812,7 @@ title_reading = "ナツヨイスタウマイン"
 artist = "曲：本多友紀（Arte Refact）／歌：オンゲキシューターズ"
 image = "c0d524f3846ed0e2.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -14817,13 +14892,28 @@ title_reading = "ソノエメラルトヲミヨ"
 artist = "庭師"
 image = "e58cfa03ae9c14ce.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
 advanced = "8+"
 expert = "12"
 master = "14+"
+
+[[songs]]
+id = "2597"
+title = "Stardust:RAY"
+title_reading = "STARDUSTRAY"
+artist = "kanone vs. BlackY"
+image = "5291b9916270df6b.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "13+"
+master = "15"
 
 [[songs]]
 id = "202"
@@ -20110,7 +20200,7 @@ title_reading = "ハツトトリツハウ"
 artist = "マイキP"
 image = "b5e3b0b18571e575.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -20125,7 +20215,7 @@ title_reading = "ケンソウロウトオフキンク"
 artist = "DJ SHARPNEL feat. 相川なつ"
 image = "3efa87953ad18f1c.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -20140,7 +20230,7 @@ title_reading = "イウウイルカウル"
 artist = "Fushi feat.吉乃"
 image = "b03747cba3140e03.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20155,7 +20245,7 @@ title_reading = "ワタシハオツセルウアトリウチエ"
 artist = "アオワイファイ feat.秋山雫"
 image = "fdf12f0675887aa0.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20170,7 +20260,7 @@ title_reading = "コメクエスト"
 artist = "ELEMENTAS feat.miko"
 image = "98113879afe275be.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20185,7 +20275,7 @@ title_reading = "リフイクシヨンO"
 artist = "sasakure.UK feat.ピリオ"
 image = "2c4db7af555e44f4.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -20200,7 +20290,7 @@ title_reading = "キヨウフウオウルハツク"
 artist = "ゆこぴ"
 image = "78290c2cb56f2192.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "戻"
@@ -20213,7 +20303,7 @@ title_reading = "キヨウフウオウルハツク"
 artist = "ゆこぴ"
 image = "9e9101ae104e1391.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "弾"
@@ -20226,7 +20316,7 @@ title_reading = "キヨウフウオウルハツク"
 artist = "ゆこぴ"
 image = "6d4d6af0f1f2320a.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "避"
