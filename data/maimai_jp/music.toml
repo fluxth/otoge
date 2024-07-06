@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1259
-last_updated = "2024-07-05T03:02:20.728007875Z"
+count = 1254
+last_updated = "2024-07-06T03:03:09.873120440Z"
 
 [[songs]]
 id = "957"
@@ -15152,23 +15152,6 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "20"
-title = "泥の分際で私だけの大切を奪おうだなんて"
-title_reading = "トロノフンサイテワタシタケノタイセツヲウハオウタナンテ"
-artist = "ツユ"
-image = "64a870cc6cb3ebc5.png"
-category = "POPS＆アニメ"
-version = "22006"
-is_new = false
-is_locked = false
-
-[songs.dx_levels]
-basic = "2"
-advanced = "7+"
-expert = "10+"
-master = "13+"
-
-[[songs]]
 id = "27"
 title = "VOLTAGE"
 title_reading = "VOLTAGE"
@@ -15936,23 +15919,6 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1243"
-title = "テリトリーバトル"
-title_reading = "テリトリイハトル"
-artist = "ツユ"
-image = "af7eef1a3da40d6b.png"
-category = "オンゲキ＆CHUNITHM"
-version = "22501"
-is_new = false
-is_locked = false
-
-[songs.dx_levels]
-basic = "4"
-advanced = "6"
-expert = "10"
-master = "13+"
-
-[[songs]]
 id = "1189"
 title = "Good bye, Merry-Go-Round."
 title_reading = "GOODBYEMERRYGOROUND"
@@ -16087,41 +16053,6 @@ basic = "1"
 advanced = "6"
 expert = "8"
 master = "12+"
-
-[[songs]]
-id = "18"
-title = "くらべられっ子"
-title_reading = "クラヘラレツコ"
-artist = "ツユ"
-image = "53899521eb35e95d.png"
-category = "POPS＆アニメ"
-version = "22501"
-is_new = false
-is_locked = false
-
-[songs.dx_levels]
-basic = "2"
-advanced = "7"
-expert = "9+"
-master = "11"
-remaster = "13"
-
-[[songs]]
-id = "19"
-title = "あの世行きのバスに乗ってさらば。"
-title_reading = "アノヨイキノハスニノツテサラハ"
-artist = "ツユ"
-image = "12dd6e137e5e6c6c.png"
-category = "POPS＆アニメ"
-version = "22501"
-is_new = false
-is_locked = false
-
-[songs.dx_levels]
-basic = "3"
-advanced = "7+"
-expert = "11+"
-master = "13"
 
 [[songs]]
 id = "42"
@@ -19753,23 +19684,6 @@ advanced = "7"
 expert = "10"
 master = "11+"
 remaster = "13+"
-
-[[songs]]
-id = "17"
-title = "アンダーキッズ"
-title_reading = "アンタアキツス"
-artist = "ツユ"
-image = "9ed9ec396fbb956e.png"
-category = "POPS＆アニメ"
-version = "24000"
-is_new = false
-is_locked = false
-
-[songs.dx_levels]
-basic = "5"
-advanced = "7"
-expert = "10+"
-master = "13"
 
 [[songs]]
 id = "23"
