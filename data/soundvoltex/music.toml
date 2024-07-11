@@ -1,6 +1,111 @@
 name = "soundvoltex"
-count = 2034
-last_updated = "2024-06-27T03:02:49.562223717Z"
+count = 2041
+last_updated = "2024-07-11T03:02:32.522413948Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=T0ahBiWf0hzTcPUO35Cduw"
+title = "XΛLT=ØVER"
+artist = "Ashrount"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=l-JszqeYH-YML2c5Zad3Fg"
+title = "Entropic EnĤαncemEnt"
+artist = "CHUBAY"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=iRCEHSFJcLYMyZUI8CW_mA"
+title = "SAD1STIC Я04D"
+artist = "Enterskip"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=oeDmCWz0CuPR4GX062pn7A"
+title = "Sweetie Beauti Magic"
+artist = "打打だいず feat. 凜々"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=myGDj3GiJqMqDRYfYE9xwQ"
+title = "月明りの旅人たち"
+artist = "coTatsu"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Ae7j_JvRHaJGZNW-PUg8GQ"
+title = "Two of Wonder Lights"
+artist = "technoplanet feat. Tamako Kinoshita"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=5D_4orE4RwpQfl6d-ntCKg"
+title = "トキノコエト"
+artist = "setu-O meets 駄々子"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=iYxyeCVaUo7CRJoTk5hGxw"

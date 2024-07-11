@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 909
-last_updated = "2024-07-04T03:02:23.671083575Z"
+count = 911
+last_updated = "2024-07-11T03:02:24.248208284Z"
 
 [[songs]]
 id = "583100"
@@ -26446,7 +26446,7 @@ title_reading = "エンテイノクレイユクロニア"
 artist = "打打だいず vs. siromaru vs. Tanchiky"
 date = "2024-07-04"
 image = "ffaa5428ab030117.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26475,7 +26475,7 @@ title_reading = "メイランケンフ"
 artist = "PRASTIK DANCEFLOOR"
 date = "2024-07-04"
 image = "bf3c0916aa22e22f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26496,6 +26496,65 @@ master = "14+"
 [songs.character]
 id = "1120"
 name = "逢坂 茜"
+
+[[songs]]
+id = "577600"
+title = "ガチ恋ラビリンス"
+title_reading = "カチコイラヒリンス"
+artist = "森羅万象"
+date = "2024-07-11"
+image = "eda72f7dbb425537.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "5"
+advanced = "8"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
+
+[[songs]]
+id = "274900"
+title = "メランコリック"
+title_reading = "メランコリク"
+artist = "Junky"
+date = "2024-07-11"
+image = "f8f57a110a4c3f15.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Junky"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12"
+
+[songs.character]
+id = "1020"
+name = "藤沢 柚子"
 
 [[categories]]
 id = "06"
