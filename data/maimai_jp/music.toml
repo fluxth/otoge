@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1254
-last_updated = "2024-07-06T03:03:09.873120440Z"
+count = 1255
+last_updated = "2024-07-11T03:02:24.188250207Z"
 
 [[songs]]
 id = "957"
@@ -20866,6 +20866,24 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
+id = "578"
+title = "QUATTUORUX"
+title_reading = "QUATTUORUX"
+artist = "打打だいず Vs. Tanchiky Vs. からめる"
+image = "5d5496cab15d0422.png"
+category = "ゲーム＆バラエティ"
+version = "24509"
+release = "2024-07-11"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8+"
+expert = "13"
+master = "14"
+
+[[songs]]
 id = "110"
 title = "匿名M"
 title_reading = "トクメイM"
@@ -21000,7 +21018,7 @@ image = "b3f24cb4e56ccba5.png"
 category = "ゲーム＆バラエティ"
 version = "24508"
 release = "2024-07-05"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21018,7 +21036,7 @@ image = "9ffcfe46b8701004.png"
 category = "ゲーム＆バラエティ"
 version = "24508"
 release = "2024-07-05"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21036,7 +21054,7 @@ image = "23b599302f289981.png"
 category = "ゲーム＆バラエティ"
 version = "24508"
 release = "2024-07-05"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -21054,7 +21072,7 @@ image = "15e5297f80a4aa55.png"
 category = "ゲーム＆バラエティ"
 version = "24508"
 release = "2024-07-05"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -21072,7 +21090,7 @@ image = "dadc9d2b98ecf1c8.png"
 category = "ゲーム＆バラエティ"
 version = "24508"
 release = "2024-07-05"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
