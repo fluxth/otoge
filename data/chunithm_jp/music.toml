@@ -1,6 +1,6 @@
 name = "chunithm_jp"
 count = 1410
-last_updated = "2024-07-05T03:02:20.446793839Z"
+last_updated = "2024-07-18T03:02:06.617378067Z"
 
 [[songs]]
 id = "2584"
@@ -1873,7 +1873,7 @@ title_reading = "1000ネンイキテル"
 artist = "いよわ"
 image = "4574d2e1da81cc04.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -1888,7 +1888,7 @@ title_reading = "ネツイシヨウ"
 artist = "いよわ"
 image = "ba8edfd987fa6bfb.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -1903,7 +1903,7 @@ title_reading = "アフリコツト"
 artist = "いよわ"
 image = "31f717023ff9959b.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -1918,7 +1918,7 @@ title_reading = "オクスリノンテネヨウ"
 artist = "もちうつね"
 image = "e4ef530e84d34e1a.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -1933,7 +1933,7 @@ title_reading = "トクメイM"
 artist = "ピノキオピー"
 image = "64720792e35377e7.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -1985,21 +1985,6 @@ basic = "3"
 advanced = "6"
 expert = "9"
 master = "12+"
-
-[[songs]]
-id = "2520"
-title = "アンダーキッズ"
-title_reading = "アンタウキツス"
-artist = "ツユ"
-image = "874cf61ea3abd287.jpg"
-category = "niconico"
-is_new = false
-
-[songs.levels]
-basic = "4"
-advanced = "7"
-expert = "9"
-master = "13+"
 
 [[songs]]
 id = "2522"
@@ -2285,21 +2270,6 @@ basic = "2"
 advanced = "7+"
 expert = "10"
 master = "13+"
-
-[[songs]]
-id = "2447"
-title = "いつかオトナになれるといいね。"
-title_reading = "イツカオトナニナレルトイイネ"
-artist = "ツユ"
-image = "6a434eacba5b55e5.jpg"
-category = "niconico"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9+"
-master = "12+"
 
 [[songs]]
 id = "2433"
@@ -2855,51 +2825,6 @@ basic = "2"
 advanced = "5"
 expert = "8+"
 master = "12"
-
-[[songs]]
-id = "2211"
-title = "くらべられっ子"
-title_reading = "クラヘラレツコ"
-artist = "ツユ"
-image = "9ee3d19292b57e42.jpg"
-category = "niconico"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "5"
-expert = "9"
-master = "12+"
-
-[[songs]]
-id = "2212"
-title = "あの世行きのバスに乗ってさらば。"
-title_reading = "アノヨイキノハスニノツテサラハ"
-artist = "ツユ"
-image = "d17eb046ce46d48c.jpg"
-category = "niconico"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9+"
-master = "12+"
-
-[[songs]]
-id = "2213"
-title = "泥の分際で私だけの大切を奪おうだなんて"
-title_reading = "トロノフンサイテワタシタケノタイセツヲウハオウタナンテ"
-artist = "ツユ"
-image = "8cae22dfe88297c9.jpg"
-category = "niconico"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "10"
-master = "13"
 
 [[songs]]
 id = "2214"
@@ -13701,6 +13626,21 @@ expert = "11+"
 master = "14"
 
 [[songs]]
+id = "2620"
+title = "チューリングの跡"
+title_reading = "チユウリンクノアト"
+artist = "Frums"
+image = "1befde04785db436.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "14"
+master = "14+"
+
+[[songs]]
 id = "802"
 title = "STARTLINER"
 title_reading = "STARTLINER"
@@ -18094,21 +18034,6 @@ expert = "14"
 master = "15"
 
 [[songs]]
-id = "988"
-title = "テリトリーバトル"
-title_reading = "テリトリウハトル"
-artist = "ツユ"
-image = "a1f03d12ebcdc5a7.jpg"
-category = "ORIGINAL"
-is_new = false
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9"
-master = "12"
-
-[[songs]]
 id = "989"
 title = "ROAD TO DREAM"
 title_reading = "ROADTODREAM"
@@ -20282,6 +20207,81 @@ basic = "5"
 advanced = "9+"
 expert = "13+"
 master = "15"
+
+[[songs]]
+id = "2612"
+title = "DRE4M1N9"
+title_reading = "DRE4M1N9"
+artist = "Lamanya"
+image = "f511ef4eb6332d4c.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "2613"
+title = "Overhea[r]t"
+title_reading = "OVERHEART"
+artist = "打打だいず"
+image = "71f43a522e36878a.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2614"
+title = "Malleus Maleficarum"
+title_reading = "MALLEUSMALEFICARUM"
+artist = "Felysrator"
+image = "5657e6a849aeee90.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "14+"
+
+[[songs]]
+id = "2615"
+title = "Elusive Enforcer"
+title_reading = "ELUSIVEENFORCER"
+artist = "K-forest vs. Reku Mochizuki"
+image = "f8e6d1d4debcb5aa.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "12"
+master = "14"
+
+[[songs]]
+id = "2616"
+title = "黎命に殉ず"
+title_reading = "レイメイニシユンス"
+artist = "Koke"
+image = "582df69cf83a928b.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "13+"
+master = "14+"
 
 [[songs]]
 id = "8283"
