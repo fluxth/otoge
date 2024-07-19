@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1255
-last_updated = "2024-07-11T03:02:24.188250207Z"
+count = 1258
+last_updated = "2024-07-19T03:02:26.384509132Z"
 
 [[songs]]
 id = "957"
@@ -10320,6 +10320,30 @@ expert = "13"
 master = "14+"
 
 [[songs]]
+id = "1062"
+title = "華の集落、秋のお届け"
+title_reading = "ハナノシユウラクアキノオトトケ"
+artist = "Umiai"
+image = "b95d6cec3fbbb04c.png"
+category = "maimai"
+version = "24510"
+release = "2024-07-19"
+is_new = true
+is_locked = false
+
+[songs.levels]
+basic = "5"
+advanced = "8"
+expert = "12"
+master = "13+"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "11+"
+master = "13+"
+
+[[songs]]
 id = "819"
 title = "BLACK ROSE"
 title_reading = "BLACKROSE"
@@ -14449,23 +14473,6 @@ basic = "5"
 advanced = "9"
 expert = "12"
 master = "14"
-
-[[songs]]
-id = "1061"
-title = "華の集落、秋のお届け"
-title_reading = "ハナノシユウラクアキノオトトケ"
-artist = "Umiai"
-image = "b95d6cec3fbbb04c.png"
-category = "maimai"
-version = "22004"
-is_new = false
-is_locked = false
-
-[songs.dx_levels]
-basic = "3"
-advanced = "7+"
-expert = "11+"
-master = "13+"
 
 [[songs]]
 id = "1065"
@@ -20874,7 +20881,7 @@ image = "5d5496cab15d0422.png"
 category = "ゲーム＆バラエティ"
 version = "24509"
 release = "2024-07-11"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21098,6 +21105,60 @@ basic = "3"
 advanced = "7"
 expert = "11"
 master = "13+"
+
+[[songs]]
+id = "105"
+title = "ラヴィ"
+title_reading = "ラウイ"
+artist = "すりぃ"
+image = "c4e7300bbe13a1d1.png"
+category = "niconico＆ボーカロイド"
+version = "24510"
+release = "2024-07-19"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "106"
+title = "スティールユー"
+title_reading = "ステイイルユウ"
+artist = "Omoi"
+image = "e78eee64612c0152.png"
+category = "niconico＆ボーカロイド"
+version = "24510"
+release = "2024-07-19"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "11"
+master = "13"
+
+[[songs]]
+id = "107"
+title = "オシオキGIMMICK!!"
+title_reading = "オシオキGIMMICK"
+artist = "Junky"
+image = "9397ebded3a032da.png"
+category = "niconico＆ボーカロイド"
+version = "24510"
+release = "2024-07-19"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "12+"
 
 [[songs]]
 id = "1156"
