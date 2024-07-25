@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2041
-last_updated = "2024-07-12T03:04:40.955533145Z"
+count = 2045
+last_updated = "2024-07-25T03:02:23.260758068Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=aBheiA2zQeQKXkfAVwf7Kw"
+title = "アイの雫"
+artist = "kuro"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=UjJgBdmNsriIi7TTvisQMw"
+title = "Almandite"
+artist = "7mai"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=z3khbZxWTWIK95VVSz6TOw"
+title = "邪魔をしないで"
+artist = "Symholic feat.狛茉璃奈"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=FxgZ2OcdM-0h_mIkMaITQQ"
+title = "Hopscotch"
+artist = "GrivR."
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=T0ahBiWf0hzTcPUO35Cduw"
