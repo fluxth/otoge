@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 911
-last_updated = "2024-07-11T03:02:24.248208284Z"
+count = 924
+last_updated = "2024-07-26T03:03:02.380087047Z"
 
 [[songs]]
 id = "583100"
@@ -25387,7 +25387,7 @@ name = "三角 葵"
 [[songs]]
 id = "669000"
 title = "THE TRiANGLE"
-title_reading = "サトライアンクル"
+title_reading = "THETRIANGLE"
 artist = "Yuta Imai"
 date = "2024-03-07"
 image = "188e63ea6f935fee.png"
@@ -26152,6 +26152,7 @@ image = "944a654b0c714172.png"
 is_new = false
 is_lunatic = false
 is_bonus_track = false
+copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
 
 [songs.chapter]
 id = "00001"
@@ -26181,7 +26182,9 @@ image = "9a6458e966a0c274.png"
 is_new = false
 is_lunatic = false
 is_bonus_track = false
-copyright = "©OSTER project"
+copyright = """
+©OSTER project\r
+© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"""
 
 [songs.chapter]
 id = "00001"
@@ -26504,7 +26507,7 @@ title_reading = "カチコイラヒリンス"
 artist = "森羅万象"
 date = "2024-07-11"
 image = "eda72f7dbb425537.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26533,10 +26536,12 @@ title_reading = "メランコリク"
 artist = "Junky"
 date = "2024-07-11"
 image = "f8f57a110a4c3f15.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
-copyright = "©Junky"
+copyright = """
+©Junky\r
+© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"""
 
 [songs.chapter]
 id = "00001"
@@ -26555,6 +26560,387 @@ master = "12"
 [songs.character]
 id = "1020"
 name = "藤沢 柚子"
+
+[[songs]]
+id = "169700"
+title = "Lots of love"
+title_reading = "LOTSOFLOVE"
+artist = "アスタレーヴ「Re:ステージ！プリズムステップ」"
+date = "2024-07-26"
+image = "a423cbe6b5354062.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Re:STAGE! PROJECT"
+
+[songs.chapter]
+id = "99093"
+name = "Re:ステージ！プリズムステップ【第6弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "5360"
+name = "式宮 舞菜"
+
+[[songs]]
+id = "668200"
+title = "アイシング・ドリーム"
+title_reading = "アイシンクトリム"
+artist = "曲：卯乃／歌：珠洲島 有栖(CV：長縄 まりあ)、西館 ハク(CV：佐藤 実季)"
+date = "2024-07-26"
+image = "816030f141d10a8d.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Re:STAGE! PROJECT"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "12+"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
+
+[[songs]]
+id = "667900"
+title = "Individual on parade!"
+title_reading = "INDIVIDUALONPARADE"
+artist = "曲：渡部チェル／歌：珠洲島 有栖(CV：長縄 まりあ)、皇城 セツナ(CV：八巻 アンナ)、柏木 咲姫(CV：石見 舞菜香)、日向 千夏(CV：岡咲 美保)、井之原 小星(CV：ももの はるな)"
+date = "2024-07-26"
+image = "04f1578c860d839d.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
+
+[[songs]]
+id = "169800"
+title = "サンダーレスキュー！"
+title_reading = "サンタレスキユ"
+artist = "トライアムトーン「Re:ステージ！プリズムステップ」"
+date = "2024-07-26"
+image = "5c67709adb77ab37.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Re:STAGE! PROJECT"
+
+[songs.chapter]
+id = "99109"
+name = "Re:ステージ！プリズムステップ【第6弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "5"
+advanced = "8+"
+expert = "12+"
+master = "13+"
+
+[songs.character]
+id = "5360"
+name = "式宮 舞菜"
+
+[[songs]]
+id = "169900"
+title = "泡白昼夢"
+title_reading = "アワハクチユウム"
+artist = "アルシュシュ「Re:ステージ！プリズムステップ」"
+date = "2024-07-26"
+image = "b66a7396d191732a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Re:STAGE! PROJECT"
+
+[songs.chapter]
+id = "99109"
+name = "Re:ステージ！プリズムステップ【第6弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[songs.character]
+id = "5360"
+name = "式宮 舞菜"
+
+[[songs]]
+id = "723300"
+title = "Tricky Treat!!! -逢坂 茜ソロver.-"
+title_reading = "TRICKYTREATオウサカアカネソロVER"
+artist = "曲：Kijibato(Dream Monster)／歌：逢坂 茜(CV：大空 直美)"
+date = "2024-07-26"
+image = "00b09c1484652d45.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "1120"
+name = "逢坂 茜"
+
+[[songs]]
+id = "723400"
+title = "Tricky Treat!!! -高瀬 梨緒ソロver.-"
+title_reading = "TRICKYTREATカセリオソロVER"
+artist = "曲：Kijibato(Dream Monster)／歌：高瀬 梨緒(CV：久保 ユリカ)"
+date = "2024-07-26"
+image = "b0088252cdde22ed.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "723500"
+title = "Tricky Treat!!! -柏木 咲姫ソロver.-"
+title_reading = "TRICKYTREATカシワキサキソロVER"
+artist = "曲：Kijibato(Dream Monster)／歌：柏木 咲姫(CV：石見 舞菜香)"
+date = "2024-07-26"
+image = "4b7ce81b327c6c37.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
+
+[[songs]]
+id = "723600"
+title = "Individual on parade! -柏木 咲姫ソロver.-"
+title_reading = "INDIVIDUALONPARADEカシワキサキソロVER"
+artist = "曲：渡部チェル／歌：柏木 咲姫(CV：石見 舞菜香)"
+date = "2024-07-26"
+image = "8f1b3286aee313ed.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
+
+[[songs]]
+id = "723700"
+title = "Individual on parade! -井之原 小星ソロver.-"
+title_reading = "INDIVIDUALONPARADEイノハラコホシソロVER"
+artist = "曲：渡部チェル／歌：井之原 小星(CV：ももの はるな)"
+date = "2024-07-26"
+image = "40c68283370ecece.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1090"
+name = "井之原 小星"
+
+[[songs]]
+id = "723800"
+title = "Individual on parade! -珠洲島 有栖ソロver.-"
+title_reading = "INDIVIDUALONPARADEススシマアリスソロVER"
+artist = "曲：渡部チェル／歌：珠洲島 有栖(CV：長縄 まりあ)"
+date = "2024-07-26"
+image = "cfaa9808a4358291.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
+
+[[songs]]
+id = "723900"
+title = "Individual on parade! -日向 千夏ソロver.-"
+title_reading = "INDIVIDUALONPARADEヒナタチナツソロVER"
+artist = "曲：渡部チェル／歌：日向 千夏(CV：岡咲 美保)"
+date = "2024-07-26"
+image = "fdab6f9914060d59.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
+
+[[songs]]
+id = "724000"
+title = "Individual on parade! -皇城 セツナソロver.-"
+title_reading = "INDIVIDUALONPARADEスメラキセツナソロVER"
+artist = "曲：渡部チェル／歌：皇城 セツナ(CV：八巻 アンナ)"
+date = "2024-07-26"
+image = "ba778283128887d8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1170"
+name = "皇城 セツナ"
 
 [[categories]]
 id = "06"
