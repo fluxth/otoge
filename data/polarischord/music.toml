@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 148
-last_updated = "2024-07-25T03:02:10.922360653Z"
+count = 152
+last_updated = "2024-08-01T03:02:15.092028069Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -2552,6 +2552,73 @@ influence = 11
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "1cd84d84b12ad44d599786183fba712b"
+title = "QUATTUORUX"
+artist = "打打だいず Vs. Tanchiky Vs. からめる"
+license = "Licensed by Tanchiky、Licensed by からめる"
+
+[songs.levels]
+easy = 3
+normal = 8
+hard = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "2da1692b69c67a89883f977429d23eb2"
+title = "ANEMONE"
+artist = "常闇トワ"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 8
+influence = 12
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "341971bc7302bcf92645e23c6dfe12de"
+title = "FACT"
+artist = "常闇トワ"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 1
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "952ad1f701179b75dd17c4b966e8fd64"
+title = "ライメイ"
+artist = "常闇トワ"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 8
+influence = 12
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
 
 [[categories]]
 bitflag = 1

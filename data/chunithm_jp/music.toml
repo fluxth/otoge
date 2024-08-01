@@ -1,6 +1,36 @@
 name = "chunithm_jp"
-count = 1410
-last_updated = "2024-07-18T03:02:06.617378067Z"
+count = 1413
+last_updated = "2024-08-01T03:02:15.354515808Z"
+
+[[songs]]
+id = "2618"
+title = "ReCoda"
+title_reading = "RECODA"
+artist = "TRUE「響け！ユーフォニアム３」"
+image = "5b6356563af4005e.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "8+"
+master = "12"
+
+[[songs]]
+id = "2675"
+title = "トゥッティ！"
+title_reading = "トウツテイ"
+artist = "北宇治カルテット [黄前久美子 (CV.黒沢ともよ)、加藤葉月 (CV.朝井彩加)、川島緑輝 (CV.豊田萌絵)、高坂麗奈 (CV.安済知佳)]「響け！ユーフォニアム」"
+image = "2d4fcdec9e2ee004.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
 
 [[songs]]
 id = "2584"
@@ -1727,6 +1757,7 @@ basic = "3"
 advanced = "5"
 expert = "9+"
 master = "13"
+ultima = "14+"
 
 [[songs]]
 id = "421"
@@ -4222,6 +4253,7 @@ basic = "2"
 advanced = "5"
 expert = "9"
 master = "12"
+ultima = "14"
 
 [[songs]]
 id = "631"
@@ -11944,6 +11976,21 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
+id = "2619"
+title = "Presence"
+title_reading = "PRESENCE"
+artist = "小仏 凪(CV:佐倉 薫)"
+image = "ea81333534c8b307.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12+"
+
+[[songs]]
 id = "683"
 title = "オーケー？　オーライ！"
 title_reading = "オウケウオウライ"
@@ -13632,7 +13679,7 @@ title_reading = "チユウリンクノアト"
 artist = "Frums"
 image = "1befde04785db436.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -20215,7 +20262,7 @@ title_reading = "DRE4M1N9"
 artist = "Lamanya"
 image = "f511ef4eb6332d4c.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20230,7 +20277,7 @@ title_reading = "OVERHEART"
 artist = "打打だいず"
 image = "71f43a522e36878a.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20245,7 +20292,7 @@ title_reading = "MALLEUSMALEFICARUM"
 artist = "Felysrator"
 image = "5657e6a849aeee90.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20260,7 +20307,7 @@ title_reading = "ELUSIVEENFORCER"
 artist = "K-forest vs. Reku Mochizuki"
 image = "f8e6d1d4debcb5aa.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20275,7 +20322,7 @@ title_reading = "レイメイニシユンス"
 artist = "Koke"
 image = "582df69cf83a928b.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
