@@ -1,6 +1,81 @@
 name = "soundvoltex"
-count = 2045
-last_updated = "2024-07-25T03:02:23.260758068Z"
+count = 2050
+last_updated = "2024-08-01T03:02:23.249752445Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=k9XCQuh74BUkBKtF7aQZ5A"
+title = "ARACHNE"
+artist = "MAX MAXIMIZER"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ZdNsbk1HZAvkmDeKcECmmw"
+title = "梅雪夜"
+artist = "Qrispy Joybox feat.mao"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ThQ-0BJk-syps4B0tsG2UQ"
+title = "Crazy Jackpot"
+artist = "Hommarju"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=aFwHTYpjXEVTUOeqVoF_1Q"
+title = "黒紅掬い"
+artist = "猫叉Master feat.霜月はるか"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=MSACF2VNVis_NiPuRkEPfQ"
+title = "Poochie"
+artist = "kors k"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=aBheiA2zQeQKXkfAVwf7Kw"
