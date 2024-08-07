@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 152
-last_updated = "2024-08-01T03:02:15.092028069Z"
+count = 163
+last_updated = "2024-08-07T03:02:19.237148666Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -2619,6 +2619,209 @@ influence = 12
 bitflag = 1
 slug = "virtual"
 name = "Virtual"
+
+[[songs]]
+id = "52197ea8d0c4f2e68dcbc0eb3d496c45"
+title = "響縁"
+artist = "豚乙女"
+license = "Licensed by 豚乙女"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "2a1cb30dfe3264f6f9441a6853ff4ba1"
+title = "WARNING×WARNING×WARNING"
+artist = "暁Records"
+license = "Licensed by 暁Records"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "780382d2658a5f096931a8640963e0fa"
+title = "超々キューカンバー"
+artist = "岸田教団＆THE明星ロケッツ"
+license = "Licensed by 岸田教団＆THE明星ロケッツ"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "8e3fe8b7cbd7ec0f1abe87dc2b1e10f3"
+title = "しゅわスパ大作戦☆"
+artist = "SOUND HOLIC feat. Nana Takahashi"
+license = "Licensed by SOUND HOLIC"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+influence = 10
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "d15cbb385fc63e8476e080d8cc42bb22"
+title = "閉塞的フレーション"
+artist = '''Pizuya's Cell VS BEMANI Sound Team "dj TAKA"'''
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "9ae418ef3bdbe3f54928d52af67a3673"
+title = "残像ニ繋ガレタ追憶ノHIDEAWAY"
+artist = 'SOUND HOLIC Vs. BEMANI Sound Team "KE!JU" feat. Nana Takahashi'
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "3afcb502c67344196f8030d24849161f"
+title = "弾幕信仰"
+artist = '豚乙女×BEMANI Sound Team "PON"'
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "3527ed35d8f0733efc20c590e1de5ba2"
+title = "SUPER HEROINE!!"
+artist = 'Amateras Records vs BEMANI Sound Team "TATSUYA" feat. miko'
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "9290933dbc1d96c089868dbaa426dd06"
+title = "LA VIE EN ROSE (Tatsunoshin Remix)"
+artist = "Amateras Records feat. miko"
+license = "Licensed by Amateras Records"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "fd529ad4f77340bb6bca5fb5d3499dcc"
+title = "Paranoia"
+artist = "DiGiTAL WiNG with. 空音"
+license = "Licensed by DiGiTAL WiNG"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 10
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "1b829a3a1fb2ecfb4cd3f0bd81cc9bad"
+title = "Yearning"
+artist = "FELT"
+license = "Licensed by FELT"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 7
+influence = 9
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
 
 [[categories]]
 bitflag = 1

@@ -1,6 +1,82 @@
 name = "soundvoltex"
-count = 2050
-last_updated = "2024-08-01T03:02:23.249752445Z"
+count = 2054
+last_updated = "2024-08-07T03:02:27.707673695Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=D6Pp7FBbjHFdNP4nbzO6OA"
+title = "残像ニ繋ガレタ追憶ノHIDEAWAY"
+artist = 'SOUND HOLIC Vs. BEMANI Sound Team "KE!JU" feat. Nana Takahashi'
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=tNi3ir1BnPmJJ1ClQ0knzA"
+title = "SUPER HEROINE!!"
+artist = 'Amateras Records vs BEMANI Sound Team "TATSUYA" feat. miko'
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "3"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=SmRieg_SbVC9O4y6inP58A"
+title = "弾幕信仰"
+artist = '豚乙女×BEMANI Sound Team "PON"'
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "5"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=u9Kbx4pJ7Odpax8qN-kaaQ"
+title = "閉塞的フレーション"
+artist = '''Pizuya's Cell VS BEMANI Sound Team "dj TAKA"'''
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=k9XCQuh74BUkBKtF7aQZ5A"
