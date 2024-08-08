@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1413
-last_updated = "2024-08-01T03:02:15.354515808Z"
+count = 1420
+last_updated = "2024-08-08T03:02:08.588660300Z"
 
 [[songs]]
 id = "2618"
@@ -9,7 +9,7 @@ title_reading = "RECODA"
 artist = "TRUE「響け！ユーフォニアム３」"
 image = "5b6356563af4005e.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -24,7 +24,7 @@ title_reading = "トウツテイ"
 artist = "北宇治カルテット [黄前久美子 (CV.黒沢ともよ)、加藤葉月 (CV.朝井彩加)、川島緑輝 (CV.豊田萌絵)、高坂麗奈 (CV.安済知佳)]「響け！ユーフォニアム」"
 image = "2d4fcdec9e2ee004.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9219,6 +9219,66 @@ expert = "13"
 master = "14+"
 
 [[songs]]
+id = "2621"
+title = "NIGHTWAVE FRAGMENTS"
+title_reading = "NIGHTWAVEFRAGMENTS"
+artist = "DJ Noriken"
+image = "a2d512a63fd1aa38.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "12"
+master = "14"
+
+[[songs]]
+id = "2622"
+title = "Joe Fight"
+title_reading = "JOEFIGHT"
+artist = "DJ Myosuke"
+image = "d0637d86f17e04f4.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "12"
+master = "14"
+
+[[songs]]
+id = "2623"
+title = "Poppin' Dream"
+title_reading = "POPPINDREAM"
+artist = "P*Light"
+image = "582e5f0a4132b23c.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2624"
+title = "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと"
+title_reading = "MAKEUPYOURWORLDFEATキヨンシウノCIチヤンラツフヒト"
+artist = "t+pazolite & Srav3R"
+image = "5280813e4cf436b0.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[[songs]]
 id = "2536"
 title = "D-Birth"
 title_reading = "DBIRTH"
@@ -11982,7 +12042,7 @@ title_reading = "PRESENCE"
 artist = "小仏 凪(CV:佐倉 薫)"
 image = "ea81333534c8b307.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -20329,6 +20389,45 @@ basic = "4"
 advanced = "8"
 expert = "13+"
 master = "14+"
+
+[[songs]]
+id = "8286"
+title = "異星にいこうね"
+title_reading = "イセイニイコウネ"
+artist = "いよわ　feat.星界"
+image = "18e494b75322ce94.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "翔"
+star = "3"
+
+[[songs]]
+id = "8287"
+title = "《種子》 ～ Set You Free"
+title_reading = "シユシSETYOUFREE"
+artist = "Iris"
+image = "c07a6d16901fcb0b.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.worlds_end]
+kanji = "翔"
+star = "5"
+
+[[songs]]
+id = "8288"
+title = "Elemental Creation"
+title_reading = "ELEMENTALCREATION"
+artist = "dj TAKA meets DJ YOSHITAKA"
+image = "dcb123094f6a1268.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.worlds_end]
+kanji = "跳"
+star = "7"
 
 [[songs]]
 id = "8283"

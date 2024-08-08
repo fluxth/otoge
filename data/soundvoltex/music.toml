@@ -1,6 +1,6 @@
 name = "soundvoltex"
 count = 2054
-last_updated = "2024-08-07T03:02:27.707673695Z"
+last_updated = "2024-08-08T03:02:17.131287290Z"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=D6Pp7FBbjHFdNP4nbzO6OA"
@@ -23085,6 +23085,7 @@ name = "FLOOR"
 novice = "6"
 advanced = "12"
 exhaust = "18"
+exceed = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=YpHbZQVzj1fBLZ-BwowCoQ"
@@ -23099,6 +23100,7 @@ name = "FLOOR"
 novice = "6"
 advanced = "13"
 exhaust = "18"
+exceed = "20"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=qVweIHz_QOsZhQ3OB2VBJQ"
@@ -23113,6 +23115,7 @@ name = "FLOOR"
 novice = "6"
 advanced = "12"
 exhaust = "17"
+exceed = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=IcanEnAmHQQMr6pzWgyeag"
@@ -23127,6 +23130,7 @@ name = "FLOOR"
 novice = "6"
 advanced = "13"
 exhaust = "18"
+exceed = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=AHB1WiEjfC8Ce4CsagcDfw"

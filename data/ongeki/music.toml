@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 924
-last_updated = "2024-07-26T03:03:02.380087047Z"
+count = 926
+last_updated = "2024-08-08T03:02:08.771667066Z"
 
 [[songs]]
 id = "583100"
@@ -26568,7 +26568,7 @@ title_reading = "LOTSOFLOVE"
 artist = "アスタレーヴ「Re:ステージ！プリズムステップ」"
 date = "2024-07-26"
 image = "a423cbe6b5354062.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Re:STAGE! PROJECT"
@@ -26598,7 +26598,7 @@ title_reading = "アイシンクトリム"
 artist = "曲：卯乃／歌：珠洲島 有栖(CV：長縄 まりあ)、西館 ハク(CV：佐藤 実季)"
 date = "2024-07-26"
 image = "816030f141d10a8d.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Re:STAGE! PROJECT"
@@ -26628,7 +26628,7 @@ title_reading = "INDIVIDUALONPARADE"
 artist = "曲：渡部チェル／歌：珠洲島 有栖(CV：長縄 まりあ)、皇城 セツナ(CV：八巻 アンナ)、柏木 咲姫(CV：石見 舞菜香)、日向 千夏(CV：岡咲 美保)、井之原 小星(CV：ももの はるな)"
 date = "2024-07-26"
 image = "04f1578c860d839d.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26657,7 +26657,7 @@ title_reading = "サンタレスキユ"
 artist = "トライアムトーン「Re:ステージ！プリズムステップ」"
 date = "2024-07-26"
 image = "5c67709adb77ab37.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Re:STAGE! PROJECT"
@@ -26687,7 +26687,7 @@ title_reading = "アワハクチユウム"
 artist = "アルシュシュ「Re:ステージ！プリズムステップ」"
 date = "2024-07-26"
 image = "b66a7396d191732a.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Re:STAGE! PROJECT"
@@ -26717,7 +26717,7 @@ title_reading = "TRICKYTREATオウサカアカネソロVER"
 artist = "曲：Kijibato(Dream Monster)／歌：逢坂 茜(CV：大空 直美)"
 date = "2024-07-26"
 image = "00b09c1484652d45.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26746,7 +26746,7 @@ title_reading = "TRICKYTREATカセリオソロVER"
 artist = "曲：Kijibato(Dream Monster)／歌：高瀬 梨緒(CV：久保 ユリカ)"
 date = "2024-07-26"
 image = "b0088252cdde22ed.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26775,7 +26775,7 @@ title_reading = "TRICKYTREATカシワキサキソロVER"
 artist = "曲：Kijibato(Dream Monster)／歌：柏木 咲姫(CV：石見 舞菜香)"
 date = "2024-07-26"
 image = "4b7ce81b327c6c37.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26804,7 +26804,7 @@ title_reading = "INDIVIDUALONPARADEカシワキサキソロVER"
 artist = "曲：渡部チェル／歌：柏木 咲姫(CV：石見 舞菜香)"
 date = "2024-07-26"
 image = "8f1b3286aee313ed.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26833,7 +26833,7 @@ title_reading = "INDIVIDUALONPARADEイノハラコホシソロVER"
 artist = "曲：渡部チェル／歌：井之原 小星(CV：ももの はるな)"
 date = "2024-07-26"
 image = "40c68283370ecece.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26862,7 +26862,7 @@ title_reading = "INDIVIDUALONPARADEススシマアリスソロVER"
 artist = "曲：渡部チェル／歌：珠洲島 有栖(CV：長縄 まりあ)"
 date = "2024-07-26"
 image = "cfaa9808a4358291.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26891,7 +26891,7 @@ title_reading = "INDIVIDUALONPARADEヒナタチナツソロVER"
 artist = "曲：渡部チェル／歌：日向 千夏(CV：岡咲 美保)"
 date = "2024-07-26"
 image = "fdab6f9914060d59.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26920,7 +26920,7 @@ title_reading = "INDIVIDUALONPARADEスメラキセツナソロVER"
 artist = "曲：渡部チェル／歌：皇城 セツナ(CV：八巻 アンナ)"
 date = "2024-07-26"
 image = "ba778283128887d8.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26941,6 +26941,64 @@ master = "13"
 [songs.character]
 id = "1170"
 name = "皇城 セツナ"
+
+[[songs]]
+id = "577400"
+title = "Sparking Revolver"
+title_reading = "SPARKINGREVOLVER"
+artist = "xi"
+date = "2024-08-08"
+image = "88ffaa3dd51a76e7.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "1110"
+name = "九條 楓"
+
+[[songs]]
+id = "577500"
+title = "アンバークロニクル"
+title_reading = "アンハクロニクル"
+artist = "しーけー feat.ricono"
+date = "2024-08-08"
+image = "80bcd0f1f6349c7d.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1030"
+name = "三角 葵"
 
 [[categories]]
 id = "06"
