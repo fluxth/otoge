@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 163
-last_updated = "2024-08-07T03:02:19.237148666Z"
+count = 164
+last_updated = "2024-08-09T03:02:21.453979324Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -2822,6 +2822,23 @@ influence = 9
 bitflag = 4
 slug = "touhou"
 name = "東方"
+
+[[songs]]
+id = "dd751b1622032ff550b493d1642e0f2f"
+title = "メズマライザー"
+artist = "サツキ"
+license = "Licensed by 32ki, Licensed by channelcaststation"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1
