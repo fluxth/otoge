@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 164
-last_updated = "2024-08-09T03:02:21.453979324Z"
+count = 165
+last_updated = "2024-08-15T03:02:26.303545452Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -2839,6 +2839,22 @@ influence = 12
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "c770b754a5924faa66eb4ca161f4c9be"
+title = "スターチューン (和乙葉ぺぺた Cover)"
+artist = "コバヤシユウヤ(IOSYS) feat.まるもこ"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 7
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
