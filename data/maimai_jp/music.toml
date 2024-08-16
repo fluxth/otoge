@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1262
-last_updated = "2024-08-02T03:02:16.104795708Z"
+count = 1266
+last_updated = "2024-08-16T03:02:24.199637791Z"
 
 [[songs]]
 id = "963"
@@ -20481,7 +20481,7 @@ image = "acf47237292dfe55.png"
 category = "maimai"
 version = "24511"
 release = "2024-08-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20499,7 +20499,7 @@ image = "4a62f16daa2b88e3.png"
 category = "maimai"
 version = "24511"
 release = "2024-08-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20517,7 +20517,7 @@ image = "2741f6c344272eb8.png"
 category = "maimai"
 version = "24511"
 release = "2024-08-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -20535,7 +20535,7 @@ image = "48447c3e67a26b08.png"
 category = "maimai"
 version = "24511"
 release = "2024-08-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -21062,7 +21062,7 @@ category = "東方Project"
 version = "24506"
 release = "2024-06-07"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "6"
@@ -21231,6 +21231,42 @@ basic = "3"
 advanced = "7"
 expert = "10+"
 master = "12+"
+
+[[songs]]
+id = "6"
+title = "偉大なる悪魔は実は大天使パトラちゃん様なのだ！"
+title_reading = "イタイナルアクマハシツハタイテンシハトラチヤンサマナノタ"
+artist = "周防パトラ"
+image = "1a0ffd5bf37e729f.png"
+category = "POPS＆アニメ"
+version = "24512"
+release = "2024-08-16"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "7"
+title = "シュガーホリック"
+title_reading = "シユカアホリツク"
+artist = "周防パトラ"
+image = "324d40da6e652209.png"
+category = "POPS＆アニメ"
+version = "24512"
+release = "2024-08-16"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "1166"
@@ -21780,6 +21816,23 @@ kanji = "奏"
 comment = "ライバル譜面"
 
 [[songs]]
+id = "1286"
+title = "[奏]ヒトガタ"
+title_reading = "ヒトカタ"
+artist = "HIMEHINA"
+image = "a33a77ea8c117b3d.png"
+category = "宴会場"
+version = "24511"
+release = "2024-08-16"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13?"
+kanji = "奏"
+comment = "ココロを叫べ!"
+
+[[songs]]
 id = "1289"
 title = "[協]三妖精SAY YA!!!"
 title_reading = "サンヨウセイSAYYA"
@@ -21846,6 +21899,23 @@ is_locked = false
 level = "14+?"
 kanji = "蔵"
 comment = "and in that light, I find deliverance."
+
+[[songs]]
+id = "1287"
+title = "[両]はんぶんこ"
+title_reading = "ハンフンコ"
+artist = "三枝明那"
+image = "4d9e0c3640c966c5.png"
+category = "宴会場"
+version = "24511"
+release = "2024-08-16"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "12?"
+kanji = "両"
+comment = "もう一人じゃないから"
 
 [[songs]]
 id = "1296"
