@@ -11,11 +11,9 @@
   ],
   "reviewers": ["fluxth"],
   "timezone": "Asia/Tokyo",
-  "schedule": [
-    "after 7pm every weekday",
-    "before 7am every weekday",
-    "every weekend"
-  ],
+  "schedule": ["before 7am"],
+  "prHourlyLimit": 0,
+  "prConcurrentLimit": 0,
   "packageRules": [
     {
       "description": "Auto-merge GitHub Actions patch and digest updates",
