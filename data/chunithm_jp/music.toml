@@ -1,6 +1,36 @@
 name = "chunithm_jp"
-count = 1420
-last_updated = "2024-08-08T03:02:08.588660300Z"
+count = 1425
+last_updated = "2024-08-22T03:03:19.125499100Z"
+
+[[songs]]
+id = "2673"
+title = "ハッピータイフーン"
+title_reading = "ハツヒウタイフウン"
+artist = "KiRaRe「Re:ステージ！プリズムステップ」"
+image = "d7cea0551040d841.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9"
+master = "12"
+
+[[songs]]
+id = "2674"
+title = "M.L.V.G"
+title_reading = "MLVG"
+artist = "テトラルキア「Re:ステージ！プリズムステップ」"
+image = "34b5f9c48dbd099d.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "14"
 
 [[songs]]
 id = "2618"
@@ -5828,6 +5858,36 @@ master = "13"
 ultima = "14"
 
 [[songs]]
+id = "2642"
+title = "壊れた人形のマーチ"
+title_reading = "コワレタニンキヨウノマウチ"
+artist = "少女理論観測所"
+image = "3dfaedeed4b9055b.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "8+"
+master = "12"
+
+[[songs]]
+id = "2643"
+title = "ヒトリシズカ(Arranged: Iceon)"
+title_reading = "ヒトリシスカARRANGEDICEON"
+artist = "幽閉サテライト(direction:嵯峨飛鳥)"
+image = "b0a0335625f6390c.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "1"
+advanced = "5"
+expert = "9"
+master = "11+"
+
+[[songs]]
 id = "2592"
 title = "マツヨイナイトバグ"
 title_reading = "マツヨイナイトハク"
@@ -7193,6 +7253,7 @@ basic = "3"
 advanced = "6"
 expert = "11+"
 master = "14"
+ultima = "14+"
 
 [[songs]]
 id = "627"
@@ -9225,7 +9286,7 @@ title_reading = "NIGHTWAVEFRAGMENTS"
 artist = "DJ Noriken"
 image = "a2d512a63fd1aa38.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9240,7 +9301,7 @@ title_reading = "JOEFIGHT"
 artist = "DJ Myosuke"
 image = "d0637d86f17e04f4.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9255,7 +9316,7 @@ title_reading = "POPPINDREAM"
 artist = "P*Light"
 image = "582e5f0a4132b23c.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9270,7 +9331,7 @@ title_reading = "MAKEUPYOURWORLDFEATキヨンシウノCIチヤンラツフヒト
 artist = "t+pazolite & Srav3R"
 image = "5280813e4cf436b0.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -13745,6 +13806,21 @@ is_new = false
 basic = "4"
 advanced = "7"
 expert = "14"
+master = "14+"
+
+[[songs]]
+id = "2625"
+title = "Latent Kingdom"
+title_reading = "LATENTKINGDOM"
+artist = "Laur vs 大国奏音"
+image = "cbd387d1c13c54aa.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "13"
 master = "14+"
 
 [[songs]]
@@ -20397,7 +20473,7 @@ title_reading = "イセイニイコウネ"
 artist = "いよわ　feat.星界"
 image = "18e494b75322ce94.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "翔"
@@ -20410,7 +20486,7 @@ title_reading = "シユシSETYOUFREE"
 artist = "Iris"
 image = "c07a6d16901fcb0b.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "翔"
@@ -20423,7 +20499,7 @@ title_reading = "ELEMENTALCREATION"
 artist = "dj TAKA meets DJ YOSHITAKA"
 image = "dcb123094f6a1268.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "跳"

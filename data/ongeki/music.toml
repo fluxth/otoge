@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 926
-last_updated = "2024-08-08T03:02:08.771667066Z"
+count = 929
+last_updated = "2024-08-22T03:03:19.444279221Z"
 
 [[songs]]
 id = "583100"
@@ -26949,7 +26949,7 @@ title_reading = "SPARKINGREVOLVER"
 artist = "xi"
 date = "2024-08-08"
 image = "88ffaa3dd51a76e7.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26978,7 +26978,7 @@ title_reading = "アンハクロニクル"
 artist = "しーけー feat.ricono"
 date = "2024-08-08"
 image = "80bcd0f1f6349c7d.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26999,6 +26999,96 @@ master = "13"
 [songs.character]
 id = "1030"
 name = "三角 葵"
+
+[[songs]]
+id = "169400"
+title = "ラブ・ラビリンス"
+title_reading = "ラフラヒリンス"
+artist = "RouteHeart（七海ロナ・藤宮コトハ）"
+date = "2024-08-22"
+image = "84077e49917836ec.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Palette Project"
+
+[songs.chapter]
+id = "99110"
+name = "Palette Project"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "12"
+
+[songs.character]
+id = "7670"
+name = "RouteHeart"
+
+[[songs]]
+id = "169600"
+title = "アイドライフライト"
+title_reading = "アイトライフライト"
+artist = "Sputrip（暁月クララ・香鳴ハノン・常磐カナメ）"
+date = "2024-08-22"
+image = "60204f1e430fae68.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Palette Project"
+
+[songs.chapter]
+id = "99110"
+name = "Palette Project"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "7690"
+name = "Sputrip"
+
+[[songs]]
+id = "169500"
+title = "キライラ"
+title_reading = "キライラ"
+artist = "REGALILIA（江波キョウカ・鬼多見アユム）"
+date = "2024-08-22"
+image = "59ce06c6239fe049.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Palette Project"
+
+[songs.chapter]
+id = "99110"
+name = "Palette Project"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "7680"
+name = "REGALILIA"
 
 [[categories]]
 id = "06"
