@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2054
-last_updated = "2024-08-08T03:02:17.131287290Z"
+count = 2058
+last_updated = "2024-08-29T03:02:21.120614215Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=gTZCnkCEW7CJmRXISUko1g"
+title = "We Are GamerZ!"
+artist = "Ninja Never DieS!"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=gVmJx3dseDR1n6Ieu4maMQ"
+title = "∞vitUniverse"
+artist = "Lime"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=IOiWCTcwy01aCaT5cwMNHw"
+title = "ハガネノツルギ"
+artist = "coTatsu"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=7qiqQPyVPSrM4BHiI9UNdg"
+title = "¡¡Fanta∽cramble!!"
+artist = "Potwi"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=D6Pp7FBbjHFdNP4nbzO6OA"
