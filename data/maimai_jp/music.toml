@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1266
-last_updated = "2024-08-16T03:02:24.199637791Z"
+count = 1270
+last_updated = "2024-08-30T03:02:14.381976192Z"
 
 [[songs]]
 id = "963"
@@ -20581,6 +20581,78 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "1162"
+title = "まっすぐ→→→ストリーム！"
+title_reading = "マツスクストリイム"
+artist = "曲：本多友紀（Arte Refact）／歌：日向 千夏(CV：岡咲 美保)"
+image = "41845620a08d44cf.png"
+category = "オンゲキ＆CHUNITHM"
+version = "24513"
+release = "2024-08-30"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "1163"
+title = "最っ高のエンタメだ!!"
+title_reading = "サイツコウノエンタメタ"
+artist = "曲：本田正樹(Dream Monster)／歌：7EVENDAYS⇔HOLIDAYS [井之原 小星(CV：ももの はるな)、柏木 咲姫(CV：石見 舞菜香)]"
+image = "99de641563f8b8a1.png"
+category = "オンゲキ＆CHUNITHM"
+version = "24513"
+release = "2024-08-30"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "1164"
+title = "Baqeela"
+title_reading = "BAQEELA"
+artist = "owl＊tree"
+image = "211cecb144f94410.png"
+category = "オンゲキ＆CHUNITHM"
+version = "24513"
+release = "2024-08-30"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "1165"
+title = "Ai C"
+title_reading = "AIC"
+artist = "Feryquitous"
+image = "17fd83901e99d7b6.png"
+category = "オンゲキ＆CHUNITHM"
+version = "24513"
+release = "2024-08-30"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "12"
+master = "14"
+
+[[songs]]
 id = "1"
 title = "INTERNET YAMERO"
 title_reading = "INTERNETYAMERO"
@@ -21241,7 +21313,7 @@ image = "1a0ffd5bf37e729f.png"
 category = "POPS＆アニメ"
 version = "24512"
 release = "2024-08-16"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21259,7 +21331,7 @@ image = "324d40da6e652209.png"
 category = "POPS＆アニメ"
 version = "24512"
 release = "2024-08-16"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
