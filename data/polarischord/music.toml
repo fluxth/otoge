@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 165
-last_updated = "2024-08-15T03:02:26.303545452Z"
+count = 171
+last_updated = "2024-09-04T03:02:14.662612650Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -1367,6 +1367,7 @@ artist = "日向美ビタースイーツ♪"
 easy = 3
 normal = 6
 hard = 9
+influence = 11
 
 [[songs.categories]]
 bitflag = 6
@@ -2850,6 +2851,104 @@ easy = 2
 normal = 6
 hard = 7
 influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "6046fc95c3fa33da4a6b06bc90b0c5d0"
+title = "Temporal Veil"
+artist = "Gardens"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "24834c2e9107b13de091888c8d9a448c"
+title = "MilK"
+artist = "モリモリあつし"
+license = "Licensed by 非可逆リズム(モリモリあつし)"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "892f54292ec367bc4ad166d34d98b006"
+title = "オーバーライド"
+artist = "吉田夜世"
+license = "Licensed by 吉田夜世, Licensed by シシア"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "47acf24abc1f72705d16906098933091"
+title = "ランカーキラーガール"
+artist = "中島由貴 × いちか"
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 11
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "7121ac42248b44acad7c7072a687f79a"
+title = "Sparkle Smilin'"
+artist = 'BEMANI Sound Team "Qrispy Joybox" feat.いちか'
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "2c3a40558465cd47a85aad4772fc6a9c"
+title = "狂水一華"
+artist = 'BEMANI Sound Team "HuΣeR Vs. SYUNN" feat.いちか'
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
 
 [[songs.categories]]
 bitflag = 6
