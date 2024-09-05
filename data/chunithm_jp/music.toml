@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1425
-last_updated = "2024-08-22T03:03:19.125499100Z"
+count = 1431
+last_updated = "2024-09-05T03:02:15.343086724Z"
 
 [[songs]]
 id = "2673"
@@ -9,7 +9,7 @@ title_reading = "ハツヒウタイフウン"
 artist = "KiRaRe「Re:ステージ！プリズムステップ」"
 image = "d7cea0551040d841.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "MLVG"
 artist = "テトラルキア「Re:ステージ！プリズムステップ」"
 image = "34b5f9c48dbd099d.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -5864,7 +5864,7 @@ title_reading = "コワレタニンキヨウノマウチ"
 artist = "少女理論観測所"
 image = "3dfaedeed4b9055b.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -5879,7 +5879,7 @@ title_reading = "ヒトリシスカARRANGEDICEON"
 artist = "幽閉サテライト(direction:嵯峨飛鳥)"
 image = "b0a0335625f6390c.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "1"
@@ -14109,6 +14109,21 @@ expert = "11"
 master = "14"
 
 [[songs]]
+id = "2634"
+title = "Dramatic…?"
+title_reading = "DRAMATIC"
+artist = "曲：Kijibato／歌：星咲 あかり(CV：赤尾 ひかる)、珠洲島 有栖(CV：長縄 まりあ)、日向 千夏(CV：岡咲 美保)、皇城 セツナ(CV：八巻 アンナ)"
+image = "73fcb499a4352f53.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "14"
+
+[[songs]]
 id = "2235"
 title = "ポケットからぬりつぶせ！"
 title_reading = "ホケツトカラヌリツフセ"
@@ -20464,6 +20479,81 @@ is_new = false
 basic = "4"
 advanced = "8"
 expert = "13+"
+master = "14+"
+
+[[songs]]
+id = "2635"
+title = "X.Y.Z."
+title_reading = "XYZ"
+artist = "Len feat.SHIKI"
+image = "5109a21589c3650f.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2605"
+title = "優勝Princess♡"
+title_reading = "ユウシヨウPRINCESS"
+artist = "高瀬一矢 feat.R.I.N.A"
+image = "2babeeac922560b2.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "2637"
+title = "乙女戦士☆あーし。"
+title_reading = "オトメセンシアウシ"
+artist = "A4。 feat.yamada."
+image = "3516a4767be5cc16.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2638"
+title = "おしゃまなプリンセス"
+title_reading = "オシヤマナフリンセス"
+artist = "Shu feat. 七海うらら"
+image = "8433e7f13ac4add6.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "14"
+
+[[songs]]
+id = "2639"
+title = "ソーシャルワンダーランド"
+title_reading = "ソウシヤルワンタウラント"
+artist = "テヅカ x Aoi feat.すずしろ"
+image = "817bd827a6345d92.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
 master = "14+"
 
 [[songs]]

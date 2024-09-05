@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 929
-last_updated = "2024-08-22T03:03:19.444279221Z"
+count = 911
+last_updated = "2024-09-05T03:02:15.676253900Z"
 
 [[songs]]
 id = "583100"
@@ -2874,71 +2874,6 @@ master = "12+"
 [songs.character]
 id = "3020"
 name = "巡音ルカ"
-
-[[songs]]
-id = "281800"
-title = "Tell Your World"
-title_reading = "TELLYOURWORLD"
-artist = "livetune"
-date = "2019-03-07"
-image = "54228c4357c5aa8b.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-illustration by mebae\r
-© Crypton Future Media, INC. www.crypton.net ピアプロロゴ\r
-©2011 mebae/ Kaikai Kiki Co., Ltd. All Rights Reserved. \r
-©FANTASISTAUTAMARO ALL RIGHTS RESERVED.\r
-©2011 by IXY music Co.,Ltd.& TOY'S FACTORY & Crypton Future Media, Inc."""
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "02"
-name = "niconico"
-
-[songs.levels]
-basic = "2"
-advanced = "6"
-expert = "8+"
-master = "12"
-
-[songs.character]
-id = "3010"
-name = "初音ミク"
-
-[[songs]]
-id = "277200"
-title = "＊ハロー、プラネット。"
-title_reading = "ハロフラネツト"
-artist = "sasakure.UK"
-date = "2019-03-07"
-image = "a98e26bcd24d22cf.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "02"
-name = "niconico"
-
-[songs.levels]
-basic = "2"
-advanced = "6"
-expert = "9+"
-master = "12"
-
-[songs.character]
-id = "3010"
-name = "初音ミク"
 
 [[songs]]
 id = "279800"
@@ -11066,35 +11001,6 @@ id = "1150"
 name = "柏木 美亜"
 
 [[songs]]
-id = "281400"
-title = "あの世行きのバスに乗ってさらば。"
-title_reading = "アノヨイキノハスニノツテサラハ"
-artist = "ツユ"
-date = "2021-04-22"
-image = "9c98c038c4ed7d9a.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "02"
-name = "niconico"
-
-[songs.levels]
-basic = "2"
-advanced = "7"
-expert = "10"
-master = "12+"
-
-[songs.character]
-id = "1160"
-name = "東雲 つむぎ"
-
-[[songs]]
 id = "676100"
 title = "無敵のフロンティア三銃士"
 title_reading = "ムテキノフロンテイアサンシユウシ"
@@ -12552,7 +12458,7 @@ name = "初音ミク"
 
 [[songs]]
 id = "587000"
-title = "TiamaT：F minor"
+title = "TiamaT:F minor"
 title_reading = "TIAMATFMINOR"
 artist = "Team Grimoire"
 date = "2021-08-05"
@@ -13425,186 +13331,6 @@ lunatic = "11"
 [songs.character]
 id = "1010"
 name = "星咲 あかり"
-
-[[songs]]
-id = "180900"
-title = "なんどでも笑おう"
-title_reading = "ナントテモワラオウ"
-artist = "THE IDOLM@STER FIVE STARS!!!!!「アイドルマスター」シリーズ"
-date = "2021-10-21"
-image = "586f72b26505121d.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©窪岡俊之 ©BANDAI NAMCO Entertainment Inc."
-
-[songs.chapter]
-id = "99068"
-name = "「アイドルマスター」シリーズ"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "8"
-master = "11"
-
-[songs.character]
-id = "6580"
-name = "天海 春香"
-
-[[songs]]
-id = "181000"
-title = "Hide & Attack"
-title_reading = "HIDEATTACK"
-artist = "ストレイライト「アイドルマスター シャイニーカラーズ」"
-date = "2021-10-21"
-image = "b5bd4eba261d5dc8.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©BANDAI NAMCO Entertainment Inc."
-
-[songs.chapter]
-id = "99068"
-name = "「アイドルマスター」シリーズ"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9+"
-master = "12"
-
-[songs.character]
-id = "6730"
-name = "芹沢 あさひ"
-
-[[songs]]
-id = "175000"
-title = "よんでミラクるん!"
-title_reading = "ヨンテミラクルン"
-artist = "魔女っ娘ミラクるん（CV：竹達彩奈）「ゆるゆり♪♪」"
-date = "2021-10-21"
-image = "f02dd5c10cc24c0b.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©なもり/一迅社・七森中ごらく部"
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "4"
-advanced = "7"
-expert = "9+"
-master = "12+"
-
-[songs.character]
-id = "1020"
-name = "藤沢 柚子"
-
-[[songs]]
-id = "189000"
-title = "NEXT COLOR PLANET"
-title_reading = "NEXTCOLORPLANET"
-artist = "星街すいせい(ホロライブ)"
-date = "2021-10-21"
-image = "21833a3ca6182010.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "© 2016 COVER Corp."
-
-[songs.chapter]
-id = "05001"
-name = "第5章"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "7"
-expert = "10"
-master = "13"
-
-[songs.character]
-id = "1080"
-name = "早乙女 彩華"
-
-[[songs]]
-id = "177000"
-title = "花ハ踊レヤいろはにほ"
-title_reading = "ハナハオトレヤイロハニホ"
-artist = "チーム“ハナヤマタ”「ハナヤマタ」"
-date = "2021-10-21"
-image = "65ee3f188caf9405.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©浜弓場 双・芳文社／ハナヤマタ製作委員会"
-
-[songs.chapter]
-id = "05001"
-name = "第5章"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9+"
-master = "12+"
-
-[songs.character]
-id = "1010"
-name = "星咲 あかり"
-
-[[songs]]
-id = "172000"
-title = "うっせぇわ"
-title_reading = "ウツセエワ"
-artist = "Ado"
-date = "2021-10-21"
-image = "a99bb302057a0edc.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "Licensed by Virgin Music, A UNIVERSAL MUSIC COMPANY"
-
-[songs.chapter]
-id = "05001"
-name = "第5章"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "7"
-expert = "10"
-master = "12+"
-
-[songs.character]
-id = "1060"
-name = "藍原 椿"
 
 [[songs]]
 id = "172100"
@@ -14563,33 +14289,6 @@ id = "1130"
 name = "珠洲島 有栖"
 
 [[songs]]
-id = "986700"
-title = "Hide & Attack"
-title_reading = "HIDEATTACK"
-artist = "ストレイライト「アイドルマスター シャイニーカラーズ」"
-date = "2021-11-04"
-image = "3b651e308c73f606.png"
-is_new = false
-is_lunatic = true
-is_bonus_track = false
-copyright = "©BANDAI NAMCO Entertainment Inc."
-
-[songs.chapter]
-id = "99068"
-name = "「アイドルマスター」シリーズ"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-lunatic = "13+"
-
-[songs.character]
-id = "6730"
-name = "芹沢 あさひ"
-
-[[songs]]
 id = "672400"
 title = "Catch Me If You Can"
 title_reading = "CATCHMEIFYOUCAN"
@@ -14970,35 +14669,6 @@ id = "1050"
 name = "結城 莉玖"
 
 [[songs]]
-id = "281500"
-title = "泥の分際で私だけの大切を奪おうだなんて"
-title_reading = "トロノフンサイテワタシタケノタイセツヲウハオウタナンテ"
-artist = "ツユ"
-date = "2021-12-02"
-image = "ee10dcca9ed1095c.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "02"
-name = "niconico"
-
-[songs.levels]
-basic = "4"
-advanced = "7"
-expert = "9"
-master = "13"
-
-[songs.character]
-id = "1170"
-name = "皇城 セツナ"
-
-[[songs]]
 id = "712400"
 title = "無敵のフロンティア三銃士 -三角 葵ソロver.-"
 title_reading = "ムテキノフロンテイアサンシユウシミスミアオイソロVER"
@@ -15113,72 +14783,6 @@ master = "14+"
 [songs.character]
 id = "1150"
 name = "柏木 美亜"
-
-[[songs]]
-id = "175200"
-title = "700,000,000,000,000,000,000,000の空で"
-title_reading = "700000000000000000000000ノソラテ"
-artist = "LiGHTs「ラピスリライツ」"
-date = "2021-12-09"
-image = "f30f34e1ac0bb5f2.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-©2017 KLabGames\r
-©KADOKAWA CORPORATION 2017\r
-©Shengqu Games"""
-
-[songs.chapter]
-id = "99076"
-name = "ラピスリライツ"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "6770"
-name = "ティアラ"
-
-[[songs]]
-id = "175300"
-title = "シャノワール"
-title_reading = "シヤノワル"
-artist = "シュガーポケッツ「ラピスリライツ」"
-date = "2021-12-09"
-image = "74432e0ace4caa5d.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-©2017 KLabGames\r
-©KADOKAWA CORPORATION 2017\r
-©Shengqu Games"""
-
-[songs.chapter]
-id = "99076"
-name = "ラピスリライツ"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9+"
-master = "12+"
-
-[songs.character]
-id = "6910"
-name = "メアリーベリー"
 
 [[songs]]
 id = "384800"
@@ -15442,36 +15046,6 @@ master = "14"
 [songs.character]
 id = "1160"
 name = "東雲 つむぎ"
-
-[[songs]]
-id = "175600"
-title = "はっぴぃ にゅう にゃあ"
-title_reading = "ハツヒイニユウニヤア"
-artist = "芹沢文乃（伊藤かな恵）＆梅ノ森千世（井口裕香）＆霧谷希（竹達彩奈）"
-date = "2022-01-01"
-image = "d4d24abfb92d847a.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©松智洋・ぺこ／集英社・迷い猫同好会"
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "7"
-expert = "10"
-master = "13"
-
-[songs.character]
-id = "1150"
-name = "柏木 美亜"
 
 [[songs]]
 id = "289300"
@@ -16032,35 +15606,6 @@ id = "1080"
 name = "早乙女 彩華"
 
 [[songs]]
-id = "281100"
-title = "腐れ外道とチョコレゐト"
-title_reading = "クサレケトウトチヨコレイト"
-artist = "ピノキオピー"
-date = "2022-02-03"
-image = "3682e927b7c8e998.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-
-[songs.chapter]
-id = "80018"
-name = "有栖とセツナのチョコっとクッキング"
-
-[songs.category]
-id = "02"
-name = "niconico"
-
-[songs.levels]
-basic = "2"
-advanced = "8"
-expert = "10+"
-master = "13+"
-
-[songs.character]
-id = "1150"
-name = "柏木 美亜"
-
-[[songs]]
 id = "686900"
 title = "Suspiro"
 title_reading = "SUSPIRO"
@@ -16204,36 +15749,6 @@ master = "13"
 [songs.character]
 id = "1080"
 name = "早乙女 彩華"
-
-[[songs]]
-id = "181400"
-title = "ミライメモリーズ！"
-title_reading = "ミライメモリス"
-artist = "為栗メロ（CV:会沢紗弥）新阪ルナ（CV:香里有佐）恋浜みろく（CV:柳原かなこ）「駅メモ！ - ステーションメモリーズ！-」"
-date = "2022-02-10"
-image = "45fff568faef1ba8.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "© 2014 駅メモ！プロジェクト"
-
-[songs.chapter]
-id = "99074"
-name = "駅メモ！＆アワメモ！"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "6"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "7000"
-name = "為栗 メロ"
 
 [[songs]]
 id = "681800"
@@ -16825,38 +16340,6 @@ id = "1120"
 name = "逢坂 茜"
 
 [[songs]]
-id = "174900"
-title = "うまぴょい伝説"
-title_reading = "ウマヒヨイテンセツ"
-artist = "スペシャルウィーク （CV.和氣あず未）、サイレンススズカ （CV.高野麻里佳）、トウカイテイオー （CV.Machico）"
-date = "2022-03-03"
-image = "bf725b843741dcc4.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-©BANDAI NAMCO Arts Inc.\r
-© Cygames, Inc."""
-
-[songs.chapter]
-id = "05001"
-name = "第5章"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "1010"
-name = "星咲 あかり"
-
-[[songs]]
 id = "579900"
 title = "Alea jacta est!"
 title_reading = "ALEAJACTAEST"
@@ -17409,35 +16892,6 @@ id = "9030"
 name = "みどニャン"
 
 [[songs]]
-id = "986900"
-title = "うまぴょい伝説"
-title_reading = "ウマヒヨイテンセツ"
-artist = "スペシャルウィーク （CV.和氣あず未）、サイレンススズカ （CV.高野麻里佳）、トウカイテイオー （CV.Machico）"
-date = "2022-03-03"
-image = "76bbfdd58fbedd32.png"
-is_new = false
-is_lunatic = true
-is_bonus_track = false
-copyright = """
-©BANDAI NAMCO Arts Inc.\r
-© Cygames, Inc."""
-
-[songs.chapter]
-id = "05001"
-name = "第5章"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-lunatic = "13+"
-
-[songs.character]
-id = "1150"
-name = "柏木 美亜"
-
-[[songs]]
 id = "283500"
 title = "So much loving you★ -DIVA Edit-"
 title_reading = "SOMUCHLOVINGYOUDIVAEDIT"
@@ -17647,36 +17101,6 @@ id = "1090"
 name = "井之原 小星"
 
 [[songs]]
-id = "179200"
-title = "ワガママMIRROR HEART"
-title_reading = "ワカママMIRRORHEART"
-artist = "大橋彩香「政宗くんのリベンジ」"
-date = "2022-03-17"
-image = "0901142d2ddb16bc.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©竹岡葉月・Tiv・一迅社/「政宗くんのリベンジ」製作委員会"
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "4"
-advanced = "7"
-expert = "9+"
-master = "12+"
-
-[songs.character]
-id = "1160"
-name = "東雲 つむぎ"
-
-[[songs]]
 id = "580000"
 title = "Blows Up Everything"
 title_reading = "BLOWSUPEVERYTHING"
@@ -17704,38 +17128,6 @@ master = "14"
 [songs.character]
 id = "1010"
 name = "星咲 あかり"
-
-[[songs]]
-id = "283400"
-title = "ポジティブ☆ダンスタイム"
-title_reading = "ホシテイフタンスタイム"
-artist = "キノシタ feat.音街ウナ・鏡音リン"
-date = "2022-03-24"
-image = "101578118f1378cc.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = """
-©MTK/INTERNET Co., Ltd.\r
-© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"""
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "02"
-name = "niconico"
-
-[songs.levels]
-basic = "4"
-advanced = "8"
-expert = "11"
-master = "12"
-
-[songs.character]
-id = "1020"
-name = "藤沢 柚子"
 
 [[songs]]
 id = "580100"
@@ -17766,35 +17158,6 @@ master = "12+"
 [songs.character]
 id = "1030"
 name = "三角 葵"
-
-[[songs]]
-id = "484300"
-title = "HELLO,SOFMAP WORLD"
-title_reading = "HELLOSOFMAPWORLD"
-artist = "ソフマップ 店内BGM　歌：光吉猛修 コーラス：音撃譜面部"
-date = "2022-04-01"
-image = "7a49d438a4219bcc.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-
-[songs.chapter]
-id = "99078"
-name = "ソフマップ ～高瀬梨緒スーパーウルトラグレイト写真集発売記念イベント～"
-
-[songs.category]
-id = "04"
-name = "VARIETY"
-
-[songs.levels]
-basic = "2"
-advanced = "6"
-expert = "8+"
-master = "12+"
-
-[songs.character]
-id = "1040"
-name = "高瀬 梨緒"
 
 [[songs]]
 id = "485900"
@@ -17850,66 +17213,6 @@ lunatic = "0"
 [songs.character]
 id = "1040"
 name = "高瀬 梨緒"
-
-[[songs]]
-id = "183900"
-title = "空色メモリーズ"
-title_reading = "ソライロメモリス"
-artist = "成海遥香（CV：雨宮天）、煌上花音（CV：本渡楓）、楠明日葉（CV：田村睦心）、南ひなた（CV：五十嵐裕美）、サドネ（CV：悠木碧）、朝比奈心美（CV：原田ひとみ）「バトルガール ハイスクール」"
-date = "2022-04-07"
-image = "0290a5ad283918d9.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©COLOPL, Inc."
-
-[songs.chapter]
-id = "99079"
-name = "バトルガール ハイスクール(リバイバル)"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "6"
-expert = "9+"
-master = "12"
-
-[songs.character]
-id = "5340"
-name = "星月 みき"
-
-[[songs]]
-id = "184000"
-title = "Departure"
-title_reading = "DEPARTURE"
-artist = "f*f（CV：本渡楓・下地紫野）「バトルガール ハイスクール」"
-date = "2022-04-07"
-image = "8d1e0a89949a32b4.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©COLOPL, Inc."
-
-[songs.chapter]
-id = "99079"
-name = "バトルガール ハイスクール(リバイバル)"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "7"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "5340"
-name = "星月 みき"
 
 [[songs]]
 id = "687800"
@@ -22729,33 +22032,6 @@ id = "1130"
 name = "珠洲島 有栖"
 
 [[songs]]
-id = "989600"
-title = "空色メモリーズ"
-title_reading = "ソライロメモリス"
-artist = "成海遥香（CV：雨宮天）、煌上花音（CV：本渡楓）、楠明日葉（CV：田村睦心）、南ひなた（CV：五十嵐裕美）、サドネ（CV：悠木碧）、朝比奈心美（CV：原田ひとみ）「バトルガール ハイスクール」"
-date = "2023-04-01"
-image = "53acf4d125e1342f.png"
-is_new = false
-is_lunatic = true
-is_bonus_track = false
-copyright = "©COLOPL, Inc."
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-lunatic = "13+"
-
-[songs.character]
-id = "5340"
-name = "星月 みき"
-
-[[songs]]
 id = "483100"
 title = "Let you DIVE!"
 title_reading = "LETYOUDIVE"
@@ -27007,7 +26283,7 @@ title_reading = "ラフラヒリンス"
 artist = "RouteHeart（七海ロナ・藤宮コトハ）"
 date = "2024-08-22"
 image = "84077e49917836ec.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Palette Project"
@@ -27037,7 +26313,7 @@ title_reading = "アイトライフライト"
 artist = "Sputrip（暁月クララ・香鳴ハノン・常磐カナメ）"
 date = "2024-08-22"
 image = "60204f1e430fae68.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Palette Project"
@@ -27067,7 +26343,7 @@ title_reading = "キライラ"
 artist = "REGALILIA（江波キョウカ・鬼多見アユム）"
 date = "2024-08-22"
 image = "59ce06c6239fe049.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Palette Project"
@@ -27089,6 +26365,183 @@ master = "14"
 [songs.character]
 id = "7680"
 name = "REGALILIA"
+
+[[songs]]
+id = "481050"
+title = "Ouvertüre"
+title_reading = "オハチユア"
+artist = "USAO & DJ Genki feat. ルーン(CV:河瀬茉希)「WACCA」"
+date = "2024-09-05"
+image = "0556da72703c5594.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
+
+[songs.chapter]
+id = "99090"
+name = "WACCA【第3弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "7200"
+name = "ルーン"
+
+[[songs]]
+id = "481040"
+title = "eden"
+title_reading = "エテン"
+artist = '"漆黒"の堕天使《Gram》†Versus† "聖刻"の熾天使《Gram》「WACCA」'
+date = "2024-09-05"
+image = "52239c5443db17e8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
+
+[songs.chapter]
+id = "99090"
+name = "WACCA【第3弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "6"
+advanced = "9+"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "7200"
+name = "ルーン"
+
+[[songs]]
+id = "481030"
+title = "クリムゾン帝王"
+title_reading = "クリムソンテイオウ"
+artist = "REDALiCE「WACCA」"
+date = "2024-09-05"
+image = "adb13b3aa23666e4.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
+
+[songs.chapter]
+id = "99090"
+name = "WACCA【第3弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "6"
+advanced = "9"
+expert = "12+"
+master = "14+"
+
+[songs.character]
+id = "7200"
+name = "ルーン"
+
+[[songs]]
+id = "717300"
+title = "進め！マイウェイ！ -日向 千夏ソロver.-"
+title_reading = "ススメマイウエイヒナタチナツソロVER"
+artist = "曲：篠崎あやと、橘亮祐／歌：日向 千夏(CV：岡咲 美保)"
+date = "2024-09-05"
+image = "f33fb91ea0458358.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "03006"
+name = "ひよこたちのダ・カーポ"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
+
+[[songs]]
+id = "717400"
+title = "進め！マイウェイ！ -柏木 美亜ソロver.-"
+title_reading = "ススメマイウエイカシワキミアソロVER"
+artist = "曲：篠崎あやと、橘亮祐／歌：柏木 美亜(CV：和氣 あず未)"
+date = "2024-09-05"
+image = "98fcbcbea1ccd9ac.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "03006"
+name = "ひよこたちのダ・カーポ"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12"
+
+[songs.character]
+id = "1150"
+name = "柏木 美亜"
+
+[[songs]]
+id = "717500"
+title = "進め！マイウェイ！ -東雲 つむぎソロver.-"
+title_reading = "ススメマイウエイシノノメツムキソロVER"
+artist = "曲：篠崎あやと、橘亮祐／歌：東雲 つむぎ(CV：和泉 風花)"
+date = "2024-09-05"
+image = "52dd3e37529580b8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "03006"
+name = "ひよこたちのダ・カーポ"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12"
+
+[songs.character]
+id = "1160"
+name = "東雲 つむぎ"
 
 [[categories]]
 id = "06"
