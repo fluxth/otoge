@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 171
-last_updated = "2024-09-04T03:02:14.662612650Z"
+count = 176
+last_updated = "2024-09-11T03:02:10.620360861Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -2954,6 +2954,91 @@ influence = 12
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "70e023067cb51b8b868a23d3f2912e74"
+title = "ハッピーシンセサイザ"
+artist = "EasyPop"
+license = "Licensed by EasyPop, Licensed by kiki"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "cf6346f73d110597558a823bb27b9f0d"
+title = "いーあるふぁんくらぶ"
+artist = "みきとP"
+license = "Licensed by みきとP"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 10
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "699d42e46424bd097e46ad58de96ac94"
+title = "天ノ弱"
+artist = "164"
+license = "Licensed by 164"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "f78dbbd20f4f16677243bc90e7fd2e25"
+title = "初音ミクの消失"
+artist = "cosMo@暴走P"
+license = "Licensed by cosMo@暴走P"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "984d42c903f74daad49560e40e8dbe2a"
+title = "セツナトリップ"
+artist = "Last Note."
+license = "Licensed by Last Note."
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1
