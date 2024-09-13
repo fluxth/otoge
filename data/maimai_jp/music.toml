@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1280
-last_updated = "2024-09-12T03:02:16.859040776Z"
+count = 1281
+last_updated = "2024-09-13T03:02:42.777399223Z"
 
 [[songs]]
 id = "954"
@@ -21198,6 +21198,24 @@ basic = "5"
 advanced = "8"
 expert = "11+"
 master = "14"
+
+[[songs]]
+id = "832"
+title = "果ての空、僕らが見た光。"
+title_reading = "ハテノソラホクラカミタヒカリ"
+artist = "TAKU1175 ft.駄々子"
+image = "a0307249aa05e567.png"
+category = "maimai"
+version = "25000"
+release = "2024-09-12"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "10+"
+master = "13+"
 
 [[songs]]
 id = "1162"
