@@ -1,6 +1,101 @@
 name = "soundvoltex"
-count = 2058
-last_updated = "2024-08-29T03:02:21.120614215Z"
+count = 2063
+last_updated = "2024-09-13T03:02:57.848712733Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=w-NVNPSPzlPNdP5zxuBImg"
+title = "OROCHI STRIKE"
+artist = 'Hommarju & BEMANI Sound Team "兎々"'
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=b9cQ3SehEO6vC0MXeKHItQ"
+title = "Blφφdy Cφncertφ"
+artist = "OSTER project & RoughSketch"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=5xVgYlBJ3lf2NzZyD0zVjg"
+title = "REINCARNATION"
+artist = "P*Light"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=8Iu_z78PmPv7n8Yh1D6mBQ"
+title = "Lichtsäule"
+artist = 'かめりあ & BEMANI Sound Team "PHQUASE"'
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=fxpA2v79GSqIWdBIZQeGZQ"
+title = "Re:RHYZE"
+artist = "beatnation RHYZE"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=gTZCnkCEW7CJmRXISUko1g"
