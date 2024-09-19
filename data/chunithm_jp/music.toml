@@ -1,6 +1,36 @@
 name = "chunithm_jp"
-count = 1431
-last_updated = "2024-09-18T03:02:46.088617827Z"
+count = 1436
+last_updated = "2024-09-19T03:07:45.261923013Z"
+
+[[songs]]
+id = "2629"
+title = "壱雫空"
+title_reading = "ヒトシスク"
+artist = "MyGO!!!!!"
+image = "74d7657d79febe1b.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "10+"
+master = "14"
+
+[[songs]]
+id = "2630"
+title = "迷星叫"
+title_reading = "マヨイウタ"
+artist = "MyGO!!!!!"
+image = "0f124624d6e0be68.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "12+"
 
 [[songs]]
 id = "2673"
@@ -1926,6 +1956,36 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "14+"
+
+[[songs]]
+id = "2631"
+title = "スコーピオンガールの貴重な捕食シーン"
+title_reading = "スコウヒオンカウルノキチヨウナホシヨクシウン"
+artist = "STEAKA"
+image = "722f63247dec6910.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "14"
+
+[[songs]]
+id = "2632"
+title = "ずんだパーリナイ"
+title_reading = "スンタハウリナイ"
+artist = "なみぐる feat.ずんだもん"
+image = "59c39429b16acbd0.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "8+"
+master = "13+"
 
 [[songs]]
 id = "2657"
@@ -12112,6 +12172,21 @@ expert = "9"
 master = "12+"
 
 [[songs]]
+id = "2633"
+title = "Rhythmic Ride"
+title_reading = "RHYTHMICRIDE"
+artist = "明坂 芹菜(CV:新田 恵海)"
+image = "77371c1c87534cf9.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
 id = "683"
 title = "オーケー？　オーライ！"
 title_reading = "オウケウオウライ"
@@ -14115,7 +14190,7 @@ title_reading = "DRAMATIC"
 artist = "曲：Kijibato／歌：星咲 あかり(CV：赤尾 ひかる)、珠洲島 有栖(CV：長縄 まりあ)、日向 千夏(CV：岡咲 美保)、皇城 セツナ(CV：八巻 アンナ)"
 image = "73fcb499a4352f53.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20488,7 +20563,7 @@ title_reading = "XYZ"
 artist = "Len feat.SHIKI"
 image = "5109a21589c3650f.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -20503,7 +20578,7 @@ title_reading = "ユウシヨウPRINCESS"
 artist = "高瀬一矢 feat.R.I.N.A"
 image = "2babeeac922560b2.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -20518,7 +20593,7 @@ title_reading = "オトメセンシアウシ"
 artist = "A4。 feat.yamada."
 image = "3516a4767be5cc16.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -20533,7 +20608,7 @@ title_reading = "オシヤマナフリンセス"
 artist = "Shu feat. 七海うらら"
 image = "8433e7f13ac4add6.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20548,7 +20623,7 @@ title_reading = "ソウシヤルワンタウラント"
 artist = "テヅカ x Aoi feat.すずしろ"
 image = "817bd827a6345d92.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"

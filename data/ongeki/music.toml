@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 911
-last_updated = "2024-09-05T03:02:15.676253900Z"
+count = 913
+last_updated = "2024-09-19T03:07:45.235023020Z"
 
 [[songs]]
 id = "583100"
@@ -26373,7 +26373,7 @@ title_reading = "オハチユア"
 artist = "USAO & DJ Genki feat. ルーン(CV:河瀬茉希)「WACCA」"
 date = "2024-09-05"
 image = "0556da72703c5594.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
@@ -26403,7 +26403,7 @@ title_reading = "エテン"
 artist = '"漆黒"の堕天使《Gram》†Versus† "聖刻"の熾天使《Gram》「WACCA」'
 date = "2024-09-05"
 image = "52239c5443db17e8.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
@@ -26433,7 +26433,7 @@ title_reading = "クリムソンテイオウ"
 artist = "REDALiCE「WACCA」"
 date = "2024-09-05"
 image = "adb13b3aa23666e4.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Marvelous Inc. / Supported by HARDCORE TANO*C"
@@ -26463,7 +26463,7 @@ title_reading = "ススメマイウエイヒナタチナツソロVER"
 artist = "曲：篠崎あやと、橘亮祐／歌：日向 千夏(CV：岡咲 美保)"
 date = "2024-09-05"
 image = "f33fb91ea0458358.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26492,7 +26492,7 @@ title_reading = "ススメマイウエイカシワキミアソロVER"
 artist = "曲：篠崎あやと、橘亮祐／歌：柏木 美亜(CV：和氣 あず未)"
 date = "2024-09-05"
 image = "98fcbcbea1ccd9ac.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26521,7 +26521,7 @@ title_reading = "ススメマイウエイシノノメツムキソロVER"
 artist = "曲：篠崎あやと、橘亮祐／歌：東雲 つむぎ(CV：和泉 風花)"
 date = "2024-09-05"
 image = "52dd3e37529580b8.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -26542,6 +26542,68 @@ master = "12"
 [songs.character]
 id = "1160"
 name = "東雲 つむぎ"
+
+[[songs]]
+id = "274700"
+title = "ヒアソビ"
+title_reading = "ヒアソヒ"
+artist = "かめりあ"
+date = "2024-09-19"
+image = "2d34d5c554514ec2.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = """
+© かめりあ\r
+© Crypton Future Media, INC. www.piapro.net ピアプロロゴ"""
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "11+"
+master = "14"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
+
+[[songs]]
+id = "274800"
+title = "さよならプリンセス"
+title_reading = "サヨナラフリンセス"
+artist = "Kai"
+date = "2024-09-19"
+image = "c791127d0f6016c8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© 2022 DWANGO Co.,Ltd."
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
 
 [[categories]]
 id = "06"

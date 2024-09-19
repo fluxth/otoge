@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 176
-last_updated = "2024-09-11T03:02:10.620360861Z"
+count = 177
+last_updated = "2024-09-19T03:07:45.191582762Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -3039,6 +3039,22 @@ influence = 12
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "ea3426c59d0d18578c723f9d2f402cc5"
+title = "神威"
+artist = "TJ.hangneil"
+license = "Licensed by sasakuration"
+
+[songs.levels]
+easy = 4
+normal = 8
+hard = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
 
 [[categories]]
 bitflag = 1
