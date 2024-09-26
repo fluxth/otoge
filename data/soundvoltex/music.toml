@@ -1,6 +1,81 @@
 name = "soundvoltex"
-count = 2063
-last_updated = "2024-09-13T03:02:57.848712733Z"
+count = 2068
+last_updated = "2024-09-26T03:06:56.142021684Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Yc-AT1yTsp6_bg7V7_H9uA"
+title = "Voice 2 Voice n Voice"
+artist = "Acotto"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=B7oWyb6aslEfouge9DfZsA"
+title = "Growing Up／アニメ「この素晴らしい世界に祝福を！３」より"
+artist = "Machico"
+
+[[songs.categories]]
+id = "pops"
+name = "POPS&アニメ"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=85B9W4CezQLAPV0PuLhAOg"
+title = "GIGI BABA(brz_style)"
+artist = "brz1128"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=AedD4T1bc-3dCTl_R5naGw"
+title = '''PANIC HOLIC (かめりあ's "24600 POWER" Remix)'''
+artist = "かめりあ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=PR9z_Pi6f94KvDNeE4z2kA"
+title = "Four Leaves (Whitelily. remix)"
+artist = "Whitelily.(みーに&しろさきあや)"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=w-NVNPSPzlPNdP5zxuBImg"
