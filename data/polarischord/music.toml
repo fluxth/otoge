@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 177
-last_updated = "2024-09-19T03:07:45.191582762Z"
+count = 185
+last_updated = "2024-09-26T03:06:42.466977723Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -3055,6 +3055,143 @@ hard = 12
 bitflag = 5
 slug = "variety"
 name = "バラエティ"
+
+[[songs]]
+id = "0704c0df694ec77a32972ab97e713a7a"
+title = "FRENZY HEART"
+artist = "EBIMAYO"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "e041bbb2ce76dabf64bfafa39fa9a5dc"
+title = "星界のアルペジオ"
+artist = "yuichi NAGAO"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "925430798fe026b1bc43ad12424c5adb"
+title = "幻想龍殺蟲毒少女・姫虫百々世"
+artist = "ビートまりお×まろん"
+license = "Licensed by COOL&CREATE"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "59476b514e57b66c12ff37ecd3c20f5e"
+title = "㋰責任集合体"
+artist = "マサラダ"
+license = "Licensed by マサラダ"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "749c89fed89fb3a8a2b9f1cd80ed2c71"
+title = "ミッドナイト☆WAR"
+artist = "いちか"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "46ab59dda93719f7c4cd4cee4eee8b50"
+title = "ラブキラ☆スプラッシュ"
+artist = 'BEMANI Sound Team "Sota F." feat.いちか'
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "b5d6eb40678ffeb98688f1fc32499961"
+title = "さよならプリンセス"
+artist = "Kai"
+license = "Licensed by Kai、Licensed by akuya"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "a695db6a3f3113e3c7e94d55bdd7afbb"
+title = "凛として咲く花の如く (大神ミオ Cover)"
+artist = "紅色リトマス"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
