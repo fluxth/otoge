@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 188
-last_updated = "2024-10-01T03:12:42.130296957Z"
+count = 190
+last_updated = "2024-10-02T03:05:52.986571539Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -3236,6 +3236,40 @@ license = "©ANYCOLOR, Inc."
 [songs.levels]
 easy = 3
 normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "07821066b40689b39328fd7be4acdac7"
+title = "藍嵐"
+artist = "Ibuki"
+license = "Licensed by Revival Production"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "c814c0295cddb8982a04183edf04beb2"
+title = "FRAMES"
+artist = "Ibuki"
+license = "Licensed by Revival Production"
+
+[songs.levels]
+easy = 3
+normal = 5
 hard = 8
 influence = 11
 
