@@ -1,6 +1,52 @@
 name = "chunithm_jp"
-count = 1436
-last_updated = "2024-09-19T03:07:45.261923013Z"
+count = 1440
+last_updated = "2024-10-03T03:06:24.011370443Z"
+
+[[songs]]
+id = "2676"
+title = "ハートサーモグラフィー"
+title_reading = "ハウトサウモクラフイウ"
+artist = "周防パトラ"
+image = "14564b9e60c02e09.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "2677"
+title = "モンダイナイトリッパー！"
+title_reading = "モンタイナイトリツハウ"
+artist = "名取さな"
+image = "20b1639d393d2250.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "13"
+ultima = "14"
+
+[[songs]]
+id = "2679"
+title = "特者生存ワンダラダー!!"
+title_reading = "トクシヤセイソンワンタラタウ"
+artist = "天音かなた（ホロライブ）"
+image = "a7b2b5f25040f5fc.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "2629"
@@ -9,7 +55,7 @@ title_reading = "ヒトシスク"
 artist = "MyGO!!!!!"
 image = "74d7657d79febe1b.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +70,7 @@ title_reading = "マヨイウタ"
 artist = "MyGO!!!!!"
 image = "0f124624d6e0be68.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -1958,13 +2004,28 @@ master = "14+"
 ultima = "14+"
 
 [[songs]]
+id = "2641"
+title = "マシンガンポエムドール"
+title_reading = "マシンカンホエムトウル"
+artist = "cosMo＠暴走P「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+image = "ad697090d6e18492.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "14"
+master = "14+"
+
+[[songs]]
 id = "2631"
 title = "スコーピオンガールの貴重な捕食シーン"
 title_reading = "スコウヒオンカウルノキチヨウナホシヨクシウン"
 artist = "STEAKA"
 image = "722f63247dec6910.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -1979,7 +2040,7 @@ title_reading = "スンタハウリナイ"
 artist = "なみぐる feat.ずんだもん"
 image = "59c39429b16acbd0.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12178,7 +12239,7 @@ title_reading = "RHYTHMICRIDE"
 artist = "明坂 芹菜(CV:新田 恵海)"
 image = "77371c1c87534cf9.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
