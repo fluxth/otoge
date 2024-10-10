@@ -1,6 +1,111 @@
 name = "soundvoltex"
-count = 2068
-last_updated = "2024-09-26T03:06:56.142021684Z"
+count = 2075
+last_updated = "2024-10-10T03:06:46.160751372Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=933bVZf8k-bkvB2aiZlrKg"
+title = "Imitated Visions"
+artist = "荒谷サトル"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=NsFMRJZ7eDtXDVbNFG6K-w"
+title = "こどもかくしのアンダーランド"
+artist = "iru feat. 桃寝ちのい"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=oFuF11kfIy7k_k7oSHmO_w"
+title = "憧憬のファンファーレ"
+artist = "CHUBAY"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=rAez1V8McBtwEfmiEyt0YQ"
+title = "Xinca"
+artist = "隣の庭は青い(庭師+Aoi)"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=9TJTvv8BnEV_Xj1TKgEGTg"
+title = "JACK -the KING Ki11ing-"
+artist = "打打だいず vs. siromaru"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=WZHwRhNRJ2MzQf-3SG6PaA"
+title = "すべてを賭して"
+artist = "ke-ji"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=XiJEQgpOLB8-mbfof6sohQ"
+title = "Don't you dare play GOD"
+artist = "technoplanet feat. Tamako Kinoshita"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "8"
+advanced = "15"
+exhaust = "18"
+maximum = "20"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=Yc-AT1yTsp6_bg7V7_H9uA"
