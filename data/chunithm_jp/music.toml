@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1440
-last_updated = "2024-10-03T03:06:24.011370443Z"
+count = 1448
+last_updated = "2024-10-17T03:06:44.559038681Z"
 
 [[songs]]
 id = "2676"
@@ -9,7 +9,7 @@ title_reading = "ハウトサウモクラフイウ"
 artist = "周防パトラ"
 image = "14564b9e60c02e09.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "モンタイナイトリツハウ"
 artist = "名取さな"
 image = "20b1639d393d2250.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -40,7 +40,7 @@ title_reading = "トクシヤセイソンワンタラタウ"
 artist = "天音かなた（ホロライブ）"
 image = "a7b2b5f25040f5fc.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2010,7 +2010,7 @@ title_reading = "マシンカンホエムトウル"
 artist = "cosMo＠暴走P「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
 image = "ad697090d6e18492.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -15190,6 +15190,21 @@ expert = "13+"
 master = "15"
 
 [[songs]]
+id = "2644"
+title = "Death Doll"
+title_reading = "DEATHDOLL"
+artist = "SHIKI"
+image = "12487783a407bcf6.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "14"
+
+[[songs]]
 id = "202"
 title = "GEMINI -C-"
 title_reading = "GEMINIC"
@@ -20691,6 +20706,105 @@ basic = "3"
 advanced = "6"
 expert = "11"
 master = "14+"
+
+[[songs]]
+id = "2645"
+title = "Lovely Lovely Lover"
+title_reading = "LOVELYLOVELYLOVER"
+artist = "EmoCosine"
+image = "4c04f49f8e75db2f.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "11+"
+master = "14"
+
+[[songs]]
+id = "2646"
+title = "Fire Engine73"
+title_reading = "FIREENGINE73"
+artist = "AJURIKA"
+image = "de0cb07cba761e3f.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "12"
+master = "13+"
+
+[[songs]]
+id = "2647"
+title = "LibrariA"
+title_reading = "LIBRARIA"
+artist = "ルゼ"
+image = "9dd7d2fa7d37bbfd.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "13"
+master = "14+"
+
+[[songs]]
+id = "2648"
+title = "Tuatha Dé Danann"
+title_reading = "TUATHADEDANANN"
+artist = '深淵を覗きし者"Gram"'
+image = "49f9b5bed3435175.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "10"
+expert = "14"
+master = "15"
+
+[[songs]]
+id = "8289"
+title = "マツケンサンバⅡ"
+title_reading = "マツケンサンハII"
+artist = "松平健 [covered by 光吉猛修]"
+image = "7e34f6d00b69eeb7.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.worlds_end]
+kanji = "狂"
+star = "3"
+
+[[songs]]
+id = "8290"
+title = "Reverberate"
+title_reading = "REVERBERATE"
+artist = "とろまる"
+image = "d4c443166eefb21f.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.worlds_end]
+kanji = "半"
+star = "5"
+
+[[songs]]
+id = "8291"
+title = "分からない"
+title_reading = "ワカラナイ"
+artist = "ろん×黒魔"
+image = "01b15e5e8fb1fe46.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.worlds_end]
+kanji = "？"
+star = "3"
 
 [[songs]]
 id = "8286"
