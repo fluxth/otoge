@@ -11,7 +11,7 @@ async-trait = "=0.1.83"
 chrono = { version = "=0.4.38", features = ["serde"] }
 otoge = { path = "../lib" }
 reqwest = { version = "=0.12.8", features = ["json"] }
-serde = "=1.0.210"
+serde = "=1.0.213"
 scraper = "=0.20.0"
 tokio = { version = "=1.40.0", features = ["full"] }
 toml = "=0.8.19"
