@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 2075
-last_updated = "2024-10-10T03:06:46.160751372Z"
+count = 2078
+last_updated = "2024-10-25T03:08:31.821133290Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=10tsiQgM6u8ayw06YG7CnQ"
+title = "Come to Life"
+artist = "ARM (IOSYS) feat. Nicole Curry"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=j09H8h04CqOuCriQCXocvA"
+title = "COSMIC V3LOCITY"
+artist = 'BEMANI Sound Team "Coyaan & KE!JU & ZAQUVA"'
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=nx19mxrrV95QQB5pZEpI6Q"
+title = "SOLAR ECLIPSE"
+artist = 'Yuta Imai Vs. BEMANI Sound Team "Yvya"'
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=933bVZf8k-bkvB2aiZlrKg"
