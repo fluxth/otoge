@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1290
-last_updated = "2024-10-25T03:08:19.441307597Z"
+count = 1291
+last_updated = "2024-10-28T03:10:19.441163945Z"
 
 [[songs]]
 id = "980"
@@ -21295,6 +21295,24 @@ basic = "5"
 advanced = "7+"
 expert = "12"
 master = "14"
+
+[[songs]]
+id = "856"
+title = "氷滅の135小節"
+title_reading = "ヒヨウメツノ135シヨウセツ"
+artist = "大国奏音"
+image = "b28c21f0d14c6e26.png"
+category = "maimai"
+version = "25003"
+release = "2024-10-25"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "7"
+advanced = "9+"
+expert = "13"
+master = "14+"
 
 [[songs]]
 id = "1189"
