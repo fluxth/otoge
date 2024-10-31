@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 918
-last_updated = "2024-10-19T03:06:05.407557344Z"
+count = 921
+last_updated = "2024-10-31T03:08:42.628971744Z"
 
 [[songs]]
 id = "583100"
@@ -26702,7 +26702,7 @@ title_reading = "L9"
 artist = "paraoka"
 date = "2024-10-17"
 image = "0a94009957414d83.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26731,7 +26731,7 @@ title_reading = "HAUNTEDANCE"
 artist = "Mr.Asyu"
 date = "2024-10-17"
 image = "1c47db88f9a6a67d.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Mr.Asyu"
@@ -26753,6 +26753,93 @@ master = "14+"
 [songs.character]
 id = "1040"
 name = "高瀬 梨緒"
+
+[[songs]]
+id = "667800"
+title = "Lazulis Gambit"
+title_reading = "LAZULISGAMBIT"
+artist = "Acotto"
+date = "2024-10-31"
+image = "f6b5c9dc8843a401.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80042"
+name = "KING of Performai The 6th 予選ラウンド"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "10"
+expert = "13+"
+master = "15"
+
+[songs.character]
+id = "1150"
+name = "柏木 美亜"
+
+[[songs]]
+id = "667400"
+title = "ツムギボシ（starring オンゲキシューターズ）"
+title_reading = "ツムキホシSTARRINGオンケキシユタス"
+artist = "大国奏音／歌：東雲 つむぎ(CV：和泉 風花)、井之原 小星(CV：ももの はるな)、星咲 あかり(CV：赤尾 ひかる)"
+date = "2024-10-31"
+image = "0127363b34dedf45.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80043"
+name = "Primera Fes. ～maimai Stage～"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13+"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
+
+[[songs]]
+id = "667500"
+title = "Chant Say Yeah!"
+title_reading = "CHANTSAYYEAH"
+artist = "MYUKKE."
+date = "2024-10-31"
+image = "b47cc50b3613d3e9.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80043"
+name = "Primera Fes. ～maimai Stage～"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "9+"
+expert = "12+"
+master = "14+"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
 
 [[categories]]
 id = "06"

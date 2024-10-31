@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1448
-last_updated = "2024-10-17T03:06:44.559038681Z"
+count = 1449
+last_updated = "2024-10-31T03:08:42.158939779Z"
 
 [[songs]]
 id = "2676"
@@ -9943,6 +9943,7 @@ basic = "3"
 advanced = "6"
 expert = "9+"
 master = "13"
+ultima = "14+"
 
 [[songs]]
 id = "208"
@@ -15196,13 +15197,28 @@ title_reading = "DEATHDOLL"
 artist = "SHIKI"
 image = "12487783a407bcf6.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
 advanced = "6"
 expert = "11"
 master = "14"
+
+[[songs]]
+id = "2650"
+title = "MeteorSnow"
+title_reading = "METEORSNOW"
+artist = "あず♪"
+image = "add533c75dea59b9.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "8"
+expert = "13+"
+master = "15"
 
 [[songs]]
 id = "202"
@@ -20714,7 +20730,7 @@ title_reading = "LOVELYLOVELYLOVER"
 artist = "EmoCosine"
 image = "4c04f49f8e75db2f.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20729,7 +20745,7 @@ title_reading = "FIREENGINE73"
 artist = "AJURIKA"
 image = "de0cb07cba761e3f.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -20744,7 +20760,7 @@ title_reading = "LIBRARIA"
 artist = "ルゼ"
 image = "9dd7d2fa7d37bbfd.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -20759,7 +20775,7 @@ title_reading = "TUATHADEDANANN"
 artist = '深淵を覗きし者"Gram"'
 image = "49f9b5bed3435175.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -20774,7 +20790,7 @@ title_reading = "マツケンサンハII"
 artist = "松平健 [covered by 光吉猛修]"
 image = "7e34f6d00b69eeb7.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "狂"
@@ -20787,7 +20803,7 @@ title_reading = "REVERBERATE"
 artist = "とろまる"
 image = "d4c443166eefb21f.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "半"
@@ -20800,7 +20816,7 @@ title_reading = "ワカラナイ"
 artist = "ろん×黒魔"
 image = "01b15e5e8fb1fe46.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "？"
