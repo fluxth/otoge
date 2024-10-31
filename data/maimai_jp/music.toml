@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1291
-last_updated = "2024-10-28T03:10:19.441163945Z"
+count = 1292
+last_updated = "2024-10-31T03:08:42.410587258Z"
 
 [[songs]]
 id = "980"
@@ -21251,7 +21251,7 @@ image = "d54c8fb0237dc170.png"
 category = "maimai"
 version = "25003"
 release = "2024-10-25"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -21269,7 +21269,7 @@ image = "4b1d9466de5e53e0.png"
 category = "maimai"
 version = "25003"
 release = "2024-10-25"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -21287,7 +21287,7 @@ image = "52fdd4f921a6c08e.png"
 category = "maimai"
 version = "25003"
 release = "2024-10-25"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -21305,13 +21305,31 @@ image = "b28c21f0d14c6e26.png"
 category = "maimai"
 version = "25003"
 release = "2024-10-25"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
 basic = "7"
 advanced = "9+"
 expert = "13"
+master = "14+"
+
+[[songs]]
+id = "857"
+title = "Divide et impera!"
+title_reading = "DIVIDEETIMPERA"
+artist = "BlackY a.k.a. WAiKURO survive"
+image = "da7d3a099d23a585.png"
+category = "maimai"
+version = "25004"
+release = "2024-10-31"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "12+"
 master = "14+"
 
 [[songs]]
