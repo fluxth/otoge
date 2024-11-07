@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 201
-last_updated = "2024-10-31T03:08:42.594044644Z"
+count = 203
+last_updated = "2024-11-07T03:06:44.679562550Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -3456,6 +3456,40 @@ influence = 12
 bitflag = 5
 slug = "variety"
 name = "バラエティ"
+
+[[songs]]
+id = "7a91252151cc50efdca5831637d2d5f1"
+title = "エンドレス・てゐマパーク"
+artist = "ARM feat. とろ美"
+license = "Licensed by IOSYS"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "beec36f43afa302c004f303829297cc9"
+title = "超最終鬼畜妹フランドール・S"
+artist = "ビートまりお×まろん"
+license = "Licensed by COOL&CREATE"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 11
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
 
 [[categories]]
 bitflag = 1
