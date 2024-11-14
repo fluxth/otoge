@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 921
-last_updated = "2024-10-31T03:08:42.628971744Z"
+count = 925
+last_updated = "2024-11-14T03:06:04.952608563Z"
 
 [[songs]]
 id = "583100"
@@ -26761,7 +26761,7 @@ title_reading = "LAZULISGAMBIT"
 artist = "Acotto"
 date = "2024-10-31"
 image = "f6b5c9dc8843a401.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26790,7 +26790,7 @@ title_reading = "ツムキホシSTARRINGオンケキシユタス"
 artist = "大国奏音／歌：東雲 つむぎ(CV：和泉 風花)、井之原 小星(CV：ももの はるな)、星咲 あかり(CV：赤尾 ひかる)"
 date = "2024-10-31"
 image = "0127363b34dedf45.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26819,7 +26819,7 @@ title_reading = "CHANTSAYYEAH"
 artist = "MYUKKE."
 date = "2024-10-31"
 image = "b47cc50b3613d3e9.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -26840,6 +26840,126 @@ master = "14+"
 [songs.character]
 id = "1080"
 name = "早乙女 彩華"
+
+[[songs]]
+id = "480600"
+title = "狂恋ROMANCE"
+title_reading = "キヨウレンROMANCE"
+artist = "REDALiCE vs DJ Myosuke feat. DELUTAYA「Arcaea」"
+date = "2024-11-14"
+image = "6da9efddb102f65b.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© lowiro 2024"
+
+[songs.chapter]
+id = "99096"
+name = "Arcaea"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "5670"
+name = "光"
+
+[[songs]]
+id = "480700"
+title = "Sulfur"
+title_reading = "SULFUR"
+artist = "ぺのれり「Arcaea」"
+date = "2024-11-14"
+image = "b4c2bd5d9ebad0be.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© lowiro 2024"
+
+[songs.chapter]
+id = "99096"
+name = "Arcaea"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "5670"
+name = "光"
+
+[[songs]]
+id = "480800"
+title = "Small Cloud Sugar Candy"
+title_reading = "SMALLCLOUDSUGARCANDY"
+artist = "テヅカ × Aoi feat.桃雛なの「Arcaea」"
+date = "2024-11-14"
+image = "e060d4f6bfeae42e.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© lowiro 2024"
+
+[songs.chapter]
+id = "99096"
+name = "Arcaea"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "5"
+advanced = "8+"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "5670"
+name = "光"
+
+[[songs]]
+id = "480900"
+title = "最強STRONGER"
+title_reading = "サイキヨウSTRONGER"
+artist = "REDALiCE vs USAO「Arcaea」"
+date = "2024-11-14"
+image = "7a3a3c7d654f9a97.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© lowiro 2024"
+
+[songs.chapter]
+id = "99096"
+name = "Arcaea"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "5670"
+name = "光"
 
 [[categories]]
 id = "06"
