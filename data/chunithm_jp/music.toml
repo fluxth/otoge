@@ -1,6 +1,21 @@
 name = "chunithm_jp"
-count = 1449
-last_updated = "2024-10-31T03:08:42.158939779Z"
+count = 1454
+last_updated = "2024-11-14T03:06:05.883867428Z"
+
+[[songs]]
+id = "2653"
+title = "Sleep Walking Orchestra"
+title_reading = "SLEEPWALKINGORCHESTRA"
+artist = "BUMP OF CHICKEN"
+image = "2487a7877540f3db.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "11+"
 
 [[songs]]
 id = "2676"
@@ -2002,6 +2017,51 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "14+"
+
+[[songs]]
+id = "2670"
+title = "自称、音楽愛好家"
+title_reading = "シシヨウオンカクアイコウカ"
+artist = "卯花ロク"
+image = "654d5dc292f028fe.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2660"
+title = "What's up? Pop!"
+title_reading = "WHATSUPPOP"
+artist = "Capchii"
+image = "a23bc8d6658faad1.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "14"
+master = "15"
+
+[[songs]]
+id = "2661"
+title = "まにまに"
+title_reading = "マニマニ"
+artist = "r-906"
+image = "594030f40aa58abd.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "2641"
@@ -15212,7 +15272,7 @@ title_reading = "METEORSNOW"
 artist = "あず♪"
 image = "add533c75dea59b9.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -20780,6 +20840,21 @@ is_new = false
 [songs.levels]
 basic = "5"
 advanced = "10"
+expert = "14"
+master = "15"
+
+[[songs]]
+id = "2651"
+title = "Acid God"
+title_reading = "ACIDGOD"
+artist = "Yuta Imai"
+image = "8e4490da0e564cbd.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
 expert = "14"
 master = "15"
 

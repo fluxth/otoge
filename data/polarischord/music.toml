@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 203
-last_updated = "2024-11-07T03:06:44.679562550Z"
+count = 205
+last_updated = "2024-11-14T03:06:04.445411275Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -3484,6 +3484,40 @@ license = "Licensed by COOL&CREATE"
 easy = 4
 normal = 7
 hard = 11
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "2efa4850534297b7baf17a859ce63682"
+title = "有頂天ドリーマーズ"
+artist = "森羅万象"
+license = "Licensed by 森羅万象"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "5d4411d4744aaad6cd857f325ca0d83d"
+title = "Heartquake Super Shock"
+artist = "SOUND HOLIC feat. Nana Takahashi"
+license = "Licensed by SOUND HOLIC"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
 influence = 12
 
 [[songs.categories]]
