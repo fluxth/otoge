@@ -1,6 +1,6 @@
 name = "soundvoltex"
 count = 2082
-last_updated = "2024-11-07T03:06:55.701426014Z"
+last_updated = "2024-11-19T03:11:43.540906777Z"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=NoasIGKr7pKxTIb0S_lgOA"
@@ -24020,6 +24020,7 @@ name = "ボーカロイド"
 novice = "6"
 advanced = "12"
 exhaust = "16"
+exceed = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=FKfYbOzlbAEG8p7kHwBXGg"

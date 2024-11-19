@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 205
-last_updated = "2024-11-14T03:06:04.445411275Z"
+count = 208
+last_updated = "2024-11-19T03:11:32.853012483Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -3524,6 +3524,53 @@ influence = 12
 bitflag = 4
 slug = "touhou"
 name = "東方"
+
+[[songs]]
+id = "c6ba6f18921d9efb029bd1f4b301ce93"
+title = "エキサイティング！！も・ちゃ・ちゃ☆"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "6d8c20eb184f3f53194b665c48c50770"
+title = "けもののおうじゃ★めうめう"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "7e8eb75468abf5ec24618f20954d2e4e"
+title = "めうめうぺったんたん！！ (ZAQUVA Remix)"
+artist = 'Remixed by BEMANI Sound Team "ZAQUVA"'
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
