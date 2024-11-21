@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2082
-last_updated = "2024-11-19T03:11:43.540906777Z"
+count = 2086
+last_updated = "2024-11-21T03:10:55.329699137Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=PxejBuAQ8_EoRs2EK3Jkgg"
+title = "ΛNXIENT:LEGΛXIEZ"
+artist = "Ashrount"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=IaRcqGOQViGmuKyq8KpRmQ"
+title = "ØverwriteTheCatastrophe"
+artist = "deli.+駄々子"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=d16_h6YNwcGZqUFfSmXm9w"
+title = "Cumulonimbus"
+artist = "Hidra-Xjeil"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=jhWIW1fUBBix9A5RUuhBUQ"
+title = "Kool Awesome Croon"
+artist = "Super Shrimp"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=NoasIGKr7pKxTIb0S_lgOA"
