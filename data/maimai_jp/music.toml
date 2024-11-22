@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1296
-last_updated = "2024-11-08T03:05:04.529119273Z"
+count = 1302
+last_updated = "2024-11-22T03:11:40.445752326Z"
 
 [[songs]]
 id = "981"
@@ -8049,7 +8049,8 @@ artist = "魂音泉"
 image = "c095520ef94c76bb.png"
 category = "東方Project"
 version = "19011"
-is_new = false
+release = "2024-11-22"
+is_new = true
 is_locked = false
 
 [songs.levels]
@@ -8057,6 +8058,12 @@ basic = "5"
 advanced = "7+"
 expert = "11+"
 master = "12+"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "472"
@@ -21570,6 +21577,24 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
+id = "111"
+title = "転生林檎"
+title_reading = "テンセイリンコ"
+artist = "ピノキオピー"
+image = "63ff2afcc2fe8c90.png"
+category = "niconico＆ボーカロイド"
+version = "25006"
+release = "2024-11-22"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[[songs]]
 id = "7"
 title = "メイトなやつら（FEAT. 天開司, 佐藤ホームズ, あっくん大魔王 & 歌衣メイカ）"
 title_reading = "メイトナヤツラFEATテンカイツカササトウホオムスアツクンタイマオウウタイメイカ"
@@ -21632,7 +21657,7 @@ image = "e855318fd3b94fc0.png"
 category = "POPS＆アニメ"
 version = "25005"
 release = "2024-11-08"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21651,7 +21676,7 @@ image = "fa634284c1049256.png"
 category = "POPS＆アニメ"
 version = "25005"
 release = "2024-11-08"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21670,7 +21695,7 @@ image = "b63ee01314aeb377.png"
 category = "niconico＆ボーカロイド"
 version = "25005"
 release = "2024-11-08"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21688,7 +21713,7 @@ image = "5a00e260e3dde459.png"
 category = "東方Project"
 version = "25005"
 release = "2024-11-08"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21696,6 +21721,42 @@ basic = "3"
 advanced = "7"
 expert = "10"
 master = "13"
+
+[[songs]]
+id = "6"
+title = "夢現妄想世界"
+title_reading = "ムケンマイワアルト"
+artist = "夢限大みゅーたいぷ"
+image = "417f52c6388cd20c.png"
+category = "POPS＆アニメ"
+version = "25006"
+release = "2024-11-22"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "113"
+title = "snooze"
+title_reading = "SNOOZE"
+artist = "wotaku feat.SHIKI"
+image = "990f36f291344332.png"
+category = "niconico＆ボーカロイド"
+version = "25006"
+release = "2024-11-22"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "6"
+expert = "10+"
+master = "13+"
 
 [[songs]]
 id = "105"
@@ -21714,6 +21775,24 @@ basic = "4"
 advanced = "7"
 expert = "11"
 master = "13+"
+
+[[songs]]
+id = "112"
+title = "てらてら"
+title_reading = "テラテラ"
+artist = "和田たけあき"
+image = "f44e36f4e46a023e.png"
+category = "niconico＆ボーカロイド"
+version = "25006"
+release = "2024-11-22"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "103"
@@ -22227,6 +22306,23 @@ kanji = "協"
 comment = "一緒にデスコ"
 
 [[songs]]
+id = "1319"
+title = "[奏]マイオドレ！舞舞タイム"
+title_reading = "マイオトレマイマイタイム"
+artist = "キノシタ feat. そらみこ (ホロライブ ときのそら＆さくらみこ)"
+image = "2dd30e50b2be509e.png"
+category = "宴会場"
+version = "25006"
+release = "2024-11-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "12+?"
+kanji = "奏"
+comment = "一緒に！舞舞タイム！"
+
+[[songs]]
 id = "1355"
 title = "[光]BREaK! BREaK! BREaK!"
 title_reading = "BREAKBREAKBREAK"
@@ -22395,6 +22491,23 @@ is_locked = false
 level = "14+?"
 kanji = "蔵"
 comment = "and in that light, I find deliverance."
+
+[[songs]]
+id = "1318"
+title = "[蛸]不機嫌なスリーカード"
+title_reading = "フキケンナスリイカアト"
+artist = "HIMEHINA"
+image = "8d2776e8b9c3ceaf.png"
+category = "宴会場"
+version = "25006"
+release = "2024-11-22"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13?"
+kanji = "蛸"
+comment = "秘密を握った　真実を　魅せてあげる"
 
 [[songs]]
 id = "1326"
