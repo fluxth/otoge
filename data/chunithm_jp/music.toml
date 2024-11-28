@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1454
-last_updated = "2024-11-14T03:06:05.883867428Z"
+count = 1460
+last_updated = "2024-11-28T03:14:29.977253389Z"
 
 [[songs]]
 id = "2653"
@@ -9,7 +9,7 @@ title_reading = "SLEEPWALKINGORCHESTRA"
 artist = "BUMP OF CHICKEN"
 image = "2487a7877540f3db.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2025,7 +2025,7 @@ title_reading = "シシヨウオンカクアイコウカ"
 artist = "卯花ロク"
 image = "654d5dc292f028fe.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2040,7 +2040,7 @@ title_reading = "WHATSUPPOP"
 artist = "Capchii"
 image = "a23bc8d6658faad1.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -2055,7 +2055,7 @@ title_reading = "マニマニ"
 artist = "r-906"
 image = "594030f40aa58abd.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11692,6 +11692,21 @@ master = "11+"
 ultima = "14"
 
 [[songs]]
+id = "2654"
+title = "Here the Our MIRAI!"
+title_reading = "HERETHEOURMIRAI"
+artist = "イロドリミドリ"
+image = "1450eaf314492c3d.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
 id = "774"
 title = "Agitation！"
 title_reading = "AGITATION"
@@ -14021,6 +14036,51 @@ expert = "13"
 master = "14+"
 
 [[songs]]
+id = "2665"
+title = "超熊猫的周遊記（ワンダーパンダートラベラー）"
+title_reading = "ワンタウハンタウトラヘラウ"
+artist = "FANTAGIRAFF"
+image = "546973c762bf907f.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "6"
+expert = "13"
+master = "14+"
+
+[[songs]]
+id = "2680"
+title = "NAGAREBOSHI☆ROCKET"
+title_reading = "NAGAREBOSHIROCKET"
+artist = "梅干茶漬け"
+image = "2267b36fd4576199.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "12"
+master = "14"
+
+[[songs]]
+id = "2681"
+title = "群青シグナル"
+title_reading = "クンシヨウシクナル"
+artist = "テヅカ feat. 獅子神レオナ"
+image = "8947c880aad3c3be.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
 id = "802"
 title = "STARTLINER"
 title_reading = "STARTLINER"
@@ -14424,6 +14484,21 @@ basic = "2"
 advanced = "5"
 expert = "9"
 master = "12"
+
+[[songs]]
+id = "2663"
+title = "Flower"
+title_reading = "FLOWER"
+artist = "曲：白戸佑輔(Dream Monster)／歌：ASTERISM [星咲 あかり(CV：赤尾 ひかる)、藤沢 柚子(CV：久保田 梨沙)、三角 葵(CV：春野 杏)]"
+image = "59d0439e80d2f642.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
 
 [[songs]]
 id = "973"
@@ -20850,13 +20925,28 @@ title_reading = "ACIDGOD"
 artist = "Yuta Imai"
 image = "8e4490da0e564cbd.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
 advanced = "9+"
 expert = "14"
 master = "15"
+
+[[songs]]
+id = "2652"
+title = "Forsaken Tale"
+title_reading = "FORSAKENTALE"
+artist = "t+pazolite"
+image = "0e32fa085f54f59c.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.levels]
+basic = "5"
+advanced = "12"
+expert = "14+"
+master = "15+"
 
 [[songs]]
 id = "8289"

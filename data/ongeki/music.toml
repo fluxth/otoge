@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 925
-last_updated = "2024-11-14T03:06:04.952608563Z"
+count = 927
+last_updated = "2024-11-28T03:14:29.937429649Z"
 
 [[songs]]
 id = "583100"
@@ -26848,7 +26848,7 @@ title_reading = "キヨウレンROMANCE"
 artist = "REDALiCE vs DJ Myosuke feat. DELUTAYA「Arcaea」"
 date = "2024-11-14"
 image = "6da9efddb102f65b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© lowiro 2024"
@@ -26878,7 +26878,7 @@ title_reading = "SULFUR"
 artist = "ぺのれり「Arcaea」"
 date = "2024-11-14"
 image = "b4c2bd5d9ebad0be.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© lowiro 2024"
@@ -26908,7 +26908,7 @@ title_reading = "SMALLCLOUDSUGARCANDY"
 artist = "テヅカ × Aoi feat.桃雛なの「Arcaea」"
 date = "2024-11-14"
 image = "e060d4f6bfeae42e.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© lowiro 2024"
@@ -26938,7 +26938,7 @@ title_reading = "サイキヨウSTRONGER"
 artist = "REDALiCE vs USAO「Arcaea」"
 date = "2024-11-14"
 image = "7a3a3c7d654f9a97.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© lowiro 2024"
@@ -26960,6 +26960,66 @@ master = "14"
 [songs.character]
 id = "5670"
 name = "光"
+
+[[songs]]
+id = "168900"
+title = "君よ"
+title_reading = "キミヨ"
+artist = "La prière(棗いつき、藍月なくる、nayuta)"
+date = "2024-11-28"
+image = "f85ab4da2b34d644.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "(C) 2019-2023 La prière All Rights Reserved."
+
+[songs.chapter]
+id = "99113"
+name = "La prière"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "7820"
+name = "La prière"
+
+[[songs]]
+id = "169000"
+title = "恋のイリュージョニスタ"
+title_reading = "コイノイリユシヨニスタ"
+artist = "La prière(棗いつき、藍月なくる、nayuta)"
+date = "2024-11-28"
+image = "04146e73132ff7fd.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "(C) 2019-2023 La prière All Rights Reserved."
+
+[songs.chapter]
+id = "99113"
+name = "La prière"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "7820"
+name = "La prière"
 
 [[categories]]
 id = "06"
