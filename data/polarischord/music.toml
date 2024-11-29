@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 208
-last_updated = "2024-11-19T03:11:32.853012483Z"
+count = 212
+last_updated = "2024-11-29T03:14:05.347252802Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -3566,6 +3566,70 @@ artist = 'Remixed by BEMANI Sound Team "ZAQUVA"'
 easy = 3
 normal = 7
 hard = 10
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "dbc7d46eae1d79306a53a1cb00e2be5b"
+title = "Last Twilight"
+artist = "cosMo＠暴走P"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "6c5096a1490d50daa1588d4f08eb25ac"
+title = "バルベリア・タンゴ"
+artist = "ARM (IOSYS) × パプリカ (豚乙女)"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 8
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "bf6d90936f263805a66b9d9d6285b225"
+title = "n番目の女"
+artist = "ヒゲドライVAN"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "6c2fea84ab8b49ca4a13f5b50373dfc3"
+title = "ネリと琥珀糖"
+artist = "sasakure.UK"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 10
+influence = 12
 
 [[songs.categories]]
 bitflag = 6
