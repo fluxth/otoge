@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 2086
-last_updated = "2024-11-22T03:11:51.328400721Z"
+count = 2089
+last_updated = "2024-12-05T03:16:13.090627063Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=V5BIavWKa7KxBCYHAYBI4Q"
+title = "Everything B.K."
+artist = "nora2r"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=DdYGUELTvH_IeZ_-rcuHlQ"
+title = "B.B.K.K.B.K.K. (USAO Remix)"
+artist = "nora2r Remixed by USAO"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=pb-969Yg2acRvsPlCqG70Q"
+title = "B.B.K.K.B.K.K. (影虎。 & siqlo PsyRemix)"
+artist = "nora2r Remixed by 影虎。 & siqlo"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=PxejBuAQ8_EoRs2EK3Jkgg"
