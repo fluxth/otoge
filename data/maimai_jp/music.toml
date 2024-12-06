@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1302
-last_updated = "2024-11-22T03:11:40.445752326Z"
+count = 1310
+last_updated = "2024-12-06T03:15:28.531436576Z"
 
 [[songs]]
 id = "981"
@@ -8049,8 +8049,7 @@ artist = "魂音泉"
 image = "c095520ef94c76bb.png"
 category = "東方Project"
 version = "19011"
-release = "2024-11-22"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -21331,7 +21330,7 @@ category = "maimai"
 version = "25004"
 release = "2024-10-31"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "6"
@@ -21349,7 +21348,7 @@ category = "オンゲキ＆CHUNITHM"
 version = "25000"
 release = "2024-09-12"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "6"
@@ -21367,7 +21366,7 @@ category = "オンゲキ＆CHUNITHM"
 version = "25000"
 release = "2024-09-12"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "5"
@@ -21585,7 +21584,7 @@ image = "63ff2afcc2fe8c90.png"
 category = "niconico＆ボーカロイド"
 version = "25006"
 release = "2024-11-22"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21731,7 +21730,7 @@ image = "417f52c6388cd20c.png"
 category = "POPS＆アニメ"
 version = "25006"
 release = "2024-11-22"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21749,7 +21748,7 @@ image = "990f36f291344332.png"
 category = "niconico＆ボーカロイド"
 version = "25006"
 release = "2024-11-22"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21785,7 +21784,7 @@ image = "f44e36f4e46a023e.png"
 category = "niconico＆ボーカロイド"
 version = "25006"
 release = "2024-11-22"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21793,6 +21792,114 @@ basic = "3"
 advanced = "7"
 expert = "10"
 master = "13"
+
+[[songs]]
+id = "595"
+title = "HYP3RTRIBE"
+title_reading = "HYP3RTRIBE"
+artist = "sky_delta vs KO3 vs Tanchiky"
+image = "57a1f926723b132f.png"
+category = "ゲーム＆バラエティ"
+version = "25007"
+release = "2024-12-06"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "11+"
+master = "14"
+
+[[songs]]
+id = "106"
+title = "エイプリルスター"
+title_reading = "エイフリルスタア"
+artist = "OSTER project"
+image = "3a6c5504f3f68c11.png"
+category = "niconico＆ボーカロイド"
+version = "25007"
+release = "2024-12-06"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "107"
+title = "オーバーライド"
+title_reading = "オオハアライト"
+artist = "吉田夜世"
+image = "7fc9d2db1826507b.png"
+category = "niconico＆ボーカロイド"
+version = "25007"
+release = "2024-12-06"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "13"
+
+[[songs]]
+id = "108"
+title = "右に曲ガール"
+title_reading = "ミキニマカアル"
+artist = "はるふり"
+image = "f99ee802d1590feb.png"
+category = "niconico＆ボーカロイド"
+version = "25007"
+release = "2024-12-06"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "109"
+title = "ウルトラトレーラー"
+title_reading = "ウルトラトレエラア"
+artist = "マサラダ"
+image = "a9dee04030e6eedd.png"
+category = "niconico＆ボーカロイド"
+version = "25007"
+release = "2024-12-06"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "110"
+title = "バベル"
+title_reading = "ハヘル"
+artist = "いよわ feat.重音テト"
+image = "6dc9f632ed4791fa.png"
+category = "niconico＆ボーカロイド"
+version = "25007"
+release = "2024-12-06"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "103"
@@ -22576,6 +22683,40 @@ is_locked = false
 level = "12+?"
 kanji = "奏"
 comment = "2人合わせてさくゆいたいそう"
+
+[[songs]]
+id = "1317"
+title = "[嘘]ライアーダンサー"
+title_reading = "ライアアタンサア"
+artist = "マサラダ"
+image = "3ecd712a72f9b81a.png"
+category = "宴会場"
+version = "25007"
+release = "2024-12-06"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "12+?"
+kanji = "嘘"
+comment = "嘘に踊れ"
+
+[[songs]]
+id = "1316"
+title = "[宴]人マニア"
+title_reading = "ヒトマニア"
+artist = "原口沙輔 feat.重音テト"
+image = "10356aac35f154c5.png"
+category = "宴会場"
+version = "25007"
+release = "2024-12-06"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14?"
+kanji = "X"
+comment = "人（の初見姿観察推奨）マニア"
 
 [[songs]]
 id = "1347"
