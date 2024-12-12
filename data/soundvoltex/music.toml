@@ -1,6 +1,141 @@
 name = "soundvoltex"
-count = 2089
-last_updated = "2024-12-05T03:16:13.090627063Z"
+count = 2098
+last_updated = "2024-12-12T03:16:13.754977245Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=6KifWUzVKfj1D7IOI0fKbg"
+title = "ヴァルプルギスの夜"
+artist = "すっかりBPM200以下の曲を作れない体に改造されてしまった哀れなかぼちゃを見るがいい"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=IDHMGfhuioJklHk0hnkjJw"
+title = "Guinevere～白き妖精～"
+artist = "ぺのれり"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=l7447UJIUIJ0m-KgFBkI1A"
+title = "細氷"
+artist = "かねこちはる"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=WoL6iPBfH0KqJj5VRXQkwA"
+title = "X1GNUS"
+artist = "BlackY"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=2DFQ5fZSiJk5TVb3kfs8jQ"
+title = "Never Forget Evergreen"
+artist = "黒魔"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=dqe6EUmvE3rq4gldTT_TCg"
+title = "Nebula Dysorder"
+artist = "かめりあ"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=8VeaXlDVpIrvH8ZwZO7RMQ"
+title = "For All The Challengers"
+artist = "cosMo＠暴走P"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=LNSHjEusXbzRH6imHS__gg"
+title = "Little Red Riding Hood"
+artist = "RoughSketch"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=nWpwj5ijQyB8eSmMexlwbQ"
+title = "while (screen is blue)"
+artist = "kamome sano"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=V5BIavWKa7KxBCYHAYBI4Q"
