@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1310
-last_updated = "2024-12-06T03:15:28.531436576Z"
+count = 1311
+last_updated = "2024-12-12T03:16:00.900207165Z"
 
 [[songs]]
 id = "981"
@@ -21802,7 +21802,7 @@ image = "57a1f926723b132f.png"
 category = "ゲーム＆バラエティ"
 version = "25007"
 release = "2024-12-06"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -21810,6 +21810,24 @@ basic = "6"
 advanced = "8"
 expert = "11+"
 master = "14"
+
+[[songs]]
+id = "4"
+title = "On your mark (104期 Ver.)"
+title_reading = "ONYOURMARK104キVER"
+artist = "蓮ノ空女学院スクールアイドルクラブ"
+image = "9257bd776ceabcfe.png"
+category = "POPS＆アニメ"
+version = "25008"
+release = "2024-12-12"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
 
 [[songs]]
 id = "106"
@@ -21820,7 +21838,7 @@ image = "3a6c5504f3f68c11.png"
 category = "niconico＆ボーカロイド"
 version = "25007"
 release = "2024-12-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21838,7 +21856,7 @@ image = "7fc9d2db1826507b.png"
 category = "niconico＆ボーカロイド"
 version = "25007"
 release = "2024-12-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21856,7 +21874,7 @@ image = "f99ee802d1590feb.png"
 category = "niconico＆ボーカロイド"
 version = "25007"
 release = "2024-12-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21874,7 +21892,7 @@ image = "a9dee04030e6eedd.png"
 category = "niconico＆ボーカロイド"
 version = "25007"
 release = "2024-12-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21892,7 +21910,7 @@ image = "6dc9f632ed4791fa.png"
 category = "niconico＆ボーカロイド"
 version = "25007"
 release = "2024-12-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
