@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 927
-last_updated = "2024-11-28T03:14:29.937429649Z"
+count = 930
+last_updated = "2024-12-12T03:16:01.082184533Z"
 
 [[songs]]
 id = "583100"
@@ -26968,7 +26968,7 @@ title_reading = "キミヨ"
 artist = "La prière(棗いつき、藍月なくる、nayuta)"
 date = "2024-11-28"
 image = "f85ab4da2b34d644.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "(C) 2019-2023 La prière All Rights Reserved."
@@ -26998,7 +26998,7 @@ title_reading = "コイノイリユシヨニスタ"
 artist = "La prière(棗いつき、藍月なくる、nayuta)"
 date = "2024-11-28"
 image = "04146e73132ff7fd.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "(C) 2019-2023 La prière All Rights Reserved."
@@ -27020,6 +27020,94 @@ master = "13+"
 [songs.character]
 id = "7820"
 name = "La prière"
+
+[[songs]]
+id = "168800"
+title = "On your mark (104期 Ver.)"
+title_reading = "ONYOURMARK104キVER"
+artist = "蓮ノ空女学院スクールアイドルクラブ"
+date = "2024-12-12"
+image = "ab0da6af5eac1020.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©プロジェクトラブライブ！蓮ノ空女学院スクールアイドルクラブ"
+
+[songs.chapter]
+id = "99114"
+name = "Link！Like！ラブライブ！"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "8+"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "7830"
+name = "日野下 花帆"
+
+[[songs]]
+id = "577200"
+title = "Megameteor"
+title_reading = "MEGAMETEOR"
+artist = "削除"
+date = "2024-12-12"
+image = "13da5dd6b8948809.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "1120"
+name = "逢坂 茜"
+
+[[songs]]
+id = "577300"
+title = "#狂った民族2 PRAVARGYAZOOQA"
+title_reading = "クルツタミンソク2PRAVARGYAZOOQA"
+artist = "DJ Raisei"
+date = "2024-12-12"
+image = "003ba14291430ad5.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "1020"
+name = "藤沢 柚子"
 
 [[categories]]
 id = "06"
