@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 235
-last_updated = "2024-12-12T03:16:00.867305823Z"
+count = 240
+last_updated = "2024-12-18T03:10:52.702375124Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -4030,6 +4030,87 @@ influence = 12
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "056012a74b20d1230da1f2ac8bb905cb"
+title = "Help me, ERINNNNNN!!"
+artist = "ビートまりお"
+license = "Licensed by COOL&CREATE"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "b57924b192e785abb2a66a92746f5b55"
+title = "ちくわパフェだよ☆ＣＫＰ (Yvya Remix)"
+artist = 'Remixed by BEMANI Sound Team "Yvya"'
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "cc424855ef4bab0f0d18e77b64503529"
+title = "ミラクル・スイート・スイーツ・マジック！！"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 11
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "5035613a616c0327ca4a58a22ed1b4e5"
+title = "恋とキングコング"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "532f4123ed447705a987137396305615"
+title = "ぽかぽかレトロード"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
