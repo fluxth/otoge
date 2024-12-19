@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1473
-last_updated = "2024-12-12T03:16:00.529534822Z"
+count = 1477
+last_updated = "2024-12-19T03:11:31.217056228Z"
 
 [[songs]]
 id = "2806"
@@ -9,7 +9,7 @@ title_reading = "CAMPUSMODE"
 artist = "歌：初星学園 作詞作曲：田淵智也 編曲：滝澤俊輔（TRYTONELABO）「学園アイドルマスター」"
 image = "5898896ac4571dab.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "FIGHTINGMYWAY"
 artist = "歌：花海咲季 (CV. 長月あおい) 作詞：HIROMI　作曲・編曲：Giga「学園アイドルマスター」"
 image = "48c6c4aaf20b9530.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -39,7 +39,7 @@ title_reading = "ONYOURMARK104キVER"
 artist = "蓮ノ空女学院スクールアイドルクラブ「Link！Like！ラブライブ！」"
 image = "3b9d058936b771f9.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -55,7 +55,7 @@ title_reading = "ケンヨウヤコウ104キVER"
 artist = "スリーズブーケ[日野下花帆(CV.楡井希実)、乙宗 梢(CV.花宮初奈)、百生吟子(CV.櫻井陽菜)]「Link！Like！ラブライブ！」"
 image = "85cb7999a4f2631b.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -70,7 +70,7 @@ title_reading = "KNOT104キVER"
 artist = "DOLLCHESTRA[村野さやか(CV.野中ここな)、夕霧綴理(CV.佐々木琴子)、徒町小鈴(CV.葉山風花)]「Link！Like！ラブライブ！」"
 image = "20ad76132040ae31.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -85,7 +85,7 @@ title_reading = "アイテンテイテイ104キNEWVER"
 artist = "みらくらぱーく！[大沢瑠璃乃(CV.菅 叶和)、藤島 慈(CV.月音こな)、安養寺姫芽(CV.来栖りん)]「Link！Like！ラブライブ！」"
 image = "054b9229a4aa0611.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -100,7 +100,7 @@ title_reading = "ハル"
 artist = "ヨルシカ"
 image = "83f11dae7ed803cd.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -116,7 +116,7 @@ title_reading = "ヒヒテハ"
 artist = "星街すいせい（ホロライブ）"
 image = "2f51ff590b2f98e1.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -132,7 +132,7 @@ title_reading = "アイハイタンスホウル"
 artist = "HIMEHINA"
 image = "28e9ecbeccb5e1d6.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -148,7 +148,7 @@ title_reading = "VERSE"
 artist = "KMNZ"
 image = "934d287a1ae49652.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2074,7 +2074,7 @@ title_reading = "メスマライサウ"
 artist = "サツキ feat.初音ミク・重音テト"
 image = "592a393eb91e4f0b.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2090,7 +2090,7 @@ title_reading = "セツタイテキタイメチヤキライヤウ"
 artist = "メドミア"
 image = "04d5bed802a6945e.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2105,7 +2105,7 @@ title_reading = "スキナソウサイハツヒヨウトラコン"
 artist = "ンバヂ"
 image = "9f70d1bf6bd0a00b.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -6142,7 +6142,7 @@ title_reading = "ウチヨウテントリウマウス"
 artist = "森羅万象"
 image = "6fc88f1824024028.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9166,6 +9166,66 @@ expert = "12"
 master = "14+"
 
 [[songs]]
+id = "2693"
+title = "inkar-usi"
+title_reading = "INKARUSI"
+artist = "DIA「Arcaea」"
+image = "ef298f7a5b7a0ce7.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "1"
+advanced = "5"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "2694"
+title = "Tie me down gently"
+title_reading = "TIEMEDOWNGENTLY"
+artist = "溝口ゆうま feat. 大瀬良あい「Arcaea」"
+image = "9a1ab6df95077943.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "14"
+
+[[songs]]
+id = "2695"
+title = "Ringed Genesis"
+title_reading = "RINGEDGENESIS"
+artist = "Edelritter「Arcaea」"
+image = "8cdd0962d08e61bc.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "14"
+
+[[songs]]
+id = "2696"
+title = "Tempestissimo"
+title_reading = "TEMPESTISSIMO"
+artist = "t+pazolite「Arcaea」"
+image = "51028f5e0191f2ea.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "13+"
+master = "15"
+
+[[songs]]
 id = "2036"
 title = "CHAOS"
 title_reading = "CHAOS"
@@ -9369,7 +9429,7 @@ title_reading = "IGALLTA"
 artist = "Se-U-Ra「Phigros」"
 image = "fbe22cdd47ec9506.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -9849,7 +9909,7 @@ title_reading = "SYNTHESIS"
 artist = "tn-shi"
 image = "da4e8c46a81f0717.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11613,7 +11673,7 @@ title_reading = "CHRONOMIA"
 artist = "Lime"
 image = "92581b7618cb1ab0.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -12020,7 +12080,7 @@ title_reading = "カモンコウ"
 artist = "HaNaMiNa"
 image = "87550ff2340fbd84.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -14245,7 +14305,7 @@ title_reading = "キミツアウ"
 artist = "水野健治"
 image = "dbc4ac0865a07923.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -14950,7 +15010,7 @@ title_reading = "イルミネウシヨン"
 artist = "曲：央海加亥／歌：柏木 咲姫(CV：石見 舞菜香)"
 image = "3287c5d80bb0e997.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -15550,7 +15610,7 @@ title_reading = "AIC"
 artist = "Feryquitous"
 image = "50b5fbd450866d1d.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21158,13 +21218,14 @@ title_reading = "THEATORECREATORE"
 artist = "Toby Fox & かめりあ"
 image = "49afe239be6b0c81.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
 advanced = "9+"
 expert = "12+"
 master = "14"
+ultima = "15"
 
 [[songs]]
 id = "2706"
@@ -21173,7 +21234,7 @@ title_reading = "トリウムケツチヤウ"
 artist = "OUTLOUD feat.NG。"
 image = "b15ec26193141c51.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21188,7 +21249,7 @@ title_reading = "ラフリウシヤツシメント"
 artist = "いるかアイス feat.ちょこ"
 image = "e59060e718efccc0.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -21203,7 +21264,7 @@ title_reading = "ホウソウミラクルテンタクル"
 artist = "MOSAIC.WAV"
 image = "9cff5c14403b2d3f.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21218,7 +21279,7 @@ title_reading = "CRYSTALIZE"
 artist = "Lime"
 image = "0395449fb020de6e.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21233,7 +21294,7 @@ title_reading = "ORACLE"
 artist = "DJ Noriken"
 image = "52e36b11c7a96506.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21248,7 +21309,7 @@ title_reading = "THEDEVILINCARNATE"
 artist = "Laur"
 image = "8107fe2c084dff32.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -21263,7 +21324,7 @@ title_reading = "メツチユウオウタ"
 artist = "STEAKA feat.山田じぇみ子"
 image = "b94fbe07d3be13b2.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21278,7 +21339,7 @@ title_reading = "シンクルヘル"
 artist = "SEGA Sound Unit[H.]"
 image = "4dc56b2043c33fce.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "改"
@@ -21291,7 +21352,7 @@ title_reading = "ハナトユキトトラムンヘウス"
 artist = "kanone feat. せんざい"
 image = "59c87fe70c1afc2a.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "撃"
@@ -21304,7 +21365,7 @@ title_reading = "EVERGREENNEVEREND"
 artist = "月鈴 白奈(CV:高野 麻里佳)"
 image = "1398c296ce9d34f8.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "翔"
