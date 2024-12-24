@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 244
-last_updated = "2024-12-20T03:06:29.004937299Z"
+count = 246
+last_updated = "2024-12-24T03:06:12.744118843Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -4168,6 +4168,40 @@ id = "a35aea1f35102bf5122517d61e0d9be8"
 title = "ULTRA SYNERGY MATRIX"
 artist = "Tanchiky"
 license = "Licensed by Tanchiky、Licensed by からめる"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "a8f006b139e53d38504e610982a69d38"
+title = "HYPER LOVE"
+artist = "EmoCosine"
+license = "Licensed by Emoism Records"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "b532851ef6bb3a58146d2af4c89f1714"
+title = "Two♡Hearts"
+artist = "Tatsunoshin x 藍良あれれ"
+license = "Licensed by GALSTYLEZ"
 
 [songs.levels]
 easy = 3
