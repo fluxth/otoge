@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1313
-last_updated = "2024-12-20T03:06:29.157141006Z"
+count = 1316
+last_updated = "2024-12-24T03:06:12.703044830Z"
 
 [[songs]]
 id = "985"
@@ -21347,7 +21347,7 @@ image = "d859c7c05f6b756a.png"
 category = "maimai"
 version = "25009"
 release = "2024-12-20"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21365,7 +21365,7 @@ image = "c93267acca762322.png"
 category = "maimai"
 version = "25009"
 release = "2024-12-20"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21373,6 +21373,24 @@ basic = "3"
 advanced = "6"
 expert = "11"
 master = "13"
+
+[[songs]]
+id = "827"
+title = "有明/Ariake"
+title_reading = "アリアケARIAKE"
+artist = "SIINCA"
+image = "2e4769fb4445584c.png"
+category = "maimai"
+version = "25009"
+release = "2024-12-20"
+is_new = false
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "12"
+master = "14"
 
 [[songs]]
 id = "1194"
@@ -21864,6 +21882,24 @@ basic = "3"
 advanced = "6"
 expert = "9"
 master = "12+"
+
+[[songs]]
+id = "595"
+title = "はげしこの夜 -Psylent Crazy Night-"
+title_reading = "ハケシコノヨルPSYLENTCRAZYNIGHT"
+artist = "aran & Kobaryo"
+image = "daaa34a941775307.png"
+category = "ゲーム＆バラエティ"
+version = "25010"
+release = "2024-12-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11+"
+master = "13+"
 
 [[songs]]
 id = "106"
@@ -22567,6 +22603,23 @@ is_locked = false
 level = "13?"
 kanji = "奏"
 comment = "アンビバレンスな私なの"
+
+[[songs]]
+id = "1320"
+title = "[爆]Love's Theme of BADASS ～バッド・アス 愛のテーマ～"
+title_reading = "LOVESTHEMEOFBADASSハツトアスアイノテエマ"
+artist = "Hommarju"
+image = "fd30be82f708758f.png"
+category = "宴会場"
+version = "25009"
+release = "2024-12-24"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14?"
+kanji = "爆"
+comment = "爆発は好きか！？"
 
 [[songs]]
 id = "1330"
