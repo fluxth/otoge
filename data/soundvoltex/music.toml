@@ -1,6 +1,81 @@
 name = "soundvoltex"
-count = 2098
-last_updated = "2024-12-12T03:16:13.754977245Z"
+count = 2103
+last_updated = "2024-12-25T03:04:54.773436443Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=iippJc2vy8_NYE7I5SSIDQ"
+title = "一水山風"
+artist = "Enterskip"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=1sxhUnVuyPaz0DubIKydUA"
+title = "Superstar!"
+artist = "Tatsunoshin"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=rJoAfVZJTVQSW5yABf7UKQ"
+title = "永久の粒虹"
+artist = "Yu-dachi"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=44sMjLpeg3C-qSgKdfW3Ug"
+title = "鳳凰誓歌"
+artist = "流星のサイトシーイング feat.雪希"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=msQYuLOziz2wslQL9fpkbA"
+title = "Lunatic Mare"
+artist = "Alkome"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=6KifWUzVKfj1D7IOI0fKbg"

@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 246
-last_updated = "2024-12-24T03:06:12.744118843Z"
+count = 250
+last_updated = "2024-12-25T03:04:43.503192240Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -4213,6 +4213,74 @@ influence = 12
 bitflag = 5
 slug = "variety"
 name = "バラエティ"
+
+[[songs]]
+id = "f36955300265135e4021c9001f2d0f62"
+title = "おにけもだんす"
+artist = "いろはにほへっと あやふぶみ"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "33dd8015e79badd964fb1324231e62fd"
+title = "なかま歌"
+artist = "不知火建設"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "fd57936d0c6b1fa4449d0bc3f2aeddbc"
+title = "イケ贄"
+artist = "さくらみこ"
+license = "Licensed by COVER Corp."
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "56b5682f8c58d175e290d0da4620a08f"
+title = "寝起きヤシの木"
+artist = "Yukopi"
+license = "Licensend by ゆこぴ, 小津, 歌愛ユキ ©AHS Co. Ltd."
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1
