@@ -22,7 +22,7 @@ jobs:
         run: cargo version
 
       - name: Cache rust artifacts
-        uses: Swatinem/rust-cache@82a92a6e8fbeee089604da2575dc567ae9ddeaab # v2.7.5
+        uses: Swatinem/rust-cache@720f7e45ccee46c12a7b1d7bed2ab733be9be5a1 # v2.7.6
         with:
           shared-key: build
           save-if: ${{ github.ref == 'refs/heads/main' }}
