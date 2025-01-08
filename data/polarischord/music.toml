@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 250
-last_updated = "2024-12-25T03:04:43.503192240Z"
+count = 253
+last_updated = "2025-01-08T03:05:59.305256848Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -4281,6 +4281,57 @@ influence = 11
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "9a8f046427f0a9d1d8362900ca190b99"
+title = "恋繋エピローグ"
+artist = "Amateras Records feat. KUMI(ヲタみん)"
+license = "Licensed by Amateras Records"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 10
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "3fefa9efc8d3111f9b18c17b155b2cf6"
+title = "Dystopia"
+artist = "DiGiTAL WiNG feat. 花たん"
+license = "Licensed by DiGiTAL WiNG"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "96d4108a881cc90d9346d625b491a1ec"
+title = "crescent moon"
+artist = "FELT"
+license = "Licensed by FELT"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
 
 [[categories]]
 bitflag = 1
