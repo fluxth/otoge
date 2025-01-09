@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 933
-last_updated = "2024-12-27T03:05:39.249304765Z"
+count = 940
+last_updated = "2025-01-09T03:18:20.153467373Z"
 
 [[songs]]
 id = "583100"
@@ -27116,7 +27116,7 @@ title_reading = "コトクノハテ"
 artist = "光収容"
 date = "2024-12-26"
 image = "4de644c19d6fc9ee.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
@@ -27146,7 +27146,7 @@ title_reading = "ヨモスカラキミオモフ"
 artist = "TOKOTOKO（西沢さんP）"
 date = "2024-12-26"
 image = "0e41c0efaed166fd.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©TOKOTOKO（西沢さんP）"
@@ -27176,7 +27176,7 @@ title_reading = "センホンサクラ"
 artist = "黒うさP"
 date = "2024-12-26"
 image = "ab99060aed1ba94e.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 
@@ -27194,6 +27194,212 @@ lunatic = "13+"
 [songs.character]
 id = "1060"
 name = "藍原 椿"
+
+[[songs]]
+id = "168500"
+title = "アリアの最強しもべ計画♡"
+title_reading = "アリアノサイキヨウシモヘケイカク"
+artist = "月紫アリア"
+date = "2025-01-09"
+image = "5c1df6ad2a5d761c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©2025 mikai Inc."
+
+[songs.chapter]
+id = "99115"
+name = "Re:AcT"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "7950"
+name = "月紫アリア"
+
+[[songs]]
+id = "168700"
+title = "Re:StarT (2023ver.)"
+title_reading = "RESTART2023VER"
+artist = "Re:AcT"
+date = "2025-01-09"
+image = "7f9efa359ca6f269.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©2025 mikai Inc."
+
+[songs.chapter]
+id = "99115"
+name = "Re:AcT"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[songs.character]
+id = "7920"
+name = "獅子神レオナ"
+
+[[songs]]
+id = "168600"
+title = "Mornin’Bell"
+title_reading = "MORNINBELL"
+artist = "稀羽すう"
+date = "2025-01-09"
+image = "374d82ad5432e3af.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©2025 mikai Inc."
+
+[songs.chapter]
+id = "99115"
+name = "Re:AcT"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "1"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[songs.character]
+id = "7960"
+name = "稀羽すう"
+
+[[songs]]
+id = "577100"
+title = "群青シグナル"
+title_reading = "クンシヨウシクナル"
+artist = "テヅカ feat. 獅子神レオナ"
+date = "2025-01-09"
+image = "0cde1a004c8238ac.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "99115"
+name = "Re:AcT"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "11"
+master = "14"
+
+[songs.character]
+id = "7920"
+name = "獅子神レオナ"
+
+[[songs]]
+id = "716400"
+title = "MAKING！ハイタッチ！ -星咲 あかりソロver.-"
+title_reading = "MAKINGハイタツチホシサキアカリソロVER"
+artist = "曲：山本恭平（Arte Refact）／歌：星咲 あかり(CV：赤尾 ひかる)"
+date = "2025-01-09"
+image = "ff5ae59d407529c7.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "03081"
+name = "海の家で一番美味しいアレ"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "9"
+master = "13"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
+
+[[songs]]
+id = "716500"
+title = "MAKING！ハイタッチ！ -桜井 春菜ソロver.-"
+title_reading = "MAKINGハイタツチサクライハルナソロVER"
+artist = "曲：山本恭平（Arte Refact）／歌：桜井 春菜(CV：近藤 玲奈)"
+date = "2025-01-09"
+image = "5caef792df45902f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "03081"
+name = "海の家で一番美味しいアレ"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "9"
+master = "13"
+
+[songs.character]
+id = "1070"
+name = "桜井 春菜"
+
+[[songs]]
+id = "716600"
+title = "MAKING！ハイタッチ！ -逢坂 茜ソロver.-"
+title_reading = "MAKINGハイタツチオウサカアカネソロVER"
+artist = "曲：山本恭平（Arte Refact）／歌：逢坂 茜(CV：大空 直美)"
+date = "2025-01-09"
+image = "cd959b51d06fdcb1.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "03081"
+name = "海の家で一番美味しいアレ"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "9"
+master = "13"
+
+[songs.character]
+id = "1120"
+name = "逢坂 茜"
 
 [[categories]]
 id = "06"
