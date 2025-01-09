@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2103
-last_updated = "2024-12-25T03:04:54.773436443Z"
+count = 2107
+last_updated = "2025-01-09T03:18:29.123083173Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=4eR4-V00bletp0RXA_v_dA"
+title = "強風オールバック"
+artist = "Yukopi"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "1"
+advanced = "9"
+exhaust = "13"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=MTlmqvKQV2ZbWzszBx6LCg"
+title = "テトリス"
+artist = "柊マグネタイト"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=yaZcUSzlpFr2eB8L4oRrjg"
+title = "人マニア"
+artist = "原口沙輔"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "2"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=UXBHOF2FwaIwt-KxN-dQVg"
+title = "メズマライザー"
+artist = "サツキ"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "3"
+advanced = "12"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=iippJc2vy8_NYE7I5SSIDQ"

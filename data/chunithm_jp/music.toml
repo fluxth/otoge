@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1477
-last_updated = "2024-12-19T03:11:31.217056228Z"
+count = 1482
+last_updated = "2025-01-09T03:18:19.996207802Z"
 
 [[songs]]
 id = "2806"
@@ -2066,6 +2066,51 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "15"
+
+[[songs]]
+id = "2735"
+title = "あいのうた"
+title_reading = "アイノウタ"
+artist = "大漠波新"
+image = "04f5fbb6daf6557b.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2736"
+title = "夜もすがら君想ふ (10th Anniv.)"
+title_reading = "ヨモスカラキミオモフ10THANNIV"
+artist = "TOKOTOKO（西沢さんP）"
+image = "f35c683e83322581.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "2737"
+title = "ジェヘナ"
+title_reading = "シエヘナ"
+artist = "wotaku"
+image = "b8f84161d82f18d6.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "14"
 
 [[songs]]
 id = "2689"
@@ -9172,7 +9217,7 @@ title_reading = "INKARUSI"
 artist = "DIA「Arcaea」"
 image = "ef298f7a5b7a0ce7.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "1"
@@ -9187,7 +9232,7 @@ title_reading = "TIEMEDOWNGENTLY"
 artist = "溝口ゆうま feat. 大瀬良あい「Arcaea」"
 image = "9a1ab6df95077943.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9202,7 +9247,7 @@ title_reading = "RINGEDGENESIS"
 artist = "Edelritter「Arcaea」"
 image = "8cdd0962d08e61bc.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9217,7 +9262,7 @@ title_reading = "TEMPESTISSIMO"
 artist = "t+pazolite「Arcaea」"
 image = "51028f5e0191f2ea.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -10322,6 +10367,21 @@ basic = "3"
 advanced = "6"
 expert = "11"
 master = "13+"
+
+[[songs]]
+id = "2793"
+title = "Not On The Sidelines - Street Fighter 6 Main Theme"
+title_reading = "NOTONTHESIDELINESSTREETFIGHTER6MAINTHEME"
+artist = "Rocco808,Randy Marx,GRP,寺山善也「ストリートファイター6」"
+image = "9bff0f455b7b1ba1.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "901"
@@ -17160,6 +17220,7 @@ basic = "4"
 advanced = "7+"
 expert = "12"
 master = "14"
+ultima = "14+"
 
 [[songs]]
 id = "441"
@@ -21330,6 +21391,21 @@ is_new = false
 basic = "3"
 advanced = "6"
 expert = "11+"
+master = "14"
+
+[[songs]]
+id = "2722"
+title = "激烈!!!!ファミレスガールは帰しま1000!!!!"
+title_reading = "ケキレツフアミレスカウルハカエシマ1000"
+artist = "南ノ南 feat.9Lana"
+image = "51eef3deb8f107e2.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "13"
 master = "14"
 
 [[songs]]
