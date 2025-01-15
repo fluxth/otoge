@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 253
-last_updated = "2025-01-08T03:05:59.305256848Z"
+count = 255
+last_updated = "2025-01-15T03:02:54.051953222Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -4332,6 +4332,40 @@ influence = 12
 bitflag = 4
 slug = "touhou"
 name = "東方"
+
+[[songs]]
+id = "376c43ae157352e73d572ca4b94b04c4"
+title = "Bad ∞ End ∞ Night"
+artist = "ひとしずく×やま△"
+license = "Licensed by ひとしずく×やま△"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "88155df43cbcb2a796509edee4fcdba3"
+title = "クノイチでも恋がしたい"
+artist = "みきとP"
+license = "Licensed by みきとP"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1
