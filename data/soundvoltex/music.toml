@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2107
-last_updated = "2025-01-09T03:18:29.123083173Z"
+count = 2111
+last_updated = "2025-01-23T03:03:17.493559099Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=C-enQUBFAPRJv0Fqr-GTrw"
+title = "C18H27NO3(ryhki remix)"
+artist = "ryhki"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=L8sY1clwisW9Arxo9zNYxg"
+title = "Crack Traxxxx (108x3 BPM Remix)"
+artist = "RoughSketch"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=vqneIbLfFkl8g7QXgFSsvg"
+title = "大宇宙ステージ奈落変"
+artist = "めと（Metomate）"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=d-WgS5malr0DMuKmwKpCeg"
+title = 'Profession (αirlemoneX "Mechanical Engineering" Remix)'
+artist = "αirlemoneX"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=4eR4-V00bletp0RXA_v_dA"

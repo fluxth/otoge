@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 940
-last_updated = "2025-01-09T03:18:20.153467373Z"
+count = 942
+last_updated = "2025-01-23T03:03:06.043755569Z"
 
 [[songs]]
 id = "583100"
@@ -27202,7 +27202,7 @@ title_reading = "アリアノサイキヨウシモヘケイカク"
 artist = "月紫アリア"
 date = "2025-01-09"
 image = "5c1df6ad2a5d761c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©2025 mikai Inc."
@@ -27232,7 +27232,7 @@ title_reading = "RESTART2023VER"
 artist = "Re:AcT"
 date = "2025-01-09"
 image = "7f9efa359ca6f269.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©2025 mikai Inc."
@@ -27262,7 +27262,7 @@ title_reading = "MORNINBELL"
 artist = "稀羽すう"
 date = "2025-01-09"
 image = "374d82ad5432e3af.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©2025 mikai Inc."
@@ -27292,7 +27292,7 @@ title_reading = "クンシヨウシクナル"
 artist = "テヅカ feat. 獅子神レオナ"
 date = "2025-01-09"
 image = "0cde1a004c8238ac.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -27321,7 +27321,7 @@ title_reading = "MAKINGハイタツチホシサキアカリソロVER"
 artist = "曲：山本恭平（Arte Refact）／歌：星咲 あかり(CV：赤尾 ひかる)"
 date = "2025-01-09"
 image = "ff5ae59d407529c7.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -27350,7 +27350,7 @@ title_reading = "MAKINGハイタツチサクライハルナソロVER"
 artist = "曲：山本恭平（Arte Refact）／歌：桜井 春菜(CV：近藤 玲奈)"
 date = "2025-01-09"
 image = "5caef792df45902f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -27379,7 +27379,7 @@ title_reading = "MAKINGハイタツチオウサカアカネソロVER"
 artist = "曲：山本恭平（Arte Refact）／歌：逢坂 茜(CV：大空 直美)"
 date = "2025-01-09"
 image = "cd959b51d06fdcb1.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -27400,6 +27400,64 @@ master = "13"
 [songs.character]
 id = "1120"
 name = "逢坂 茜"
+
+[[songs]]
+id = "667600"
+title = ".locusignore"
+title_reading = "LOCUSIGNORE"
+artist = "q/stol"
+date = "2025-01-23"
+image = "8b542ed4e0031d46.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80041"
+name = "Primera Fes. ～Arabian Nights Stage～"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "9+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1060"
+name = "藍原 椿"
+
+[[songs]]
+id = "667700"
+title = "Rhythm of Love"
+title_reading = "RHYTHMOFLOVE"
+artist = "DÉ DÉ MOUSE"
+date = "2025-01-23"
+image = "f475d1314bba48e8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80041"
+name = "Primera Fes. ～Arabian Nights Stage～"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "7+"
+expert = "11+"
+master = "13"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
 
 [[categories]]
 id = "06"
