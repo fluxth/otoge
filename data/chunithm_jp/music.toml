@@ -1,6 +1,21 @@
 name = "chunithm_jp"
-count = 1482
-last_updated = "2025-01-09T03:18:19.996207802Z"
+count = 1488
+last_updated = "2025-01-23T03:03:05.755070848Z"
+
+[[songs]]
+id = "2713"
+title = "ジョハリ"
+title_reading = "シヨハリ"
+artist = "Nornis"
+image = "32272dfec7b97915.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "13"
 
 [[songs]]
 id = "2806"
@@ -2074,7 +2089,7 @@ title_reading = "アイノウタ"
 artist = "大漠波新"
 image = "04f5fbb6daf6557b.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2089,7 +2104,7 @@ title_reading = "ヨモスカラキミオモフ10THANNIV"
 artist = "TOKOTOKO（西沢さんP）"
 image = "f35c683e83322581.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2104,7 +2119,7 @@ title_reading = "シエヘナ"
 artist = "wotaku"
 image = "b8f84161d82f18d6.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -8729,6 +8744,51 @@ expert = "13"
 master = "14+"
 
 [[songs]]
+id = "2796"
+title = "Black MInD"
+title_reading = "BLACKMIND"
+artist = "COSIO「グルーヴコースター」"
+image = "5deda2159afa10fd.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "12+"
+master = "14+"
+
+[[songs]]
+id = "2797"
+title = "It's a pit world"
+title_reading = "ITSAPITWORLD"
+artist = "Shohei Tsuchiya(ZUNTATA)「グルーヴコースター」"
+image = "152039f970a923a5.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "2798"
+title = "VOLT"
+title_reading = "VOLT"
+artist = "aran「グルーヴコースター」"
+image = "9586809bbe5c1191.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[[songs]]
 id = "2043"
 title = "DAZZLING♡SEASON"
 title_reading = "DAZZLINGSEASON"
@@ -10375,7 +10435,7 @@ title_reading = "NOTONTHESIDELINESSTREETFIGHTER6MAINTHEME"
 artist = "Rocco808,Randy Marx,GRP,寺山善也「ストリートファイター6」"
 image = "9bff0f455b7b1ba1.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11740,6 +11800,21 @@ basic = "4"
 advanced = "8"
 expert = "12+"
 master = "14+"
+
+[[songs]]
+id = "2799"
+title = "キミとボクへの葬送歌"
+title_reading = "キミトホクヘノソウソウカ"
+artist = "ROKINA"
+image = "59368e6c4eae14d2.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "13+"
+master = "15"
 
 [[songs]]
 id = "145"
@@ -15677,6 +15752,21 @@ basic = "3"
 advanced = "7"
 expert = "13"
 master = "14+"
+
+[[songs]]
+id = "2738"
+title = "Lostwizz"
+title_reading = "LOSTWIZZ"
+artist = "s-don"
+image = "98f2f3771e53b53b.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "12+"
+master = "14"
 
 [[songs]]
 id = "202"
@@ -21400,7 +21490,7 @@ title_reading = "ケキレツフアミレスカウルハカエシマ1000"
 artist = "南ノ南 feat.9Lana"
 image = "51eef3deb8f107e2.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
