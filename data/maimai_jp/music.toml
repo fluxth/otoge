@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1320
-last_updated = "2025-01-10T03:08:15.100502921Z"
+count = 1324
+last_updated = "2025-01-24T03:03:12.925438372Z"
 
 [[songs]]
 id = "993"
@@ -5499,7 +5499,8 @@ artist = "Ino(chronoize)"
 image = "f68e98cac90bcdf5.png"
 category = "maimai"
 version = "18014"
-is_new = false
+release = "2025-01-24"
+is_new = true
 is_locked = false
 
 [songs.levels]
@@ -5507,6 +5508,12 @@ basic = "5"
 advanced = "7+"
 expert = "12+"
 master = "13"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "13+"
 
 [[songs]]
 id = "1155"
@@ -21666,6 +21673,24 @@ expert = "10"
 master = "13"
 
 [[songs]]
+id = "6"
+title = "モンスターカミング"
+title_reading = "モンスタアカミンク"
+artist = "おめがシスターズ"
+image = "93893d49e89ce1f2.png"
+category = "POPS＆アニメ"
+version = "25012"
+release = "2025-01-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "11"
+master = "13"
+
+[[songs]]
 id = "447"
 title = "ゆけむり魂温泉 II"
 title_reading = "ユケムリタマオンセン2"
@@ -21856,7 +21881,7 @@ image = "770738c6708a2870.png"
 category = "ゲーム＆バラエティ"
 version = "25011"
 release = "2025-01-10"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21874,7 +21899,7 @@ image = "55c9897b6d540f73.png"
 category = "ゲーム＆バラエティ"
 version = "25011"
 release = "2025-01-10"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21892,7 +21917,7 @@ image = "34026b1095d9e996.png"
 category = "ゲーム＆バラエティ"
 version = "25011"
 release = "2025-01-10"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -21910,7 +21935,7 @@ image = "a5c6705e2bfa3419.png"
 category = "ゲーム＆バラエティ"
 version = "25011"
 release = "2025-01-10"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -22061,6 +22086,60 @@ is_locked = false
 basic = "4"
 advanced = "7+"
 expert = "10"
+master = "13+"
+
+[[songs]]
+id = "103"
+title = "ワールドワイドワンダー"
+title_reading = "ワアルトワイトワンタア"
+artist = "TOKOTOKO（西沢さんP）"
+image = "68edfc4c5724bd13.png"
+category = "niconico＆ボーカロイド"
+version = "25012"
+release = "2025-01-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "597"
+title = "MORNINGLOOM"
+title_reading = "MORNINGLOOM"
+artist = "saaa"
+image = "87188ddedc5496cf.png"
+category = "ゲーム＆バラエティ"
+version = "25012"
+release = "2025-01-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "598"
+title = "How To Make 音ゲ～曲！"
+title_reading = "HOWTOMAKEオトケエキヨク"
+artist = "F Rabbeat feat.マスタード"
+image = "f14e167e89e6ab22.png"
+category = "ゲーム＆バラエティ"
+version = "25012"
+release = "2025-01-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "12"
 master = "13+"
 
 [[songs]]
