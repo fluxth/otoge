@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 260
-last_updated = "2025-01-22T03:04:31.484376644Z"
+count = 261
+last_updated = "2025-01-29T03:02:59.174689403Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -4448,6 +4448,23 @@ influence = 11
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "653944a1f128cccc41a3a1c56e7c89f9"
+title = "のだ"
+artist = "大漠波新"
+license = "Licensed by 大漠波新，Licensed by Oda Kogane"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1
