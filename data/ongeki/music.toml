@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 942
-last_updated = "2025-01-23T03:03:06.043755569Z"
+count = 945
+last_updated = "2025-02-06T03:04:35.594588957Z"
 
 [[songs]]
 id = "583100"
@@ -27408,7 +27408,7 @@ title_reading = "LOCUSIGNORE"
 artist = "q/stol"
 date = "2025-01-23"
 image = "8b542ed4e0031d46.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -27437,7 +27437,7 @@ title_reading = "RHYTHMOFLOVE"
 artist = "DÉ DÉ MOUSE"
 date = "2025-01-23"
 image = "f475d1314bba48e8.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -27458,6 +27458,93 @@ master = "13"
 [songs.character]
 id = "1100"
 name = "柏木 咲姫"
+
+[[songs]]
+id = "168300"
+title = "get the regret over"
+title_reading = "GETTHEREGRETOVER"
+artist = "Shade feat.片霧烈火"
+date = "2025-02-06"
+image = "3091301d1e036214.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©ALICESOFT"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "1"
+advanced = "5"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "1110"
+name = "九條 楓"
+
+[[songs]]
+id = "168400"
+title = "幻想楼閣"
+title_reading = "ケンソウロウカク"
+artist = "橋本みゆき"
+date = "2025-02-06"
+image = "d4295f274f4b95cd.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Purple software"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "1"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "1160"
+name = "東雲 つむぎ"
+
+[[songs]]
+id = "985300"
+title = "レイル・ロマネスク ハチロクver."
+title_reading = "レイルロマネスクハチロクVER"
+artist = "ハチロク「まいてつ」"
+date = "2025-02-06"
+image = "9650a6877763e5dc.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+copyright = "©Lose"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+lunatic = "14"
+
+[songs.character]
+id = "1070"
+name = "桜井 春菜"
 
 [[categories]]
 id = "06"
