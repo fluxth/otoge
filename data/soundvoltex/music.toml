@@ -1,6 +1,81 @@
 name = "soundvoltex"
-count = 2111
-last_updated = "2025-01-23T03:03:17.493559099Z"
+count = 2116
+last_updated = "2025-02-06T03:04:47.253609729Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=85UynBqwYZB85D4eUfV5rg"
+title = "孤独のドロップハンター"
+artist = "otoshi.b×でか大×みゅい"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=TLUtxe5a0IIWXlLN04Xfsw"
+title = "ぼくらのはじまりのおと"
+artist = "Shiron+こふ×モリモリあつしと提供でお送りしました。"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=wptJfvrFFC16kSUsXGTU_A"
+title = "MiRÀi"
+artist = "#EmoCosine"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=WOOUIU6ij6wZHL8Hzi3p_Q"
+title = "Line markeR"
+artist = "打打だいず"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=jv-24rD-fGftG03HgmeQwg"
+title = "reSTART yOUR STORIES"
+artist = "setu-O"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=C-enQUBFAPRJv0Fqr-GTrw"
