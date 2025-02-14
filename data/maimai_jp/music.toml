@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1326
-last_updated = "2025-02-07T03:05:25.219451164Z"
+count = 1331
+last_updated = "2025-02-14T03:05:35.174575820Z"
 
 [[songs]]
 id = "996"
@@ -21408,7 +21408,7 @@ image = "59b521d1daa4e5c3.png"
 category = "オンゲキ＆CHUNITHM"
 version = "25013"
 release = "2025-02-07"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21426,7 +21426,7 @@ image = "65e8e9900bb9161f.png"
 category = "オンゲキ＆CHUNITHM"
 version = "25013"
 release = "2025-02-07"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -21444,7 +21444,7 @@ image = "fca868901b5bc94e.png"
 category = "オンゲキ＆CHUNITHM"
 version = "25013"
 release = "2025-02-07"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -21462,7 +21462,7 @@ image = "162fce5271b54ab3.png"
 category = "オンゲキ＆CHUNITHM"
 version = "25013"
 release = "2025-02-07"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -22125,6 +22125,60 @@ expert = "10"
 master = "13+"
 
 [[songs]]
+id = "597"
+title = "お願い！コンコンお稲荷さま"
+title_reading = "オネカイコンコンオイナリサマ"
+artist = "ARM×狐夢想 feat. ななひら"
+image = "a70ad05ed58abaaf.png"
+category = "ゲーム＆バラエティ"
+version = "25014"
+release = "2025-02-14"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "598"
+title = "いっぱい食べる君が好きだよ"
+title_reading = "イツハイタヘルキミカスキタヨ"
+artist = "ななひら"
+image = "99e85a1e3f0d8213.png"
+category = "ゲーム＆バラエティ"
+version = "25014"
+release = "2025-02-14"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "599"
+title = "ピポピポ -People People- feat. ななひら"
+title_reading = "ヒホヒホPEOPLEPEOPLEFEATナナヒラ"
+artist = "Neko Hacker"
+image = "9de079083677da5b.png"
+category = "ゲーム＆バラエティ"
+version = "25014"
+release = "2025-02-14"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "11"
+master = "13+"
+
+[[songs]]
 id = "103"
 title = "ワールドワイドワンダー"
 title_reading = "ワアルトワイトワンタア"
@@ -22724,6 +22778,23 @@ kanji = "光"
 comment = "BREaK! BREaK! BREaK! BREaK! BREaK! BREaK!"
 
 [[songs]]
+id = "1336"
+title = "[星]ほしぞらスペクタクル"
+title_reading = "ホシソラスヘクタクル"
+artist = "奏音"
+image = "3b610dccb2b32467.png"
+category = "宴会場"
+version = "25013"
+release = "2025-02-14"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14?"
+kanji = "星"
+comment = "ほしだけスペクタクル"
+
+[[songs]]
 id = "1355"
 title = "[奏]テレキャスタービーボーイ"
 title_reading = "テレキヤスタアヒイホオイ"
@@ -22773,6 +22844,23 @@ is_locked = false
 level = "13?"
 kanji = "奏"
 comment = "ライバル譜面"
+
+[[songs]]
+id = "1337"
+title = "[片]神々が恋した幻想郷"
+title_reading = "カミカミカコイシタケンソウキヨウ"
+artist = "Unlucky Morpheus"
+image = "1060b41523ca6346.png"
+category = "宴会場"
+version = "25013"
+release = "2025-02-14"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14?"
+kanji = "片"
+comment = "神々が恋したトリル郷"
 
 [[songs]]
 id = "1345"
