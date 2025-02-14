@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 2116
-last_updated = "2025-02-06T03:04:47.253609729Z"
+count = 2119
+last_updated = "2025-02-14T03:05:45.093842609Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ir1lXGtia5vytQDJt11_Fw"
+title = "じもとっこスイーツ♪"
+artist = "ホララ・ホリック with 日向美ビタースイーツ♪"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=WsHr540CVKaU3fmveUz3cw"
+title = "チョコレートスマイル"
+artist = "日向美ビタースイーツ♪ & ここなつ"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=C433-83Y4pnKoz2FKogJMQ"
+title = "ロマンシングエスケープ"
+artist = "ここなつ2.0"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "3"
+advanced = "9"
+exhaust = "13"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=85UynBqwYZB85D4eUfV5rg"

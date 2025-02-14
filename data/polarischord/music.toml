@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 261
-last_updated = "2025-01-29T03:02:59.174689403Z"
+count = 269
+last_updated = "2025-02-14T03:05:35.121181303Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -4465,6 +4465,134 @@ influence = 12
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "736113e709770a44f00c34e848979f81"
+title = "ヒミツダイヤル"
+artist = "ここなつ"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "55188fea4f44a030b59fdc564fcd9ca6"
+title = "ヒカリユリイカ"
+artist = "ここなつ"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+influence = 10
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "180b0b5c5f78dd12e94982d4811f54e0"
+title = "ムラサキグルマ"
+artist = "ここなつ Produced by はるなば"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "61cc8d6c55588e9f2b7ec0cc9ccb3a0b"
+title = "Finally Dive"
+artist = "ここなつ Produced by lapix"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "5520e56046ea8d3572eac80c6c3f50bb"
+title = "ロマンシングエスケープ"
+artist = "ここなつ2.0"
+
+[songs.levels]
+easy = 1
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "fb23f474b617fd0a82b08efdc88168c7"
+title = "滅びに至るエランプシス"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "28cf93cb4ef1c66084aa65763071cfb5"
+title = "3 A.M. ディテクティブ・ゲーム"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 1
+normal = 4
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "4dfa47819720989234333bb806360941"
+title = "黒髪乱れし修羅となりて ～凛 edition～"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
