@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 269
-last_updated = "2025-02-14T03:05:35.121181303Z"
+count = 270
+last_updated = "2025-02-19T03:06:42.778521121Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -4593,6 +4593,23 @@ influence = 12
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "ebd4a332222cc8f46263941e34309cb7"
+title = "雪の雫・雨の音"
+artist = "天遊 feat. 東京塔"
+license = "Licensed by Signal-E"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 7
+influence = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
 
 [[categories]]
 bitflag = 1
