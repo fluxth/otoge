@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2119
-last_updated = "2025-02-14T03:05:45.093842609Z"
+count = 2123
+last_updated = "2025-02-20T03:06:59.214048802Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=PD1jCVZCt3d3Q5-5ToxHAQ"
+title = "いいわけバニー"
+artist = "兎田ぺこら"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "2"
+advanced = "9"
+exhaust = "13"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qgeUR3lISmbXI0Z079YXYw"
+title = "最強女神†ウーサペコラ"
+artist = "兎田ぺこら"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=8BrOihn4qn38RWZ7CaHwQg"
+title = "全人類　兎化計画！"
+artist = "兎田ぺこら"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=FDJG9AD_hjAc61d0SoCEtg"
+title = "ララララビット！！"
+artist = "兎田ぺこら"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ir1lXGtia5vytQDJt11_Fw"

@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1493
-last_updated = "2025-02-06T03:04:35.138291541Z"
+count = 1501
+last_updated = "2025-02-20T03:06:49.018185616Z"
 
 [[songs]]
 id = "2713"
@@ -2081,6 +2081,81 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "15"
+
+[[songs]]
+id = "2810"
+title = "ありふれたせかいせいふく"
+title_reading = "アリフレタセカイセイフク"
+artist = "ピノキオピー"
+image = "cc57301c9746a36c.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9"
+master = "13+"
+
+[[songs]]
+id = "2811"
+title = "ノンブレス・オブリージュ"
+title_reading = "ノンフレスオフリウシユ"
+artist = "ピノキオピー"
+image = "df6fe4958f0657ed.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "14"
+
+[[songs]]
+id = "2812"
+title = "ももいろの鍵"
+title_reading = "モモイロノカキ"
+artist = "いよわ"
+image = "e2b26a8e3dd44942.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2813"
+title = "新人類"
+title_reading = "シンシンルイ"
+artist = "まらしぃ×じん×堀江晶太(kemu) feat.鏡音リン"
+image = "ce594cebf1622d9e.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "2814"
+title = "リアライズ"
+title_reading = "リアライス"
+artist = "柊マグネタイト"
+image = "47a13212d692a268.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "13"
 
 [[songs]]
 id = "2735"
@@ -6178,6 +6253,7 @@ basic = "3"
 advanced = "6"
 expert = "9+"
 master = "13+"
+ultima = "15"
 
 [[songs]]
 id = "83"
@@ -12290,7 +12366,7 @@ title_reading = "WEDONTNEEDTEARS"
 artist = "舞ヶ原シンセ研究会"
 image = "17767978b8467635.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21520,7 +21596,7 @@ title_reading = "カクセツFLAMEOFDETERMINATION"
 artist = "TERU FOX × Yukino feat. Iris"
 image = "1a880af79d83978f.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21535,7 +21611,7 @@ title_reading = "ケンシンPARADOXOFCHOICE"
 artist = "Jehezukiel × KURORAK (feat. HideKy)"
 image = "5ba179b634d14f5c.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -21550,7 +21626,7 @@ title_reading = "モウシユウFANTASIASONATAFLOWER"
 artist = "P3-Studio"
 image = "06fe37985815a597.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -21565,13 +21641,52 @@ title_reading = "クウキヨPYROPHILIA"
 artist = "Black Box × Spyro Kong"
 image = "4ce13595f1813193.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
 advanced = "7+"
 expert = "13"
 master = "14+"
+
+[[songs]]
+id = "8295"
+title = "カオスが極まる"
+title_reading = "カオスカキワマル"
+artist = "UNISON SQUARE GARDEN「ブルーロック」"
+image = "893eaf6ba8e6f9d8.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.worlds_end]
+kanji = "両"
+star = "1"
+
+[[songs]]
+id = "8296"
+title = "What's up? Pop!"
+title_reading = "WHATSUPPOP"
+artist = "Capchii"
+image = "b8625d505fd659d8.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "招"
+star = "7"
+
+[[songs]]
+id = "8297"
+title = "おくすり飲んで寝よう"
+title_reading = "オクスリノンテネヨウ"
+artist = "もちうつね"
+image = "45aaf1e10094703f.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "狂"
+star = "7"
 
 [[songs]]
 id = "8292"

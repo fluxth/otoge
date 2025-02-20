@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 945
-last_updated = "2025-02-06T03:04:35.594588957Z"
+count = 951
+last_updated = "2025-02-20T03:06:49.357303872Z"
 
 [[songs]]
 id = "583100"
@@ -27466,7 +27466,7 @@ title_reading = "GETTHEREGRETOVER"
 artist = "Shade feat.片霧烈火"
 date = "2025-02-06"
 image = "3091301d1e036214.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©ALICESOFT"
@@ -27496,7 +27496,7 @@ title_reading = "ケンソウロウカク"
 artist = "橋本みゆき"
 date = "2025-02-06"
 image = "d4295f274f4b95cd.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Purple software"
@@ -27526,7 +27526,7 @@ title_reading = "レイルロマネスクハチロクVER"
 artist = "ハチロク「まいてつ」"
 date = "2025-02-06"
 image = "9650a6877763e5dc.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 copyright = "©Lose"
@@ -27545,6 +27545,180 @@ lunatic = "14"
 [songs.character]
 id = "1070"
 name = "桜井 春菜"
+
+[[songs]]
+id = "480200"
+title = "DIE IN"
+title_reading = "DIEIN"
+artist = "TAK x Sobrem"
+date = "2025-02-20"
+image = "b902d0b0230a4535.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99116"
+name = "DJMAX"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "6"
+advanced = "10"
+expert = "13"
+master = "15"
+
+[songs.character]
+id = "7990"
+name = "エル・クレア"
+
+[[songs]]
+id = "480300"
+title = "OBLIVION"
+title_reading = "OBLIVION"
+artist = "ESTi"
+date = "2025-02-20"
+image = "9fe2c8a515a47d88.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99116"
+name = "DJMAX"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "2"
+advanced = "7+"
+expert = "11"
+master = "14"
+
+[songs.character]
+id = "7990"
+name = "エル・クレア"
+
+[[songs]]
+id = "480400"
+title = "U.A.D"
+title_reading = "UAD"
+artist = "HAYAKO"
+date = "2025-02-20"
+image = "2c476816ece54f23.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99116"
+name = "DJMAX"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "11+"
+master = "14"
+
+[songs.character]
+id = "7990"
+name = "エル・クレア"
+
+[[songs]]
+id = "480500"
+title = "I want You"
+title_reading = "IWANTYOU"
+artist = "Lin-G"
+date = "2025-02-20"
+image = "4d95d4d6963c984f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99116"
+name = "DJMAX"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10+"
+master = "13+"
+
+[songs.character]
+id = "7990"
+name = "エル・クレア"
+
+[[songs]]
+id = "945800"
+title = "DIE IN"
+title_reading = "DIEIN"
+artist = "TAK x Sobrem"
+date = "2025-02-20"
+image = "14b0a08cbb278918.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99116"
+name = "DJMAX"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+lunatic = "0"
+
+[songs.character]
+id = "7990"
+name = "エル・クレア"
+
+[[songs]]
+id = "945900"
+title = "OBLIVION"
+title_reading = "OBLIVION"
+artist = "ESTi"
+date = "2025-02-20"
+image = "6e4457eb81f1051a.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99116"
+name = "DJMAX"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+lunatic = "0"
+
+[songs.character]
+id = "7990"
+name = "エル・クレア"
 
 [[categories]]
 id = "06"
