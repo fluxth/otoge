@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 951
-last_updated = "2025-02-20T03:06:49.357303872Z"
+count = 952
+last_updated = "2025-02-27T03:08:20.639601880Z"
 
 [[songs]]
 id = "583100"
@@ -27553,7 +27553,7 @@ title_reading = "DIEIN"
 artist = "TAK x Sobrem"
 date = "2025-02-20"
 image = "b902d0b0230a4535.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -27583,7 +27583,7 @@ title_reading = "OBLIVION"
 artist = "ESTi"
 date = "2025-02-20"
 image = "9fe2c8a515a47d88.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -27613,7 +27613,7 @@ title_reading = "UAD"
 artist = "HAYAKO"
 date = "2025-02-20"
 image = "2c476816ece54f23.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -27643,7 +27643,7 @@ title_reading = "IWANTYOU"
 artist = "Lin-G"
 date = "2025-02-20"
 image = "4d95d4d6963c984f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -27673,7 +27673,7 @@ title_reading = "DIEIN"
 artist = "TAK x Sobrem"
 date = "2025-02-20"
 image = "14b0a08cbb278918.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -27700,7 +27700,7 @@ title_reading = "OBLIVION"
 artist = "ESTi"
 date = "2025-02-20"
 image = "6e4457eb81f1051a.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -27719,6 +27719,35 @@ lunatic = "0"
 [songs.character]
 id = "7990"
 name = "エル・クレア"
+
+[[songs]]
+id = "667300"
+title = "MY GLORY WANTED!!!"
+title_reading = "MYGLORYWANTED"
+artist = "曲：Kijibato／歌：R.B.P. [九條 楓(CV：佳村 はるか)、逢坂 茜(CV：大空 直美)、珠洲島 有栖(CV：長縄 まりあ)]"
+date = "2025-02-27"
+image = "81393b7be8c60e96.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "05001"
+name = "第5章"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "7"
+advanced = "11+"
+expert = "14"
+master = "15"
+
+[songs.character]
+id = "1120"
+name = "逢坂 茜"
 
 [[categories]]
 id = "06"

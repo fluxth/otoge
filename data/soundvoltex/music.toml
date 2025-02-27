@@ -1,6 +1,81 @@
 name = "soundvoltex"
-count = 2123
-last_updated = "2025-02-20T03:06:59.214048802Z"
+count = 2128
+last_updated = "2025-02-27T03:08:33.306703255Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ftEWgK56fGA-kpefPEItEw"
+title = "回想音楽 - Thank you for your playing music"
+artist = "deli.+駄々子"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Cux5Hhakqj6Jf488uDvMlw"
+title = "caramel ribbon (Tatsunoshin Remix)"
+artist = "Tatsunoshin"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=SrlICTCseqWqE1mJB8b-JA"
+title = "XROSS INFECTION -xiRemix-"
+artist = "xi"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=F9EG23PUcmRr9DHgqNiI2g"
+title = "The world of sound -celestial mix-"
+artist = "BlackY feat. Risa Yuzuki"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Gmmhap6xeHSmbAuYBrOaLQ"
+title = "Dynasty -dal segno-"
+artist = "Ashrount"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=PD1jCVZCt3d3Q5-5ToxHAQ"

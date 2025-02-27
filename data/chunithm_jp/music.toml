@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1501
-last_updated = "2025-02-20T03:06:49.018185616Z"
+count = 1502
+last_updated = "2025-02-27T03:08:20.498249868Z"
 
 [[songs]]
 id = "2713"
@@ -2089,7 +2089,7 @@ title_reading = "アリフレタセカイセイフク"
 artist = "ピノキオピー"
 image = "cc57301c9746a36c.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2104,7 +2104,7 @@ title_reading = "ノンフレスオフリウシユ"
 artist = "ピノキオピー"
 image = "df6fe4958f0657ed.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2119,7 +2119,7 @@ title_reading = "モモイロノカキ"
 artist = "いよわ"
 image = "e2b26a8e3dd44942.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2134,7 +2134,7 @@ title_reading = "シンシンルイ"
 artist = "まらしぃ×じん×堀江晶太(kemu) feat.鏡音リン"
 image = "ce594cebf1622d9e.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2149,7 +2149,7 @@ title_reading = "リアライス"
 artist = "柊マグネタイト"
 image = "47a13212d692a268.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -16070,6 +16070,21 @@ expert = "14"
 master = "15+"
 
 [[songs]]
+id = "2739"
+title = "Aether Crest: Celestial"
+title_reading = "AETHERCRESTCELESTIAL"
+artist = "void (Mournfinale) × 水野健治"
+image = "2d6eb4e70a8a5937.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "8+"
+expert = "14"
+master = "15+"
+
+[[songs]]
 id = "59"
 title = "Invitation"
 title_reading = "INVITATION"
@@ -21656,7 +21671,7 @@ title_reading = "カオスカキワマル"
 artist = "UNISON SQUARE GARDEN「ブルーロック」"
 image = "893eaf6ba8e6f9d8.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "両"
@@ -21669,7 +21684,7 @@ title_reading = "WHATSUPPOP"
 artist = "Capchii"
 image = "b8625d505fd659d8.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "招"
@@ -21682,7 +21697,7 @@ title_reading = "オクスリノンテネヨウ"
 artist = "もちうつね"
 image = "45aaf1e10094703f.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "狂"
