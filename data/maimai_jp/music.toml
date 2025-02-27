@@ -1,9 +1,9 @@
 name = "maimai_jp"
-count = 1331
-last_updated = "2025-02-14T03:05:35.174575820Z"
+count = 1335
+last_updated = "2025-02-27T03:08:20.608737024Z"
 
 [[songs]]
-id = "996"
+id = "1000"
 title = "True Love Song"
 title_reading = "TRUELOVESONG"
 artist = "Kai/クラシック「G線上のアリア」"
@@ -20,7 +20,7 @@ expert = "10"
 master = "12"
 
 [[songs]]
-id = "995"
+id = "999"
 title = "Color My World"
 title_reading = "COLORMYWORLD"
 artist = "GOSH/クラシック「悲愴」"
@@ -126,7 +126,7 @@ master = "11"
 remaster = "14"
 
 [[songs]]
-id = "993"
+id = "997"
 title = "Sweets×Sweets"
 title_reading = "SWEETSSWEETS"
 artist = "Team-D"
@@ -160,7 +160,7 @@ expert = "9"
 master = "11+"
 
 [[songs]]
-id = "1000"
+id = "1004"
 title = "ネコ日和。"
 title_reading = "ネコヒヨリ"
 artist = "Kai/能登有沙"
@@ -177,7 +177,7 @@ expert = "8+"
 master = "12+"
 
 [[songs]]
-id = "994"
+id = "998"
 title = "虹と太陽"
 title_reading = "ニシトタイヨウ"
 artist = "GOSH/manami"
@@ -194,7 +194,7 @@ expert = "11"
 master = "12+"
 
 [[songs]]
-id = "999"
+id = "1003"
 title = "炭★坑★節"
 title_reading = "タンコウフシ"
 artist = "Kai/光吉猛修"
@@ -354,7 +354,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "1002"
+id = "1006"
 title = "Endless World"
 title_reading = "ENDLESSWORLD"
 artist = "RYOHEI KOHNO/保立美和子"
@@ -495,7 +495,7 @@ expert = "9+"
 master = "12"
 
 [[songs]]
-id = "1005"
+id = "1009"
 title = "オレンジの夏"
 title_reading = "オレンシノナツ"
 artist = "Hiro/タクマロ"
@@ -512,7 +512,7 @@ expert = "10"
 master = "12"
 
 [[songs]]
-id = "1004"
+id = "1008"
 title = "BaBan!! －甘い罠－"
 title_reading = "BABANアマイワナ"
 artist = "Hiro/永江理奈"
@@ -529,7 +529,7 @@ expert = "12"
 master = "12"
 
 [[songs]]
-id = "1012"
+id = "1016"
 title = "ジングルベル"
 title_reading = "シンクルヘル"
 artist = "SEGA Sound Unit [H.]"
@@ -1003,7 +1003,7 @@ master = "13+"
 remaster = "13+"
 
 [[songs]]
-id = "1006"
+id = "1010"
 title = "ぴぴぱぷぅ！"
 title_reading = "ヒヒハフウ"
 artist = "Hiro/小山あかり"
@@ -1020,7 +1020,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1008"
+id = "1012"
 title = "炎歌 -ほむらうた-"
 title_reading = "ホムラウタ"
 artist = "Hiro/森山愛子"
@@ -1043,7 +1043,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "1001"
+id = "1005"
 title = "犬日和。"
 title_reading = "イヌヒヨリ"
 artist = "RYOHEI KOHNO/森綾香"
@@ -1060,7 +1060,7 @@ expert = "10"
 master = "12"
 
 [[songs]]
-id = "997"
+id = "1001"
 title = "ソーラン☆節"
 title_reading = "ソオランフシ"
 artist = "光吉猛修"
@@ -1174,7 +1174,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "945"
+id = "949"
 title = "FEEL ALIVE"
 title_reading = "FEELALIVE"
 artist = "ELEMENTAS feat. NAGISA"
@@ -1191,7 +1191,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1149"
+id = "1153"
 title = "Link"
 title_reading = "LINK1"
 artist = "Clean Tears feat. Youna"
@@ -1209,7 +1209,7 @@ master = "12"
 remaster = "13"
 
 [[songs]]
-id = "1148"
+id = "1152"
 title = "Turn around"
 title_reading = "TURNAROUND"
 artist = "Clean Tears"
@@ -1226,7 +1226,7 @@ expert = "13"
 master = "13+"
 
 [[songs]]
-id = "1153"
+id = "1157"
 title = "We Gonna Party"
 title_reading = "WEGONNAPARTY"
 artist = "Cranky"
@@ -1244,7 +1244,7 @@ master = "13+"
 remaster = "13+"
 
 [[songs]]
-id = "976"
+id = "980"
 title = "Night Fly"
 title_reading = "NIGHTFLY"
 artist = "発熱巫女～ず"
@@ -1262,7 +1262,7 @@ master = "13"
 remaster = "13"
 
 [[songs]]
-id = "1199"
+id = "1203"
 title = "Feel My Fire"
 title_reading = "FEELMYFIRE"
 artist = "発熱巫女～ず"
@@ -1279,7 +1279,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1147"
+id = "1151"
 title = "Streak"
 title_reading = "STREAK"
 artist = "ARM(IOSYS)"
@@ -1296,7 +1296,7 @@ expert = "12+"
 master = "13+"
 
 [[songs]]
-id = "975"
+id = "979"
 title = "Spin me harder"
 title_reading = "SPINMEHARDER"
 artist = "D.watt(IOSYS)feat. Asana"
@@ -1313,7 +1313,7 @@ expert = "12"
 master = "13"
 
 [[songs]]
-id = "970"
+id = "974"
 title = "Lionheart"
 title_reading = "LIONHEART"
 artist = "Masayoshi Minoshima"
@@ -1330,7 +1330,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1177"
+id = "1181"
 title = "Acceleration"
 title_reading = "ACCELERATION"
 artist = "REDALiCE"
@@ -1347,7 +1347,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "1186"
+id = "1190"
 title = "Sprintrances"
 title_reading = "SPRINTRANCES"
 artist = "Taishi"
@@ -1364,7 +1364,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1185"
+id = "1189"
 title = "Nerverakes"
 title_reading = "NERVERAKES"
 artist = "Taishi"
@@ -1381,7 +1381,7 @@ expert = "11+"
 master = "14"
 
 [[songs]]
-id = "1189"
+id = "1193"
 title = "Black Out"
 title_reading = "BLACKOUT"
 artist = "Tsukasa(Arte Refact)"
@@ -1398,7 +1398,7 @@ expert = "13"
 master = "13"
 
 [[songs]]
-id = "1190"
+id = "1194"
 title = "Fragrance"
 title_reading = "FRAGRANCE"
 artist = "Tsukasa(Arte Refact)"
@@ -1416,7 +1416,7 @@ master = "14"
 remaster = "14+"
 
 [[songs]]
-id = "1195"
+id = "1199"
 title = "air's gravity"
 title_reading = "AIRSGRAVITY"
 artist = "zts"
@@ -1434,7 +1434,7 @@ master = "13"
 remaster = "13+"
 
 [[songs]]
-id = "978"
+id = "982"
 title = "Starlight Disco"
 title_reading = "STARLIGHTDISCO"
 artist = "loos feat. Meramipop"
@@ -1550,7 +1550,7 @@ expert = "13"
 master = "13+"
 
 [[songs]]
-id = "1009"
+id = "1013"
 title = "泣き虫O'clock"
 title_reading = "ナキムシOCLOCK"
 artist = "Hiro/友香"
@@ -1585,7 +1585,7 @@ expert = "11+"
 master = "12+"
 
 [[songs]]
-id = "991"
+id = "995"
 title = "maimaiちゃんのテーマ"
 title_reading = "MAIMAIチヤンノテエマ"
 artist = "YMCK"
@@ -2140,7 +2140,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "980"
+id = "984"
 title = "記憶、記録"
 title_reading = "キオクキロク"
 artist = "LOPIT(SEGA)"
@@ -2232,7 +2232,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1089"
+id = "1093"
 title = "Blew Moon"
 title_reading = "BLEWMOON"
 artist = "t+pazolite"
@@ -2250,7 +2250,7 @@ master = "13"
 remaster = "13"
 
 [[songs]]
-id = "1088"
+id = "1092"
 title = "Garakuta Doll Play"
 title_reading = "GARAKUTADOLLPLAY"
 artist = "t+pazolite"
@@ -2268,7 +2268,7 @@ master = "14"
 remaster = "14+"
 
 [[songs]]
-id = "955"
+id = "959"
 title = "Dreampainter"
 title_reading = "DREAMPAINTER"
 artist = "Sta feat.tigerlily and DOT96"
@@ -2285,7 +2285,7 @@ expert = "11"
 master = "12+"
 
 [[songs]]
-id = "974"
+id = "978"
 title = "ぐるぐるWASH！コインランドリー・ディスコ"
 title_reading = "クルクルWASHコインラントリイテイスコ"
 artist = "D.watt(IOSYS)feat.ちよこ"
@@ -2302,7 +2302,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "969"
+id = "973"
 title = "CYCLES"
 title_reading = "CYCLES"
 artist = "Masayoshi Minoshima feat. 綾倉盟"
@@ -2319,7 +2319,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "971"
+id = "975"
 title = "Heartbeats"
 title_reading = "HEARTBEATS1"
 artist = "RAMM feat. 若井友希"
@@ -2336,7 +2336,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "1152"
+id = "1156"
 title = "Life Feels Good"
 title_reading = "LIFEFEELSGOOD"
 artist = "Cranky"
@@ -2353,7 +2353,7 @@ expert = "12+"
 master = "13+"
 
 [[songs]]
-id = "1154"
+id = "1158"
 title = "MYTHOS"
 title_reading = "MYTHOS"
 artist = "Cranky feat. まらしぃ ＆ てっぺい先生"
@@ -2370,7 +2370,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "948"
+id = "952"
 title = "End of Twilight"
 title_reading = "ENDOFTWILIGHT"
 artist = "ALiCE'S EMOTiON feat. Ayumi Nomiya"
@@ -2387,7 +2387,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "1073"
+id = "1077"
 title = "火炎地獄"
 title_reading = "カエンシコク"
 artist = "山根ミチル"
@@ -2410,7 +2410,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "986"
+id = "990"
 title = "ユビキリ"
 title_reading = "ユヒキリ"
 artist = "山根ミチル"
@@ -2427,7 +2427,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "992"
+id = "996"
 title = "Pixel Voyage"
 title_reading = "PIXELVOYAGE"
 artist = "YMCK"
@@ -2444,7 +2444,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "1165"
+id = "1169"
 title = "Get Happy"
 title_reading = "GETHAPPY"
 artist = "Jimmy Weckl"
@@ -2461,7 +2461,7 @@ expert = "12+"
 master = "13+"
 
 [[songs]]
-id = "1166"
+id = "1170"
 title = "System “Z”"
 title_reading = "SYSTEMZ"
 artist = "Jimmy Weckl"
@@ -2479,7 +2479,7 @@ master = "14"
 remaster = "14"
 
 [[songs]]
-id = "1183"
+id = "1187"
 title = "Beat of getting entangled"
 title_reading = "BEATOFGETTINGENTANGLED"
 artist = "Shoichiro Hirata"
@@ -2497,7 +2497,7 @@ master = "13+"
 remaster = "14"
 
 [[songs]]
-id = "984"
+id = "988"
 title = "Cosmic Train"
 title_reading = "COSMICTRAIN"
 artist = "Shoichiro Hirata feat.SUIMI"
@@ -2514,7 +2514,7 @@ expert = "10+"
 master = "12"
 
 [[songs]]
-id = "989"
+id = "993"
 title = "ナミダと流星"
 title_reading = "ナミタトリユウセイ"
 artist = "芳川よしの"
@@ -2537,7 +2537,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "998"
+id = "1002"
 title = "おても☆Yan"
 title_reading = "オテモYAN"
 artist = "光吉猛修"
@@ -2554,7 +2554,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "1010"
+id = "1014"
 title = "maiム・maiム feat.週刊少年マガジン"
 title_reading = "MAIムMAIムFEATシユウカンシヨウネンマカシン"
 artist = "にしもと先生、タクマ、どんちゃん「ちょっと盛りました。」"
@@ -2571,7 +2571,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "1200"
+id = "1204"
 title = "Danza zandA"
 title_reading = "DANZAZANDA"
 artist = "福山光晴"
@@ -2589,7 +2589,7 @@ master = "13"
 remaster = "13+"
 
 [[songs]]
-id = "1003"
+id = "1007"
 title = "Backyun! －悪い女－"
 title_reading = "BACKYUNワルイオンナ"
 artist = "青木千紘/愛海"
@@ -2607,7 +2607,7 @@ master = "12+"
 remaster = "13"
 
 [[songs]]
-id = "957"
+id = "961"
 title = "Monochrome Rainbow"
 title_reading = "MONOCHROMERAINBOW"
 artist = "Sta"
@@ -2630,7 +2630,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "937"
+id = "941"
 title = "みんなのマイマイマー"
 title_reading = "ミンナノマイマイマア"
 artist = "ビートまりお(COOL＆CREATE)+ ARM(IOSYS)"
@@ -2758,7 +2758,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "1182"
+id = "1186"
 title = "LUCIA"
 title_reading = "LUCIA"
 artist = "SHIKI"
@@ -2776,7 +2776,7 @@ master = "13"
 remaster = "13+"
 
 [[songs]]
-id = "1181"
+id = "1185"
 title = "Death Scythe"
 title_reading = "DEATHSCYTHE"
 artist = "SHIKI"
@@ -2794,7 +2794,7 @@ master = "13+"
 remaster = "14"
 
 [[songs]]
-id = "941"
+id = "945"
 title = "BREAK YOU!!"
 title_reading = "BREAKYOU"
 artist = "A-One"
@@ -2811,7 +2811,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "972"
+id = "976"
 title = "JUMPIN' JUMPIN'"
 title_reading = "JUMPINJUMPIN"
 artist = "SOUND HOLIC feat. Nana Takahashi"
@@ -2828,7 +2828,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "973"
+id = "977"
 title = "L'épilogue"
 title_reading = "LEPILOGUE"
 artist = "SOUND HOLIC feat. Nana Takahashi"
@@ -3672,7 +3672,7 @@ expert = "8+"
 master = "13+"
 
 [[songs]]
-id = "936"
+id = "940"
 title = "タカハせ！名人マン"
 title_reading = "タカハセメイシンマン"
 artist = "ビートまりお + ARM feat. 高橋名人"
@@ -3928,7 +3928,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1146"
+id = "1150"
 title = "Axeria"
 title_reading = "AXERIA"
 artist = "AcuticNotes"
@@ -3945,7 +3945,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "990"
+id = "994"
 title = "ピーマンたべたら"
 title_reading = "ヒイマンタヘタラ"
 artist = "カタオカツグミ"
@@ -3962,7 +3962,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "983"
+id = "987"
 title = "MIRROR of MAGIC"
 title_reading = "MIRROROFMAGIC"
 artist = "Shoichiro Hirata feat.SUIMI"
@@ -4047,7 +4047,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "985"
+id = "989"
 title = "BETTER CHOICE"
 title_reading = "BETTERCHOICE"
 artist = "Jimmy Weckl feat.高貴みな"
@@ -4064,7 +4064,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "1087"
+id = "1091"
 title = "Oshama Scramble!"
 title_reading = "OSHAMASCRAMBLE"
 artist = "t+pazolite"
@@ -4087,7 +4087,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1159"
+id = "1163"
 title = "D✪N’T  ST✪P  R✪CKIN’"
 title_reading = "DONTSTOPROCKIN"
 artist = "EB(aka EarBreaker)"
@@ -4105,7 +4105,7 @@ master = "13+"
 remaster = "13"
 
 [[songs]]
-id = "1038"
+id = "1042"
 title = "ガラテアの螺旋"
 title_reading = "カラテアノラセン"
 artist = "sasakure.UK"
@@ -4123,7 +4123,7 @@ master = "14+"
 remaster = "14+"
 
 [[songs]]
-id = "1044"
+id = "1048"
 title = "oboro"
 title_reading = "OBORO"
 artist = "ヒゲドライバー"
@@ -4146,7 +4146,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1180"
+id = "1184"
 title = "Dragoon"
 title_reading = "DRAGOON"
 artist = "Shandy kubota"
@@ -4221,7 +4221,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "987"
+id = "991"
 title = "planet dancer"
 title_reading = "PLANETDANCER"
 artist = "樽木栄一郎"
@@ -4239,7 +4239,7 @@ master = "13"
 remaster = "13+"
 
 [[songs]]
-id = "1174"
+id = "1178"
 title = "Caliburne ～Story of the Legendary sword～"
 title_reading = "CALIBUNESTORYOFTHELEGENDARYSWORD"
 artist = "Project Grimoire"
@@ -4324,7 +4324,7 @@ expert = "10+"
 master = "12"
 
 [[songs]]
-id = "1202"
+id = "1206"
 title = "VERTeX"
 title_reading = "VERTEX"
 artist = "Hiro「maimai」より"
@@ -4695,7 +4695,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "946"
+id = "950"
 title = "welcome to maimai!! with マイマイマー"
 title_reading = "WELCOMETOMAIMAI"
 artist = "Hiro feat.越田Rute隆人&ビートまりお"
@@ -4729,7 +4729,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1255"
+id = "1259"
 title = "Change Our MIRAI！"
 title_reading = "CHANGEOURMIRAI"
 artist = "イロドリミドリ「CHUNITHM」"
@@ -4752,7 +4752,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "1127"
+id = "1131"
 title = "Aiolos"
 title_reading = "AIOLOS"
 artist = "xi"
@@ -4769,7 +4769,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1176"
+id = "1180"
 title = "LANCE"
 title_reading = "LANCE"
 artist = "Ras"
@@ -4860,7 +4860,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1085"
+id = "1089"
 title = "Contrapasso -paradiso-"
 title_reading = "CONTRAPASSOPARADISO"
 artist = "t+pazolite"
@@ -4979,7 +4979,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1187"
+id = "1191"
 title = "GEMINI -M-"
 title_reading = "GEMINIM"
 artist = "Tatsh"
@@ -5098,7 +5098,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1318"
+id = "1322"
 title = "Counselor"
 title_reading = "COUNSELOR"
 artist = "DECO*27 feat.echo"
@@ -5115,7 +5115,7 @@ expert = "10+"
 master = "12"
 
 [[songs]]
-id = "1126"
+id = "1130"
 title = "Glorious Crown"
 title_reading = "GLORIOUSCROWN"
 artist = "xi"
@@ -5166,7 +5166,7 @@ expert = "9+"
 master = "11"
 
 [[songs]]
-id = "1319"
+id = "1323"
 title = "幾四音-Ixion-"
 title_reading = "イクシオン"
 artist = "M.S.S Project"
@@ -5183,7 +5183,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1306"
+id = "1310"
 title = "閃鋼のブリューナク"
 title_reading = "センコウノフリユウナク"
 artist = "sasakure.UK"
@@ -5200,7 +5200,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1256"
+id = "1260"
 title = "無敵We are one!!"
 title_reading = "ムテキWEAREONE"
 artist = "イロドリミドリ「CHUNITHM」"
@@ -5217,7 +5217,7 @@ expert = "10"
 master = "13+"
 
 [[songs]]
-id = "1096"
+id = "1100"
 title = "7thSense"
 title_reading = "7THSENSE"
 artist = "削除"
@@ -5234,7 +5234,7 @@ expert = "11+"
 master = "14"
 
 [[songs]]
-id = "940"
+id = "944"
 title = "FEEL the BEATS"
 title_reading = "FEELTHEBEATS"
 artist = "A-One"
@@ -5252,7 +5252,7 @@ master = "13+"
 remaster = "13+"
 
 [[songs]]
-id = "1192"
+id = "1196"
 title = "Revive The Rave"
 title_reading = "REVIVETHERAVE"
 artist = "void(Mournfinale)"
@@ -5270,7 +5270,7 @@ master = "13+"
 remaster = "14"
 
 [[songs]]
-id = "968"
+id = "972"
 title = "スリップフリップ"
 title_reading = "スリツフフリツフ"
 artist = "tilt-six feat.串伊トモミ"
@@ -5355,7 +5355,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "954"
+id = "958"
 title = "アージェントシンメトリー"
 title_reading = "アアシエントシンメトリイ"
 artist = "Sta feat.b"
@@ -5441,7 +5441,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "1161"
+id = "1165"
 title = "Lividi"
 title_reading = "LIVIDI"
 artist = "Feryquitous"
@@ -5458,7 +5458,7 @@ expert = "13"
 master = "14"
 
 [[songs]]
-id = "1310"
+id = "1314"
 title = "Infantoon Fantasy"
 title_reading = "INFANTOONFANTASY"
 artist = "t+pazolite"
@@ -5475,7 +5475,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1162"
+id = "1166"
 title = "Jumble Rumble"
 title_reading = "JUMBLERUMBLE"
 artist = "INNOCENT NOIZE"
@@ -5492,7 +5492,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1164"
+id = "1168"
 title = "Imitation:Loud Lounge"
 title_reading = "IMITATIONLOUDLOUNGE"
 artist = "Ino(chronoize)"
@@ -5515,7 +5515,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1158"
+id = "1162"
 title = "CITRUS MONSTER"
 title_reading = "CITRUSMONSTER"
 artist = "D-Cee"
@@ -5532,7 +5532,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1104"
+id = "1108"
 title = "Hyper Active"
 title_reading = "HYPERACTIVE"
 artist = "HiTECH NINJA"
@@ -5549,7 +5549,7 @@ expert = "13"
 master = "13+"
 
 [[songs]]
-id = "1194"
+id = "1198"
 title = "AMAZING MIGHTYYYY!!!!"
 title_reading = "AMAZINGMIGHTYYYY"
 artist = "WAiKURO"
@@ -5892,7 +5892,7 @@ master = "12"
 remaster = "13"
 
 [[songs]]
-id = "1264"
+id = "1268"
 title = "brilliant better"
 title_reading = "BRILLIANTBETTER"
 artist = "御形 アリシアナ(CV:福原 綾香)"
@@ -5909,7 +5909,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "1262"
+id = "1266"
 title = "ハート・ビート"
 title_reading = "ハアトヒイト"
 artist = "明坂 芹菜(CV:新田 恵海)"
@@ -5926,7 +5926,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1320"
+id = "1324"
 title = "Invitation"
 title_reading = "INVITATION"
 artist = "れるりり feat.ろん"
@@ -5943,7 +5943,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "981"
+id = "985"
 title = "connecting with you"
 title_reading = "CONNECTINGWITHYOU"
 artist = "Takahiro Eguchi feat. 三澤秋"
@@ -5960,7 +5960,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1198"
+id = "1202"
 title = "高気圧ねこロック"
 title_reading = "コウキアツネコロツク"
 artist = "小野隊長とJimmy親分"
@@ -5977,7 +5977,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1193"
+id = "1197"
 title = "Prophesy One"
 title_reading = "PROPHESYONE"
 artist = "vox2（小野秀幸）"
@@ -6029,7 +6029,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1167"
+id = "1171"
 title = "Nitrous Fury"
 title_reading = "NITROUSFURY"
 artist = "Jun Senoue"
@@ -6211,7 +6211,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "1266"
+id = "1270"
 title = "フォルテシモBELL"
 title_reading = "フオルテシモBELL"
 artist = "天王洲 なずな(CV:山本 彩乃)"
@@ -6228,7 +6228,7 @@ expert = "9"
 master = "12+"
 
 [[songs]]
-id = "1268"
+id = "1272"
 title = "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察"
 title_reading = "ワタシノナカノケンソウテキセカイカン"
 artist = "小仏 凪(CV:佐倉 薫)"
@@ -6245,7 +6245,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "1271"
+id = "1275"
 title = "DETARAME ROCK&ROLL THEORY"
 title_reading = "DETARAMEROCKROLLTHEORY"
 artist = "箱部 なる(CV:M・A・O)"
@@ -6410,7 +6410,7 @@ expert = "10"
 master = "12"
 
 [[songs]]
-id = "944"
+id = "948"
 title = "いっしそう電☆舞舞神拳！"
 title_reading = "イツシソウテンマイマイシンケン"
 artist = "さつき が てんこもり feat. YURiCa/花たん"
@@ -6427,7 +6427,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "979"
+id = "983"
 title = "ENJOY POLIS"
 title_reading = "ENJOYPOLIS"
 artist = "LOPIT"
@@ -6461,7 +6461,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1095"
+id = "1099"
 title = "天火明命"
 title_reading = "アメノホアカリ"
 artist = "削除"
@@ -6478,7 +6478,7 @@ expert = "13"
 master = "14"
 
 [[songs]]
-id = "1197"
+id = "1201"
 title = "HERA"
 title_reading = "HERA"
 artist = "ルゼ"
@@ -6512,7 +6512,7 @@ expert = "11+"
 master = "14"
 
 [[songs]]
-id = "1084"
+id = "1088"
 title = "Our Wrenally"
 title_reading = "OURWRENALLY"
 artist = "t+pazolite"
@@ -6552,7 +6552,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1155"
+id = "1159"
 title = "四月の雨"
 title_reading = "シカツノアメ"
 artist = "cubesato"
@@ -6569,7 +6569,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "967"
+id = "971"
 title = "Selector"
 title_reading = "SELECTOR"
 artist = "Aliesrite* (Ym1024 feat. lamie*)"
@@ -6592,7 +6592,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1257"
+id = "1261"
 title = "ドキドキDREAM!!!"
 title_reading = "トキトキDREAM"
 artist = "イロドリミドリ「CHUNITHM」"
@@ -6643,7 +6643,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1151"
+id = "1155"
 title = "ねぇ、壊れタ人形ハ何処へ棄テらレるノ？"
 title_reading = "ネエコワレタニンキヨウハトコヘステラレルノ"
 artist = "cosMo＠暴走P"
@@ -6762,7 +6762,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "1157"
+id = "1161"
 title = "Panopticon"
 title_reading = "PANOPTICON"
 artist = "cybermiso"
@@ -6894,7 +6894,7 @@ expert = "10+"
 master = "14"
 
 [[songs]]
-id = "1321"
+id = "1325"
 title = "その群青が愛しかったようだった"
 title_reading = "ソノクンシヨウカイトシカツタヨウタ"
 artist = "n-buna feat.ヤギヌマカナ"
@@ -6911,7 +6911,7 @@ expert = "11"
 master = "12+"
 
 [[songs]]
-id = "1322"
+id = "1326"
 title = "The wheel to the right"
 title_reading = "THEWHEELTOTHERIGHT"
 artist = "Sampling Masters MEGA"
@@ -6996,7 +6996,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "950"
+id = "954"
 title = "夢花火"
 title_reading = "ユメハナヒ"
 artist = "豚乙女"
@@ -7013,7 +7013,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "965"
+id = "969"
 title = "オトヒメモリー☆ウタゲーション"
 title_reading = "オトヒメモリイウタケイシヨン"
 artist = "Junky"
@@ -7155,7 +7155,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1324"
+id = "1328"
 title = "心象蜃気楼"
 title_reading = "シンシヨウシンキロウ"
 artist = "Orangestar"
@@ -7172,7 +7172,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1323"
+id = "1327"
 title = "光線チューニング"
 title_reading = "コウセンチユウニンク"
 artist = "ナユタン星人"
@@ -7189,7 +7189,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "964"
+id = "968"
 title = "Limit Break"
 title_reading = "LIMITBREAK"
 artist = "DiGiTAL WiNG"
@@ -7207,7 +7207,7 @@ master = "13"
 remaster = "13+"
 
 [[songs]]
-id = "963"
+id = "967"
 title = "曖昧mind"
 title_reading = "アイマイMIND"
 artist = "Halozy"
@@ -7224,7 +7224,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "942"
+id = "946"
 title = "KING is BACK!!"
 title_reading = "KINGISBACK"
 artist = "A-One"
@@ -7241,7 +7241,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1145"
+id = "1149"
 title = "Ultranova"
 title_reading = "ULTRANOVA"
 artist = "A4paper"
@@ -7366,7 +7366,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "952"
+id = "956"
 title = "Justified"
 title_reading = "JUSTIFIED"
 artist = "MintJam feat.光吉猛修"
@@ -7383,7 +7383,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1173"
+id = "1177"
 title = "Excalibur ～Revived resolution～"
 title_reading = "EXCALIBURREVIVEDRESOLUTION"
 artist = "Project Grimoire"
@@ -7417,7 +7417,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "1274"
+id = "1278"
 title = "My Dearest Song"
 title_reading = "MYDEARESTSONG"
 artist = "月鈴 白奈(CV:高野 麻里佳)"
@@ -7434,7 +7434,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "1275"
+id = "1279"
 title = "猛進ソリストライフ！"
 title_reading = "モウシンソリストライフ"
 artist = "月鈴 那知(CV:今村 彩夏)"
@@ -7570,7 +7570,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1179"
+id = "1183"
 title = "Moon of Noon"
 title_reading = "MOONOFNOON"
 artist = "Sampling Masters MEGA"
@@ -7610,7 +7610,7 @@ expert = "9"
 master = "12+"
 
 [[songs]]
-id = "1015"
+id = "1019"
 title = "デスパレイト"
 title_reading = "テスハレイト"
 artist = "owl＊tree"
@@ -7702,7 +7702,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "962"
+id = "966"
 title = "Magical Flavor"
 title_reading = "MAGICALFLAVOR"
 artist = "DECO*27 feat.Tia"
@@ -7770,7 +7770,7 @@ expert = "10"
 master = "11"
 
 [[songs]]
-id = "960"
+id = "964"
 title = "Candy Tall Woman"
 title_reading = "CANDYTALLWOMAN"
 artist = "naotyu- feat. 佐々木恵梨"
@@ -7787,7 +7787,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1172"
+id = "1176"
 title = "Signature"
 title_reading = "SIGNATURE"
 artist = "Palme"
@@ -7980,7 +7980,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1272"
+id = "1276"
 title = "猫祭り"
 title_reading = "ネコマツリ"
 artist = "箱部 なる(CV:M・A・O)"
@@ -7997,7 +7997,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "1269"
+id = "1273"
 title = "TRUST"
 title_reading = "TRUST"
 artist = "小仏 凪(CV:佐倉 薫)"
@@ -8014,7 +8014,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1258"
+id = "1262"
 title = "Still"
 title_reading = "STILL"
 artist = "イロドリミドリ「CHUNITHM」"
@@ -8128,7 +8128,7 @@ expert = "9+"
 master = "11+"
 
 [[songs]]
-id = "953"
+id = "957"
 title = "SPILL OVER COLORS"
 title_reading = "SPILLOVERCOLORS"
 artist = "矢鴇つかさ feat. kalon."
@@ -8146,7 +8146,7 @@ master = "13"
 remaster = "13"
 
 [[songs]]
-id = "1170"
+id = "1174"
 title = "Mare Maris"
 title_reading = "MAREMARIS"
 artist = "M2U"
@@ -8288,7 +8288,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "961"
+id = "965"
 title = "Kinda Way"
 title_reading = "KINDAWAY"
 artist = "good-cool ft. Pete Klassen"
@@ -8322,7 +8322,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "1335"
+id = "1339"
 title = "エンドマークに希望と涙を添えて"
 title_reading = "エントマアクニキホウトナミタヲソエテ"
 artist = "cosMo＠暴走P"
@@ -8356,7 +8356,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1265"
+id = "1269"
 title = "Bang Babang Bang!!!"
 title_reading = "BANGBABANGBANG"
 artist = "御形 アリシアナ(CV:福原 綾香)"
@@ -8373,7 +8373,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "1267"
+id = "1271"
 title = "Tic Tac DREAMIN’"
 title_reading = "TICTACDREAMIN"
 artist = "天王洲 なずな(CV:山本 彩乃)"
@@ -8390,7 +8390,7 @@ expert = "9"
 master = "12"
 
 [[songs]]
-id = "1263"
+id = "1267"
 title = "SPICY SWINGY STYLE"
 title_reading = "SPICYSWINGYSTYLE"
 artist = "明坂 芹菜(CV:新田 恵海)"
@@ -8516,7 +8516,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1259"
+id = "1263"
 title = "Session High⤴"
 title_reading = "SESSIONHIGH"
 artist = "イロドリミドリ「CHUNITHM」"
@@ -8533,7 +8533,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "1325"
+id = "1329"
 title = "World Vanquisher"
 title_reading = "WORLDVANQUISHER"
 artist = "void (Mournfinale)"
@@ -8550,7 +8550,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "959"
+id = "963"
 title = "FestivaLight"
 title_reading = "FESTIVALIGHT"
 artist = "霜月はるか"
@@ -8653,7 +8653,7 @@ expert = "10"
 master = "12"
 
 [[songs]]
-id = "1168"
+id = "1172"
 title = "keep hopping"
 title_reading = "KEEPHOPPING"
 artist = "kamome sano"
@@ -8670,7 +8670,7 @@ expert = "12+"
 master = "13+"
 
 [[songs]]
-id = "1196"
+id = "1200"
 title = "larva"
 title_reading = "LARVA"
 artist = "ガリガリさむし"
@@ -8807,7 +8807,7 @@ master = "12"
 remaster = "13+"
 
 [[songs]]
-id = "1326"
+id = "1330"
 title = "Xevel"
 title_reading = "XEVEL"
 artist = "Tatsh"
@@ -8859,7 +8859,7 @@ master = "12"
 remaster = "13"
 
 [[songs]]
-id = "1184"
+id = "1188"
 title = "Ragnarok"
 title_reading = "RAGNAROK"
 artist = "sky_delta"
@@ -8996,7 +8996,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1261"
+id = "1265"
 title = "Help me, あーりん！"
 title_reading = "HELPMEARRIN"
 artist = "イロドリミドリ「CHUNITHM」"
@@ -9013,7 +9013,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "1260"
+id = "1264"
 title = "なるとなぎのパーフェクトロックンロール教室"
 title_reading = "ナルトナキノハアフエクトロツクンロオルキヨウシツ"
 artist = "イロドリミドリ「CHUNITHM」"
@@ -9030,7 +9030,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1278"
+id = "1282"
 title = "あねぺったん"
 title_reading = "アネヘツタン"
 artist = "月鈴姉妹（イロドリミドリ）"
@@ -9047,7 +9047,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1327"
+id = "1331"
 title = "We Gonna Journey"
 title_reading = "WEGONNAJOURNEY"
 artist = "Queen P.A.L."
@@ -9081,7 +9081,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1071"
+id = "1075"
 title = "SILENT BLUE"
 title_reading = "SILENTBLUE"
 artist = "かねこちはる"
@@ -9132,7 +9132,7 @@ expert = "9"
 master = "13+"
 
 [[songs]]
-id = "958"
+id = "962"
 title = "花と、雪と、ドラムンベース。"
 title_reading = "ハナトユキノトラムンヘエス"
 artist = "kanone feat. せんざい"
@@ -9167,7 +9167,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "1329"
+id = "1333"
 title = "怒槌"
 title_reading = "イカツチ"
 artist = "光吉猛修"
@@ -9218,7 +9218,7 @@ expert = "11"
 master = "12+"
 
 [[songs]]
-id = "1328"
+id = "1332"
 title = "My First Phone"
 title_reading = "MYFIRSTPHONE"
 artist = "cubesato"
@@ -9373,7 +9373,7 @@ expert = "12+"
 master = "13+"
 
 [[songs]]
-id = "1083"
+id = "1087"
 title = "QZKago Requiem"
 title_reading = "QZKAGOREQUIEM"
 artist = "t+pazolite"
@@ -9442,7 +9442,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "1188"
+id = "1192"
 title = "Schwarzschild"
 title_reading = "SCHWARZSCHILD"
 artist = "Tsukasa"
@@ -9581,7 +9581,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1119"
+id = "1123"
 title = "Alea jacta est!"
 title_reading = "ALEAJACTAEST"
 artist = "BlackY fused with WAiKURO"
@@ -9686,7 +9686,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1156"
+id = "1160"
 title = "FFT"
 title_reading = "FFT"
 artist = "cybermiso"
@@ -9704,7 +9704,7 @@ master = "14"
 remaster = "14"
 
 [[songs]]
-id = "1273"
+id = "1277"
 title = "-OutsideR:RequieM-"
 title_reading = "OUTSIDERREQUIEM"
 artist = "箱部なる(CV:M・A・O)"
@@ -9721,7 +9721,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1270"
+id = "1274"
 title = "イロトリドリのメロディ"
 title_reading = "イロトリトリノメロテイ"
 artist = "小仏凪(CV:佐倉薫)"
@@ -9738,7 +9738,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "1276"
+id = "1280"
 title = "奏者はただ背中と提琴で語るのみ"
 title_reading = "ソウシヤハタタセナカトハイオリンテカタルノミ"
 artist = "月鈴那知(CV:今村彩夏)"
@@ -9755,7 +9755,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1169"
+id = "1173"
 title = "雷切-RAIKIRI-"
 title_reading = "ライキリ"
 artist = "kanone"
@@ -9861,7 +9861,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "1037"
+id = "1041"
 title = "the EmpErroR"
 title_reading = "THEEMPERROR"
 artist = "sasakure.UK"
@@ -9879,7 +9879,7 @@ master = "14+"
 remaster = "14+"
 
 [[songs]]
-id = "1094"
+id = "1098"
 title = "PANDORA PARADOXXX"
 title_reading = "PANDORAPARADOXXX"
 artist = "削除"
@@ -9897,7 +9897,7 @@ master = "14+"
 remaster = "15"
 
 [[songs]]
-id = "982"
+id = "986"
 title = "Believe the Rainbow"
 title_reading = "BELIEVETHERAINBOW"
 artist = "Shoichiro Hirata feat.Sana"
@@ -10085,7 +10085,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1331"
+id = "1335"
 title = "Kattobi KEIKYU Rider"
 title_reading = "KATTOBIKEIKYURIDER"
 artist = "Sampling Masters MEGA"
@@ -10119,7 +10119,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1330"
+id = "1334"
 title = "TiamaT:F minor"
 title_reading = "TIAMATFMINOR"
 artist = "Team Grimoire"
@@ -10153,7 +10153,7 @@ expert = "9"
 master = "12+"
 
 [[songs]]
-id = "1102"
+id = "1106"
 title = "Technicians High"
 title_reading = "TECHNICIANSHIGH"
 artist = "HiTECH NINJA"
@@ -10245,7 +10245,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1047"
+id = "1051"
 title = "渦状銀河のシンフォニエッタ"
 title_reading = "カシヨウキンカノシンフオニエツタ"
 artist = "山本真央樹"
@@ -10268,7 +10268,7 @@ expert = "11+"
 master = "14+"
 
 [[songs]]
-id = "1061"
+id = "1065"
 title = "VIIIbit Explorer"
 title_reading = "VIIIBITEXPLORER"
 artist = "Lime"
@@ -10291,7 +10291,7 @@ expert = "13"
 master = "14+"
 
 [[songs]]
-id = "1110"
+id = "1114"
 title = "華の集落、秋のお届け"
 title_reading = "ハナノシユウラクアキノオトトケ"
 artist = "Umiai"
@@ -10349,7 +10349,7 @@ master = "12+"
 remaster = "13+"
 
 [[songs]]
-id = "933"
+id = "937"
 title = "でらっくmaimai♪てんてこまい!"
 title_reading = "テラツクマイマイテンテコマイ"
 artist = "やしきん feat.でらっくま(CV:三森すずこ)"
@@ -10366,7 +10366,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "1160"
+id = "1164"
 title = "MAXRAGE"
 title_reading = "MAXRAGE"
 artist = "EBIMAYO"
@@ -10384,7 +10384,7 @@ master = "13+"
 remaster = "14"
 
 [[songs]]
-id = "1178"
+id = "1182"
 title = "バーチャルダム　ネーション"
 title_reading = "ハアチヤルタムネエシヨン"
 artist = "Sampling Masters MEGA"
@@ -10402,7 +10402,7 @@ master = "13+"
 remaster = "14"
 
 [[songs]]
-id = "1018"
+id = "1022"
 title = "P-qoq"
 title_reading = "PQOQ"
 artist = "owl＊tree"
@@ -10419,7 +10419,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "931"
+id = "935"
 title = "超常マイマイン"
 title_reading = "チヨウシヨウマイマイン"
 artist = "ナユタン星人"
@@ -10437,7 +10437,7 @@ master = "12+"
 remaster = "13+"
 
 [[songs]]
-id = "932"
+id = "936"
 title = "Crazy Circle"
 title_reading = "CRAZYCIRCLE"
 artist = "みきとP feat. FantasticYouth"
@@ -10454,7 +10454,7 @@ expert = "9"
 master = "12+"
 
 [[songs]]
-id = "930"
+id = "934"
 title = "STEREOSCAPE"
 title_reading = "STEREOSCAPE"
 artist = "164 feat. めいちゃん"
@@ -10472,7 +10472,7 @@ master = "12"
 remaster = "13"
 
 [[songs]]
-id = "1212"
+id = "1216"
 title = "STARTLINER"
 title_reading = "STARTLINER"
 artist = "曲：kz(livetune)／歌：オンゲキシューターズ"
@@ -10490,7 +10490,7 @@ master = "11+"
 remaster = "12"
 
 [[songs]]
-id = "935"
+id = "939"
 title = "♡マイマイマイラブ♡"
 title_reading = "マイマイマイラフ"
 artist = "ビートまりお"
@@ -10507,7 +10507,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "949"
+id = "953"
 title = "一か罰"
 title_reading = "イチカハチ"
 artist = "豚乙女"
@@ -10525,7 +10525,7 @@ master = "12+"
 remaster = "14"
 
 [[songs]]
-id = "939"
+id = "943"
 title = "キリキリ舞Mine"
 title_reading = "キリキリマイマイン"
 artist = "A-One"
@@ -10542,7 +10542,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "938"
+id = "942"
 title = "福宿音屋魂音泉"
 title_reading = "フクヤトルオトヤタマオンセン"
 artist = "魂音泉"
@@ -10559,7 +10559,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "951"
+id = "955"
 title = "Now or Never"
 title_reading = "NOWORNEVER"
 artist = "MintJam"
@@ -10577,7 +10577,7 @@ master = "13"
 remaster = "14"
 
 [[songs]]
-id = "947"
+id = "951"
 title = "Scarlet Wings"
 title_reading = "SCARLETWINGS"
 artist = "REDALiCE feat. Ayumi Nomiya"
@@ -10594,7 +10594,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "1171"
+id = "1175"
 title = "魔ジョ狩リ"
 title_reading = "マシヨカリ"
 artist = "Nothing But Requiem (feat.Aikapin & Chiyoko)"
@@ -10611,7 +10611,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1082"
+id = "1086"
 title = "TwisteD! XD"
 title_reading = "TWISTED"
 artist = "t+pazolite"
@@ -10628,7 +10628,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1191"
+id = "1195"
 title = "Blows Up Everything"
 title_reading = "BLOWSUPEVERYTHING"
 artist = "USAO"
@@ -10646,7 +10646,7 @@ master = "13+"
 remaster = "14"
 
 [[songs]]
-id = "1284"
+id = "1288"
 title = "Agitation！"
 title_reading = "AGITATION"
 artist = "舞ヶ原高校軽音部"
@@ -10663,7 +10663,7 @@ expert = "10"
 master = "12"
 
 [[songs]]
-id = "1277"
+id = "1281"
 title = "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2"
 title_reading = "カンケンカククミキヨクタイサンハンニチヨウチヨウタイニキヨクシイセンシヨウノアリアBWV10682"
 artist = "月鈴 那知（ヴァイオリン） 伴奏：イロドリミドリ"
@@ -10680,7 +10680,7 @@ expert = "10"
 master = "13+"
 
 [[songs]]
-id = "1070"
+id = "1074"
 title = "TEmPTaTiON"
 title_reading = "TEMPTATION"
 artist = "かねこちはる"
@@ -10697,7 +10697,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "1150"
+id = "1154"
 title = "アポカリプスに反逆の焔を焚べろ"
 title_reading = "アホカリフスニハンキヤクノホノオヲクヘロ"
 artist = "cosMo＠暴走AlterEgo"
@@ -10714,7 +10714,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1332"
+id = "1336"
 title = "玩具狂奏曲 -終焉-"
 title_reading = "カンクキヨウソウキヨクシユウエン"
 artist = "きくお"
@@ -10731,7 +10731,7 @@ expert = "13"
 master = "13+"
 
 [[songs]]
-id = "1238"
+id = "1242"
 title = "Titania"
 title_reading = "TITANIA"
 artist = "xi"
@@ -10748,7 +10748,7 @@ expert = "12"
 master = "14+"
 
 [[songs]]
-id = "1333"
+id = "1337"
 title = "BOKUTO"
 title_reading = "BOKUTO"
 artist = "じーざすP feat.kradness"
@@ -10765,7 +10765,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1334"
+id = "1338"
 title = "立川浄穢捕物帳"
 title_reading = "タチカワシヨウエトリモノチヨウ"
 artist = "青島探偵事務所器楽捜査部B担"
@@ -10782,7 +10782,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1315"
+id = "1319"
 title = "CHOCOLATE BOMB!!!!"
 title_reading = "CHOCOLATEBOMB"
 artist = "YUC'e"
@@ -11190,7 +11190,7 @@ expert = "8+"
 master = "12"
 
 [[songs]]
-id = "1213"
+id = "1217"
 title = "Jump!! Jump!! Jump!!"
 title_reading = "JUMPJUMPJUMP"
 artist = "曲：宮崎誠／歌：オンゲキシューターズ"
@@ -11292,7 +11292,7 @@ expert = "9"
 master = "11+"
 
 [[songs]]
-id = "1118"
+id = "1122"
 title = "STEEL TRANSONIC"
 title_reading = "STEELTRANSONIC"
 artist = "BlackY vs. WAiKURO"
@@ -11309,7 +11309,7 @@ expert = "13"
 master = "14"
 
 [[songs]]
-id = "1142"
+id = "1146"
 title = "Flashkick"
 title_reading = "FLASHKICK"
 artist = "Yooh"
@@ -11326,7 +11326,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1139"
+id = "1143"
 title = "Stardust Memories"
 title_reading = "STARDUSTMEMORIES"
 artist = "Maozon"
@@ -11343,7 +11343,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1076"
+id = "1080"
 title = "My My My"
 title_reading = "MYMYMY"
 artist = "C-Show"
@@ -11360,7 +11360,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1140"
+id = "1144"
 title = "UniTas"
 title_reading = "UNITAS"
 artist = 'Masahiro "Godspeed" Aoki VS Kai'
@@ -11377,7 +11377,7 @@ expert = "11+"
 master = "14"
 
 [[songs]]
-id = "1143"
+id = "1147"
 title = "ここからはじまるプロローグ。"
 title_reading = "ココカラハシマルフロロオク"
 artist = "ああああ"
@@ -11394,7 +11394,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "928"
+id = "932"
 title = "絡めトリック利己ライザー"
 title_reading = "カラメトリツクリコライサア"
 artist = "じーざす（ワンダフル☆オポチュニティ！）feat.Kradness"
@@ -11411,7 +11411,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "1036"
+id = "1040"
 title = "モ°ルモ°ル"
 title_reading = "モルモル"
 artist = "sasakure.UK"
@@ -11428,7 +11428,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "927"
+id = "931"
 title = "ブレインジャックシンドローム"
 title_reading = "フレインシヤツクシントロオム"
 artist = "かいりきベア feat.利香"
@@ -11445,7 +11445,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "926"
+id = "930"
 title = "共鳴"
 title_reading = "キヨウメイ"
 artist = "SADA 2Futureanthem feat. ellie"
@@ -11462,7 +11462,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "929"
+id = "933"
 title = "Ututu"
 title_reading = "UTUTU"
 artist = "中山真斗"
@@ -11479,7 +11479,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "925"
+id = "929"
 title = "シエルブルーマルシェ"
 title_reading = "シエルフルウマルシエ"
 artist = "OSTER project feat. かなたん"
@@ -11497,7 +11497,7 @@ master = "12+"
 remaster = "13+"
 
 [[songs]]
-id = "1141"
+id = "1145"
 title = "GRÄNDIR"
 title_reading = "GRANDIR"
 artist = "Rigel Theatre feat. ミーウェル"
@@ -11514,7 +11514,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1144"
+id = "1148"
 title = "封焔の135秒"
 title_reading = "フウエンノ135ヒヨウ"
 artist = "大国奏音"
@@ -11565,7 +11565,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "1017"
+id = "1021"
 title = "Valsqotch"
 title_reading = "VALSQOTCH"
 artist = "owl＊tree feat.chi＊tree"
@@ -11582,7 +11582,7 @@ expert = "13"
 master = "14+"
 
 [[songs]]
-id = "1214"
+id = "1218"
 title = "最強 the サマータイム!!!!!"
 title_reading = "サイキヨウササマアタイム"
 artist = "曲：村カワ基成／歌：オンゲキシューターズ"
@@ -11599,7 +11599,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "1227"
+id = "1231"
 title = "UTAKATA"
 title_reading = "UTAKATA"
 artist = "曲：ゆよゆっぺ／歌：九條 楓(CV：佳村 はるか)"
@@ -11616,7 +11616,7 @@ expert = "9"
 master = "12+"
 
 [[songs]]
-id = "1224"
+id = "1228"
 title = "タテマエと本心の大乱闘"
 title_reading = "タテマエトホンシンノタイラントウ"
 artist = "曲：鯨井国家／歌：藍原 椿(CV：橋本 ちなみ)"
@@ -11633,7 +11633,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "1316"
+id = "1320"
 title = "はちみつアドベンチャー"
 title_reading = "ハチミツアトヘンチヤア"
 artist = "Yunomi feat.nicamoq"
@@ -11650,7 +11650,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "1317"
+id = "1321"
 title = "popcorn"
 title_reading = "POPCORN"
 artist = "happy machine"
@@ -12212,7 +12212,7 @@ expert = "8+"
 master = "12"
 
 [[songs]]
-id = "923"
+id = "927"
 title = "ぼくたちいつでも　しゅわっしゅわ！"
 title_reading = "ホクタチイツテモシユワツシユワ"
 artist = "ヒゲドライバー feat.らいむっくま(CV:村川梨衣) ＆ れもんっくま(CV:MoeMi)"
@@ -12230,7 +12230,7 @@ master = "13"
 remaster = "13+"
 
 [[songs]]
-id = "1133"
+id = "1137"
 title = "Boys O’Clock"
 title_reading = "BOYSOCLOCK"
 artist = "technoplanet"
@@ -12247,7 +12247,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "920"
+id = "924"
 title = "居並ぶ穀物と溜息まじりの運送屋"
 title_reading = "イナラフコクモツトタメイキマシリノウンソウヤ"
 artist = "hanzo"
@@ -12264,7 +12264,7 @@ expert = "11+"
 master = "12+"
 
 [[songs]]
-id = "1136"
+id = "1140"
 title = "ARAIS"
 title_reading = "ARAIS"
 artist = "千本松 仁"
@@ -12281,7 +12281,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "922"
+id = "926"
 title = "マイオドレ！舞舞タイム"
 title_reading = "マイオトレマイマイタイム"
 artist = "キノシタ feat. そらみこ (ホロライブ ときのそら＆さくらみこ)"
@@ -12298,7 +12298,7 @@ expert = "11"
 master = "12+"
 
 [[songs]]
-id = "1130"
+id = "1134"
 title = "Aetheric Energy"
 title_reading = "AETHERICENERGY"
 artist = "aran"
@@ -12315,7 +12315,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1137"
+id = "1141"
 title = "Komplexe"
 title_reading = "KOMPLEXE"
 artist = "雄之助 feat. Sennzai"
@@ -12332,7 +12332,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1132"
+id = "1136"
 title = "Beautiful Future"
 title_reading = "BEAUTIFULFUTURE"
 artist = "PSYQUI"
@@ -12349,7 +12349,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1033"
+id = "1037"
 title = "Mutation"
 title_reading = "MUTATION"
 artist = "Laur"
@@ -12366,7 +12366,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "919"
+id = "923"
 title = "オリフィス"
 title_reading = "オリフイス"
 artist = "40mP feat. シャノ"
@@ -12383,7 +12383,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "921"
+id = "925"
 title = "ユメヒバナ"
 title_reading = "ユメヒハナ"
 artist = "RD-Sounds feat.中恵光城"
@@ -12400,7 +12400,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "924"
+id = "928"
 title = "REAL VOICE"
 title_reading = "REALVOICE"
 artist = "達見 恵 featured by 佐野 宏晃"
@@ -12417,7 +12417,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "918"
+id = "922"
 title = "パラボラ"
 title_reading = "ハラホラ"
 artist = "*Luna feat.NORISTRY"
@@ -12434,7 +12434,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1135"
+id = "1139"
 title = "Regulus"
 title_reading = "REGULUS"
 artist = "お月さま交響曲"
@@ -12451,7 +12451,7 @@ expert = "12"
 master = "14+"
 
 [[songs]]
-id = "1134"
+id = "1138"
 title = "ワンダーシャッフェンの法則"
 title_reading = "ワンタアシヤツフエンノホウソク"
 artist = "アリスシャッハと魔法の楽団"
@@ -12468,7 +12468,7 @@ expert = "10+"
 master = "14"
 
 [[songs]]
-id = "1131"
+id = "1135"
 title = "BIRTH"
 title_reading = "BIRTH"
 artist = "llliiillliiilll"
@@ -12536,7 +12536,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "1239"
+id = "1243"
 title = "YURUSHITE"
 title_reading = "YURUSHITE"
 artist = "t+pazolite"
@@ -12553,7 +12553,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1223"
+id = "1227"
 title = "ポケットからぬりつぶせ！"
 title_reading = "ホケツトカラヌリツフセ"
 artist = "曲：中山真斗／歌：マーチングポケッツ [日向 千夏(CV：岡咲 美保)、柏木 美亜(CV：和氣 あず未)、東雲 つむぎ(CV：和泉 風花)]"
@@ -12570,7 +12570,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1229"
+id = "1233"
 title = "トリドリ⇒モリモリ！Lovely fruits☆"
 title_reading = "トリトリモリモリラフリイフルウツ"
 artist = "曲：やしきん／歌：柏木 美亜(CV：和氣 あず未)"
@@ -12587,7 +12587,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1240"
+id = "1244"
 title = "Desperado Waltz"
 title_reading = "DESPERADOWALTZ"
 artist = "ぺのれり"
@@ -12604,7 +12604,7 @@ expert = "11+"
 master = "14"
 
 [[songs]]
-id = "1314"
+id = "1318"
 title = "宛城、炎上！！"
 title_reading = "エンシヨウエンシヨウ"
 artist = "Cranky feat.おもしろ三国志"
@@ -12621,7 +12621,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1312"
+id = "1316"
 title = "Climax"
 title_reading = "CLIMAX"
 artist = "USAO"
@@ -12638,7 +12638,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1313"
+id = "1317"
 title = "レーイレーイ"
 title_reading = "レエイレエイ"
 artist = "かいりきベア feat.松下"
@@ -13150,7 +13150,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1014"
+id = "1018"
 title = "Jörqer"
 title_reading = "JORQER"
 artist = "owl＊tree feat.yu＊tree"
@@ -13167,7 +13167,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1016"
+id = "1020"
 title = '''Sqlupp (Camellia's "Sqleipd*Hiytex" Remix)'''
 title_reading = "SQLUPPCAMELLIAREMIX"
 artist = "owl＊tree Remixed by Camellia"
@@ -13235,7 +13235,7 @@ expert = "9"
 master = "12"
 
 [[songs]]
-id = "1138"
+id = "1142"
 title = '≠彡"/了→'
 title_reading = "キミツアア"
 artist = "水野健治"
@@ -13252,7 +13252,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1103"
+id = "1107"
 title = "BREaK! BREaK! BREaK!"
 title_reading = "BREAKBREAKBREAK"
 artist = "HiTECH NINJA vs Cranky"
@@ -13269,7 +13269,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "1125"
+id = "1129"
 title = "Heavenly Blast"
 title_reading = "HEAVENLYBLAST"
 artist = "xi"
@@ -13286,7 +13286,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "916"
+id = "920"
 title = "Paradisoda"
 title_reading = "PARADISODA"
 artist = "魂音泉"
@@ -13303,7 +13303,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "913"
+id = "917"
 title = "VANTABLACK RAVER"
 title_reading = "VANTABLACKRAVER"
 artist = "DIVELA feat.桐谷こむぎ"
@@ -13320,7 +13320,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1128"
+id = "1132"
 title = "時計の国のジェミニ"
 title_reading = "トケイノクニノシエミニ"
 artist = "黒魔"
@@ -13337,7 +13337,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1121"
+id = "1125"
 title = "Xenovcipher"
 title_reading = "XENOVCIPHER"
 artist = "Juggernaut."
@@ -13354,7 +13354,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "915"
+id = "919"
 title = "星めぐり、果ての君へ。"
 title_reading = "ホシメクリハテノキミヘ"
 artist = "TAKU1175 ft.駄々子"
@@ -13372,7 +13372,7 @@ master = "12+"
 remaster = "13"
 
 [[songs]]
-id = "914"
+id = "918"
 title = "スローアライズ"
 title_reading = "スロオアライス"
 artist = "Endorfin."
@@ -13389,7 +13389,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "878"
+id = "882"
 title = "チエルカ／エソテリカ"
 title_reading = "チエルカエソテリカ"
 artist = "ツミキ × 宮下遊"
@@ -13406,7 +13406,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "917"
+id = "921"
 title = "生命不詳"
 title_reading = "セイメイフシヨウ"
 artist = "蜂屋ななし"
@@ -13423,7 +13423,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1122"
+id = "1126"
 title = "Never Give Up!"
 title_reading = "NEVERGIVEUP"
 artist = "nanobii"
@@ -13441,7 +13441,7 @@ master = "13+"
 remaster = "13+"
 
 [[songs]]
-id = "1117"
+id = "1121"
 title = "Starry Colors"
 title_reading = "STARRYCOLORS"
 artist = "BlackY feat. Risa Yuzuki"
@@ -13458,7 +13458,7 @@ expert = "11"
 master = "14"
 
 [[songs]]
-id = "1129"
+id = "1133"
 title = "ほしぞらスペクタクル"
 title_reading = "ホシソラスヘクタクル"
 artist = "奏音"
@@ -13475,7 +13475,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1124"
+id = "1128"
 title = "Last Samurai"
 title_reading = "LASTSAMURAI"
 artist = "Street"
@@ -13492,7 +13492,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1120"
+id = "1124"
 title = "蒼穹舞楽"
 title_reading = "ソウキユウフカク"
 artist = "Capchii"
@@ -13509,7 +13509,7 @@ expert = "12+"
 master = "13+"
 
 [[songs]]
-id = "1123"
+id = "1127"
 title = "AMABIE"
 title_reading = "AMABIE"
 artist = "OSTER project"
@@ -13526,7 +13526,7 @@ expert = "12"
 master = "14+"
 
 [[songs]]
-id = "1279"
+id = "1283"
 title = "オーケー？　オーライ！"
 title_reading = "オウケエオウライ"
 artist = "五十嵐 撫子(CV:花井 美春)"
@@ -13543,7 +13543,7 @@ expert = "9"
 master = "12+"
 
 [[songs]]
-id = "1281"
+id = "1285"
 title = "サヨナラフリーウェイ"
 title_reading = "サヨナラフリイウエイ"
 artist = "萩原 七々瀬(CV:東城 日沙子)"
@@ -13560,7 +13560,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "1282"
+id = "1286"
 title = "単一指向性オーバーブルーム"
 title_reading = "タンイツシコウセイオウハアフルウム"
 artist = "葛城 華(CV:丸岡 和佳奈)"
@@ -13578,7 +13578,7 @@ master = "13"
 remaster = "13+"
 
 [[songs]]
-id = "1283"
+id = "1287"
 title = "みなえをチェック！"
 title_reading = "ミナエヲチエツク"
 artist = "小野 美苗(CV:伊藤 美来)"
@@ -13595,7 +13595,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1311"
+id = "1315"
 title = "ハジマリノピアノ"
 title_reading = "ハシマリノヒアノ"
 artist = "ゆゆうた"
@@ -13612,7 +13612,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1241"
+id = "1245"
 title = "BOUNCE & DANCE"
 title_reading = "BOUNCEDANCE"
 artist = "IOSYS TRAX"
@@ -13629,7 +13629,7 @@ expert = "10"
 master = "13+"
 
 [[songs]]
-id = "1220"
+id = "1224"
 title = "Kiss Me Kiss"
 title_reading = "KISSMEKISS"
 artist = "曲：大畑拓也／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]"
@@ -13646,7 +13646,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "1242"
+id = "1246"
 title = "MEGATON BLAST"
 title_reading = "MEGATONBLAST"
 artist = "BlackY vs. Yooh"
@@ -13663,7 +13663,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1215"
+id = "1219"
 title = "Splash Dance!!"
 title_reading = "SPLASHDANCE"
 artist = "曲：Q-MHz／歌：オンゲキシューターズ"
@@ -14309,7 +14309,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1307"
+id = "1311"
 title = "宿星審判"
 title_reading = "シユクセイシンハン"
 artist = "suzu"
@@ -14326,7 +14326,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1243"
+id = "1247"
 title = "脳天直撃"
 title_reading = "ノウテンチヨクケキ"
 artist = "黒沢ダイスケ VS 穴山大輔"
@@ -14343,7 +14343,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "912"
+id = "916"
 title = "とびだせ！TO THE COSMIC!!"
 title_reading = "トヒタセトウウサコスミツク"
 artist = "t+pazolite feat. しゃま(CV:種﨑 敦美) & みるく(CV:伊藤 あすか)"
@@ -14360,7 +14360,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "943"
+id = "947"
 title = "噛み係"
 title_reading = "カミカカリ"
 artist = "さつき が てんこもり feat.96猫"
@@ -14377,7 +14377,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "911"
+id = "915"
 title = "トリアージ"
 title_reading = "トリアアシ"
 artist = "niki feat.noire"
@@ -14394,7 +14394,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1114"
+id = "1118"
 title = "NAGAREBOSHI☆ROCKET"
 title_reading = "NAGAREBOSHIROCKET"
 artist = "梅干茶漬け"
@@ -14411,7 +14411,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1116"
+id = "1120"
 title = "U&iVERSE -銀河鸞翔-"
 title_reading = "UNIVERSEキンカランシヨウ"
 artist = "Kai VS 大国奏音 VS 水野健治"
@@ -14428,7 +14428,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1113"
+id = "1117"
 title = "BLACK SWAN"
 title_reading = "BLACKSWAN"
 artist = "ぺのれり"
@@ -14445,7 +14445,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "1112"
+id = "1116"
 title = "星詠みとデスペラード"
 title_reading = "ホシヨミトテスヘラアト"
 artist = "しょご/野村渉悟"
@@ -14462,7 +14462,7 @@ expert = "11+"
 master = "14"
 
 [[songs]]
-id = "1106"
+id = "1110"
 title = "Round Round Spinning Around"
 title_reading = "ROUNDROUNDSPINNINGAROUND"
 artist = "Nhato"
@@ -14479,7 +14479,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1107"
+id = "1111"
 title = "Alcyone"
 title_reading = "ALCYONE"
 artist = "PRASTIK DANCEFLOOR"
@@ -14496,7 +14496,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1105"
+id = "1109"
 title = "Raven Emperor"
 title_reading = "RAVENEMPEROR"
 artist = "Kobaryo"
@@ -14513,7 +14513,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1099"
+id = "1103"
 title = "Yorugao"
 title_reading = "YORUGAO"
 artist = "An & Ryunosuke Kudo"
@@ -14530,7 +14530,7 @@ expert = "12"
 master = "14+"
 
 [[songs]]
-id = "910"
+id = "914"
 title = "ヨミビトシラズ"
 title_reading = "ヨミヒトシラス"
 artist = "Limonène (サノカモメ+月島春果)"
@@ -14547,7 +14547,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "909"
+id = "913"
 title = "前衛的Landscape"
 title_reading = "センエイテキラントスケエフ"
 artist = "HiTECH NINJA feat. RANASOL"
@@ -14564,7 +14564,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1111"
+id = "1115"
 title = "Trick tear"
 title_reading = "TRICKTEAR"
 artist = "しーけー"
@@ -14581,7 +14581,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1115"
+id = "1119"
 title = "躯樹の墓守"
 title_reading = "ムクロシユノハカモリ"
 artist = "隣の庭は青い(庭師+Aoi)"
@@ -14598,7 +14598,7 @@ expert = "13"
 master = "14+"
 
 [[songs]]
-id = "1226"
+id = "1230"
 title = "ぱくぱく☆がーる"
 title_reading = "ハクハクカアル"
 artist = "曲：齋藤大／歌：珠洲島 有栖(CV：長縄 まりあ)"
@@ -14615,7 +14615,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1216"
+id = "1220"
 title = "No Limit RED Force"
 title_reading = "NOLIMITREDFORCE"
 artist = "曲：本多友紀（Arte Refact）／歌：オンゲキシューターズ"
@@ -14632,7 +14632,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "1244"
+id = "1248"
 title = "LiftOff"
 title_reading = "LIFTOFF"
 artist = "MAYA AKAI"
@@ -14649,7 +14649,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1245"
+id = "1249"
 title = "Falsum Atlantis."
 title_reading = "FALSUMATLANTIS"
 artist = "kanone"
@@ -14666,7 +14666,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1285"
+id = "1289"
 title = "We Are Us"
 title_reading = "WEAREUS"
 artist = "舞ヶ原シンセ研究会"
@@ -14683,7 +14683,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1286"
+id = "1290"
 title = "Limits"
 title_reading = "LIMITS"
 artist = "舞ヶ原シンセ研究会"
@@ -14700,7 +14700,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1308"
+id = "1312"
 title = "スピカの天秤"
 title_reading = "スヒカノテンヒン"
 artist = "Acotto"
@@ -14717,7 +14717,7 @@ expert = "13"
 master = "14"
 
 [[songs]]
-id = "1309"
+id = "1313"
 title = "ハードコア・シンドローム"
 title_reading = "ハアトコアシントロオム"
 artist = "t+pazolite (HARDCORE TANO*C) feat.TANO*C ALL STARS"
@@ -15265,7 +15265,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1108"
+id = "1112"
 title = "Lia=Fail"
 title_reading = "LIAFAIL"
 artist = "Team Grimoire"
@@ -15368,7 +15368,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "1100"
+id = "1104"
 title = "GIGANTØMAKHIA"
 title_reading = "GIGANTOMAKHIA"
 artist = "BlackYooh vs. siromaru"
@@ -15385,7 +15385,7 @@ expert = "13"
 master = "14+"
 
 [[songs]]
-id = "882"
+id = "886"
 title = "ミルキースター・シューティングスター"
 title_reading = "ミルキイスタアシユウテインクスタア"
 artist = "烏屋茶房 feat. 利香"
@@ -15402,7 +15402,7 @@ expert = "10+"
 master = "12+"
 
 [[songs]]
-id = "908"
+id = "912"
 title = "ｉｓｏｐｈｏｔｅ"
 title_reading = "ISOPHOTE"
 artist = "パソコン音楽クラブ feat.ぷにぷに電機"
@@ -15419,7 +15419,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1098"
+id = "1102"
 title = "パラマウント☆ショータイム！！"
 title_reading = "ハラマウントシヨオタイム"
 artist = "翡乃イスカ"
@@ -15436,7 +15436,7 @@ expert = "11+"
 master = "14"
 
 [[songs]]
-id = "1080"
+id = "1084"
 title = "Strive against fate"
 title_reading = "STRIVEAGAINSTFATE"
 artist = "Noah"
@@ -15453,7 +15453,7 @@ expert = "13"
 master = "14"
 
 [[songs]]
-id = "1204"
+id = "1208"
 title = "sølips"
 title_reading = "SOLIPS"
 artist = "rintaro soma"
@@ -15504,7 +15504,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1091"
+id = "1095"
 title = "HECATONCHEIR"
 title_reading = "HECATONCHEIR"
 artist = "Yuta Imai"
@@ -15521,7 +15521,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1079"
+id = "1083"
 title = "Irresistible"
 title_reading = "IRRESISTIBLE"
 artist = "MK"
@@ -15538,7 +15538,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1078"
+id = "1082"
 title = "HAGAKIRI"
 title_reading = "HAGAKIRI"
 artist = "Masayoshi Iimori"
@@ -15555,7 +15555,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1075"
+id = "1079"
 title = "N3V3R G3T OV3R"
 title_reading = "N3V3RG3TOV3R"
 artist = "C-Show"
@@ -15572,7 +15572,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1032"
+id = "1036"
 title = "Swift Swing"
 title_reading = "SWIFTSWING"
 artist = "Laur"
@@ -15589,7 +15589,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "879"
+id = "883"
 title = "星空パーティーチューン"
 title_reading = "ホシソラハアテイイチユウン"
 artist = "OSTER project feat. そらこ"
@@ -15606,7 +15606,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1077"
+id = "1081"
 title = "チューリングの跡"
 title_reading = "チユウリンクノアト"
 artist = "Frums"
@@ -15623,7 +15623,7 @@ expert = "13"
 master = "14+"
 
 [[songs]]
-id = "1092"
+id = "1096"
 title = "Sage"
 title_reading = "SAGE"
 artist = "かめりあ"
@@ -15640,7 +15640,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "934"
+id = "938"
 title = "OTOGEMA"
 title_reading = "OTOGEMA"
 artist = "ビートまりお"
@@ -15657,7 +15657,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1081"
+id = "1085"
 title = "WiPE OUT MEMORIES"
 title_reading = "WIPEOUTMEMORIES"
 artist = "t+pazolite"
@@ -15674,7 +15674,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "1093"
+id = "1097"
 title = "Metamorphosism"
 title_reading = "METAMORPHOSISM"
 artist = "削除"
@@ -15691,7 +15691,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "1090"
+id = "1094"
 title = "白花の天使"
 title_reading = "ハクカノテンシ"
 artist = "Yu-dachi"
@@ -15708,7 +15708,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1097"
+id = "1101"
 title = "World's end loneliness"
 title_reading = "WORLDSENDLONELINESS"
 artist = "打打だいず"
@@ -15725,7 +15725,7 @@ expert = "13"
 master = "14+"
 
 [[songs]]
-id = "907"
+id = "911"
 title = "Jouez Avec Moi?"
 title_reading = "JOUEZAVECMOI"
 artist = "Retropolitaliens (Ms.+駄々子)"
@@ -15742,7 +15742,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1248"
+id = "1252"
 title = "Good bye, Merry-Go-Round."
 title_reading = "GOODBYEMERRYGOROUND"
 artist = "Yooh"
@@ -15759,7 +15759,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1300"
+id = "1304"
 title = "ツクヨミステップ"
 title_reading = "ツクヨミステツフ"
 artist = "ユリイ・カノン feat.nameless"
@@ -15776,7 +15776,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1302"
+id = "1306"
 title = "folern"
 title_reading = "FOLERN"
 artist = "ぬゆり"
@@ -15793,7 +15793,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1301"
+id = "1305"
 title = "コスモポップファンクラブ"
 title_reading = "コスモホツフフアンクラフ"
 artist = "ナユタン星人"
@@ -15810,7 +15810,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1219"
+id = "1223"
 title = "撩乱乙女†無双劇"
 title_reading = "リヨウランオトメムソウケキ"
 artist = "曲：Haggy Rock & 佐藤厚仁／歌：⊿TRiEDGE [高瀬 梨緒(CV：久保 ユリカ)、結城 莉玖(CV：朝日奈 丸佳)、藍原 椿(CV：橋本 ちなみ)]"
@@ -15827,7 +15827,7 @@ expert = "11+"
 master = "13"
 
 [[songs]]
-id = "1246"
+id = "1250"
 title = "See The Light"
 title_reading = "SEETHELIGHT"
 artist = "anubasu-anubasu"
@@ -15844,7 +15844,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1247"
+id = "1251"
 title = "エータ・ベータ・イータ"
 title_reading = "エエタヘエタイイタ"
 artist = "ルゼ"
@@ -16338,7 +16338,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "1304"
+id = "1308"
 title = "8-EM"
 title_reading = "8EM"
 artist = "Sampling Masters AYA"
@@ -16372,7 +16372,7 @@ expert = "9"
 master = "13"
 
 [[songs]]
-id = "906"
+id = "910"
 title = "遺伝子レベル∞スパイラル"
 title_reading = "イテンシレヘルスハイラル"
 artist = "NAOKI feat.小坂りゆ"
@@ -16389,7 +16389,7 @@ expert = "9+"
 master = "13+"
 
 [[songs]]
-id = "1303"
+id = "1307"
 title = "otorii INNOVATED -[i]3-"
 title_reading = "OTORIIINNOVATEDI3"
 artist = "NAOKI underground"
@@ -16440,7 +16440,7 @@ expert = "9"
 master = "12+"
 
 [[songs]]
-id = "1299"
+id = "1303"
 title = "パズルリボン"
 title_reading = "ハスルリホン"
 artist = "すりぃ feat.りょーくん"
@@ -16474,7 +16474,7 @@ expert = "9"
 master = "12"
 
 [[songs]]
-id = "1218"
+id = "1222"
 title = "Transcend Lights"
 title_reading = "TRANSCENDLIGHTS"
 artist = "曲：小高光太郎／歌：オンゲキシューターズ"
@@ -16491,7 +16491,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "905"
+id = "909"
 title = "ホシシズク"
 title_reading = "ホシシスク"
 artist = "森羅万象"
@@ -16508,7 +16508,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "902"
+id = "906"
 title = "Rainbow Rush Story"
 title_reading = "RAINBOWRUSHSTORY"
 artist = "いるかアイス feat.ちょこ"
@@ -16525,7 +16525,7 @@ expert = "10"
 master = "13+"
 
 [[songs]]
-id = "1068"
+id = "1072"
 title = "Tricolor⁂circuS"
 title_reading = "TRICOLORCIRCUS"
 artist = "ああ…翡翠茶漬け…"
@@ -16542,7 +16542,7 @@ expert = "10+"
 master = "14"
 
 [[songs]]
-id = "1058"
+id = "1062"
 title = "[X]"
 title_reading = "INFINITY"
 artist = "Blacklolita"
@@ -16576,7 +16576,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1069"
+id = "1073"
 title = "mystique as iris"
 title_reading = "MYSTIQUEASIRIS"
 artist = "かねこちはる"
@@ -16593,7 +16593,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "1066"
+id = "1070"
 title = "Rising on the horizon"
 title_reading = "RISINGONTHEHORIZON"
 artist = "TAG"
@@ -16610,7 +16610,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1063"
+id = "1067"
 title = "You Mean the World to Me"
 title_reading = "YOUMEANTHEWORLDTOME"
 artist = "Mameyudoufu feat. Shully"
@@ -16627,7 +16627,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1062"
+id = "1066"
 title = "Neon Kingdom"
 title_reading = "NEONKINGDOM"
 artist = "litmus*"
@@ -16644,7 +16644,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1059"
+id = "1063"
 title = "#狂った民族２ PRAVARGYAZOOQA"
 title_reading = "クルツタミンソク2PRAVARGYAZOOQA"
 artist = "DJ Raisei"
@@ -16661,7 +16661,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1064"
+id = "1068"
 title = "VSpook!"
 title_reading = "VSPOOK"
 artist = "s-don"
@@ -16678,7 +16678,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "889"
+id = "893"
 title = "RIFFRAIN"
 title_reading = "RIFFRAIN"
 artist = "夏代孝明"
@@ -16695,7 +16695,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "903"
+id = "907"
 title = "Falling"
 title_reading = "FALLING"
 artist = "シノ feat.しほ"
@@ -16712,7 +16712,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "888"
+id = "892"
 title = "ピリオドサイン"
 title_reading = "ヒリオトサイン"
 artist = "Ponchi♪ feat.はぁち"
@@ -16729,7 +16729,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "904"
+id = "908"
 title = "群青シグナル"
 title_reading = "クンシヨウシクナル"
 artist = "テヅカ feat. 獅子神レオナ"
@@ -16746,7 +16746,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1057"
+id = "1061"
 title = "Beat Opera op.1"
 title_reading = "BEATOPERAOP1"
 artist = "bermei.inazawa"
@@ -16763,7 +16763,7 @@ expert = "10+"
 master = "14"
 
 [[songs]]
-id = "1074"
+id = "1078"
 title = "星見草"
 title_reading = "ホシミソウ"
 artist = "秋田 真典"
@@ -16780,7 +16780,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1067"
+id = "1071"
 title = '"411Ψ892"'
 title_reading = "411892"
 artist = "Tanchiky"
@@ -16797,7 +16797,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1065"
+id = "1069"
 title = "康莊大道"
 title_reading = "ヒカリニテラサレルオオミチ"
 artist = "Spiegel vs Yukino"
@@ -16814,7 +16814,7 @@ expert = "13"
 master = "14+"
 
 [[songs]]
-id = "1294"
+id = "1298"
 title = "蜘蛛の糸"
 title_reading = "クモノイト"
 artist = "きくお×cosMo＠暴走P feat.影縫英"
@@ -16831,7 +16831,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1251"
+id = "1255"
 title = "Don't Fight The Music"
 title_reading = "DONTFIGHTTHEMUSIC"
 artist = "黒魔"
@@ -16848,7 +16848,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1225"
+id = "1229"
 title = "Catch Me If You Can"
 title_reading = "CATCHMEIFYOUCAN"
 artist = "曲：TAKU INOUE／歌：早乙女 彩華(CV：中島 唯)"
@@ -16865,7 +16865,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1249"
+id = "1253"
 title = "MAGNETAR GIRL"
 title_reading = "MAGNETARGIRL"
 artist = "Yu-dachi"
@@ -16882,7 +16882,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1250"
+id = "1254"
 title = "SUPER AMBULANCE"
 title_reading = "SUPERAMBULANCE"
 artist = "AJURIKA"
@@ -16899,7 +16899,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1295"
+id = "1299"
 title = "Ghost Dance"
 title_reading = "GHOSTDANCE"
 artist = "亜沙 feat.くろくも"
@@ -16916,7 +16916,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1297"
+id = "1301"
 title = "電光石火"
 title_reading = "テンコウセツカ"
 artist = "HiTECH NINJA"
@@ -16933,7 +16933,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1298"
+id = "1302"
 title = "Hainuwele"
 title_reading = "HAINUWELE"
 artist = "ETIA."
@@ -17650,7 +17650,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "1203"
+id = "1207"
 title = "ViRTUS"
 title_reading = "VIRTUS"
 artist = "Hiro"
@@ -17684,7 +17684,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1296"
+id = "1300"
 title = "ピュグマリオンの咒文"
 title_reading = "ヒユクマリオンノシユモン"
 artist = "アリスシャッハと魔法の楽団"
@@ -17701,7 +17701,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "887"
+id = "891"
 title = "トノサマビーム"
 title_reading = "トノサマヒイム"
 artist = "ぼっちぼろまる"
@@ -17718,7 +17718,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "1049"
+id = "1053"
 title = "enchanted wanderer"
 title_reading = "ENCHANTEDWANDERER"
 artist = "linear ring"
@@ -17735,7 +17735,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1050"
+id = "1054"
 title = "Comet Panto Men!"
 title_reading = "COMETPANTOMEN"
 artist = "MYUKKE."
@@ -17752,7 +17752,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "900"
+id = "904"
 title = "ツムギボシ"
 title_reading = "ツムキホシ"
 artist = "大国奏音 feat.timao"
@@ -17769,7 +17769,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1051"
+id = "1055"
 title = "VeRForTe αRtE:VEiN"
 title_reading = "VERFORTEARTEVEIN"
 artist = "orangentle"
@@ -17820,7 +17820,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1030"
+id = "1034"
 title = "The Great Banquet"
 title_reading = "THEGREATBANQUET"
 artist = "Iris"
@@ -17837,7 +17837,7 @@ expert = "11"
 master = "14"
 
 [[songs]]
-id = "1040"
+id = "1044"
 title = "Redemption"
 title_reading = "REDEMPTION"
 artist = "XinG、10lulu"
@@ -17854,7 +17854,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1026"
+id = "1030"
 title = "Ether Second"
 title_reading = "ETHERSECOND"
 artist = "Akira Complex"
@@ -17871,7 +17871,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1028"
+id = "1032"
 title = "Straight into the lights"
 title_reading = "STRAIGHTINTOTHELIGHTS"
 artist = "Cosmograph"
@@ -17888,7 +17888,7 @@ expert = "12"
 master = "14+"
 
 [[songs]]
-id = "898"
+id = "902"
 title = "アンバークロニクル"
 title_reading = "アンハアクロニクル"
 artist = "しーけー feat.ricono"
@@ -17905,7 +17905,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "899"
+id = "903"
 title = "リフヴェイン"
 title_reading = "リフウエイン"
 artist = "青栗鼠 feat.sekai"
@@ -17922,7 +17922,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "896"
+id = "900"
 title = "Kairos"
 title_reading = "KAIROS"
 artist = "ARForest feat.nayuta"
@@ -17939,7 +17939,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "897"
+id = "901"
 title = "宵の鳥"
 title_reading = "ヨイノトリ"
 artist = "n.k feat.影縫英"
@@ -17956,7 +17956,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1054"
+id = "1058"
 title = "ここからはじまるプロローグ。 (Kanon Remix)"
 title_reading = "ココカラハシマルフロロオクKANONREMIX"
 artist = "ああああ／大国奏音"
@@ -17973,7 +17973,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1055"
+id = "1059"
 title = "モ°ルモ°ル (MZK Skippin' Remix)"
 title_reading = "モルモルMZKSKIPPINREMIX"
 artist = "sasakure.UK／水野健治"
@@ -17990,7 +17990,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1056"
+id = "1060"
 title = "VERTeX (rintaro soma deconstructed remix)"
 title_reading = "VERTEXRINTAROSOMADECONSTRUCTEDREMIX"
 artist = "Hiro／rintaro soma"
@@ -18007,7 +18007,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "886"
+id = "890"
 title = "隠密あんみつDX"
 title_reading = "オンミツアンミツDX"
 artist = "カルロス袴田 feat. 日南めい, 古川由彩"
@@ -18024,7 +18024,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "901"
+id = "905"
 title = "地球"
 title_reading = "チキユウ"
 artist = "立秋 feat.ちょこ"
@@ -18041,7 +18041,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1052"
+id = "1056"
 title = "Churros Parlor"
 title_reading = "CHURROSPARLOR"
 artist = "ピエロ☆マン"
@@ -18058,7 +18058,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1048"
+id = "1052"
 title = "超熊猫的周遊記（ワンダーパンダートラベラー）"
 title_reading = "ワンタアハンタアトラヘラア"
 artist = "FANTAGIRAFF"
@@ -18075,7 +18075,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "1293"
+id = "1297"
 title = "Trrricksters!!"
 title_reading = "TRRRICKSTERS"
 artist = "s-don vs. 翡乃イスカ"
@@ -18092,7 +18092,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1237"
+id = "1241"
 title = "FLUFFY FLASH"
 title_reading = "FLUFFYFLASH"
 artist = "Kobaryo"
@@ -18109,7 +18109,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1217"
+id = "1221"
 title = "STARRED HEART"
 title_reading = "STARREDHEART"
 artist = "曲：広川恵一 (MONACA)／歌：オンゲキシューターズ"
@@ -18126,7 +18126,7 @@ expert = "9+"
 master = "12"
 
 [[songs]]
-id = "1222"
+id = "1226"
 title = "Y.Y.Y.計画!!!!"
 title_reading = "YYYケイカク"
 artist = "曲：烏屋茶房／歌：R.B.P. [九條 楓(CV：佳村 はるか)、逢坂 茜(CV：大空 直美)、珠洲島 有栖(CV：長縄 まりあ)]"
@@ -18143,7 +18143,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1236"
+id = "1240"
 title = "Last Kingdom"
 title_reading = "LASTKINGDOM"
 artist = "USAO"
@@ -18160,7 +18160,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1234"
+id = "1238"
 title = "LAMIA"
 title_reading = "LAMIA"
 artist = "BlackY"
@@ -18945,7 +18945,7 @@ expert = "10"
 master = "12"
 
 [[songs]]
-id = "1253"
+id = "1257"
 title = "『ウソテイ』 ～一回戦せりなvsしろなvsなずな～"
 title_reading = "ウソテイイツカイセンセリナVSシロナVSナスナ"
 artist = "イロドリミドリ「CHUNITHM」"
@@ -18962,7 +18962,7 @@ expert = "10"
 master = "13+"
 
 [[songs]]
-id = "1280"
+id = "1284"
 title = "Bad Apple!! feat.nomico ～五十嵐 撫子 Ver.～"
 title_reading = "BADAPPLEFEATNOMICOイカラシナテシコVER"
 artist = "Masayoshi Minoshima [covered by 五十嵐 撫子(CV:花井 美春)]"
@@ -18979,7 +18979,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1252"
+id = "1256"
 title = "Snow Colored Score"
 title_reading = "SNOWCOLOREDSCORE"
 artist = "イロドリミドリ「CHUNITHM」"
@@ -19013,7 +19013,7 @@ expert = "10"
 master = "13+"
 
 [[songs]]
-id = "880"
+id = "884"
 title = "NOIZY BOUNCE"
 title_reading = "NOIZYBOUNCE"
 artist = "八王子P feat. ななひら・まめこ"
@@ -19030,7 +19030,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "895"
+id = "899"
 title = "サンバディ！"
 title_reading = "サンハテイ"
 artist = "水野健治 feat.光吉猛修"
@@ -19047,7 +19047,7 @@ expert = "9+"
 master = "13"
 
 [[songs]]
-id = "1034"
+id = "1038"
 title = "Horoscope Express"
 title_reading = "HOROSCOPEEXPRESS"
 artist = "pan"
@@ -19064,7 +19064,7 @@ expert = "11"
 master = "14"
 
 [[songs]]
-id = "1039"
+id = "1043"
 title = "Party☆People☆Princess"
 title_reading = "PARTYPEOPLEPRINCESS"
 artist = "Sound Artz"
@@ -19081,7 +19081,7 @@ expert = "11+"
 master = "14"
 
 [[songs]]
-id = "1031"
+id = "1035"
 title = "Latent Kingdom"
 title_reading = "LATENTKINGDOM"
 artist = "Laur vs 大国奏音"
@@ -19132,7 +19132,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "1045"
+id = "1049"
 title = "ぽわわん劇場"
 title_reading = "ホワワンケキシヨウ"
 artist = "ぽわわん劇場"
@@ -19149,7 +19149,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1029"
+id = "1033"
 title = "my flow"
 title_reading = "MYFLOW"
 artist = "crayvxn"
@@ -19166,7 +19166,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1041"
+id = "1045"
 title = "POWER OF UNITY"
 title_reading = "POWEROFUNITY"
 artist = "Zekk"
@@ -19183,7 +19183,7 @@ expert = "12"
 master = "13+"
 
 [[songs]]
-id = "1027"
+id = "1031"
 title = "Energizing Flame"
 title_reading = "ENERGIZINGFLAME"
 artist = "Artifact vs. Dualcast"
@@ -19200,7 +19200,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1042"
+id = "1046"
 title = "KHYMΞXΛ"
 title_reading = "KHYMERA"
 artist = "のらねこさい feat.ricono"
@@ -19217,7 +19217,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "881"
+id = "885"
 title = "フェイクフェイス・フェイルセイフ"
 title_reading = "フエイクフエイスフエイルセイフ"
 artist = "カラスヤサボウ feat. もるでお"
@@ -19234,7 +19234,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "885"
+id = "889"
 title = "ふらふらふら、"
 title_reading = "フラフラフラ"
 artist = "アオワイファイ feat.犀羅"
@@ -19251,7 +19251,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "883"
+id = "887"
 title = "シックスプラン"
 title_reading = "シツクスフラン"
 artist = "針原翼（はりーP）feat. はく"
@@ -19268,7 +19268,7 @@ expert = "9"
 master = "13"
 
 [[songs]]
-id = "884"
+id = "888"
 title = "フタタビ"
 title_reading = "フタタヒ"
 artist = "KAZE Lab"
@@ -19285,7 +19285,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1289"
+id = "1293"
 title = "SQUAD-Phvntom-"
 title_reading = "SQUADPHVNTOM"
 artist = "Getty vs DJ DiA"
@@ -19302,7 +19302,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1235"
+id = "1239"
 title = "GEOMETRIC DANCE"
 title_reading = "GEOMETRICDANCE"
 artist = "山本真央樹"
@@ -19319,7 +19319,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1291"
+id = "1295"
 title = "Ring"
 title_reading = "RING"
 artist = "R Sound Design feat.向日葵"
@@ -19336,7 +19336,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "1290"
+id = "1294"
 title = "インパアフェクシオン・ホワイトガアル"
 title_reading = "インハアフエクシオンホワイトカアル"
 artist = "ツミキ feat.月乃"
@@ -19353,7 +19353,7 @@ expert = "11"
 master = "14"
 
 [[songs]]
-id = "1292"
+id = "1296"
 title = "WE'RE BACK!!"
 title_reading = "WEREBACK"
 artist = "Zekk"
@@ -19883,7 +19883,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1233"
+id = "1237"
 title = "Apollo"
 title_reading = "APOLLO"
 artist = "TJ.hangneil"
@@ -19900,7 +19900,7 @@ expert = "13"
 master = "14+"
 
 [[songs]]
-id = "1035"
+id = "1039"
 title = "raputa"
 title_reading = "RAPUTA"
 artist = "sasakure.UK × TJ.hangneil"
@@ -19917,7 +19917,7 @@ expert = "13+"
 master = "14+"
 
 [[songs]]
-id = "1205"
+id = "1209"
 title = "系ぎて"
 title_reading = "ツナキテ"
 artist = "rintaro soma"
@@ -20003,7 +20003,7 @@ expert = "10"
 master = "12+"
 
 [[songs]]
-id = "1305"
+id = "1309"
 title = "PinqPiq (xovevox Remix)"
 title_reading = "PINQPIQXOVEVOXREMIX"
 artist = "owl＊tree Remixed by sasakure.UK"
@@ -20020,7 +20020,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "876"
+id = "880"
 title = "エスオーエス"
 title_reading = "エスオウエス"
 artist = "カロンズベカラズ"
@@ -20037,7 +20037,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "877"
+id = "881"
 title = "のじゃロリック"
 title_reading = "ノシヤロリツク"
 artist = "なみぐる feat.ちょこ 桃寝ちのい"
@@ -20054,7 +20054,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1020"
+id = "1024"
 title = "Edelweiss"
 title_reading = "EDELWEISS"
 artist = "やどりぎ"
@@ -20071,7 +20071,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "1013"
+id = "1017"
 title = "QuiQ"
 title_reading = "QUIQ"
 artist = "owl＊tree feat.nie＊tree"
@@ -20088,7 +20088,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1019"
+id = "1023"
 title = "IF:U"
 title_reading = "IFU"
 artist = "MisoilePunch♪"
@@ -20105,7 +20105,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "1053"
+id = "1057"
 title = "Cider P@rty"
 title_reading = "CIDERPARTY"
 artist = "Ryo Fukuda"
@@ -20122,7 +20122,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1021"
+id = "1025"
 title = "勦滅"
 title_reading = "ソウメツ"
 artist = "siqlo"
@@ -20139,7 +20139,7 @@ expert = "11+"
 master = "14"
 
 [[songs]]
-id = "1022"
+id = "1026"
 title = "Lunatic Vibes"
 title_reading = "LUNATICVIBES"
 artist = "K-forest"
@@ -20156,7 +20156,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1023"
+id = "1027"
 title = "Bloody Trail"
 title_reading = "BLOODYTRAIL"
 artist = "Hommarju"
@@ -20173,7 +20173,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "891"
+id = "895"
 title = "RE:INCARNATED DRAGNER"
 title_reading = "REINCARNATEDDRAGNER"
 artist = "黒沢ダイスケ × 小寺可南子"
@@ -20190,7 +20190,7 @@ expert = "11+"
 master = "13+"
 
 [[songs]]
-id = "892"
+id = "896"
 title = "Beginning together!"
 title_reading = "BEGINNINGTOGETHER"
 artist = "高瀬一矢 feat. R.I.N.A"
@@ -20207,7 +20207,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "893"
+id = "897"
 title = "Shining Ray ～僕らの絆～"
 title_reading = "SHININGRAYホクラノキスナ"
 artist = "伊藤和馬(Arte Refact) feat.konoco"
@@ -20224,7 +20224,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "894"
+id = "898"
 title = "DEVOTION"
 title_reading = "DEVOTION"
 artist = "AJURIKA feat.SAK."
@@ -20241,7 +20241,7 @@ expert = "11+"
 master = "14"
 
 [[songs]]
-id = "890"
+id = "894"
 title = "Geranium"
 title_reading = "GERANIUM"
 artist = "Osanzi feat.藍月なくる"
@@ -20258,7 +20258,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1024"
+id = "1028"
 title = "The Cursed Doll"
 title_reading = "THECURSEDDOLL"
 artist = "清風明月（Drop×葉月ゆら）"
@@ -20275,7 +20275,7 @@ expert = "11"
 master = "13"
 
 [[songs]]
-id = "1025"
+id = "1029"
 title = "RondeauX of RagnaroQ"
 title_reading = "RONDEAUXOFRAGNAROQ"
 artist = "Morrigan feat.Lily and 結城碧"
@@ -20292,7 +20292,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1201"
+id = "1205"
 title = "ℝ∈Χ LUNATiCA"
 title_reading = "REXLUNATICA"
 artist = "Kai"
@@ -20309,7 +20309,7 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
-id = "1287"
+id = "1291"
 title = "Λzure Vixen"
 title_reading = "AZUREVIXEN"
 artist = "かめりあ"
@@ -20326,7 +20326,7 @@ expert = "13"
 master = "14+"
 
 [[songs]]
-id = "1230"
+id = "1234"
 title = "MarbleBlue."
 title_reading = "MARBLEBLUE"
 artist = "MisoilePunch♪"
@@ -20343,7 +20343,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1228"
+id = "1232"
 title = "まっすぐ→→→ストリーム！"
 title_reading = "マツスクストリイム"
 artist = "曲：本多友紀（Arte Refact）／歌：日向 千夏(CV：岡咲 美保)"
@@ -20360,7 +20360,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1221"
+id = "1225"
 title = "最っ高のエンタメだ!!"
 title_reading = "サイツコウノエンタメタ"
 artist = "曲：本田正樹(Dream Monster)／歌：7EVENDAYS⇔HOLIDAYS [井之原 小星(CV：ももの はるな)、柏木 咲姫(CV：石見 舞菜香)]"
@@ -20377,7 +20377,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1231"
+id = "1235"
 title = "Baqeela"
 title_reading = "BAQEELA"
 artist = "owl＊tree"
@@ -20394,7 +20394,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1232"
+id = "1236"
 title = "Ai C"
 title_reading = "AIC"
 artist = "Feryquitous"
@@ -21061,7 +21061,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1288"
+id = "1292"
 title = "MUSIC PЯAYER"
 title_reading = "MUSICPRAYER"
 artist = "A-One"
@@ -21112,7 +21112,7 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "874"
+id = "878"
 title = "プリズム△▽リズム"
 title_reading = "フリスムリスム"
 artist = "Shoichiro Hirata feat.Sana"
@@ -21202,7 +21202,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "875"
+id = "879"
 title = "Cryptarithm"
 title_reading = "CRYPTARITHM"
 artist = "削除"
@@ -21292,7 +21292,7 @@ expert = "13"
 master = "14+"
 
 [[songs]]
-id = "873"
+id = "877"
 title = "Divide et impera!"
 title_reading = "DIVIDEETIMPERA"
 artist = "BlackY a.k.a. WAiKURO survive"
@@ -21364,7 +21364,79 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1210"
+id = "873"
+title = "Flashback"
+title_reading = "FLASHBACK"
+artist = "RiraN"
+image = "8d23c1808c240e57.png"
+category = "maimai"
+version = "25015"
+release = "2025-02-27"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "874"
+title = "Colorfull:Encounter"
+title_reading = "COLORFULLENCOUNTER"
+artist = "Reku Mochizuki"
+image = "0380745bb9f9388b.png"
+category = "maimai"
+version = "25015"
+release = "2025-02-27"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "875"
+title = "雨露霜雪"
+title_reading = "ウロソウセツ"
+artist = "かねこちはる vs t+pazolite"
+image = "2c80b1a894f03420.png"
+category = "maimai"
+version = "25015"
+release = "2025-02-27"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "9"
+expert = "13"
+master = "14+"
+
+[[songs]]
+id = "876"
+title = "宙天"
+title_reading = "チユウテン"
+artist = "t+pazolite vs かねこちはる"
+image = "92fed24b2755bbb4.png"
+category = "maimai"
+version = "25015"
+release = "2025-02-27"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8+"
+expert = "13"
+master = "14+"
+
+[[songs]]
+id = "1214"
 title = "Elemental Ethnic"
 title_reading = "ELEMENTALETHNIC"
 artist = "Yooh"
@@ -21382,7 +21454,7 @@ expert = "12+"
 master = "14"
 
 [[songs]]
-id = "1211"
+id = "1215"
 title = "美夜月鏡"
 title_reading = "ミヤケツキヨウ"
 artist = "かゆき"
@@ -21400,7 +21472,7 @@ expert = "12"
 master = "14"
 
 [[songs]]
-id = "1207"
+id = "1211"
 title = "Resolution"
 title_reading = "RESOLUTION"
 artist = "曲：ANCHOR／歌：皇城 セツナ(CV：八巻 アンナ)"
@@ -21418,7 +21490,7 @@ expert = "11"
 master = "13+"
 
 [[songs]]
-id = "1206"
+id = "1210"
 title = "いちげき！のテーマ"
 title_reading = "イチケキノテエマ"
 artist = "曲：ヒゲドライバー／歌：いちげきしゅーたーず！"
@@ -21436,7 +21508,7 @@ expert = "10+"
 master = "13"
 
 [[songs]]
-id = "1208"
+id = "1212"
 title = "Radiance"
 title_reading = "RADIANCE"
 artist = "Nhato"
@@ -21454,7 +21526,7 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
-id = "1209"
+id = "1213"
 title = "R'N'R Monsta"
 title_reading = "RNRMONSTA"
 artist = "Lite Show Magic"
@@ -22133,7 +22205,7 @@ image = "a70ad05ed58abaaf.png"
 category = "ゲーム＆バラエティ"
 version = "25014"
 release = "2025-02-14"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22151,7 +22223,7 @@ image = "99e85a1e3f0d8213.png"
 category = "ゲーム＆バラエティ"
 version = "25014"
 release = "2025-02-14"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22169,7 +22241,7 @@ image = "9de079083677da5b.png"
 category = "ゲーム＆バラエティ"
 version = "25014"
 release = "2025-02-14"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -22251,7 +22323,7 @@ expert = "10"
 master = "13"
 
 [[songs]]
-id = "1380"
+id = "1384"
 title = "[協]Love You"
 title_reading = "LOVEYOU"
 artist = "Q;indivi [cover]"
@@ -22268,7 +22340,7 @@ kanji = "協"
 comment = "リア充専用譜面だよ！リア充向けだってば！"
 
 [[songs]]
-id = "1376"
+id = "1380"
 title = "[蔵]In Chaos"
 title_reading = "INCHAOS"
 artist = "Hiro「Crackin’DJ」"
@@ -22285,7 +22357,7 @@ kanji = "蔵"
 comment = "チャンさんは今日もアクセル全開"
 
 [[songs]]
-id = "1366"
+id = "1370"
 title = "[蛸]チルノのパーフェクトさんすう教室"
 title_reading = "チルノノハアフエクトサンスウキヨウシツ"
 artist = "ARM＋夕野ヨシミ(IOSYS)feat. miko"
@@ -22302,7 +22374,7 @@ kanji = "蛸"
 comment = "パーフェクトホールド教室"
 
 [[songs]]
-id = "1363"
+id = "1367"
 title = "[星]しゅわスパ大作戦☆"
 title_reading = "シユワスハタイサクセン"
 artist = "SOUND HOLIC feat. Nana Takahashi"
@@ -22319,7 +22391,7 @@ kanji = "星"
 comment = "☆TAP大作戦☆"
 
 [[songs]]
-id = "1367"
+id = "1371"
 title = "[宴]セガサターン起動音[H.][Remix]"
 title_reading = "セカサタアンキトウオン"
 artist = "Hiro"
@@ -22336,7 +22408,7 @@ kanji = "宴"
 comment = "回転タップ検定起動音"
 
 [[songs]]
-id = "1369"
+id = "1373"
 title = "[は]Garakuta Doll Play"
 title_reading = "GARAKUTADOLLPLAY"
 artist = "t+pazolite"
@@ -22353,7 +22425,7 @@ kanji = "は"
 comment = "はっぴーの若干ストイック気味版"
 
 [[songs]]
-id = "1364"
+id = "1368"
 title = "[宴]CYCLES"
 title_reading = "CYCLES"
 artist = "Masayoshi Minoshima feat. 綾倉盟"
@@ -22370,7 +22442,7 @@ kanji = "宴"
 comment = "いつもより多く回っております"
 
 [[songs]]
-id = "1383"
+id = "1387"
 title = "[協]ぽっぴっぽー"
 title_reading = "ホツヒツホオ"
 artist = " "
@@ -22387,7 +22459,7 @@ kanji = "協"
 comment = "ぽ・っぴ・っぽー"
 
 [[songs]]
-id = "1374"
+id = "1378"
 title = "[狂]タカハせ！名人マン"
 title_reading = "タカハセメイシンマン"
 artist = "ビートまりお + ARM feat. 高橋名人"
@@ -22404,7 +22476,7 @@ kanji = "狂"
 comment = "名人マンよくばりセット"
 
 [[songs]]
-id = "1377"
+id = "1381"
 title = "[宴]Oshama Scramble!"
 title_reading = "OSHAMASCRAMBLE"
 artist = "t+pazolite"
@@ -22421,7 +22493,7 @@ kanji = "宴"
 comment = "Let's Party Night !"
 
 [[songs]]
-id = "1375"
+id = "1379"
 title = "[蔵]Glorious Crown"
 title_reading = "GLORIOUSCROWN"
 artist = "xi"
@@ -22438,7 +22510,7 @@ kanji = "蔵"
 comment = "チャンさんの初稿シリーズ～王～"
 
 [[songs]]
-id = "1382"
+id = "1386"
 title = "[協]恋愛裁判"
 title_reading = "レンアイサイハン"
 artist = "40mP"
@@ -22455,7 +22527,7 @@ kanji = "協"
 comment = "リア充向け譜面　～爆発しろ～"
 
 [[songs]]
-id = "1365"
+id = "1369"
 title = "[覚]東京リアルワールド"
 title_reading = "トウキヨウリアルワアルト"
 artist = "out of service"
@@ -22472,7 +22544,7 @@ kanji = "覚"
 comment = "なぞる順番を覚えるゲーム(初級編)"
 
 [[songs]]
-id = "1385"
+id = "1389"
 title = "[協]Hand in Hand"
 title_reading = "HANDINHAND"
 artist = "livetune"
@@ -22489,7 +22561,7 @@ kanji = "協"
 comment = "Hand in Hand in Hand in Hand"
 
 [[songs]]
-id = "1373"
+id = "1377"
 title = "[疑]DETARAME ROCK&ROLL THEORY"
 title_reading = "DETARAMEROCKROLLTHEORY"
 artist = "箱部 なる(CV:M・A・O)"
@@ -22506,7 +22578,7 @@ kanji = "疑"
 comment = "スライドの発射タイミング 速度がデタラメ"
 
 [[songs]]
-id = "1384"
+id = "1388"
 title = "[協]疾走あんさんぶる"
 title_reading = "シツソウアンサンフル"
 artist = "ビートまりお（COOL&CREATE）"
@@ -22523,7 +22595,7 @@ kanji = "協"
 comment = "なりきれ！プリズムリバー三姉妹"
 
 [[songs]]
-id = "1353"
+id = "1357"
 title = "[宴]Oshama Scramble! (Cranky Remix)"
 title_reading = "OSHAMASCRAMBLECRANKYREMIX"
 artist = "Cranky"
@@ -22540,7 +22612,7 @@ kanji = "宴"
 comment = "ぼくらのかんがえたさいきょうのまいまい"
 
 [[songs]]
-id = "1362"
+id = "1366"
 title = "[耐]Space Harrier Main Theme [Reborn]"
 title_reading = "SPACEHARRIERMAINTHEMEREBORN"
 artist = "佐野 信義「スペースハリアー」"
@@ -22557,7 +22629,7 @@ kanji = "耐"
 comment = "HOLDがSQUILLAに！？"
 
 [[songs]]
-id = "1368"
+id = "1372"
 title = "[J]Garakuta Doll Play"
 title_reading = "GARAKUTADOLLPLAY"
 artist = "t+pazolite"
@@ -22574,7 +22646,7 @@ kanji = "J"
 comment = "Jackの現代風アレンジ版"
 
 [[songs]]
-id = "1343"
+id = "1347"
 title = "[回]ダブルラリアット"
 title_reading = "タフルラリアツト"
 artist = "アゴアニキ"
@@ -22591,7 +22663,7 @@ kanji = "回"
 comment = "今から振り回しますので離れていてください"
 
 [[songs]]
-id = "1346"
+id = "1350"
 title = "[習]ウミユリ海底譚"
 title_reading = "ウミユリカイテイタン"
 artist = "n-buna"
@@ -22608,7 +22680,7 @@ kanji = "習"
 comment = "ウミユリ練習譚"
 
 [[songs]]
-id = "1344"
+id = "1348"
 title = "[奏]洗脳"
 title_reading = "センノウ"
 artist = "ゆりん・柿チョコ×Neru"
@@ -22625,7 +22697,7 @@ kanji = "奏"
 comment = "知ってた？元祖デュエット譜面"
 
 [[songs]]
-id = "1356"
+id = "1360"
 title = "[奏]チュルリラ・チュルリラ・ダッダッダ！"
 title_reading = "チユルリラチユルリラタツタツタ"
 artist = "和田たけあき(くらげP)"
@@ -22642,7 +22714,7 @@ kanji = "奏"
 comment = "生き残るのはどっちだッ？？？"
 
 [[songs]]
-id = "1381"
+id = "1385"
 title = "[協]ポップミュージックは僕のもの"
 title_reading = "ホツフミユウシツクハホクノモノ"
 artist = "ONIGAWARA"
@@ -22659,7 +22731,7 @@ kanji = "協"
 comment = "ポップミュージックは僕たちのもの"
 
 [[songs]]
-id = "1360"
+id = "1364"
 title = "[右]The wheel to the right"
 title_reading = "THEWHEELTOTHERIGHT"
 artist = "Sampling Masters MEGA"
@@ -22676,7 +22748,7 @@ kanji = "右"
 comment = "インド人含め右に"
 
 [[songs]]
-id = "1361"
+id = "1365"
 title = "[逆]KING is BACK!!"
 title_reading = "KINGISBACK"
 artist = "A-One"
@@ -22693,7 +22765,7 @@ kanji = "逆"
 comment = "お前がBACKするんかーーーい!!"
 
 [[songs]]
-id = "1354"
+id = "1358"
 title = "[協]エイリアンエイリアン"
 title_reading = "エイリアンエイリアン"
 artist = "ナユタン星人"
@@ -22710,7 +22782,7 @@ kanji = "協"
 comment = "中央で踊るダンサー、急募。"
 
 [[songs]]
-id = "1357"
+id = "1361"
 title = "[疑]ロキ"
 title_reading = "ロキ"
 artist = "みきとP"
@@ -22727,7 +22799,7 @@ kanji = "疑"
 comment = "デタラメのロックンロール"
 
 [[songs]]
-id = "1347"
+id = "1351"
 title = "[協]太陽系デスコ"
 title_reading = "タイヨウケイテスコ"
 artist = "ナユタン星人"
@@ -22744,7 +22816,7 @@ kanji = "協"
 comment = "一緒にデスコ"
 
 [[songs]]
-id = "1342"
+id = "1346"
 title = "[奏]マイオドレ！舞舞タイム"
 title_reading = "マイオトレマイマイタイム"
 artist = "キノシタ feat. そらみこ (ホロライブ ときのそら＆さくらみこ)"
@@ -22761,7 +22833,7 @@ kanji = "奏"
 comment = "一緒に！舞舞タイム！"
 
 [[songs]]
-id = "1378"
+id = "1382"
 title = "[光]BREaK! BREaK! BREaK!"
 title_reading = "BREAKBREAKBREAK"
 artist = "HiTECH NINJA vs Cranky"
@@ -22778,7 +22850,7 @@ kanji = "光"
 comment = "BREaK! BREaK! BREaK! BREaK! BREaK! BREaK!"
 
 [[songs]]
-id = "1336"
+id = "1340"
 title = "[星]ほしぞらスペクタクル"
 title_reading = "ホシソラスヘクタクル"
 artist = "奏音"
@@ -22795,7 +22867,7 @@ kanji = "星"
 comment = "ほしだけスペクタクル"
 
 [[songs]]
-id = "1355"
+id = "1359"
 title = "[奏]テレキャスタービーボーイ"
 title_reading = "テレキヤスタアヒイホオイ"
 artist = "すりぃ"
@@ -22812,7 +22884,7 @@ kanji = "奏"
 comment = "誰か一緒に舞わないか？"
 
 [[songs]]
-id = "1387"
+id = "1391"
 title = "[協]ラグトレイン"
 title_reading = "ラクトレイン"
 artist = "稲葉曇"
@@ -22829,7 +22901,7 @@ kanji = "協"
 comment = "＼みんなでラグトレイン再現チャレンジ／"
 
 [[songs]]
-id = "1386"
+id = "1390"
 title = "[奏]アカツキアライヴァル"
 title_reading = "アカツキアライウアル"
 artist = "Last Note."
@@ -22846,7 +22918,7 @@ kanji = "奏"
 comment = "ライバル譜面"
 
 [[songs]]
-id = "1337"
+id = "1341"
 title = "[片]神々が恋した幻想郷"
 title_reading = "カミカミカコイシタケンソウキヨウ"
 artist = "Unlucky Morpheus"
@@ -22863,7 +22935,7 @@ kanji = "片"
 comment = "神々が恋したトリル郷"
 
 [[songs]]
-id = "1345"
+id = "1349"
 title = "[奏]アンビバレンス"
 title_reading = "アンヒハレンス"
 artist = "すりぃ×相沢"
@@ -22880,7 +22952,7 @@ kanji = "奏"
 comment = "アンビバレンスな私なの"
 
 [[songs]]
-id = "1338"
+id = "1342"
 title = "[爆]Love's Theme of BADASS ～バッド・アス 愛のテーマ～"
 title_reading = "LOVESTHEMEOFBADASSハツトアスアイノテエマ"
 artist = "Hommarju"
@@ -22897,7 +22969,7 @@ kanji = "爆"
 comment = "爆発は好きか！？"
 
 [[songs]]
-id = "1348"
+id = "1352"
 title = "[奏]ヒトガタ"
 title_reading = "ヒトカタ"
 artist = "HIMEHINA"
@@ -22914,7 +22986,7 @@ kanji = "奏"
 comment = "ココロを叫べ!"
 
 [[songs]]
-id = "1351"
+id = "1355"
 title = "[協]三妖精SAY YA!!!"
 title_reading = "サンヨウセイSAYYA"
 artist = "森羅万象"
@@ -22931,7 +23003,7 @@ kanji = "協"
 comment = "君たちが三妖精だ！！！"
 
 [[songs]]
-id = "1350"
+id = "1354"
 title = "[覚]スカーレット警察のゲットーパトロール24時"
 title_reading = "スカアレツトケイサツノケツトオハトロオル24シ"
 artist = "七条レタスグループ"
@@ -22948,7 +23020,7 @@ kanji = "覚"
 comment = "隣を見てなぞる順番を覚えるゲーム（初級）"
 
 [[songs]]
-id = "1359"
+id = "1363"
 title = "[回]回る空うさぎ"
 title_reading = "マワルソラウサキ"
 artist = "Orangestar"
@@ -22965,7 +23037,7 @@ kanji = "回"
 comment = "くるくる回る、お星さま。"
 
 [[songs]]
-id = "1379"
+id = "1383"
 title = "[蔵]Aegleseeker"
 title_reading = "AEGLESEEKER"
 artist = "Silentroom vs Frums"
@@ -22982,7 +23054,7 @@ kanji = "蔵"
 comment = "and in that light, I find deliverance."
 
 [[songs]]
-id = "1341"
+id = "1345"
 title = "[蛸]不機嫌なスリーカード"
 title_reading = "フキケンナスリイカアト"
 artist = "HIMEHINA"
@@ -22999,7 +23071,7 @@ kanji = "蛸"
 comment = "秘密を握った　真実を　魅せてあげる"
 
 [[songs]]
-id = "1349"
+id = "1353"
 title = "[両]はんぶんこ"
 title_reading = "ハンフンコ"
 artist = "三枝明那"
@@ -23016,7 +23088,7 @@ kanji = "両"
 comment = "もう一人じゃないから"
 
 [[songs]]
-id = "1358"
+id = "1362"
 title = "[息]ノンブレス・オブリージュ"
 title_reading = "ノンフレスオフリイシユ"
 artist = "ピノキオピー"
@@ -23033,7 +23105,7 @@ kanji = "息"
 comment = "息が詰まる息が詰まる息が詰まる息が詰まる"
 
 [[songs]]
-id = "1389"
+id = "1393"
 title = "[協]青春コンプレックス"
 title_reading = "セイシユンコンフレツクス"
 artist = "結束バンド"
@@ -23050,7 +23122,7 @@ kanji = "協"
 comment = "バンドメンバーを集めて挑め！（ヒーロー級）"
 
 [[songs]]
-id = "1352"
+id = "1356"
 title = "[奏]さくゆいたいそう"
 title_reading = "サクユイタイソウ"
 artist = "さくゆい"
@@ -23067,7 +23139,7 @@ kanji = "奏"
 comment = "2人合わせてさくゆいたいそう"
 
 [[songs]]
-id = "1340"
+id = "1344"
 title = "[嘘]ライアーダンサー"
 title_reading = "ライアアタンサア"
 artist = "マサラダ"
@@ -23084,7 +23156,7 @@ kanji = "嘘"
 comment = "嘘に踊れ"
 
 [[songs]]
-id = "1339"
+id = "1343"
 title = "[宴]人マニア"
 title_reading = "ヒトマニア"
 artist = "原口沙輔 feat.重音テト"
@@ -23101,7 +23173,7 @@ kanji = "X"
 comment = "人（の初見姿観察推奨）マニア"
 
 [[songs]]
-id = "1370"
+id = "1374"
 title = "[r]Garakuta Doll Play"
 title_reading = "GARAKUTADOLLPLAY"
 artist = "t+pazolite"
@@ -23118,7 +23190,7 @@ kanji = "r"
 comment = "rioNのスライド筋マシマシ版"
 
 [[songs]]
-id = "1388"
+id = "1392"
 title = "[協]青春コンプレックス"
 title_reading = "セイシユンコンフレツクス"
 artist = "結束バンド"
@@ -23135,7 +23207,7 @@ kanji = "協"
 comment = "バンドメンバーを集めて楽しもう！（入門編）"
 
 [[songs]]
-id = "1371"
+id = "1375"
 title = "[玉]Garakuta Doll Play"
 title_reading = "GARAKUTADOLLPLAY"
 artist = "t+pazolite"
@@ -23152,7 +23224,7 @@ kanji = "玉"
 comment = "玉子豆腐のチュウニリスペクト版"
 
 [[songs]]
-id = "1372"
+id = "1376"
 title = "[某]Garakuta Doll Play"
 title_reading = "GARAKUTADOLLPLAY"
 artist = "t+pazolite"
