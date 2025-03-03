@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 270
-last_updated = "2025-03-01T03:12:10.998254500Z"
+count = 274
+last_updated = "2025-03-03T03:10:09.620816478Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -4614,6 +4614,70 @@ influence = 12
 bitflag = 5
 slug = "variety"
 name = "バラエティ"
+
+[[songs]]
+id = "ea46c1d9518428edd8b4b983bafd3a4a"
+title = "Moon shadow"
+artist = "肥塚良彦"
+
+[songs.levels]
+easy = 1
+normal = 5
+hard = 8
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "b6ae276c045fb6a2979719d9abd81efb"
+title = "Synchronize"
+artist = "Sota Fujimori"
+
+[songs.levels]
+easy = 1
+normal = 5
+hard = 8
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "d8e0ef621c2f91802619ffebdffbad71"
+title = "LOTUS"
+artist = "dj TAKA feat. Nana Takahashi"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "c78fb81b5a16635f27f2666300e7a65d"
+title = "Welcome!!"
+artist = "kors k"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
