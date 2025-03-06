@@ -1,6 +1,66 @@
 name = "chunithm_jp"
-count = 1502
-last_updated = "2025-02-27T03:08:20.498249868Z"
+count = 1508
+last_updated = "2025-03-06T03:09:53.497206827Z"
+
+[[songs]]
+id = "2753"
+title = "ONLY YOUR STARS!（Trickstar Ver.）"
+title_reading = "ONLYYOURSTARSTRICKSTARVER"
+artist = "歌：Trickstar 作詞：松井洋平　作曲/編曲：中土智博（APDREAM）"
+image = "7492410b6f7c1b4c.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2754"
+title = "BRAND NEW STARS!! (ALKALOID ver.)"
+title_reading = "BRANDNEWSTARSALKALOIDVER"
+artist = "歌：ALKALOID 作詞：こだまさおり　作曲：桑原聖（Arte Refact）、編曲：脇眞富（Arte Refact）"
+image = "40064dc099b0a23c.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "10"
+master = "12+"
+
+[[songs]]
+id = "2755"
+title = "One with One (Eden ver.)"
+title_reading = "ONEWITHONEEDENVER"
+artist = "歌：Eden 作詞：こだま さおり　作曲 / 編曲：佐藤 厚仁（Dream Monster）"
+image = "82ad3e34bae709e9.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9"
+master = "13+"
+
+[[songs]]
+id = "2756"
+title = "Surprising Thanks!! (Crazy:B ver.)"
+title_reading = "SURPRISINGTHANKSCRAZYBVER"
+artist = "歌：Crazy:B 作詞：松井洋平　作曲 / 編曲：伊藤和馬 (Arte Refact)"
+image = "804022b2ccd03bda.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9"
+master = "13"
 
 [[songs]]
 id = "2713"
@@ -10099,6 +10159,21 @@ expert = "12"
 master = "15"
 
 [[songs]]
+id = "2750"
+title = "INFiNiTE ENERZY -Overdoze-"
+title_reading = "INFINITEENERZYOVERDOZE"
+artist = "Reku Mochizuki"
+image = "7893c1e622f7fc68.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "13"
+master = "14"
+
+[[songs]]
 id = "2353"
 title = "幻想即興曲"
 title_reading = "ケンソウソツキヨウキヨクシヨハン"
@@ -10854,6 +10929,7 @@ basic = "3"
 advanced = "6"
 expert = "9"
 master = "13+"
+ultima = "15"
 
 [[songs]]
 id = "137"
@@ -16076,7 +16152,7 @@ title_reading = "AETHERCRESTCELESTIAL"
 artist = "void (Mournfinale) × 水野健治"
 image = "2d6eb4e70a8a5937.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -21663,6 +21739,21 @@ basic = "4"
 advanced = "7+"
 expert = "13"
 master = "14+"
+
+[[songs]]
+id = "2744"
+title = "Crush the Dystopia"
+title_reading = "CRUSHTHEDYSTOPIA"
+artist = 'MintJam vs Masahiro "Godspeed" Aoki'
+image = "df3d1d052c80377e.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "8"
+expert = "13"
+master = "15"
 
 [[songs]]
 id = "8295"
