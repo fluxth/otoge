@@ -22,7 +22,7 @@ use otoge::soundvoltex::SoundVoltex;
 use anyhow::{Error, Result};
 use tokio::join;
 use tracing::metadata::LevelFilter;
-use tracing::{error, info, info_span, warn, Instrument};
+use tracing::{Instrument, error, info, info_span, warn};
 use tracing_subscriber::EnvFilter;
 
 const DATA_PATH: &str = "./data";

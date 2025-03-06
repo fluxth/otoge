@@ -2,13 +2,13 @@ mod traits;
 
 use std::path::Path;
 
-use anyhow::{anyhow, Error, Result};
+use anyhow::{Error, Result, anyhow};
 use otoge::helpers::load_local_data_store;
-use serde::de::DeserializeOwned;
 use serde::Serialize;
+use serde::de::DeserializeOwned;
 use tokio::join;
 use tracing::metadata::LevelFilter;
-use tracing::{error, info, info_span, Instrument};
+use tracing::{Instrument, error, info, info_span};
 use tracing_subscriber::EnvFilter;
 
 use otoge::chunithm::{ChunithmIntl, ChunithmJP};

@@ -1,6 +1,6 @@
 use std::collections::HashSet;
 
-use anyhow::{ensure, Result};
+use anyhow::{Result, ensure};
 use async_trait::async_trait;
 
 use otoge::chunithm::models::{DataStore, Song, SongFromAPI};

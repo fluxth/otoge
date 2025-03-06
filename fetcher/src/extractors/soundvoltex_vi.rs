@@ -1,9 +1,9 @@
 use std::{borrow::Cow, sync::Arc};
 
 use async_trait::async_trait;
-use scraper::{error::SelectorErrorKind, Html, Selector};
+use scraper::{Html, Selector, error::SelectorErrorKind};
 use tokio::{sync::Semaphore, task::JoinSet};
-use tracing::{info, info_span, Instrument};
+use tracing::{Instrument, info, info_span};
 
 use crate::traits::{Extractor, FetchTask};
 use otoge::{

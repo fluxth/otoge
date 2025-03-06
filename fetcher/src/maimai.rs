@@ -1,14 +1,14 @@
 use std::collections::HashSet;
 
-use anyhow::{ensure, Result};
+use anyhow::{Result, ensure};
 use async_trait::async_trait;
 
 use otoge::maimai::models::{DataStore, Song, SongFromAPI};
-use otoge::maimai::{get_all_intl_categories, get_all_jp_categories, MaimaiIntl, MaimaiJP};
+use otoge::maimai::{MaimaiIntl, MaimaiJP, get_all_intl_categories, get_all_jp_categories};
 use otoge::shared::traits::Otoge;
 
-use crate::extractors::serde::SerdeGetExtractor;
 use crate::FetchTask;
+use crate::extractors::serde::SerdeGetExtractor;
 
 trait Maimai {
     fn impl_verify_categories(data_store: &DataStore) -> Result<()> {

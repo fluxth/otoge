@@ -1,13 +1,13 @@
 use std::borrow::Cow;
 
-use anyhow::{anyhow, ensure, Context, Result};
+use anyhow::{Context, Result, anyhow, ensure};
 use async_trait::async_trait;
 use scraper::{Html, Selector};
 
 use crate::extractors::polarischord::PolarisChordExtractor;
 use crate::traits::FetchTask;
-use otoge::polarischord::models::{Category, DataStore, Song, SongFromAPI};
 use otoge::polarischord::PolarisChord;
+use otoge::polarischord::models::{Category, DataStore, Song, SongFromAPI};
 use otoge::shared::traits::Otoge;
 
 async fn fetch_categories() -> Result<Vec<Category>> {

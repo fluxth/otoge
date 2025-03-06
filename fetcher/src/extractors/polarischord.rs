@@ -1,5 +1,5 @@
 use async_trait::async_trait;
-use serde::{de::DeserializeOwned, Deserialize};
+use serde::{Deserialize, de::DeserializeOwned};
 
 use crate::traits::{Extractor, FetchTask};
 use otoge::{polarischord::models::APIInput, shared::traits::Otoge};

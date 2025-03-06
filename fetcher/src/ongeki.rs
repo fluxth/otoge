@@ -1,12 +1,12 @@
 use std::collections::HashSet;
 
-use anyhow::{ensure, Result};
+use anyhow::{Result, ensure};
 use async_trait::async_trait;
 
 use crate::extractors::serde::SerdeGetExtractor;
 use crate::traits::FetchTask;
-use otoge::ongeki::models::{DataStore, Song, SongFromAPI};
 use otoge::ongeki::Ongeki;
+use otoge::ongeki::models::{DataStore, Song, SongFromAPI};
 use otoge::shared::traits::Otoge;
 
 #[async_trait]
