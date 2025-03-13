@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 952
-last_updated = "2025-02-27T03:08:20.639601880Z"
+count = 954
+last_updated = "2025-03-13T03:10:55.726420150Z"
 
 [[songs]]
 id = "583100"
@@ -27727,7 +27727,7 @@ title_reading = "MYGLORYWANTED"
 artist = "曲：Kijibato／歌：R.B.P. [九條 楓(CV：佳村 はるか)、逢坂 茜(CV：大空 直美)、珠洲島 有栖(CV：長縄 まりあ)]"
 date = "2025-02-27"
 image = "81393b7be8c60e96.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -27748,6 +27748,64 @@ master = "15"
 [songs.character]
 id = "1120"
 name = "逢坂 茜"
+
+[[songs]]
+id = "506500"
+title = "スローアライズ"
+title_reading = "スロアライス"
+artist = "Endorfin."
+date = "2025-03-13"
+image = "73edcf885bbc8822.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "12+"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
+
+[[songs]]
+id = "577000"
+title = "ROAD TO DREAM"
+title_reading = "ROADTODREAM"
+artist = "達見 恵 featured by 佐野宏晃"
+date = "2025-03-13"
+image = "825d1b092de58581.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
+master = "13+"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
 
 [[categories]]
 id = "06"
