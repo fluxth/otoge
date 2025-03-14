@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1348
-last_updated = "2025-03-13T03:10:55.412010587Z"
+count = 1349
+last_updated = "2025-03-14T03:10:14.408438514Z"
 
 [[songs]]
 id = "1001"
@@ -22230,6 +22230,24 @@ basic = "4"
 advanced = "7+"
 expert = "11"
 master = "13+"
+
+[[songs]]
+id = "874"
+title = "Åntinomiε"
+title_reading = "ANTINOMIE"
+artist = "ああ…翡翠茶漬け…"
+image = "b232e4ac452ac306.png"
+category = "maimai"
+version = "25500"
+release = "2025-03-13"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "9"
+expert = "12+"
+master = "14+"
 
 [[songs]]
 id = "1220"
