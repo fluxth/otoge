@@ -1,6 +1,96 @@
 name = "soundvoltex"
-count = 2128
-last_updated = "2025-02-27T03:08:33.306703255Z"
+count = 2134
+last_updated = "2025-03-20T03:11:09.918254250Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=tKYtOIwN0-jKhHCKOMeEFw"
+title = "Ardenok"
+artist = "kanone VS nora2r"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=QA8rLGCHoEsFsHIx_MN29g"
+title = "Our garden is blue."
+artist = "庭師+Aoi"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "8"
+advanced = "15"
+exhaust = "18"
+maximum = "20"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=VGjjNiaiwSPn8qHNCUDRjQ"
+title = "Golden Rotation"
+artist = "xi"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=epFbzLRZeBY6vqEwQ0HIEQ"
+title = "Jupiter"
+artist = "technoplanet feat. Tamako Kinoshita"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qHbkXJ6IbvuaOh0j3SNpnw"
+title = "Titanomachia"
+artist = "打打だいず vs. siromaru"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=S7fN5-P5ECoVfstAwzsZ6g"
+title = "流転に咲く魂の花"
+artist = "めと（Metomate）"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ftEWgK56fGA-kpefPEItEw"
