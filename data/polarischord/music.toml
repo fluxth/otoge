@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 274
-last_updated = "2025-03-03T03:10:09.620816478Z"
+count = 275
+last_updated = "2025-03-22T03:11:52.863878625Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -4404,6 +4404,22 @@ influence = 10
 bitflag = 1
 slug = "virtual"
 name = "Virtual"
+
+[[songs]]
+id = "d2079b2c9482474ca44a0652d5efa47e"
+title = "EBONY & IVORY"
+artist = "OSTER project"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[songs]]
 id = "6f09c7ed1f41b7c47e7a8adc667465cb"
