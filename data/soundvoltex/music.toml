@@ -1,6 +1,21 @@
 name = "soundvoltex"
-count = 2134
-last_updated = "2025-03-20T03:11:09.918254250Z"
+count = 2135
+last_updated = "2025-03-26T03:12:39.136071987Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=3fvHFp22stSKRZHruP9A7Q"
+title = "かくれんぼ (胡桃のあ Cover)"
+artist = "AliA"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=tKYtOIwN0-jKhHCKOMeEFw"
