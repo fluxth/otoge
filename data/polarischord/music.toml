@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 275
-last_updated = "2025-03-22T03:11:52.863878625Z"
+count = 276
+last_updated = "2025-03-26T03:12:27.811272525Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -4694,6 +4694,28 @@ influence = 12
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "7e7b7fcdd04635d637f394a160ad3649"
+title = "かくれんぼ (胡桃のあ Cover)"
+artist = "AliA"
+license = "Licensed by ぶいすぽっ！"
+
+[songs.levels]
+easy = 1
+normal = 4
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs.categories]]
+bitflag = 3
+slug = "pops&anime"
+name = "POPS&アニメ"
 
 [[categories]]
 bitflag = 1
