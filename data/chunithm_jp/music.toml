@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1512
-last_updated = "2025-03-19T03:11:50.701052375Z"
+count = 1514
+last_updated = "2025-03-27T03:13:29.895157581Z"
 
 [[songs]]
 id = "2753"
@@ -2149,7 +2149,7 @@ title_reading = "ヒトマニア"
 artist = "原口沙輔 feat.重音テト"
 image = "be2743ac0c8a837f.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2164,7 +2164,7 @@ title_reading = "オウハウライト"
 artist = "吉田夜世"
 image = "2398cab8269957d2.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -2180,7 +2180,7 @@ title_reading = "ライアウタンサウ"
 artist = "マサラダ"
 image = "0d5e33c2d86bcee2.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2195,7 +2195,7 @@ title_reading = "クロヌリセカイアテシヨカン"
 artist = "フロクロ"
 image = "a41b7313d71f3947.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -15097,6 +15097,21 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
+id = "2749"
+title = "本能的 Survivor"
+title_reading = "ホンノウテキサハイハウ"
+artist = "曲：eba／歌：⊿TRiEDGE [高瀬 梨緒(CV：久保 ユリカ)、結城 莉玖(CV：朝日奈 丸佳)、藍原 椿(CV：橋本 ちなみ)]"
+image = "fe7e37a925a81fc7.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
 id = "973"
 title = "Perfect Shining!!"
 title_reading = "PERFECTSHINING"
@@ -15995,6 +16010,21 @@ basic = "3"
 advanced = "6"
 expert = "12+"
 master = "14"
+
+[[songs]]
+id = "2800"
+title = "淵底のグレイ・ユークロニア"
+title_reading = "エンテイノクレイユウクロニア"
+artist = "打打だいず vs. siromaru vs. Tanchiky"
+image = "8bb3740dfc89d2b6.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "8"
+expert = "13+"
+master = "15"
 
 [[songs]]
 id = "202"

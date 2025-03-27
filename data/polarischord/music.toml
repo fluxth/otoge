@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 276
-last_updated = "2025-03-26T03:12:27.811272525Z"
+count = 295
+last_updated = "2025-03-27T03:13:30.686418365Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -1308,6 +1308,7 @@ license = "Licensed by 非可逆リズム(モリモリあつし)"
 easy = 4
 normal = 8
 hard = 10
+influence = 13
 
 [[songs.categories]]
 bitflag = 5
@@ -1404,6 +1405,7 @@ license = "Licensed by Psyber Comet"
 easy = 4
 normal = 7
 hard = 10
+influence = 11
 
 [[songs.categories]]
 bitflag = 5
@@ -4716,6 +4718,322 @@ name = "Virtual"
 bitflag = 3
 slug = "pops&anime"
 name = "POPS&アニメ"
+
+[[songs]]
+id = "91f0b33d03b3db17d8a962314bc63941"
+title = "感情ディシーブ (福來羽留 Cover)"
+artist = "ろーある"
+license = "℗2022 ろーある"
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "acdf6adcb92168b11c91160d634c99ff"
+title = "Like the Starlight"
+artist = "uma"
+
+[songs.levels]
+easy = 3
+normal = 8
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "870d7a97e3f5151c07ec0c553480613e"
+title = "Maple"
+artist = "Srav3R"
+license = "Licensed by Daruma Rave"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "f86cb21935c96b78da89403851cf7a70"
+title = "BLOOM"
+artist = "Getty"
+license = "Licensed by DROP FREVKER"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "19c63202fdef7d8c1837e85101857022"
+title = "Big Daddy"
+artist = "USAO"
+license = "Licensed by USAO"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "d70c5556243d8ef9135f53a44b80e018"
+title = "丫"
+artist = "Zekk"
+license = "Licensed by Zekk"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "95d50325d32e69d43d537168fc56867b"
+title = "Elemental Creation"
+artist = "dj TAKA meets DJ YOSHITAKA"
+
+[songs.levels]
+easy = 4
+normal = 8
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "3dbfa20f2fa3ff4ec285de4dd84ce9b0"
+title = "ラキラキ"
+artist = "Mutsuhiko Izumi & S-C-U"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "b673486aea06738b1ee8bb89be6e164d"
+title = "晴天Bon Voyage"
+artist = "TOMOSUKE × seiya-murai feat. ALT"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "48cf5fac9f5ee82c0fd1d940e22a3ba6"
+title = "STULTI"
+artist = "MAX MAXIMIZER VS DJ TOTTO"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "ee8141cc6cde5b703892ed3f714db792"
+title = "虹色の花"
+artist = "Akhuta y OJ"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "e709d87d690889b8e4094874b19f57b5"
+title = "お米の美味しい炊き方、そしてお米を食べることによるその効果。"
+artist = "大日本鉄倶楽部【あさき＆９６】"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "ba5757375ff4062d3308001b56c3c725"
+title = "創世ノート"
+artist = "PON+wac"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "1a75156a4193870fb3d4a66891bd378a"
+title = "Synergy For Angels"
+artist = "TAG×U1-ASAMi"
+
+[songs.levels]
+easy = 1
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "b7c18a89841f77b85409eb378927dbe9"
+title = "Empathetic"
+artist = "Sota÷Des"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "afce994bad1597435832769d1d4cbc65"
+title = "GAIA"
+artist = "猫叉L.E.D.Master+"
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "4aa4c322698d42617fbf42c0beb13f78"
+title = "L"
+artist = "Ice"
+license = "Licensed by Spaceport Productions"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "9ef138cef45b6d3264cdff14f7ae99a8"
+title = "Cool Me Down"
+artist = "Mwk feat. 巡音ルカ"
+license = "Licensed by Mwk"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "6d57959f713839821fc884e9ec7aa2a0"
+title = "VALLIS-NERIA"
+artist = "DJ YOSHITAKA"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
