@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 963
-last_updated = "2025-03-27T03:13:29.864795312Z"
+count = 965
+last_updated = "2025-04-01T03:20:10.764077102Z"
 
 [[songs]]
 id = "582300"
@@ -28072,6 +28072,62 @@ master = "13"
 [songs.character]
 id = "1020"
 name = "藤沢 柚子"
+
+[[songs]]
+id = "666800"
+title = "共鳴合体 オトゲリヲン"
+title_reading = "キヨウメイカタイオトケリヲン"
+artist = "Tanchiky feat.からめる"
+date = "2025-04-01"
+image = "caca792ea94bac95.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©からめる"
+
+[songs.chapter]
+id = "80044"
+name = "共鳴合体 オトゲリヲン"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1120"
+name = "逢坂 茜"
+
+[[songs]]
+id = "945500"
+title = "ENERGY SYNERGY MATRIX"
+title_reading = "ENERGYSYNERGYMATRIX"
+artist = "Tanchiky"
+date = "2025-04-01"
+image = "208058fa34707164.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+lunatic = "0"
+
+[songs.character]
+id = "1070"
+name = "桜井 春菜"
 
 [[categories]]
 id = "06"

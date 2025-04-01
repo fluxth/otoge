@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 295
-last_updated = "2025-03-27T03:13:30.686418365Z"
+count = 296
+last_updated = "2025-04-01T03:20:11.246618287Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5034,6 +5034,23 @@ influence = 12
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "78d3f8926a521a0ecc09b2d92385d34b"
+title = "テトリス"
+artist = "柊マグネタイト"
+license = "Licensed by 柊マグネタイト,瀬奈悠太"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1
