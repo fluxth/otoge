@@ -1,6 +1,36 @@
 name = "soundvoltex"
-count = 2135
-last_updated = "2025-03-26T03:12:39.136071987Z"
+count = 2137
+last_updated = "2025-04-10T03:15:20.176936346Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=KSPEPyqWjr-ShPHSmywQmQ"
+title = "Caldwell 99"
+artist = "BlackY"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=viVgR4VilCf-ZQQfJJHBtQ"
+title = "シュレーディンガーの猫"
+artist = "Cait Sith"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=3fvHFp22stSKRZHruP9A7Q"
