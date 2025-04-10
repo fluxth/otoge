@@ -1,6 +1,21 @@
 name = "chunithm_jp"
-count = 1527
-last_updated = "2025-04-01T03:20:10.182739383Z"
+count = 1530
+last_updated = "2025-04-10T03:15:10.008896911Z"
+
+[[songs]]
+id = "2757"
+title = "殺屋中毒"
+title_reading = "コロシヤチユウトク"
+artist = "cresc."
+image = "c00eb22b0a233bc5.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "13+"
 
 [[songs]]
 id = "2753"
@@ -1403,36 +1418,6 @@ expert = "10+"
 master = "14"
 
 [[songs]]
-id = "2200"
-title = "Dig Delight!"
-title_reading = "DIGDELIGHT"
-artist = "Happy Around!「D4DJ Groovy Mix」"
-image = "569ce846a431effd.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "3"
-advanced = "6"
-expert = "9+"
-master = "12+"
-
-[[songs]]
-id = "2201"
-title = "Floor Killer"
-title_reading = "FLOORKILLER"
-artist = "Merm4id「D4DJ Groovy Mix」"
-image = "4abfceb328147d27.jpg"
-category = "POPS & ANIME"
-is_new = false
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9"
-master = "12+"
-
-[[songs]]
 id = "2172"
 title = "Cry Baby"
 title_reading = "CRYBABY"
@@ -2149,7 +2134,7 @@ title_reading = "NYANCAT"
 artist = "daniwellP feat. 桃音モモ"
 image = "b1c25831e072f4ed.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -21862,13 +21847,73 @@ expert = "13"
 master = "15"
 
 [[songs]]
+id = "2764"
+title = "旅星に渇く"
+title_reading = "タヒホシニカワク"
+artist = "Yu-dachi"
+image = "83614926e36a41b2.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "12+"
+master = "14+"
+
+[[songs]]
+id = "2765"
+title = "ずんずんサファリ"
+title_reading = "スンスンサフアリ"
+artist = "ずんずんサファリ"
+image = "42927cf645a6488c.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "14+"
+
+[[songs]]
+id = "2766"
+title = "jaQup"
+title_reading = "JAQUP"
+artist = "owl＊tree"
+image = "cec1d5e4bd66707b.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "13"
+master = "14"
+
+[[songs]]
+id = "2767"
+title = "HeinousЯeaper"
+title_reading = "HEINOUSREAPER"
+artist = "seatrus"
+image = "389e07a73cac6890.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "14"
+master = "15"
+
+[[songs]]
 id = "8302"
 title = "猫祭り"
 title_reading = "ネコマツリ"
 artist = "箱部 なる(CV:M・A・O)"
 image = "cdc8363af404f134.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "嘘"
