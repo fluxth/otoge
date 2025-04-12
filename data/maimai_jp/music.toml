@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1354
-last_updated = "2025-04-01T03:20:10.651944271Z"
+count = 1358
+last_updated = "2025-04-12T03:13:14.805867941Z"
 
 [[songs]]
 id = "1011"
@@ -167,7 +167,8 @@ artist = "Kai/能登有沙"
 image = "30eb032b16877275.png"
 category = "maimai"
 version = "10000"
-is_new = false
+release = "2025-04-11"
+is_new = true
 is_locked = false
 
 [songs.levels]
@@ -175,6 +176,12 @@ basic = "6"
 advanced = "7+"
 expert = "8+"
 master = "12+"
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "13+"
 
 [[songs]]
 id = "1009"
@@ -22249,6 +22256,24 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
+id = "884"
+title = "ATLAS RUSH"
+title_reading = "ATLASRUSH"
+artist = "kanone"
+image = "499800c520a31d54.png"
+category = "maimai"
+version = "25503"
+release = "2025-04-11"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "12+"
+master = "14+"
+
+[[songs]]
 id = "1231"
 title = "Supersonic Generation"
 title_reading = "SUPERSONICGENERATION"
@@ -22548,7 +22573,7 @@ image = "2785e0ca30c916da.png"
 category = "POPS＆アニメ"
 version = "25502"
 release = "2025-04-01"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22566,7 +22591,7 @@ image = "358706b964277c8b.png"
 category = "POPS＆アニメ"
 version = "25502"
 release = "2025-04-01"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22574,6 +22599,60 @@ basic = "2"
 advanced = "6"
 expert = "9+"
 master = "13"
+
+[[songs]]
+id = "108"
+title = "M@GICAL☆CURE! LOVE ♥ SHOT!"
+title_reading = "MAGICALCURELOVESHOT"
+artist = "SAWTOWNE"
+image = "8e331bc031a26ae5.png"
+category = "niconico＆ボーカロイド"
+version = "25503"
+release = "2025-04-11"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "609"
+title = "Overjoy ★ OVERDOSE!!"
+title_reading = "OVERJOYOVERDOSE"
+artist = "Luna Fozer (BilliumMoto, 黒皇帝, Sobrem feat. vally.exe)"
+image = "b2c3bad6c7f6d2c7.png"
+category = "ゲーム＆バラエティ"
+version = "25503"
+release = "2025-04-11"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "14"
+
+[[songs]]
+id = "610"
+title = "DATAERR0R"
+title_reading = "DATAERR0R"
+artist = "Cosmograph"
+image = "e3da5b1f49b33f3b.png"
+category = "ゲーム＆バラエティ"
+version = "25503"
+release = "2025-04-11"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "11+"
+master = "14"
 
 [[songs]]
 id = "1411"
