@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 296
-last_updated = "2025-04-01T03:20:11.246618287Z"
+count = 297
+last_updated = "2025-04-16T03:16:42.022548780Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5043,6 +5043,23 @@ license = "Licensed by 柊マグネタイト,瀬奈悠太"
 
 [songs.levels]
 easy = 3
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "6318c90cd37f636f389b3873d7d2a76d"
+title = "PON☆PON☆PARADE"
+artist = "キノシタ"
+license = "Licensed by ONE"
+
+[songs.levels]
+easy = 2
 normal = 6
 hard = 10
 influence = 12
