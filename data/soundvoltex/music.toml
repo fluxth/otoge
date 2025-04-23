@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 2137
-last_updated = "2025-04-10T03:15:20.176936346Z"
+count = 2140
+last_updated = "2025-04-23T03:17:43.955249377Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=kKq6Dc9ysgZmbw5gyawk6Q"
+title = "神威"
+artist = "TJ.hangneil"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=PFLAKRO7zh1CKVBJRZsfAw"
+title = "テレパシ"
+artist = "DECO*27"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "3"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=z3KoEM6kgfRvdxHhg1FbiA"
+title = "What's up? Pop!"
+artist = "Capchii feat. 初音ミク"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=KSPEPyqWjr-ShPHSmywQmQ"
