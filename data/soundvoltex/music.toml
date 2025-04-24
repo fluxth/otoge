@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 2140
-last_updated = "2025-04-23T03:17:43.955249377Z"
+count = 2143
+last_updated = "2025-04-24T03:17:19.333064025Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=G70ffT-dRlQQNeQ8t_deUQ"
+title = "Gryphone"
+artist = "ETIA."
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=mxSuExeas9UaomkGfxlZ5Q"
+title = "黒蝶のワルツ"
+artist = "ぺのれり"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=SbrNC7T-DZTl0-vah06-nQ"
+title = "Who then no 灯"
+artist = "星野音楽工房"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=kKq6Dc9ysgZmbw5gyawk6Q"

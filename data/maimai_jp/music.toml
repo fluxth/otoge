@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1358
-last_updated = "2025-04-12T03:13:14.805867941Z"
+count = 1360
+last_updated = "2025-04-24T03:17:07.150223466Z"
 
 [[songs]]
 id = "1011"
@@ -167,8 +167,7 @@ artist = "Kai/能登有沙"
 image = "30eb032b16877275.png"
 category = "maimai"
 version = "10000"
-release = "2025-04-11"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -21422,7 +21421,7 @@ image = "fca868901b5bc94e.png"
 category = "オンゲキ＆CHUNITHM"
 version = "25013"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "4"
@@ -21439,7 +21438,7 @@ image = "162fce5271b54ab3.png"
 category = "オンゲキ＆CHUNITHM"
 version = "25013"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "5"
@@ -22107,7 +22106,7 @@ image = "9de079083677da5b.png"
 category = "ゲーム＆バラエティ"
 version = "25014"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "5"
@@ -22264,7 +22263,7 @@ image = "499800c520a31d54.png"
 category = "maimai"
 version = "25503"
 release = "2025-04-11"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -22609,7 +22608,7 @@ image = "8e331bc031a26ae5.png"
 category = "niconico＆ボーカロイド"
 version = "25503"
 release = "2025-04-11"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22627,7 +22626,7 @@ image = "b2c3bad6c7f6d2c7.png"
 category = "ゲーム＆バラエティ"
 version = "25503"
 release = "2025-04-11"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22645,7 +22644,7 @@ image = "e3da5b1f49b33f3b.png"
 category = "ゲーム＆バラエティ"
 version = "25503"
 release = "2025-04-11"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22653,6 +22652,42 @@ basic = "5"
 advanced = "8"
 expert = "11+"
 master = "14"
+
+[[songs]]
+id = "106"
+title = "あいたい星人"
+title_reading = "アイタイセイシン"
+artist = "DECO*27"
+image = "1bc129c66ee45843.png"
+category = "niconico＆ボーカロイド"
+version = "25504"
+release = "2025-04-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "107"
+title = "ハオ"
+title_reading = "ハオ"
+artist = "DECO*27"
+image = "97298d8f5ff9e33c.png"
+category = "niconico＆ボーカロイド"
+version = "25504"
+release = "2025-04-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "1411"
