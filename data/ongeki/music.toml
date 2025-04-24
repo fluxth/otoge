@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 965
-last_updated = "2025-04-01T03:20:10.764077102Z"
+count = 974
+last_updated = "2025-04-24T03:17:07.185420715Z"
 
 [[songs]]
 id = "582300"
@@ -27454,7 +27454,7 @@ title_reading = "OURWRENALLY"
 artist = "t+pazolite"
 date = "2025-03-27"
 image = "e016856d1cd73ba6.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -27483,7 +27483,7 @@ title_reading = "WAKEUPMAKEUPFEVER"
 artist = "曲：アオワイファイ／歌：オンゲキシューターズ"
 date = "2025-03-27"
 image = "5db1f906b22a4493.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -27512,7 +27512,7 @@ title_reading = "EARTHLYLIGHT"
 artist = "曲：ヘリP／歌：Trium Tone＆⊿TRiEDGE"
 date = "2025-03-27"
 image = "eba36508dd3d289c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Re:STAGE! PROJECT"
@@ -27542,7 +27542,7 @@ title_reading = "CRAZYPARTYRUSH"
 artist = "ミツキヨ"
 date = "2025-03-27"
 image = "67f2ad0acda9e98c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -27571,7 +27571,7 @@ title_reading = "FLOWINTOYOU"
 artist = "ARForest"
 date = "2025-03-27"
 image = "e5f912a5cbeab2a0.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -27600,7 +27600,7 @@ title_reading = "マツヨイナイトハク"
 artist = "COOL&CREATE feat.ビートまりおとまろん「東方ダンマクカグラ」"
 date = "2025-03-27"
 image = "b5aee74be032ac1b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©上海アリス幻樂団  ©アンノウンX / AQUASTYLE・DeNA・xeen  inspiredby 東方Project"
@@ -27630,7 +27630,7 @@ title_reading = "HURRAH"
 artist = "にじさんじ"
 date = "2025-03-27"
 image = "f37e791624524611.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©ANYCOLOR, Inc."
@@ -27660,7 +27660,7 @@ title_reading = "DEEPNESSRECVER"
 artist = "蓮ノ空女学院スクールアイドルクラブ"
 date = "2025-03-27"
 image = "5c477b831768bf36.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©プロジェクトラブライブ！蓮ノ空女学院スクールアイドルクラブ"
@@ -27690,7 +27690,7 @@ title_reading = "トンテモワンタス"
 artist = "sasakure.UK"
 date = "2025-03-27"
 image = "64b5846c1278a926.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©sasakuration"
@@ -27720,7 +27720,7 @@ title_reading = "メスマライサ"
 artist = "サツキ feat.初音ミク・重音テト"
 date = "2025-03-27"
 image = "45e036058d1f531e.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -27753,7 +27753,7 @@ title_reading = "オハライト"
 artist = "吉田夜世"
 date = "2025-03-27"
 image = "36dd83fd87841dde.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -27787,7 +27787,7 @@ title_reading = "CHRONOMIA"
 artist = "Lime"
 date = "2025-03-27"
 image = "112fdd1dc33780f5.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -27816,7 +27816,7 @@ title_reading = "Λ"
 artist = "ああああ"
 date = "2025-03-27"
 image = "75458f437aba7679.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -27845,7 +27845,7 @@ title_reading = "8EM"
 artist = "Sampling Masters AYA"
 date = "2025-03-27"
 image = "b61e3be9f313e2d9.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -27874,7 +27874,7 @@ title_reading = "1ハンカカヤクホシ"
 artist = "アーリャ（CV：上坂すみれ）"
 date = "2025-03-27"
 image = "90fa6265898f911c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Sunsunsun,Momoco/KADOKAWA/Alya-san Partners"
@@ -27904,7 +27904,7 @@ title_reading = "ヒヒテハ"
 artist = "星街すいせい(ホロライブ)"
 date = "2025-03-27"
 image = "f34d423c026e39c6.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© 2016 COVER Corp."
@@ -27934,7 +27934,7 @@ title_reading = "POPIN2"
 artist = "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）"
 date = "2025-03-27"
 image = "4efe54a9ff26bb41.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©赤坂アカ×横槍メンゴ／集英社・【推しの子】製作委員会"
@@ -27964,7 +27964,7 @@ title_reading = "ホンノウテキSURVIVORタカセリオソロVER"
 artist = "曲：eba／歌：高瀬 梨緒(CV：久保 ユリカ)"
 date = "2025-03-27"
 image = "9d4db11b9eb01395.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -27993,7 +27993,7 @@ title_reading = "ホンノウテキSURVIVORユウキリクソロVER"
 artist = "曲：eba／歌：結城 莉玖(CV：朝日奈 丸佳)"
 date = "2025-03-27"
 image = "b2c49ecfd2f276a4.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -28022,7 +28022,7 @@ title_reading = "ホンノウテキSURVIVORアイハラツハキソロVER"
 artist = "曲：eba／歌：藍原 椿(CV：橋本 ちなみ)"
 date = "2025-03-27"
 image = "d8a79e78ef5230cf.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -28051,7 +28051,7 @@ title_reading = "INDIVIDUALONPARADEスメラキセツナソロVER"
 artist = "曲：渡部チェル／歌：藤沢 柚子(CV：保科 李沙)"
 date = "2025-03-27"
 image = "55ef7fa45887aae2.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -28080,7 +28080,7 @@ title_reading = "キヨウメイカタイオトケリヲン"
 artist = "Tanchiky feat.からめる"
 date = "2025-04-01"
 image = "caca792ea94bac95.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©からめる"
@@ -28110,7 +28110,7 @@ title_reading = "ENERGYSYNERGYMATRIX"
 artist = "Tanchiky"
 date = "2025-04-01"
 image = "208058fa34707164.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 
@@ -28128,6 +28128,269 @@ lunatic = "0"
 [songs.character]
 id = "1070"
 name = "桜井 春菜"
+
+[[songs]]
+id = "666700"
+title = "Ai Me"
+title_reading = "AIME"
+artist = "曲：Feryquitous／歌：高瀬 梨緒(CV：久保 ユリカ)"
+date = "2025-04-10"
+image = "7d9c8d958037cb99.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "60001"
+name = "オンゲキアドベンチャー 期末試験編"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "12+"
+master = "13+"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "666600"
+title = "がおっと!!最強☆ぱーりーないと"
+title_reading = "カオツトサイキヨウハリナイト"
+artist = "曲：KENSUKE／歌：結城 莉玖(CV：朝日奈 丸佳)"
+date = "2025-04-10"
+image = "78a28f414013f7ad.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "60001"
+name = "オンゲキアドベンチャー 期末試験編"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "12"
+master = "13+"
+
+[songs.character]
+id = "1050"
+name = "結城 莉玖"
+
+[[songs]]
+id = "666500"
+title = "耐冬花麗"
+title_reading = "ツハキウルワシ"
+artist = "曲：テラ(少女理論観測所)／歌：藍原 椿(CV：橋本 ちなみ)"
+date = "2025-04-10"
+image = "23df9a07b40285f2.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "60001"
+name = "オンゲキアドベンチャー 期末試験編"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "1060"
+name = "藍原 椿"
+
+[[songs]]
+id = "666400"
+title = "Never Ending Adventure"
+title_reading = "NEVERENDINGADVENTURE"
+artist = "提供"
+date = "2025-04-10"
+image = "f3c1f5c5fdfdbb01.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "60001"
+name = "オンゲキアドベンチャー 期末試験編"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1090"
+name = "井之原 小星"
+
+[[songs]]
+id = "666300"
+title = "ALLNIGHT_DANCER"
+title_reading = "ALLNIGHTDANCER"
+artist = "brz1128"
+date = "2025-04-10"
+image = "bdd19a65e718fd1c.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "60001"
+name = "オンゲキアドベンチャー 期末試験編"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "1110"
+name = "九條 楓"
+
+[[songs]]
+id = "666200"
+title = "Nýx"
+title_reading = "NYX"
+artist = "7mai"
+date = "2025-04-10"
+image = "666893feb248258b.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "60001"
+name = "オンゲキアドベンチャー 期末試験編"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "6"
+advanced = "9"
+expert = "12+"
+master = "14+"
+
+[songs.character]
+id = "1070"
+name = "桜井 春菜"
+
+[[songs]]
+id = "666100"
+title = "Sargasso"
+title_reading = "SARGASSO"
+artist = "Aoi"
+date = "2025-04-10"
+image = "11895c8d8d5c6536.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "60001"
+name = "オンゲキアドベンチャー 期末試験編"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "7"
+advanced = "10"
+expert = "13+"
+master = "15"
+
+[songs.character]
+id = "1030"
+name = "三角 葵"
+
+[[songs]]
+id = "167700"
+title = "一冊のアロー"
+title_reading = "イツサツノアロ"
+artist = "歌：櫻川めぐ／曲：堀江晶太"
+date = "2025-04-24"
+image = "ed26cae99192f4e6.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©まどそふと"
+
+[songs.chapter]
+id = "99121"
+name = "ハミダシクリエイティブ"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "6795"
+name = "和泉 妃愛"
+
+[[songs]]
+id = "167600"
+title = "Hey Darling!"
+title_reading = "HEYDARLING"
+artist = "歌：松下／曲：堀江晶太"
+date = "2025-04-24"
+image = "86aab18a4826f9aa.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©まどそふと"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "1090"
+name = "井之原 小星"
 
 [[categories]]
 id = "06"

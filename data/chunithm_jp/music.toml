@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1530
-last_updated = "2025-04-10T03:15:10.008896911Z"
+count = 1537
+last_updated = "2025-04-24T03:17:06.760762515Z"
 
 [[songs]]
 id = "2757"
@@ -9,7 +9,7 @@ title_reading = "コロシヤチユウトク"
 artist = "cresc."
 image = "c00eb22b0a233bc5.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2126,6 +2126,51 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "15"
+
+[[songs]]
+id = "2758"
+title = "ラビットホール"
+title_reading = "ラヒツトホウル"
+artist = "DECO*27"
+image = "2279fa16c2352320.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "2759"
+title = "あいたい星人"
+title_reading = "アイタイセイシン"
+artist = "DECO*27"
+image = "9fdef2873647e240.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2760"
+title = "ハオ"
+title_reading = "ハオ"
+artist = "DECO*27"
+image = "a5399b6acf8abaed.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "13"
 
 [[songs]]
 id = "2751"
@@ -11127,6 +11172,7 @@ basic = "3"
 advanced = "5"
 expert = "9"
 master = "13"
+ultima = "14+"
 
 [[songs]]
 id = "328"
@@ -14674,6 +14720,21 @@ is_new = false
 basic = "4"
 advanced = "7+"
 expert = "13"
+master = "15"
+
+[[songs]]
+id = "2763"
+title = "躯樹の墓守"
+title_reading = "ムクロシユノハカモリ"
+artist = "隣の庭は青い(庭師+Aoi)"
+image = "bb9e1eee2bc96f89.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "8"
+expert = "13+"
 master = "15"
 
 [[songs]]
@@ -21853,7 +21914,7 @@ title_reading = "タヒホシニカワク"
 artist = "Yu-dachi"
 image = "83614926e36a41b2.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -21868,7 +21929,7 @@ title_reading = "スンスンサフアリ"
 artist = "ずんずんサファリ"
 image = "42927cf645a6488c.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21883,7 +21944,7 @@ title_reading = "JAQUP"
 artist = "owl＊tree"
 image = "cec1d5e4bd66707b.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -21898,13 +21959,52 @@ title_reading = "HEINOUSREAPER"
 artist = "seatrus"
 image = "389e07a73cac6890.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
 advanced = "8"
 expert = "14"
 master = "15"
+
+[[songs]]
+id = "8299"
+title = "BRAND NEW STARS!! (ALKALOID ver.)"
+title_reading = "BRANDNEWSTARSALKALOIDVER"
+artist = "歌：ALKALOID 作詞：こだまさおり　作曲：桑原聖（Arte Refact）、編曲：脇眞富（Arte Refact）"
+image = "86481b9da6806332.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.worlds_end]
+kanji = "招"
+star = "9"
+
+[[songs]]
+id = "8300"
+title = "Blue Noise"
+title_reading = "BLUENOISE"
+artist = "from PACA PACA PASSION"
+image = "c63c789ece25b7ce.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.worlds_end]
+kanji = "敷"
+star = "3"
+
+[[songs]]
+id = "8301"
+title = "Sunlight Starlight"
+title_reading = "SUNLIGHTSTARLIGHT"
+artist = "Palme"
+image = "28c669042470b64d.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.worlds_end]
+kanji = "蔵"
+star = "7"
 
 [[songs]]
 id = "8302"
