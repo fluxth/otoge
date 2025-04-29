@@ -8,7 +8,7 @@ edition = "2024"
 [dependencies]
 anyhow = "=1.0.98"
 async-trait = "=0.1.88"
-chrono = { version = "=0.4.40", features = ["serde"] }
+chrono = { version = "=0.4.41", features = ["serde"] }
 otoge = { path = "../lib" }
 reqwest = { version = "=0.12.15", features = ["json"] }
 serde = "=1.0.219"
