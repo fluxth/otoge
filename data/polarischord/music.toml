@@ -1,6 +1,6 @@
 name = "polarischord"
 count = 298
-last_updated = "2025-04-23T03:16:33.078888268Z"
+last_updated = "2025-04-30T03:17:07.894317370Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -85,8 +85,8 @@ name = "ソーシャルミュージック"
 
 [[songs]]
 id = "8ca4369e2b2e696061a03006341d7ee5"
-title = "エイリアンエイリアン"
-artist = "富士葵"
+title = "エイリアンエイリアン (富士葵 Cover)"
+artist = "ナユタン星人"
 license = "Licensed by Aoi ch."
 
 [songs.levels]
@@ -2701,7 +2701,7 @@ name = "東方"
 [[songs]]
 id = "d15cbb385fc63e8476e080d8cc42bb22"
 title = "閉塞的フレーション"
-artist = '''Pizuya's Cell VS BEMANI Sound Team "dj TAKA"'''
+artist = """Pizuya's Cell VS BEMANI Sound Team "dj TAKA""""
 
 [songs.levels]
 easy = 3
