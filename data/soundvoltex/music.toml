@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 2143
-last_updated = "2025-04-24T03:17:19.333064025Z"
+count = 2146
+last_updated = "2025-05-01T03:22:44.585342084Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=dEjDq6KoZXCKIo1v6_ALbw"
+title = "Ö<3rf10₩"
+artist = "momocaca (月乃×Capchii)"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=oiTSbjQBlwfl81hgInoV-w"
+title = "Crossfade"
+artist = "La prière"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=KMRgBWQ9kg9LsklWAKerQw"
+title = "星界のアルペジオ"
+artist = "yuichi NAGAO"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=G70ffT-dRlQQNeQ8t_deUQ"
@@ -1174,7 +1219,7 @@ maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=AedD4T1bc-3dCTl_R5naGw"
-title = '''PANIC HOLIC (かめりあ's "24600 POWER" Remix)'''
+title = """PANIC HOLIC (かめりあ's "24600 POWER" Remix)"""
 artist = "かめりあ"
 
 [[songs.categories]]
@@ -1417,7 +1462,7 @@ maximum = "18"
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=u9Kbx4pJ7Odpax8qN-kaaQ"
 title = "閉塞的フレーション"
-artist = '''Pizuya's Cell VS BEMANI Sound Team "dj TAKA"'''
+artist = """Pizuya's Cell VS BEMANI Sound Team "dj TAKA""""
 
 [[songs.categories]]
 id = "toho"
@@ -10659,7 +10704,7 @@ maximum = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=BJDWcUbMP2p0KfJ3a_E0iw"
-title = '''動く、動く（"A&M Chillin' " Electro Remix）'''
+title = """動く、動く（"A&M Chillin' " Electro Remix）"""
 artist = "Remixed by かめりあ feat.響木アオ＆虹乃まほろ"
 
 [[songs.categories]]
@@ -23756,7 +23801,7 @@ gravity = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=crZRqULgOfJ6m3pUTdOyWg"
-title = '''gigadelic (かめりあ's "The TERA" RMX)'''
+title = """gigadelic (かめりあ's "The TERA" RMX)"""
 artist = "かめりあ"
 
 [[songs.categories]]
