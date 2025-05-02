@@ -162,9 +162,12 @@ where
 
             let mut levels = LevelMap::default();
             for level in music_entry.select(&selectors.item_level) {
-                let level_id = level.value().attr("class").unwrap();
-                let level_value = level.text().next().unwrap().to_owned();
+                let level_id = level.value().attr("class").unwrap().trim();
+                if level_id.ends_with(" none") {
+                    continue;
+                }
 
+                let level_value = level.text().next().unwrap().trim().to_owned();
                 match level_id {
                     "nov" => levels.novice = Some(level_value),
                     "adv" => levels.advanced = Some(level_value),
