@@ -1,6 +1,6 @@
 name = "soundvoltex"
-count = 2146
-last_updated = "2025-05-01T03:22:44.585342084Z"
+count = 2147
+last_updated = "2025-05-02T14:29:58.393986614Z"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=dEjDq6KoZXCKIo1v6_ALbw"
@@ -46,6 +46,19 @@ novice = "6"
 advanced = "13"
 exhaust = "16"
 maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Pa6Jsk_pDDMZ713xSRVvEQ"
+title = "神凪"
+artist = "BlackY feat. Risa Yuzuki"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+exhaust = "18"
+maximum = "20"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=G70ffT-dRlQQNeQ8t_deUQ"
