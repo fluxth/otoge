@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 302
-last_updated = "2025-05-01T03:22:32.786919557Z"
+count = 303
+last_updated = "2025-05-07T03:19:06.639221831Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5154,6 +5154,19 @@ influence = 13
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "7425b0e423b1b210f7b9ff5fdac782f1"
+title = "カルマ"
+artist = "ユプシロン"
+license = "Licensed by STUDIO HUIT"
+
+[songs.levels]
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1
