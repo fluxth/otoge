@@ -1,6 +1,6 @@
 name = "polarischord"
 count = 303
-last_updated = "2025-05-07T03:19:06.639221831Z"
+last_updated = "2025-05-08T03:19:40.353253800Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5162,6 +5162,10 @@ artist = "ユプシロン"
 license = "Licensed by STUDIO HUIT"
 
 [songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 11
 
 [[songs.categories]]
 bitflag = 2
