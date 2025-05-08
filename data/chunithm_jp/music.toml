@@ -1,6 +1,52 @@
 name = "chunithm_jp"
-count = 1537
-last_updated = "2025-04-24T03:17:06.760762515Z"
+count = 1542
+last_updated = "2025-05-08T03:19:39.944005089Z"
+
+[[songs]]
+id = "2717"
+title = "シリウスの輝きのように"
+title_reading = "シリウスノカカヤキノヨウニ"
+artist = "鳳 ここな(CV.石見舞菜香)、静香(CV.長谷川育美)、カトリナ・グリーベル(CV.天城サリー)、新妻八恵(CV.長縄まりあ)、柳場ぱんだ(CV.大空直美)、流石知冴(CV.佐々木李子)「ワールドダイスター 夢のステラリウム」"
+image = "78f11a844ef50b93.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+ultima = "14+"
+
+[[songs]]
+id = "2718"
+title = "I Wanna"
+title_reading = "IWANNA"
+artist = "静香(CV.長谷川育美)「ワールドダイスター 夢のステラリウム」"
+image = "d499d0440e67306a.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "13+"
+master = "15"
+
+[[songs]]
+id = "2719"
+title = "革命ダンス"
+title_reading = "カクメイタンス"
+artist = "柳場ぱんだ(CV:大空直美)、与那国緋花里(CV:下地紫野)「ワールドダイスター 夢のステラリウム」"
+image = "48edd790089655a7.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "13"
 
 [[songs]]
 id = "2757"
@@ -2128,13 +2174,43 @@ master = "14+"
 ultima = "15"
 
 [[songs]]
+id = "2720"
+title = "イガク"
+title_reading = "イカク"
+artist = "原口沙輔 feat.重音テト"
+image = "5d1c531e28d70b3f.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "14"
+
+[[songs]]
+id = "2721"
+title = "ザムザ"
+title_reading = "サムサ"
+artist = "てにをは"
+image = "3c1b95cc8448ea3d.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9+"
+master = "13+"
+
+[[songs]]
 id = "2758"
 title = "ラビットホール"
 title_reading = "ラヒツトホウル"
 artist = "DECO*27"
 image = "2279fa16c2352320.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2149,7 +2225,7 @@ title_reading = "アイタイセイシン"
 artist = "DECO*27"
 image = "9fdef2873647e240.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2164,7 +2240,7 @@ title_reading = "ハオ"
 artist = "DECO*27"
 image = "a5399b6acf8abaed.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -14729,7 +14805,7 @@ title_reading = "ムクロシユノハカモリ"
 artist = "隣の庭は青い(庭師+Aoi)"
 image = "bb9e1eee2bc96f89.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -21974,7 +22050,7 @@ title_reading = "BRANDNEWSTARSALKALOIDVER"
 artist = "歌：ALKALOID 作詞：こだまさおり　作曲：桑原聖（Arte Refact）、編曲：脇眞富（Arte Refact）"
 image = "86481b9da6806332.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "招"
@@ -21987,7 +22063,7 @@ title_reading = "BLUENOISE"
 artist = "from PACA PACA PASSION"
 image = "c63c789ece25b7ce.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "敷"
@@ -22000,7 +22076,7 @@ title_reading = "SUNLIGHTSTARLIGHT"
 artist = "Palme"
 image = "28c669042470b64d.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "蔵"

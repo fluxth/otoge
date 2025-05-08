@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 974
-last_updated = "2025-04-24T03:17:07.185420715Z"
+count = 976
+last_updated = "2025-05-08T03:19:40.542534789Z"
 
 [[songs]]
 id = "582300"
@@ -28339,7 +28339,7 @@ title_reading = "イツサツノアロ"
 artist = "歌：櫻川めぐ／曲：堀江晶太"
 date = "2025-04-24"
 image = "ed26cae99192f4e6.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©まどそふと"
@@ -28369,7 +28369,7 @@ title_reading = "HEYDARLING"
 artist = "歌：松下／曲：堀江晶太"
 date = "2025-04-24"
 image = "86aab18a4826f9aa.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©まどそふと"
@@ -28391,6 +28391,64 @@ master = "13"
 [songs.character]
 id = "1090"
 name = "井之原 小星"
+
+[[songs]]
+id = "576700"
+title = "Energizing Flame"
+title_reading = "ENERGIZINGFLAME"
+artist = "Artifact vs. Dualcast"
+date = "2025-05-08"
+image = "9c23193cb9ce0cf2.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
+
+[[songs]]
+id = "576600"
+title = "QuiQ"
+title_reading = "QUIQ"
+artist = "owl＊tree feat.nie＊tree"
+date = "2025-05-08"
+image = "62e54492e501fbb8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "12+"
+master = "14+"
+
+[songs.character]
+id = "1110"
+name = "九條 楓"
 
 [[categories]]
 id = "06"
