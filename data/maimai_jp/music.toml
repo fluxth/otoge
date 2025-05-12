@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1370
-last_updated = "2025-05-09T03:19:11.766418091Z"
+count = 1371
+last_updated = "2025-05-12T03:21:07.608964785Z"
 
 [[songs]]
 id = "1019"
@@ -22327,6 +22327,24 @@ expert = "11+"
 master = "14"
 
 [[songs]]
+id = "892"
+title = "FLΛME/FRΦST"
+title_reading = "FLAMEFROST"
+artist = "FANTAGIRAFF"
+image = "cd7dc8b9ec80cf06.png"
+category = "maimai"
+version = "25505"
+release = "2025-05-09"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "12+"
+master = "14+"
+
+[[songs]]
 id = "1239"
 title = "Supersonic Generation"
 title_reading = "SUPERSONICGENERATION"
@@ -22716,7 +22734,7 @@ image = "1bc129c66ee45843.png"
 category = "niconico＆ボーカロイド"
 version = "25504"
 release = "2025-04-24"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22734,7 +22752,7 @@ image = "97298d8f5ff9e33c.png"
 category = "niconico＆ボーカロイド"
 version = "25504"
 release = "2025-04-24"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
