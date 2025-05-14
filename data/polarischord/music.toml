@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 303
-last_updated = "2025-05-08T03:19:40.353253800Z"
+count = 304
+last_updated = "2025-05-14T03:19:15.167483598Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5171,6 +5171,23 @@ influence = 11
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "42e43a2d692ce9c7b1a1b6af545052f8"
+title = "ケロ⑨Destiny"
+artist = "Silver Forest"
+license = "Licensed by Silver Forest"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
 
 [[categories]]
 bitflag = 1
