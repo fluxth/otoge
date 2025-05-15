@@ -1,6 +1,36 @@
 name = "soundvoltex"
-count = 2147
-last_updated = "2025-05-08T03:19:53.614877480Z"
+count = 2149
+last_updated = "2025-05-15T03:19:49.873131376Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=tNC8EOr5pmvtiW0pXQEMlA"
+title = "CO5M1C R4ILR0AD"
+artist = "kanone"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=H2j21Lh2WjrEf1NGLVkI6w"
+title = "ヒュブリスの頂に聳えるのは"
+artist = "qfeileadh feat.のあ"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=dEjDq6KoZXCKIo1v6_ALbw"
@@ -22243,6 +22273,7 @@ name = "その他"
 novice = "5"
 advanced = "12"
 exhaust = "17"
+exceed = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=_XhP33PN4Nz58as4AaP8GA"
@@ -25876,6 +25907,7 @@ name = "FLOOR"
 novice = "6"
 advanced = "12"
 exhaust = "18"
+exceed = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=wp2RGl-mCBFhyPiK9gsWGQ"
@@ -30290,6 +30322,7 @@ name = "FLOOR"
 novice = "4"
 advanced = "10"
 exhaust = "15"
+exceed = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=F9YjhDc3iitESG43cbeAwg"
