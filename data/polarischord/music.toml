@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 304
-last_updated = "2025-05-14T03:19:15.167483598Z"
+count = 305
+last_updated = "2025-05-21T03:19:59.842191556Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5188,6 +5188,23 @@ influence = 12
 bitflag = 4
 slug = "touhou"
 name = "東方"
+
+[[songs]]
+id = "4f2824fa95715ad6eb1388245c7b913b"
+title = "ウラボス"
+artist = "鬱P"
+license = "Licensed by 鬱P"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1

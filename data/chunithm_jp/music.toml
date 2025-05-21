@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1542
-last_updated = "2025-05-08T03:19:39.944005089Z"
+count = 1547
+last_updated = "2025-05-21T03:20:00.275855852Z"
 
 [[songs]]
 id = "2717"
@@ -9,7 +9,7 @@ title_reading = "シリウスノカカヤキノヨウニ"
 artist = "鳳 ここな(CV.石見舞菜香)、静香(CV.長谷川育美)、カトリナ・グリーベル(CV.天城サリー)、新妻八恵(CV.長縄まりあ)、柳場ぱんだ(CV.大空直美)、流石知冴(CV.佐々木李子)「ワールドダイスター 夢のステラリウム」"
 image = "78f11a844ef50b93.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -25,7 +25,7 @@ title_reading = "IWANNA"
 artist = "静香(CV.長谷川育美)「ワールドダイスター 夢のステラリウム」"
 image = "d499d0440e67306a.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -40,7 +40,7 @@ title_reading = "カクメイタンス"
 artist = "柳場ぱんだ(CV:大空直美)、与那国緋花里(CV:下地紫野)「ワールドダイスター 夢のステラリウム」"
 image = "48edd790089655a7.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2180,7 +2180,7 @@ title_reading = "イカク"
 artist = "原口沙輔 feat.重音テト"
 image = "5d1c531e28d70b3f.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2195,7 +2195,7 @@ title_reading = "サムサ"
 artist = "てにをは"
 image = "3c1b95cc8448ea3d.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -6514,6 +6514,36 @@ master = "13"
 ultima = "14"
 
 [[songs]]
+id = "2787"
+title = "超最終鬼畜妹フランドール・S"
+title_reading = "チヨウサイシユウキチクイモウトフラントウルS"
+artist = "ビートまりお×まろん"
+image = "052a255b2deefaaa.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "12"
+master = "15"
+
+[[songs]]
+id = "2792"
+title = "Help me, ERINNNNNN!!"
+title_reading = "HELPMEERINNNNNN"
+artist = "ビートまりお"
+image = "2249b72783ba421d.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "14"
+
+[[songs]]
 id = "2692"
 title = "有頂天ドリーマーズ"
 title_reading = "ウチヨウテントリウマウス"
@@ -10777,6 +10807,21 @@ expert = "10"
 master = "13"
 
 [[songs]]
+id = "2771"
+title = "宵の平安京 Stargazer"
+title_reading = "ヨイノヘイアンキヨウスタウケイサウ"
+artist = "永田泰之"
+image = "be08c42de84d4873.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "14+"
+
+[[songs]]
 id = "901"
 title = "Be A Shooter！～NORMAL BIG BONUS～"
 title_reading = "BEASHOOTERNORMALBIGBONUS"
@@ -12150,6 +12195,21 @@ basic = "4"
 advanced = "8"
 expert = "13+"
 master = "15"
+
+[[songs]]
+id = "2801"
+title = "Destined Marionette"
+title_reading = "DESTINEDMARIONETTE"
+artist = "ビートまりお"
+image = "de5fd541ca5e23be.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "12+"
+master = "14"
 
 [[songs]]
 id = "145"
@@ -13638,6 +13698,21 @@ is_new = false
 basic = "4"
 advanced = "6"
 expert = "10"
+master = "14"
+
+[[songs]]
+id = "2769"
+title = "We Are Us(IOSYS TRAX Remix)"
+title_reading = "WEAREUSIOSYSTRAXREMIX"
+artist = "舞ヶ原シンセ研究会"
+image = "c164c69ead38bb76.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "10+"
 master = "14"
 
 [[songs]]
