@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1371
-last_updated = "2025-05-12T03:21:07.608964785Z"
+count = 1375
+last_updated = "2025-05-21T03:20:00.154042462Z"
 
 [[songs]]
 id = "1019"
@@ -22281,7 +22281,7 @@ image = "1a43fdb9edd49c1d.png"
 category = "maimai"
 version = "25505"
 release = "2025-05-09"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -22299,7 +22299,7 @@ image = "6c00472275eba77d.png"
 category = "maimai"
 version = "25505"
 release = "2025-05-09"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -22317,7 +22317,7 @@ image = "e27b4a41495e33d3.png"
 category = "maimai"
 version = "25505"
 release = "2025-05-09"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -22335,7 +22335,7 @@ image = "cd7dc8b9ec80cf06.png"
 category = "maimai"
 version = "25505"
 release = "2025-05-09"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -22408,7 +22408,7 @@ category = "POPS＆アニメ"
 version = "25500"
 release = "2025-03-13"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "5"
@@ -22770,7 +22770,7 @@ image = "f5f0c148fc18e746.png"
 category = "niconico＆ボーカロイド"
 version = "25505"
 release = "2025-05-09"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22778,6 +22778,60 @@ basic = "3"
 advanced = "6"
 expert = "9"
 master = "12"
+
+[[songs]]
+id = "458"
+title = "Help me, ERINNNNNN!!"
+title_reading = "HELPMEERINNNNNN"
+artist = "ビートまりお"
+image = "4911d20e27cad7a0.png"
+category = "東方Project"
+version = "25506"
+release = "2025-05-21"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "459"
+title = "超最終鬼畜妹フランドール・S"
+title_reading = "チヨウサイシユウキチクイモウトフラントオルエス"
+artist = "ビートまりお×まろん"
+image = "6cf3e3f842e52194.png"
+category = "東方Project"
+version = "25506"
+release = "2025-05-21"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "12+"
+master = "13+"
+
+[[songs]]
+id = "612"
+title = "Destined Marionette"
+title_reading = "DESTINEDMARIONETTE"
+artist = "ビートまりお"
+image = "7fa4a3f8246030ce.png"
+category = "ゲーム＆バラエティ"
+version = "25506"
+release = "2025-05-21"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "12"
+master = "14"
 
 [[songs]]
 id = "1426"
@@ -23628,6 +23682,23 @@ is_locked = false
 level = "12+?"
 kanji = "嘘"
 comment = "嘘に踊れ"
+
+[[songs]]
+id = "1371"
+title = "[協]Ultimate taste"
+title_reading = "ULTIMATETASTE"
+artist = "ぱらどっと"
+image = "45151be961a7a053.png"
+category = "宴会場"
+version = "25506"
+release = "2025-05-21"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13+?"
+kanji = "協"
+comment = "みんなでFull Flavor!"
 
 [[songs]]
 id = "1387"
