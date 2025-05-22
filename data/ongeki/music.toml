@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 976
-last_updated = "2025-05-08T03:19:40.542534789Z"
+count = 979
+last_updated = "2025-05-22T03:20:03.737112781Z"
 
 [[songs]]
 id = "582300"
@@ -28399,7 +28399,7 @@ title_reading = "ENERGIZINGFLAME"
 artist = "Artifact vs. Dualcast"
 date = "2025-05-08"
 image = "9c23193cb9ce0cf2.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -28428,7 +28428,7 @@ title_reading = "QUIQ"
 artist = "owl＊tree feat.nie＊tree"
 date = "2025-05-08"
 image = "62e54492e501fbb8.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -28449,6 +28449,96 @@ master = "14+"
 [songs.character]
 id = "1110"
 name = "九條 楓"
+
+[[songs]]
+id = "167500"
+title = "オレンジスケール"
+title_reading = "オレンシスケル"
+artist = "歌：長瀬有花／曲：いよわ"
+date = "2025-05-22"
+image = "81d2e9de7a20c1c8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©RIOT MUSIC"
+
+[songs.chapter]
+id = "99122"
+name = "長瀬有花"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "6820"
+name = "長瀬有花"
+
+[[songs]]
+id = "167400"
+title = "ほんの感想"
+title_reading = "ホンノカンソウ"
+artist = "歌：長瀬有花／曲：いよわ"
+date = "2025-05-22"
+image = "8dc51fbc45752ff2.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©RIOT MUSIC"
+
+[songs.chapter]
+id = "99122"
+name = "長瀬有花"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "6820"
+name = "長瀬有花"
+
+[[songs]]
+id = "167200"
+title = "いっかい書いてさようなら"
+title_reading = "イツカイカイテサヨウナラ"
+artist = "名取さな"
+date = "2025-05-22"
+image = "820751d0563fc394.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Sana Natori"
+
+[songs.chapter]
+id = "99123"
+name = "名取さな【第3弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "6005"
+name = "名取さな"
 
 [[categories]]
 id = "06"
