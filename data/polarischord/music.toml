@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 305
-last_updated = "2025-05-21T03:19:59.842191556Z"
+count = 306
+last_updated = "2025-05-28T03:20:55.758793761Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5205,6 +5205,23 @@ influence = 12
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "87ba3ba172568af75ef3dc529a3f1af6"
+title = "El-Drago"
+artist = "Tatsunoshin x Juggernaut."
+license = "Licensed by GALSTYLEZ"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
 
 [[categories]]
 bitflag = 1
