@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 979
-last_updated = "2025-05-22T03:20:03.737112781Z"
+count = 984
+last_updated = "2025-05-28T03:20:56.151235294Z"
 
 [[songs]]
 id = "582300"
@@ -28539,6 +28539,151 @@ master = "13"
 [songs.character]
 id = "6005"
 name = "名取さな"
+
+[[songs]]
+id = "724300"
+title = "WakeUP MakeUP FEVER! -星咲 あかりソロver.-"
+title_reading = "WAKEUPMAKEUPFEVERホシサキアカリソロVER"
+artist = "曲：アオワイファイ／歌：星咲 あかり(CV：赤尾 ひかる)"
+date = "2025-05-28"
+image = "21a4adcdf219d9f3.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "12"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
+
+[[songs]]
+id = "724400"
+title = "WakeUP MakeUP FEVER! -高瀬 梨緒ソロver.-"
+title_reading = "WAKEUPMAKEUPFEVERタカセリオソロVER"
+artist = "曲：アオワイファイ／歌：高瀬 梨緒(CV：久保 ユリカ)"
+date = "2025-05-28"
+image = "c62d7edbabb2ca4f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "12"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "724500"
+title = "WakeUP MakeUP FEVER! -藍原 椿ソロver.-"
+title_reading = "WAKEUPMAKEUPFEVERアイハラツハキソロVER"
+artist = "曲：アオワイファイ／歌：藍原 椿(CV：橋本 ちなみ)"
+date = "2025-05-28"
+image = "c1d89ccc9a5e66ef.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "12"
+
+[songs.character]
+id = "1060"
+name = "藍原 椿"
+
+[[songs]]
+id = "724600"
+title = "WakeUP MakeUP FEVER! -桜井 春菜ソロver.-"
+title_reading = "WAKEUPMAKEUPFEVERサクライハルナソロVER"
+artist = "曲：アオワイファイ／歌：桜井 春菜(CV：近藤 玲奈)"
+date = "2025-05-28"
+image = "56be5d27918e7ffa.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "12"
+
+[songs.character]
+id = "1070"
+name = "桜井 春菜"
+
+[[songs]]
+id = "724700"
+title = "WakeUP MakeUP FEVER! -東雲 つむぎソロver.-"
+title_reading = "WAKEUPMAKEUPFEVERシノノメツムキソロVER"
+artist = "曲：アオワイファイ／歌：東雲 つむぎ(CV：和泉 風花)"
+date = "2025-05-28"
+image = "64453d0af79be21c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "12"
+
+[songs.character]
+id = "1160"
+name = "東雲 つむぎ"
 
 [[categories]]
 id = "06"
