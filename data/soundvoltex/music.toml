@@ -1,6 +1,81 @@
 name = "soundvoltex"
-count = 2149
-last_updated = "2025-05-23T03:20:02.248615685Z"
+count = 2154
+last_updated = "2025-05-29T03:21:32.447177576Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=u5_SbvKs07L21NsWgvO8Zw"
+title = "Windy Fairy"
+artist = "DJ TOTTO"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=x2sGuFU4ULvphxwmFaX8Iw"
+title = "幻影ノ消失"
+artist = "Xceon feat. Mayumi Morinaga"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=zDdCQGgSz9SF-wRxdC3FQQ"
+title = "SCHWARZSCHILD FIELD"
+artist = "L.E.D."
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=e_MKAMorDV4t4GqmCzwOhQ"
+title = "Towards The Horizon"
+artist = "かめりあ"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=g2ZUyuWPIWjzo0mGRGko0w"
+title = "ビューティフル レシート"
+artist = "Lucky Vacuum"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=tNC8EOr5pmvtiW0pXQEMlA"
