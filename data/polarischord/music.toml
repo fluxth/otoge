@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 306
-last_updated = "2025-05-31T03:19:27.673080641Z"
+count = 310
+last_updated = "2025-06-04T03:22:59.046386280Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5222,6 +5222,70 @@ influence = 13
 bitflag = 5
 slug = "variety"
 name = "バラエティ"
+
+[[songs]]
+id = "e317718e1ce163d36f08a1806c344ea2"
+title = "量子の海のリントヴルム"
+artist = "黒猫ダンジョン"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "36d63afbbbfbaa8cfec45e2cfeef6abb"
+title = "concon"
+artist = "S-C-U"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "b41bb89ae6ea7957d023f65fc2a23273"
+title = "I'm so Happy"
+artist = "Ryu☆"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "d5bea9875e7f91f61b13f3d1d75be17c"
+title = "Evans"
+artist = "DJ YOSHITAKA"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
