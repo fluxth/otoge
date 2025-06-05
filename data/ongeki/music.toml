@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 984
-last_updated = "2025-05-28T03:20:56.151235294Z"
+count = 987
+last_updated = "2025-06-05T03:23:18.057024402Z"
 
 [[songs]]
 id = "582300"
@@ -28457,7 +28457,7 @@ title_reading = "オレンシスケル"
 artist = "歌：長瀬有花／曲：いよわ"
 date = "2025-05-22"
 image = "81d2e9de7a20c1c8.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©RIOT MUSIC"
@@ -28487,7 +28487,7 @@ title_reading = "ホンノカンソウ"
 artist = "歌：長瀬有花／曲：いよわ"
 date = "2025-05-22"
 image = "8dc51fbc45752ff2.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©RIOT MUSIC"
@@ -28517,7 +28517,7 @@ title_reading = "イツカイカイテサヨウナラ"
 artist = "名取さな"
 date = "2025-05-22"
 image = "820751d0563fc394.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Sana Natori"
@@ -28547,7 +28547,7 @@ title_reading = "WAKEUPMAKEUPFEVERホシサキアカリソロVER"
 artist = "曲：アオワイファイ／歌：星咲 あかり(CV：赤尾 ひかる)"
 date = "2025-05-28"
 image = "21a4adcdf219d9f3.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -28576,7 +28576,7 @@ title_reading = "WAKEUPMAKEUPFEVERタカセリオソロVER"
 artist = "曲：アオワイファイ／歌：高瀬 梨緒(CV：久保 ユリカ)"
 date = "2025-05-28"
 image = "c62d7edbabb2ca4f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -28605,7 +28605,7 @@ title_reading = "WAKEUPMAKEUPFEVERアイハラツハキソロVER"
 artist = "曲：アオワイファイ／歌：藍原 椿(CV：橋本 ちなみ)"
 date = "2025-05-28"
 image = "c1d89ccc9a5e66ef.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -28634,7 +28634,7 @@ title_reading = "WAKEUPMAKEUPFEVERサクライハルナソロVER"
 artist = "曲：アオワイファイ／歌：桜井 春菜(CV：近藤 玲奈)"
 date = "2025-05-28"
 image = "56be5d27918e7ffa.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -28663,7 +28663,7 @@ title_reading = "WAKEUPMAKEUPFEVERシノノメツムキソロVER"
 artist = "曲：アオワイファイ／歌：東雲 つむぎ(CV：和泉 風花)"
 date = "2025-05-28"
 image = "64453d0af79be21c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -28684,6 +28684,98 @@ master = "12"
 [songs.character]
 id = "1160"
 name = "東雲 つむぎ"
+
+[[songs]]
+id = "479500"
+title = "Break Over"
+title_reading = "BREAKOVER"
+artist = "K-forest「Phigros」"
+date = "2025-06-05"
+image = "e8c1bd9af1ac5694.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = """
+©Oshiribeat\r
+©Pigeon Games"""
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "3"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1150"
+name = "柏木 美亜"
+
+[[songs]]
+id = "479400"
+title = "Concvssion"
+title_reading = "CONCVSSION"
+artist = "Halv「Phigros」"
+date = "2025-06-05"
+image = "c945d1c91b48dece.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Pigeon Games"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "3"
+advanced = "9+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "479300"
+title = "Distorted Fate"
+title_reading = "DISTORTEDFATE"
+artist = "Sakuzyo「Phigros」"
+date = "2025-06-05"
+image = "4909c7c938d899f7.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Pigeon Games"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "6"
+advanced = "10"
+expert = "13"
+master = "15"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
 
 [[categories]]
 id = "06"

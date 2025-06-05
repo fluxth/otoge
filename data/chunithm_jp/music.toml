@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1547
-last_updated = "2025-05-21T03:20:00.275855852Z"
+count = 1551
+last_updated = "2025-06-05T03:23:17.662391082Z"
 
 [[songs]]
 id = "2717"
@@ -2172,6 +2172,36 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "15"
+
+[[songs]]
+id = "2740"
+title = "月光"
+title_reading = "ケツコウ"
+artist = "歌：V.I.P 作詞：廉　作曲：廉 「神椿市協奏中。」"
+image = "f671fc9f1b21cfdc.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "14"
+
+[[songs]]
+id = "2741"
+title = "ゆりかご"
+title_reading = "ユリカコ"
+artist = "歌：可不 作詞：MIMI　作曲：MIMI 「神椿市協奏中。」"
+image = "eddc42780c7c9f66.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "4"
+expert = "9"
+master = "13"
 
 [[songs]]
 id = "2720"
@@ -6520,7 +6550,7 @@ title_reading = "チヨウサイシユウキチクイモウトフラントウル
 artist = "ビートまりお×まろん"
 image = "052a255b2deefaaa.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -6535,7 +6565,7 @@ title_reading = "HELPMEERINNNNNN"
 artist = "ビートまりお"
 image = "2249b72783ba421d.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10813,7 +10843,7 @@ title_reading = "ヨイノヘイアンキヨウスタウケイサウ"
 artist = "永田泰之"
 image = "be08c42de84d4873.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12203,13 +12233,28 @@ title_reading = "DESTINEDMARIONETTE"
 artist = "ビートまりお"
 image = "de5fd541ca5e23be.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
 advanced = "6"
 expert = "12+"
 master = "14"
+
+[[songs]]
+id = "2743"
+title = "ひつぎとふたご"
+title_reading = "ヒツキトフタコ"
+artist = "plastic feat. サキト"
+image = "609af8fb1bf0bc94.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "15"
 
 [[songs]]
 id = "145"
@@ -13707,7 +13752,7 @@ title_reading = "WEAREUSIOSYSTRAXREMIX"
 artist = "舞ヶ原シンセ研究会"
 image = "c164c69ead38bb76.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22117,6 +22162,21 @@ basic = "4"
 advanced = "8"
 expert = "14"
 master = "15"
+
+[[songs]]
+id = "2768"
+title = "MegiddØ"
+title_reading = "MEGIDDO"
+artist = "BlackY VS 大国奏音"
+image = "a9b50666a6a84430.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "8+"
+expert = "14"
+master = "15+"
 
 [[songs]]
 id = "8299"
