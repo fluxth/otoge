@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1376
-last_updated = "2025-05-30T03:20:13.742035136Z"
+count = 1379
+last_updated = "2025-06-06T03:22:55.685237438Z"
 
 [[songs]]
 id = "1030"
@@ -4165,7 +4165,8 @@ artist = "Shandy kubota"
 image = "bf6a041e1c971bdd.png"
 category = "maimai"
 version = "14008"
-is_new = false
+release = "2025-06-06"
+is_new = true
 is_locked = false
 
 [songs.levels]
@@ -4174,6 +4175,12 @@ advanced = "8+"
 expert = "10+"
 master = "13"
 remaster = "14"
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "11"
+master = "13+"
 
 [[songs]]
 id = "319"
@@ -21936,7 +21943,7 @@ image = "57a1f926723b132f.png"
 category = "ゲーム＆バラエティ"
 version = "25007"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "6"
@@ -22354,7 +22361,7 @@ category = "オンゲキ＆CHUNITHM"
 version = "25500"
 release = "2025-03-13"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "4"
@@ -22372,7 +22379,7 @@ category = "オンゲキ＆CHUNITHM"
 version = "25500"
 release = "2025-03-13"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "5"
@@ -22842,7 +22849,7 @@ image = "bf9cd35017832f93.png"
 category = "ゲーム＆バラエティ"
 version = "25507"
 release = "2025-05-30"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22850,6 +22857,60 @@ basic = "6"
 advanced = "8"
 expert = "12+"
 master = "14"
+
+[[songs]]
+id = "112"
+title = "クーネル・エンゲイザー"
+title_reading = "クウネルエンケイサア"
+artist = "電ǂ鯨"
+image = "dc086a7d603b1832.png"
+category = "niconico＆ボーカロイド"
+version = "25508"
+release = "2025-06-06"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "113"
+title = "ゼロトーキング"
+title_reading = "セロトオキンク"
+artist = "はるまきごはん"
+image = "d5b7dac7c24b8df6.png"
+category = "niconico＆ボーカロイド"
+version = "25508"
+release = "2025-06-06"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "114"
+title = "抜錨"
+title_reading = "ハツヒヨウ"
+artist = "ナナホシ管弦楽団"
+image = "e2995fcfaec824da.png"
+category = "niconico＆ボーカロイド"
+version = "25509"
+release = "2025-06-06"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13"
 
 [[songs]]
 id = "1443"
