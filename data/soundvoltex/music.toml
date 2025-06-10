@@ -1,6 +1,6 @@
 name = "soundvoltex"
-count = 2154
-last_updated = "2025-05-29T03:21:32.447177576Z"
+count = 2153
+last_updated = "2025-06-10T03:24:39.047071340Z"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=u5_SbvKs07L21NsWgvO8Zw"
@@ -24103,20 +24103,6 @@ name = "BEMANI"
 novice = "6"
 advanced = "12"
 exhaust = "17"
-
-[[songs]]
-image = "/game/sdvx/vi/common/jacket.html?img=9zupnxZuxi_gcLXXvVU5hQ"
-title = "ELECT(EXIT TUNES)"
-artist = "niki"
-
-[[songs.categories]]
-id = "vocaloid"
-name = "ボーカロイド"
-
-[songs.levels]
-novice = "3"
-advanced = "8"
-exhaust = "15"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=EpFA6Jwlaeay6KW4YKR8Rw"
