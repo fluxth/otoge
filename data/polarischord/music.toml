@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 310
-last_updated = "2025-06-04T03:22:59.046386280Z"
+count = 312
+last_updated = "2025-06-12T03:22:55.070893287Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5286,6 +5286,40 @@ influence = 13
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "1ef48a7d31be4cb85b1e21ad3cbf68f0"
+title = "ギャ・ギャ・ギャ・ギャラクシー！"
+artist = "つきみぐー、"
+license = "Licensed by つきみぐー、"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "f066bbb1682a8e5873239c86492bb2c1"
+title = "覚悟せよ！エンタンメ～ン ～より身の切り売り自暴自棄版～"
+artist = "マキシウキョウ"
+license = "Licensed by マキシウキョウ"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1
