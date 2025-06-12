@@ -1,6 +1,36 @@
 name = "soundvoltex"
-count = 2153
-last_updated = "2025-06-10T03:24:39.047071340Z"
+count = 2155
+last_updated = "2025-06-12T03:23:07.872613111Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=0f9WSQ-bW65RAG0dnraJOQ"
+title = "あおばの足音"
+artist = "駄菓子O型"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=XgyRV7zJkaZI1UVhrfn01Q"
+title = "覚悟せよ！エンタンメ～ン ～より身の切り売り自暴自棄版～"
+artist = "マキシウキョウ"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=u5_SbvKs07L21NsWgvO8Zw"
