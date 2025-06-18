@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 312
-last_updated = "2025-06-12T03:22:55.070893287Z"
+count = 313
+last_updated = "2025-06-18T03:23:32.205485962Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5320,6 +5320,22 @@ influence = 12
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "0ee9c80f0255a76a1add03c4bad8c658"
+title = "フラッフィー・アドベンチャー！"
+artist = "みーに feat. まより"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
