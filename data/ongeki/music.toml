@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 987
-last_updated = "2025-06-05T03:23:18.057024402Z"
+count = 990
+last_updated = "2025-06-19T03:23:31.924534308Z"
 
 [[songs]]
 id = "582300"
@@ -28692,7 +28692,7 @@ title_reading = "BREAKOVER"
 artist = "K-forest「Phigros」"
 date = "2025-06-05"
 image = "e8c1bd9af1ac5694.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -28724,7 +28724,7 @@ title_reading = "CONCVSSION"
 artist = "Halv「Phigros」"
 date = "2025-06-05"
 image = "c945d1c91b48dece.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Pigeon Games"
@@ -28754,7 +28754,7 @@ title_reading = "DISTORTEDFATE"
 artist = "Sakuzyo「Phigros」"
 date = "2025-06-05"
 image = "4909c7c938d899f7.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Pigeon Games"
@@ -28776,6 +28776,90 @@ master = "15"
 [songs.character]
 id = "1100"
 name = "柏木 咲姫"
+
+[[songs]]
+id = "666000"
+title = "[HALO]"
+title_reading = "HALO"
+artist = "Blacklolita"
+date = "2025-06-19"
+image = "93fffecd58a61104.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80045"
+name = "Primera Fes. ～Bridal Stage～"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "9"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "1150"
+name = "柏木 美亜"
+
+[[songs]]
+id = "576500"
+title = "SPILL OVER COLORS"
+title_reading = "SPILLOVERCOLORS"
+artist = "矢鴇つかさ feat. kalon."
+date = "2025-06-19"
+image = "5170a264f4e18b12.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80045"
+name = "Primera Fes. ～Bridal Stage～"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "2"
+advanced = "8"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
+
+[[songs]]
+id = "985300"
+title = "Dolphika"
+title_reading = "DOLPHIKA"
+artist = "HiTECH NINJA"
+date = "2025-06-19"
+image = "8c4a6bfba5bcfa96.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+lunatic = "14+"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
 
 [[categories]]
 id = "06"

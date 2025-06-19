@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 313
-last_updated = "2025-06-18T03:23:32.205485962Z"
+count = 315
+last_updated = "2025-06-19T03:23:31.610832055Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5336,6 +5336,40 @@ influence = 11
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "88079393110ea5713708254bd284dd5a"
+title = "悲報！ワイ！ニート！"
+artist = "Shu"
+license = "Licensed by Shu"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 8
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "e8a94df13c3418c2393eb614b667e0d6"
+title = "あおばの足音"
+artist = "駄菓子O型"
+license = "Licensed by 駄菓子O型,©2025 STUDIO NEUTRINO All rights reserved."
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1

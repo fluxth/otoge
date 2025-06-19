@@ -1,6 +1,36 @@
 name = "soundvoltex"
-count = 2155
-last_updated = "2025-06-12T03:23:07.872613111Z"
+count = 2157
+last_updated = "2025-06-19T03:23:41.939067682Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=3gXrk5XtOshGAPKCOxJMxg"
+title = "ギャ・ギャ・ギャ・ギャラクシー！"
+artist = "つきみぐー、"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qzHKw3FFMg14nzgmf7UxqQ"
+title = "悲報！ワイ！ニート！"
+artist = "Shu"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=0f9WSQ-bW65RAG0dnraJOQ"

@@ -1,6 +1,51 @@
 name = "chunithm_jp"
-count = 1551
-last_updated = "2025-06-05T03:23:17.662391082Z"
+count = 1557
+last_updated = "2025-06-19T03:23:31.522427113Z"
+
+[[songs]]
+id = "2776"
+title = "Paradoxes"
+title_reading = "PARADOXES"
+artist = "富田美憂「デート・ア・ライブ」"
+image = "b1a2aed8c5b5b42e.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "1"
+advanced = "4"
+expert = "8+"
+master = "12"
+
+[[songs]]
+id = "2803"
+title = "Running to the straight ver1.01"
+title_reading = "RUNNINGTOTHESTRAIGHTVER101"
+artist = "Shade feat.仲村芽衣子"
+image = "bcf1f8d4a285e0dc.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "2779"
+title = "you (Vocal)"
+title_reading = "YOUVOCAL"
+artist = "作詞、Vocal：癒月 作編曲：dai"
+image = "964b587ea9036977.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "1"
+advanced = "5"
+expert = "8"
+master = "12+"
 
 [[songs]]
 id = "2717"
@@ -2180,7 +2225,7 @@ title_reading = "ケツコウ"
 artist = "歌：V.I.P 作詞：廉　作曲：廉 「神椿市協奏中。」"
 image = "f671fc9f1b21cfdc.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -2195,7 +2240,7 @@ title_reading = "ユリカコ"
 artist = "歌：可不 作詞：MIMI　作曲：MIMI 「神椿市協奏中。」"
 image = "eddc42780c7c9f66.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -10416,6 +10461,21 @@ expert = "13"
 master = "14"
 
 [[songs]]
+id = "2780"
+title = "Southern Cross"
+title_reading = "SOUTHERNCROSS"
+artist = "403"
+image = "4d6af38ee61b612c.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "14+"
+
+[[songs]]
 id = "2353"
 title = "幻想即興曲"
 title_reading = "ケンソウソツキヨウキヨクシヨハン"
@@ -12248,12 +12308,27 @@ title_reading = "ヒツキトフタコ"
 artist = "plastic feat. サキト"
 image = "609af8fb1bf0bc94.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
 advanced = "6"
 expert = "10+"
+master = "15"
+
+[[songs]]
+id = "2804"
+title = "A c i - L"
+title_reading = "ACIL"
+artist = "-45"
+image = "c95d7b20c3c23275.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "13"
 master = "15"
 
 [[songs]]
@@ -22170,12 +22245,27 @@ title_reading = "MEGIDDO"
 artist = "BlackY VS 大国奏音"
 image = "a9b50666a6a84430.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
 advanced = "8+"
 expert = "14"
+master = "15+"
+
+[[songs]]
+id = "2802"
+title = "Crossmythos Rhapsodia"
+title_reading = "CROSSMYTHOSRHAPSODIA"
+artist = "Acotto vs Potwi"
+image = "77879f85dbdd32f2.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.levels]
+basic = "6"
+advanced = "9+"
+expert = "14+"
 master = "15+"
 
 [[songs]]
