@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1379
-last_updated = "2025-06-06T03:22:55.685237438Z"
+count = 1386
+last_updated = "2025-06-20T03:23:11.139403522Z"
 
 [[songs]]
 id = "1030"
@@ -4165,8 +4165,7 @@ artist = "Shandy kubota"
 image = "bf6a041e1c971bdd.png"
 category = "maimai"
 version = "14008"
-release = "2025-06-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -22388,6 +22387,24 @@ expert = "12"
 master = "14"
 
 [[songs]]
+id = "1253"
+title = "なんかノイズにきこえる"
+title_reading = "ナンカノイスニキコエル"
+artist = "HaNaMiNa feat.Hana"
+image = "8bd4abae1de74251.png"
+category = "オンゲキ＆CHUNITHM"
+version = "25509"
+release = "2025-06-20"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "9+"
+master = "13+"
+
+[[songs]]
 id = "14"
 title = "きゅびずむ"
 title_reading = "キユヒスム"
@@ -22859,6 +22876,79 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "7"
+title = "うぇいびー"
+title_reading = "ウエイヒイ"
+artist = "三枝明那"
+image = "4516b8b8e6cb4d7c.png"
+category = "POPS＆アニメ"
+version = "25509"
+release = "2025-06-20"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "10"
+master = "13"
+remaster = "13+"
+
+[[songs]]
+id = "8"
+title = "RED"
+title_reading = "RED"
+artist = "三枝明那"
+image = "9bfa0e4eab3c770c.png"
+category = "POPS＆アニメ"
+version = "25509"
+release = "2025-06-20"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "9"
+title = "ホラフキパペット"
+title_reading = "ホラフキハヘツト"
+artist = "七次元生徒会！"
+image = "044c69ffe7a5d66a.png"
+category = "POPS＆アニメ"
+version = "25509"
+release = "2025-06-20"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "10"
+title = "BlackFlagBreaker!!"
+title_reading = "BLACKFLAGBREAKER"
+artist = "社築 × sasakure.UK"
+image = "b63264a7cfe89264.png"
+category = "POPS＆アニメ"
+version = "25510"
+release = "2025-06-20"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "11"
+master = "13+"
+
+[[songs]]
 id = "112"
 title = "クーネル・エンゲイザー"
 title_reading = "クウネルエンケイサア"
@@ -22867,7 +22957,7 @@ image = "dc086a7d603b1832.png"
 category = "niconico＆ボーカロイド"
 version = "25508"
 release = "2025-06-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22885,7 +22975,7 @@ image = "d5b7dac7c24b8df6.png"
 category = "niconico＆ボーカロイド"
 version = "25508"
 release = "2025-06-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22903,7 +22993,7 @@ image = "e2995fcfaec824da.png"
 category = "niconico＆ボーカロイド"
 version = "25509"
 release = "2025-06-06"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -23610,6 +23700,23 @@ kanji = "協"
 comment = "君たちが三妖精だ！！！"
 
 [[songs]]
+id = "1387"
+title = "[覚]Hainuwele"
+title_reading = "HAINUWELE"
+artist = "ETIA."
+image = "6bb029ffc3be5817.png"
+category = "宴会場"
+version = "25508"
+release = "2025-06-20"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13+?"
+kanji = "覚"
+comment = "maimai でらっくす版覚譜面もほしかった"
+
+[[songs]]
 id = "1415"
 title = "[覚]スカーレット警察のゲットーパトロール24時"
 title_reading = "スカアレツトケイサツノケツトオハトロオル24シ"
@@ -23693,6 +23800,23 @@ is_locked = false
 level = "13+?"
 kanji = "息"
 comment = "息が詰まる息が詰まる息が詰まる息が詰まる"
+
+[[songs]]
+id = "1386"
+title = "[逆]WE'RE BACK!!"
+title_reading = "WEREBACK"
+artist = "Zekk"
+image = "31d7d548f4a52676.png"
+category = "宴会場"
+version = "25508"
+release = "2025-06-20"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "12+?"
+kanji = "逆"
+comment = "SLIDE BACK!!"
 
 [[songs]]
 id = "1450"
