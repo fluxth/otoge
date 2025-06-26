@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 2157
-last_updated = "2025-06-19T03:23:41.939067682Z"
+count = 2160
+last_updated = "2025-06-26T03:24:44.005448229Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=FKTxHyL2BSeWjcADxVXQCw"
+title = "アイスクリームマジック"
+artist = "雪乃イト"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=pCn6ZOqGdXm3FDVdbFyoCQ"
+title = "エクスプロウル"
+artist = "晴いちばん"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=eaOZhEL1WSeoHInxYncngw"
+title = "惑星ループ (花芽すみれ Cover)"
+artist = "ナユタン星人"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=3gXrk5XtOshGAPKCOxJMxg"
