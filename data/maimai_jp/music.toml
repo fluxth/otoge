@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1386
-last_updated = "2025-06-20T03:23:11.139403522Z"
+count = 1389
+last_updated = "2025-06-27T13:07:30.060749972Z"
 
 [[songs]]
 id = "1030"
@@ -22395,13 +22395,31 @@ image = "8bd4abae1de74251.png"
 category = "オンゲキ＆CHUNITHM"
 version = "25509"
 release = "2025-06-20"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
 basic = "3"
 advanced = "7"
 expert = "9+"
+master = "13+"
+
+[[songs]]
+id = "1252"
+title = "JIGOKU STATION CENTRAL GATE"
+title_reading = "JIGOKUSTATIONCENTRALGATE"
+artist = "鬱P feat.000"
+image = "1803a7329d1d7290.png"
+category = "オンゲキ＆CHUNITHM"
+version = "25510"
+release = "2025-06-27"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
 master = "13+"
 
 [[songs]]
@@ -22876,6 +22894,42 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "110"
+title = "㋰責任集合体"
+title_reading = "ムセキニンシユウコウタイ"
+artist = "マサラダ"
+image = "a53cf82eedd35750.png"
+category = "niconico＆ボーカロイド"
+version = "25510"
+release = "2025-06-27"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "111"
+title = "三日月ステップ 2023"
+title_reading = "ミカツキステツフ2023"
+artist = "r-906"
+image = "624953ea26b3f5c3.png"
+category = "niconico＆ボーカロイド"
+version = "25511"
+release = "2025-06-27"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "10"
+master = "13"
+
+[[songs]]
 id = "7"
 title = "うぇいびー"
 title_reading = "ウエイヒイ"
@@ -22884,7 +22938,7 @@ image = "4516b8b8e6cb4d7c.png"
 category = "POPS＆アニメ"
 version = "25509"
 release = "2025-06-20"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22903,7 +22957,7 @@ image = "9bfa0e4eab3c770c.png"
 category = "POPS＆アニメ"
 version = "25509"
 release = "2025-06-20"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22921,7 +22975,7 @@ image = "044c69ffe7a5d66a.png"
 category = "POPS＆アニメ"
 version = "25509"
 release = "2025-06-20"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22939,7 +22993,7 @@ image = "b63264a7cfe89264.png"
 category = "POPS＆アニメ"
 version = "25510"
 release = "2025-06-20"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
