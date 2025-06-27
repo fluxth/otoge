@@ -1,6 +1,6 @@
 name = "soundvoltex"
 count = 2160
-last_updated = "2025-06-26T03:24:44.005448229Z"
+last_updated = "2025-06-27T13:07:42.704034396Z"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=FKTxHyL2BSeWjcADxVXQCw"
@@ -23755,6 +23755,7 @@ name = "BEMANI"
 novice = "5"
 advanced = "11"
 exhaust = "17"
+exceed = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=SjgYyndOZEqgpKkfHPgcCQ"
@@ -24684,6 +24685,7 @@ novice = "7"
 advanced = "13"
 exhaust = "17"
 gravity = "19"
+ultimate = "20"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=Lte0MBQfaMIjKjm-fgYEUw"
@@ -29252,6 +29254,7 @@ name = "BEMANI"
 novice = "3"
 advanced = "9"
 exhaust = "15"
+exceed = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=qSiarGNO7fxUjybSczRlCg"
@@ -29836,6 +29839,7 @@ name = "BEMANI"
 novice = "4"
 advanced = "9"
 exhaust = "16"
+exceed = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=mJ864LZuFBxT6SnPdbhklw"
@@ -29850,6 +29854,7 @@ name = "BEMANI"
 novice = "6"
 advanced = "11"
 exhaust = "18"
+exceed = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=WRwdWVfwxd2LeXTUaXVwnQ"
