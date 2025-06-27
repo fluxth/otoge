@@ -178,7 +178,8 @@ where
                     "hvn" => levels.heavenly = Some(level_value),
                     "vvd" => levels.vivid = Some(level_value),
                     "xcd" => levels.exceed = Some(level_value),
-                    _ => panic!("Unknown level type: {}", level_id),
+                    "ult" => levels.ultimate = Some(level_value),
+                    _ => panic!("Unknown level type '{}' on page {}", level_id, page_num),
                 }
             }
 
