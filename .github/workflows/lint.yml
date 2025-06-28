@@ -32,4 +32,4 @@ jobs:
       - name: Lint otoge
         run: |
           cargo check
-          cargo clippy
+          cargo clippy -- -D warnings

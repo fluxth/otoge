@@ -179,7 +179,7 @@ where
                     "vvd" => levels.vivid = Some(level_value),
                     "xcd" => levels.exceed = Some(level_value),
                     "ult" => levels.ultimate = Some(level_value),
-                    _ => panic!("Unknown level type '{}' on page {}", level_id, page_num),
+                    _ => panic!("Unknown level type '{level_id}' on page {page_num}"),
                 }
             }
 
