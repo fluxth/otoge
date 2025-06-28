@@ -1,4 +1,4 @@
-name: Build otoge binaries
+name: Lint otoge codebase
 
 on:
   pull_request:
@@ -13,7 +13,7 @@ on:
       - '!data/**'
 
 jobs:
-  build:
+  lint:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -26,8 +26,10 @@ jobs:
       - name: Cache rust artifacts
         uses: Swatinem/rust-cache@98c8021b550208e191a6a3145459bfc9fb29c4c0 # v2.8.0
         with:
-          shared-key: build
+          shared-key: test
           save-if: ${{ github.ref == 'refs/heads/main' }}
 
-      - name: Build otoge
-        run: cargo build --release
+      - name: Lint otoge
+        run: |
+          cargo check
+          cargo clippy
