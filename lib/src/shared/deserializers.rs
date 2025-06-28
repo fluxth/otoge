@@ -23,7 +23,7 @@ where
         Some("NEW" | "○") => Ok(true),
         None => Ok(false),
         _ => Err(Error::unknown_variant(
-            &format!("{:?}", s),
+            &format!("{s:?}"),
             &["Some(\"NEW\")", "Some(\"○\")", "None"],
         )),
     }

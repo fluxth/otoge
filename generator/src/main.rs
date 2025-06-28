@@ -102,7 +102,7 @@ where
 
             tokio::fs::create_dir_all(&music_dir).await?;
 
-            let out_path = music_dir.join(format!("{}.json", name));
+            let out_path = music_dir.join(format!("{name}.json"));
 
             info!("Generating music index");
             let json_content = serde_json::to_string(&data_store)?;
