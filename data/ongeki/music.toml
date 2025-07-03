@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 990
-last_updated = "2025-06-19T03:23:31.924534308Z"
+count = 995
+last_updated = "2025-07-03T03:26:24.826605186Z"
 
 [[songs]]
 id = "582300"
@@ -28784,7 +28784,7 @@ title_reading = "HALO"
 artist = "Blacklolita"
 date = "2025-06-19"
 image = "93fffecd58a61104.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -28813,7 +28813,7 @@ title_reading = "SPILLOVERCOLORS"
 artist = "矢鴇つかさ feat. kalon."
 date = "2025-06-19"
 image = "5170a264f4e18b12.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -28842,7 +28842,7 @@ title_reading = "DOLPHIKA"
 artist = "HiTECH NINJA"
 date = "2025-06-19"
 image = "8c4a6bfba5bcfa96.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 
@@ -28860,6 +28860,150 @@ lunatic = "14+"
 [songs.character]
 id = "1040"
 name = "高瀬 梨緒"
+
+[[songs]]
+id = "182200"
+title = "わたしたち魔法乙女です☆"
+title_reading = "ワタシタチマホウオトメテス"
+artist = "LOVE☆MAXガールズ「ゴシックは魔法乙女」"
+date = "2025-07-03"
+image = "14a0e51e0adb2db2.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©2015 CAVE Interactive CO., LTD."
+
+[songs.chapter]
+id = "99031"
+name = "ゴシックは魔法乙女"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "4"
+advanced = "6"
+expert = "9"
+master = "12"
+
+[songs.character]
+id = "5175"
+name = "ロザリー"
+
+[[songs]]
+id = "167000"
+title = "ガジェットはプリンセス"
+title_reading = "カシエツトハフリンセス"
+artist = "柊かえ（CV:立花芽恵夢）「Re:ステージ！プリズムステップ」"
+date = "2025-07-03"
+image = "0cb0dea18d16bf6a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Re:ステージ! ドリームデイズ♪ 製作委員会"
+
+[songs.chapter]
+id = "99093"
+name = "Re:ステージ！プリズムステップ【第6弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "5190"
+name = "式宮 舞菜"
+
+[[songs]]
+id = "166900"
+title = "ユニゾンモノローグ"
+title_reading = "ユニソンモノロク"
+artist = "テトラルキア「Re:ステージ！プリズムステップ」"
+date = "2025-07-03"
+image = "a5731e5841067486.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Re:STAGE! PROJECT"
+
+[songs.chapter]
+id = "99093"
+name = "Re:ステージ！プリズムステップ【第6弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "7+"
+expert = "11"
+master = "14"
+
+[songs.character]
+id = "5190"
+name = "式宮 舞菜"
+
+[[songs]]
+id = "985200"
+title = "君とインフィニティ -2021-"
+title_reading = "キミトインフイニテイ2021"
+artist = "オルタンシア「Re:ステージ！プリズムステップ」"
+date = "2025-07-03"
+image = "d5612cf6277801e8.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+copyright = "© Re:STAGE! PROJECT"
+
+[songs.chapter]
+id = "99091"
+name = "Re:ステージ！プリズムステップ【第4弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+lunatic = "14+"
+
+[songs.character]
+id = "5190"
+name = "式宮 舞菜"
+
+[[songs]]
+id = "945400"
+title = "わたしたち魔法乙女です☆"
+title_reading = "ワタシタチマホウオトメテス"
+artist = "LOVE☆MAXガールズ「ゴシックは魔法乙女」"
+date = "2025-07-03"
+image = "32fb19e8d01b2f01.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+copyright = "©2015 CAVE Interactive CO., LTD."
+
+[songs.chapter]
+id = "99031"
+name = "ゴシックは魔法乙女"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+lunatic = "14"
+
+[songs.character]
+id = "5175"
+name = "ロザリー"
 
 [[categories]]
 id = "06"
