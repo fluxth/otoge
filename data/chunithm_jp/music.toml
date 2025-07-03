@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1557
-last_updated = "2025-06-19T03:23:31.522427113Z"
+count = 1562
+last_updated = "2025-07-03T03:26:24.865429728Z"
 
 [[songs]]
 id = "2776"
@@ -9,7 +9,7 @@ title_reading = "PARADOXES"
 artist = "富田美憂「デート・ア・ライブ」"
 image = "b1a2aed8c5b5b42e.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "1"
@@ -24,7 +24,7 @@ title_reading = "RUNNINGTOTHESTRAIGHTVER101"
 artist = "Shade feat.仲村芽衣子"
 image = "bcf1f8d4a285e0dc.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -39,7 +39,7 @@ title_reading = "YOUVOCAL"
 artist = "作詞、Vocal：癒月 作編曲：dai"
 image = "964b587ea9036977.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "1"
@@ -10467,7 +10467,7 @@ title_reading = "SOUTHERNCROSS"
 artist = "403"
 image = "4d6af38ee61b612c.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12323,7 +12323,7 @@ title_reading = "ACIL"
 artist = "-45"
 image = "c95d7b20c3c23275.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -15009,6 +15009,51 @@ expert = "13+"
 master = "15"
 
 [[songs]]
+id = "2783"
+title = "7thSense"
+title_reading = "7THSENCE"
+artist = "削除"
+image = "30353e758d1648d3.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2784"
+title = "デスパレイト"
+title_reading = "テスハレイト"
+artist = "owl＊tree"
+image = "d2a5bb85348ca6ca.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2785"
+title = "Swift Swing"
+title_reading = "SWIFTSWING"
+artist = "Laur"
+image = "aaf6732afb9f0067.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "14+"
+
+[[songs]]
 id = "802"
 title = "STARTLINER"
 title_reading = "STARTLINER"
@@ -16357,6 +16402,36 @@ basic = "5"
 advanced = "8"
 expert = "13+"
 master = "15"
+
+[[songs]]
+id = "2805"
+title = "Galaxy Blaster"
+title_reading = "GALAXYBLASTER"
+artist = "ああああ"
+image = "b67a3cd749371d4c.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "8"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2782"
+title = "BOUNCE & DANCE"
+title_reading = "BOUNCEDANCE"
+artist = "IOSYS TRAX"
+image = "c1460f3736c8697a.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "14+"
 
 [[songs]]
 id = "202"
