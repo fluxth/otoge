@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1389
-last_updated = "2025-06-27T13:07:30.060749972Z"
+count = 1390
+last_updated = "2025-07-04T03:24:26.388889192Z"
 
 [[songs]]
 id = "1030"
@@ -3331,12 +3331,19 @@ artist = "samfree feat.(V)・∀・(V)かにぱん。(A-ONE)"
 image = "fba94ed765e1c00b.png"
 category = "東方Project"
 version = "13010"
-is_new = false
+release = "2025-07-04"
+is_new = true
 is_locked = false
 
 [songs.levels]
 basic = "4"
 advanced = "8"
+expert = "10+"
+master = "13"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
 expert = "10+"
 master = "13"
 
@@ -22413,13 +22420,31 @@ image = "1803a7329d1d7290.png"
 category = "オンゲキ＆CHUNITHM"
 version = "25510"
 release = "2025-06-27"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
 basic = "4"
 advanced = "7+"
 expert = "11"
+master = "13+"
+
+[[songs]]
+id = "1251"
+title = "Lover's Trick"
+title_reading = "LOVERSTRICK"
+artist = "litmus*"
+image = "a1e1854c51cf78ac.png"
+category = "オンゲキ＆CHUNITHM"
+version = "25512"
+release = "2025-07-04"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
 master = "13+"
 
 [[songs]]
@@ -22902,7 +22927,7 @@ image = "a53cf82eedd35750.png"
 category = "niconico＆ボーカロイド"
 version = "25510"
 release = "2025-06-27"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22920,7 +22945,7 @@ image = "624953ea26b3f5c3.png"
 category = "niconico＆ボーカロイド"
 version = "25511"
 release = "2025-06-27"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
