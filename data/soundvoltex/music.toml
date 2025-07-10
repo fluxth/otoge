@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 2160
-last_updated = "2025-06-27T13:07:42.704034396Z"
+count = 2163
+last_updated = "2025-07-10T03:27:24.626560574Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=fSqScxuMsbu4EpBP5yVPEw"
+title = "ぐしゃ"
+artist = "ポラリスピー"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=iKKr8OURfT3p1s2hsgNJVw"
+title = "Dear Deer"
+artist = "Hylen"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=WTyo28Qk3SsGy1HxDlzuXQ"
+title = "DISTORDER"
+artist = "DJ Myosuke"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=FKTxHyL2BSeWjcADxVXQCw"

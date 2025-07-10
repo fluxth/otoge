@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 318
-last_updated = "2025-06-26T03:24:32.237699514Z"
+count = 321
+last_updated = "2025-07-10T03:27:15.238007473Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5426,6 +5426,54 @@ influence = 12
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "6b5bc6cb4566d8f48e373a626a78bd1e"
+title = "Ha･lle･lu･jah"
+artist = "SOUND HOLIC feat. Nana Takahashi"
+
+[songs.levels]
+easy = 1
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "d490dae40612ea9a15f8270c1da0bfe3"
+title = "Innocent"
+artist = "Alkome"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 11
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "02cefd5c13937c6b4996bd6e480cd400"
+title = "Ghost Family Living In Graveyard"
+artist = "RoughSketch"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
