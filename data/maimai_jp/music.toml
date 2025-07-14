@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1394
-last_updated = "2025-07-11T03:29:56.629475938Z"
+count = 1395
+last_updated = "2025-07-14T03:30:51.576044235Z"
 
 [[songs]]
 id = "1036"
@@ -22409,6 +22409,24 @@ basic = "5"
 advanced = "8"
 expert = "12"
 master = "13+"
+
+[[songs]]
+id = "907"
+title = "World's end BLACKBOX"
+title_reading = "WORLDSENDBLACKBOX"
+artist = "打打だいず"
+image = "4f8dd5d9c721b249.png"
+category = "maimai"
+version = "25512"
+release = "2025-07-11"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "7+"
+advanced = "10"
+expert = "13"
+master = "14+"
 
 [[songs]]
 id = "1265"
