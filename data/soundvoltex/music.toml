@@ -1,6 +1,81 @@
 name = "soundvoltex"
-count = 2163
-last_updated = "2025-07-10T03:27:24.626560574Z"
+count = 2168
+last_updated = "2025-07-18T03:30:10.825721006Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=d1LX_29NlLvbe4CL2cPVTQ"
+title = "EYE OF THE HEAVEN"
+artist = 'BEMANI Sound Team "U1-ASAMi"'
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ec--fiAX8pS3DTeGOfua-g"
+title = "Electronic Sports Complex"
+artist = "栄免建設"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=OaDc56NkkjYahOyteLTRUg"
+title = "EROICA"
+artist = 'BEMANI Sound Team "HERO"'
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=5wMr5KD69HbJiqokWtKokQ"
+title = "Secret Rouge"
+artist = "ハレトキドキ"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=acV7i1oSsPF3CS-5ttUzEQ"
+title = "Snow Garland Fairy"
+artist = 'BEMANI Sound Team "KE!JU"'
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=fSqScxuMsbu4EpBP5yVPEw"
