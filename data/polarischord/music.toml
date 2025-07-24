@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 321
-last_updated = "2025-07-20T03:32:08.980103717Z"
+count = 325
+last_updated = "2025-07-24T03:30:01.454733263Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5469,6 +5469,70 @@ easy = 4
 normal = 7
 hard = 11
 influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "622e1fd473e43377fa125a450fb5d928"
+title = "隅田川夏恋歌 (珠村日乃和 Cover)"
+artist = "seiya-murai feat.ALT"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "50731976e58dd5315dba122d80d46a68"
+title = "Trendy Cloudy LolIPopS"
+artist = "やどりぎ"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "6b9498332673461d2af4c157f5421c8a"
+title = "Moonlit Blue"
+artist = "Reku Mochizuki"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "4bfd16bd6f388ea038ae296a54a3e258"
+title = "Happy come×2 Tea Time"
+artist = "mIlImiiz (mIlIn × filmiiz)"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+influence = 11
 
 [[songs.categories]]
 bitflag = 6

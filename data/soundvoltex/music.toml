@@ -1,6 +1,44 @@
 name = "soundvoltex"
-count = 2168
-last_updated = "2025-07-18T03:30:10.825721006Z"
+count = 2170
+last_updated = "2025-07-24T03:30:15.644312062Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=mXx5eLpardBY5EN752JvUA"
+title = "千歳に泡影"
+artist = "Inaori feat.兎角あかり"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=M0gdMVHKnDDbWxyRdalIAg"
+title = "Lost Gear Syndrome"
+artist = "polysha vs. モリモリあつし"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=d1LX_29NlLvbe4CL2cPVTQ"
