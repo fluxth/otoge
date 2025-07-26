@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1002
-last_updated = "2025-07-16T03:29:45.088773010Z"
+count = 1004
+last_updated = "2025-07-26T03:29:20.849343226Z"
 
 [[songs]]
 id = "582300"
@@ -29012,7 +29012,7 @@ title_reading = "ヒトマニア"
 artist = "原口沙輔 feat.重音テト"
 date = "2025-07-10"
 image = "979fff2053ed2264.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "重音テト©線/小山乃舞世/TWINDRILL"
@@ -29042,7 +29042,7 @@ title_reading = "ライアタンサ"
 artist = "マサラダ"
 date = "2025-07-10"
 image = "d76f8f7e6ff7d0e3.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -29075,7 +29075,7 @@ title_reading = "リアライス"
 artist = "柊マグネタイト"
 date = "2025-07-10"
 image = "a63f2be3cc7c99c4.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -29107,7 +29107,7 @@ title_reading = "レイテストシヨマン"
 artist = "ジョー・力一"
 date = "2025-07-16"
 image = "913cdd61abee9d86.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©ANYCOLOR, Inc."
@@ -29137,7 +29137,7 @@ title_reading = "AZUREVIXEN"
 artist = "かめりあ"
 date = "2025-07-16"
 image = "58ea7a8eb3ba1816.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -29166,7 +29166,7 @@ title_reading = "IGNITION"
 artist = "パソコン音楽クラブ"
 date = "2025-07-16"
 image = "b79e9edfe44d857e.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -29195,7 +29195,7 @@ title_reading = "HONEYCOMB"
 artist = "天川はの"
 date = "2025-07-16"
 image = "a1b55ff02c538b4d.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©2025 mikai Inc."
@@ -29217,6 +29217,61 @@ master = "12+"
 [songs.character]
 id = "1020"
 name = "藤沢 柚子"
+
+[[songs]]
+id = "665900"
+title = "パピプペ Popping！ Talk！"
+title_reading = "ハヒフヘPOPPINGTALK"
+artist = "曲：脇眞富／歌：オンゲキシューターズ"
+date = "2025-07-26"
+image = "33634e39a152cf45.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80046"
+name = "O.N.G.E.K.I. 7th Anniversary"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "1150"
+name = "柏木 美亜"
+
+[[songs]]
+id = "985100"
+title = "WakeUP MakeUP FEVER!"
+title_reading = "WAKEUPMAKEUPFEVER"
+artist = "曲：アオワイファイ／歌：オンゲキシューターズ"
+date = "2025-07-26"
+image = "fe128d898db56415.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+lunatic = "14"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
 
 [[categories]]
 id = "06"
