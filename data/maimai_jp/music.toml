@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1398
-last_updated = "2025-07-16T03:29:44.832728899Z"
+count = 1401
+last_updated = "2025-07-26T03:29:20.517794566Z"
 
 [[songs]]
 id = "1043"
@@ -9937,6 +9937,12 @@ advanced = "8+"
 expert = "10"
 master = "13"
 
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "13"
+
 [[songs]]
 id = "646"
 title = "Good Bye, Mr. Jack"
@@ -10336,6 +10342,48 @@ basic = "3"
 advanced = "7+"
 expert = "11+"
 master = "13+"
+
+[[songs]]
+id = "934"
+title = "プリズム△▽リズム"
+title_reading = "フリスムリスム"
+artist = "Shoichiro Hirata feat.Sana"
+image = "0357191a14ae5114.png"
+category = "maimai"
+version = "25513"
+release = "2025-07-13"
+is_new = false
+is_locked = false
+
+[songs.levels]
+basic = "4"
+advanced = "6"
+expert = "9"
+master = "13"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "1264"
+title = "AFTER PANDORA"
+title_reading = "AFTERPANDORA"
+artist = "削除"
+image = "337975e1e775a059.png"
+category = "maimai"
+version = "25513"
+release = "2025-07-13"
+is_new = false
+is_locked = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "12"
+master = "14"
 
 [[songs]]
 id = "890"
@@ -21051,23 +21099,6 @@ expert = "9+"
 master = "12+"
 
 [[songs]]
-id = "933"
-title = "プリズム△▽リズム"
-title_reading = "フリスムリスム"
-artist = "Shoichiro Hirata feat.Sana"
-image = "0357191a14ae5114.png"
-category = "maimai"
-version = "25000"
-is_new = false
-is_locked = false
-
-[songs.dx_levels]
-basic = "3"
-advanced = "6"
-expert = "10"
-master = "13"
-
-[[songs]]
 id = "915"
 title = "パラドクスイヴ"
 title_reading = "ハラトクスイウ"
@@ -22427,6 +22458,43 @@ basic = "7+"
 advanced = "10"
 expert = "13"
 master = "14+"
+
+[[songs]]
+id = "1265"
+title = "Xaleid◆scopiX"
+title_reading = "XALEIDSCOPIX"
+artist = "xi"
+image = "7bf12d9c7382a32c.png"
+category = "maimai"
+version = "25513"
+release = "2025-07-13"
+is_new = false
+is_locked = true
+
+[songs.dx_levels]
+basic = "7+"
+advanced = "11"
+expert = "13+"
+master = "14+"
+remaster = "15"
+
+[[songs]]
+id = "1267"
+title = "Ref:rain (for 7th Heaven)"
+title_reading = "REFRAINFOR7THHEAVEN"
+artist = "カモメサノエレクトリックオーケストラ include Limonène"
+image = "3012b0903feb6e15.png"
+category = "maimai"
+version = "25514"
+release = "2025-07-13"
+is_new = false
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "12"
+master = "14"
 
 [[songs]]
 id = "1275"
