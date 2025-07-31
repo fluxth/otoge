@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1551
-last_updated = "2025-07-16T03:29:44.271324198Z"
+count = 1556
+last_updated = "2025-07-31T03:31:12.941008718Z"
 
 [[songs]]
 id = "2893"
@@ -9,7 +9,7 @@ title_reading = "キユム"
 artist = "ぷにる（CV：篠原 侑）「ぷにるはかわいいスライム」"
 image = "c1d0d1c58257d3ce.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "TAIDADA"
 artist = "ずっと真夜中でいいのに。"
 image = "86a52dcd3a3c1190.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -39,7 +39,7 @@ title_reading = "モエチヤツカフアイア"
 artist = "弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」"
 image = "4995a362b07802c4.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -55,7 +55,7 @@ title_reading = "ハイヨロコンテ"
 artist = "こっちのけんと"
 image = "2d6724156acd1491.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2101,13 +2101,73 @@ master = "14+"
 ultima = "15"
 
 [[songs]]
+id = "2839"
+title = "ブタサンダー"
+title_reading = "フタサンタウ"
+artist = "ゆこぴ"
+image = "261b96cc30398de6.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "8+"
+master = "13"
+
+[[songs]]
+id = "2840"
+title = "私の歯医者さん"
+title_reading = "ワタシノハイシヤサン"
+artist = "ゆこぴ"
+image = "99a5ef719e4a5b7e.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "8"
+master = "13"
+
+[[songs]]
+id = "2841"
+title = "少女A"
+title_reading = "シヨウシヨA"
+artist = "椎名もた"
+image = "99a5f5206ba8389c.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "14"
+
+[[songs]]
+id = "2842"
+title = "え？あぁ、そう。- 10th Anniversary Edition -"
+title_reading = "エアアソウ10THANNIVERSARYEDITION"
+artist = "蝶々P"
+image = "dc9accd551abab04.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "14"
+
+[[songs]]
 id = "2822"
 title = "ラヴィ"
 title_reading = "ラウイ"
 artist = "すりぃ"
 image = "cf64b226dc4e371d.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2123,7 +2183,7 @@ title_reading = "テトリス"
 artist = "柊マグネタイト"
 image = "2638c4d5ec3a4936.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2138,7 +2198,7 @@ title_reading = "モミアケヲシヤカアケヲ"
 artist = "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
 image = "4f191745bb2adf3b.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -6493,7 +6553,7 @@ title_reading = "サイシユウキチクイモウトフラントウルSCHROMARE
 artist = "ビートまりお × 黒魔"
 image = "c8f86fe539ef4f25.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10831,7 +10891,7 @@ title_reading = "REAOHARU"
 artist = "Nor「ブルーアーカイブ -Blue Archive-」"
 image = "4ea6b37f3e6d40e5.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -10846,7 +10906,7 @@ title_reading = "UNWELCOMESCHOOL"
 artist = "Mitsukiyo「ブルーアーカイブ -Blue Archive-」"
 image = "7c236c814e236d39.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10862,7 +10922,7 @@ title_reading = "イロトリキヤンハス"
 artist = "Mitsukiyo「ブルーアーカイブ -Blue Archive-」"
 image = "2052bb12a465f286.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12297,7 +12357,7 @@ title_reading = "ニルウノシンソウ"
 artist = "TJ.hangneil + Atomic Sphere feat.Annabel"
 image = "e83b8caa89d6948e.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -13261,7 +13321,7 @@ title_reading = "タンイカナイ"
 artist = "五十嵐 撫子(CV:花井 美春)"
 image = "ca791e9bd762bc91.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -15049,7 +15109,7 @@ title_reading = "ENERGIZINGFLAME"
 artist = "Artifact vs. Dualcast"
 image = "bb1d32dafa47b4be.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -15356,6 +15416,21 @@ basic = "3"
 advanced = "6"
 expert = "11"
 master = "14"
+
+[[songs]]
+id = "2827"
+title = "Individual on parade!"
+title_reading = "INDIVIDUALONPARADE"
+artist = "曲：渡部チェル／歌：珠洲島 有栖(CV：長縄 まりあ)、皇城 セツナ(CV：八巻 アンナ)、柏木 咲姫(CV：石見 舞菜香)、日向 千夏(CV：岡咲 美保)、井之原 小星(CV：ももの はるな)"
+image = "92f2fa910ab26134.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
 
 [[songs]]
 id = "2235"
@@ -16444,7 +16519,7 @@ title_reading = "DAYDREAMA"
 artist = "HiTECH NINJA"
 image = "72229dd444b71cb3.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22370,7 +22445,7 @@ title_reading = "エモウシヨンキヤフチヤウ"
 artist = "藍月なくる"
 image = "3db8b98717501dfd.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22385,7 +22460,7 @@ title_reading = "FLAPCLAP"
 artist = "棗いつき"
 image = "ed7ce038c352361a.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22400,7 +22475,7 @@ title_reading = "LUMINOIDLOVEPART2"
 artist = "DÉ DÉ MOUSE"
 image = "fe9b367f73fee276.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22415,7 +22490,7 @@ title_reading = "KRONOS"
 artist = "Street"
 image = "2aafc2127e1f7be2.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22430,7 +22505,7 @@ title_reading = "TOXIC"
 artist = "Zekk"
 image = "e125b15c438a129a.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -22445,7 +22520,7 @@ title_reading = "ハラレルホライスンス"
 artist = "BilliumMoto"
 image = "2a1627220d9ae475.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22460,7 +22535,7 @@ title_reading = "WINGNO6223"
 artist = "NAMV & Game-i"
 image = "355e4c4d48457c14.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22475,7 +22550,7 @@ title_reading = "INVITATION"
 artist = "れるりり feat.ろん"
 image = "64bd0ed0aaa44733.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "割"
@@ -22488,7 +22563,7 @@ title_reading = "SOLIPS"
 artist = "rintaro soma"
 image = "fc9439b20d61ebf0.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "蔵"
@@ -22501,7 +22576,7 @@ title_reading = "KATTOBIKEIKYURIDER"
 artist = "Sampling Masters MEGA"
 image = "56db92840a938eea.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "翔"
