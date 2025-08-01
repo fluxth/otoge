@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1401
-last_updated = "2025-07-26T03:29:20.517794566Z"
+count = 1403
+last_updated = "2025-08-01T03:36:57.272923367Z"
 
 [[songs]]
 id = "1043"
@@ -1678,13 +1678,20 @@ artist = "wowaka"
 image = "35c7bf45db2cc050.png"
 category = "niconico＆ボーカロイド"
 version = "12004"
-is_new = false
+release = "2025-08-01"
+is_new = true
 is_locked = false
 
 [songs.levels]
 basic = "4"
 advanced = "7"
 expert = "9+"
+master = "13"
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
 master = "13"
 
 [[songs]]
@@ -22613,7 +22620,7 @@ image = "099d921781514e64.png"
 category = "オンゲキ＆CHUNITHM"
 version = "25514"
 release = "2025-07-16"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -22631,7 +22638,7 @@ image = "d9edba9ca1933abc.png"
 category = "オンゲキ＆CHUNITHM"
 version = "25514"
 release = "2025-07-16"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -22649,7 +22656,7 @@ image = "4de17653f977fcaa.png"
 category = "オンゲキ＆CHUNITHM"
 version = "25515"
 release = "2025-07-16"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -23130,6 +23137,24 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "628"
+title = "∀"
+title_reading = "9999991"
+artist = "ああああ"
+image = "e01e7560acc1348d.png"
+category = "ゲーム＆バラエティ"
+version = "25515"
+release = "2025-08-01"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "11+"
+master = "14"
+
+[[songs]]
 id = "114"
 title = "㋰責任集合体"
 title_reading = "ムセキニンシユウコウタイ"
@@ -23290,6 +23315,24 @@ is_locked = false
 basic = "3"
 advanced = "6"
 expert = "10+"
+master = "13"
+
+[[songs]]
+id = "627"
+title = "Pixel Galaxy"
+title_reading = "PIXELGALAXY"
+artist = "Snail's House"
+image = "efa1f420c755d481.png"
+category = "ゲーム＆バラエティ"
+version = "25516"
+release = "2025-08-01"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "9+"
 master = "13"
 
 [[songs]]
