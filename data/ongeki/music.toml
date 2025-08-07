@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1004
-last_updated = "2025-07-26T03:29:20.849343226Z"
+count = 1011
+last_updated = "2025-08-07T03:31:40.841800820Z"
 
 [[songs]]
 id = "582300"
@@ -29225,7 +29225,7 @@ title_reading = "ハヒフヘPOPPINGTALK"
 artist = "曲：脇眞富／歌：オンゲキシューターズ"
 date = "2025-07-26"
 image = "33634e39a152cf45.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -29254,7 +29254,7 @@ title_reading = "WAKEUPMAKEUPFEVER"
 artist = "曲：アオワイファイ／歌：オンゲキシューターズ"
 date = "2025-07-26"
 image = "fe128d898db56415.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 
@@ -29272,6 +29272,212 @@ lunatic = "14"
 [songs.character]
 id = "1010"
 name = "星咲 あかり"
+
+[[songs]]
+id = "479200"
+title = "Unwelcome School"
+title_reading = "UNWELCOMESCHOOL"
+artist = "Mitsukiyo「ブルーアーカイブ -Blue Archive-」"
+date = "2025-08-07"
+image = "16596388af6910da.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© 2025 NEXON Games Co., Ltd. All Rights Reserved."
+
+[songs.chapter]
+id = "99126"
+name = "ブルーアーカイブ【シルバージュエル編】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "3"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "6825"
+name = "陸八魔 アル"
+
+[[songs]]
+id = "479100"
+title = "彩りキャンバス"
+title_reading = "イロトリキヤンハス"
+artist = "SUGAR RUSH「ブルーアーカイブ -Blue Archive-」"
+date = "2025-08-07"
+image = "993cb5ac19602922.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© 2025 NEXON Games Co., Ltd. All Rights Reserved."
+
+[songs.chapter]
+id = "99126"
+name = "ブルーアーカイブ【シルバージュエル編】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11+"
+master = "13"
+
+[songs.character]
+id = "6825"
+name = "陸八魔 アル"
+
+[[songs]]
+id = "478900"
+title = "Usagi Flap"
+title_reading = "USAGIFLAP"
+artist = "Nor「ブルーアーカイブ -Blue Archive-」"
+date = "2025-08-07"
+image = "264bb6d245b237fd.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© 2025 NEXON Games Co., Ltd. All Rights Reserved."
+
+[songs.chapter]
+id = "99127"
+name = "ブルーアーカイブ【ランキングイベント編】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "6825"
+name = "陸八魔 アル"
+
+[[songs]]
+id = "717600"
+title = "夏色花火 -藤沢 柚子ソロver.-"
+title_reading = "ナツイロハナヒフシサワユスソロVER"
+artist = "曲：穴山大輔, 水野健治／歌：藤沢 柚子(CV：久保田 梨沙)"
+date = "2025-08-07"
+image = "8d724f264d77371c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80004"
+name = "ハジけて THE サマーバケーション"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "1"
+advanced = "5"
+expert = "8"
+master = "12"
+
+[songs.character]
+id = "1020"
+name = "藤沢 柚子"
+
+[[songs]]
+id = "717700"
+title = "夏色花火 -早乙女 彩華ソロver.-"
+title_reading = "ナツイロハナヒサオトメアヤカソロVER"
+artist = "曲：穴山大輔, 水野健治／歌：早乙女 彩華(CV：中島 唯)"
+date = "2025-08-07"
+image = "2069f3a6846c2410.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80004"
+name = "ハジけて THE サマーバケーション"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "1"
+advanced = "5"
+expert = "8"
+master = "12"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
+
+[[songs]]
+id = "717800"
+title = "Iudicium “Apocalypsis Mix” -柏木 咲姫ソロver.-"
+title_reading = "IUDICIUMAPOCALYPSISMIXカシワキサキソロVER"
+artist = "曲：Powerless／歌：柏木 咲姫(CV：石見 舞菜香)"
+date = "2025-08-07"
+image = "4978b8ca6143525a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80003"
+name = "GEKINITHM -目が覚めたら異世界だった件-"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
+
+[[songs]]
+id = "717900"
+title = "Iudicium “Apocalypsis Mix” -柏木 美亜ソロver.-"
+title_reading = "IUDICIUMAPOCALYPSISMIXカシワキミアソロVER"
+artist = "曲：Powerless／歌：柏木 美亜(CV：和氣 あず未)"
+date = "2025-08-07"
+image = "0dc33f7d76b44df5.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80003"
+name = "GEKINITHM -目が覚めたら異世界だった件-"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "1150"
+name = "柏木 美亜"
 
 [[categories]]
 id = "06"
