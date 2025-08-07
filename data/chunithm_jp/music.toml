@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1556
-last_updated = "2025-07-31T03:31:12.941008718Z"
+count = 1560
+last_updated = "2025-08-07T03:31:40.226493977Z"
 
 [[songs]]
 id = "2893"
@@ -2107,7 +2107,7 @@ title_reading = "フタサンタウ"
 artist = "ゆこぴ"
 image = "261b96cc30398de6.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2122,7 +2122,7 @@ title_reading = "ワタシノハイシヤサン"
 artist = "ゆこぴ"
 image = "99a5ef719e4a5b7e.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2137,7 +2137,7 @@ title_reading = "シヨウシヨA"
 artist = "椎名もた"
 image = "99a5f5206ba8389c.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2152,7 +2152,7 @@ title_reading = "エアアソウ10THANNIVERSARYEDITION"
 artist = "蝶々P"
 image = "dc9accd551abab04.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -15118,6 +15118,21 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
+id = "2848"
+title = "アージェントシンメトリー"
+title_reading = "アウシエントシンメトリウ"
+artist = "Sta feat.b"
+image = "72666e842e68af96.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "14"
+
+[[songs]]
 id = "802"
 title = "STARTLINER"
 title_reading = "STARTLINER"
@@ -15424,7 +15439,7 @@ title_reading = "INDIVIDUALONPARADE"
 artist = "曲：渡部チェル／歌：珠洲島 有栖(CV：長縄 まりあ)、皇城 セツナ(CV：八巻 アンナ)、柏木 咲姫(CV：石見 舞菜香)、日向 千夏(CV：岡咲 美保)、井之原 小星(CV：ももの はるな)"
 image = "92f2fa910ab26134.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22536,6 +22551,51 @@ artist = "NAMV & Game-i"
 image = "355e4c4d48457c14.jpg"
 category = "ORIGINAL"
 is_new = false
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "14"
+
+[[songs]]
+id = "2843"
+title = "ノーライ"
+title_reading = "ノウライ"
+artist = "鬱P feat.鯖"
+image = "edd22f25d62b34ea.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "14+"
+
+[[songs]]
+id = "2844"
+title = "あの日、あの部屋で、あったこと"
+title_reading = "アノヒアノヘヤテアツタコト"
+artist = "wotaku feat. SHIKI"
+image = "efe636611ce07775.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "13"
+master = "15"
+
+[[songs]]
+id = "2845"
+title = "Star Saveler"
+title_reading = "STARSAVELER"
+artist = "ShiBa"
+image = "4cbf8a9dd137c01b.jpg"
+category = "ORIGINAL"
+is_new = true
 
 [songs.levels]
 basic = "3"

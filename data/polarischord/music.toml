@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 325
-last_updated = "2025-07-24T03:30:01.454733263Z"
+count = 332
+last_updated = "2025-08-07T03:31:42.091439440Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5533,6 +5533,120 @@ easy = 2
 normal = 6
 hard = 8
 influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "79ff4a156359e4525afdcbd7959706ce"
+title = "Poppin☆Mystic"
+artist = "Tatsunoshin x Aira Arere"
+license = "Licensed by GALSTYLEZ"
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "210c291750c717c4c09a375a66794973"
+title = "心泥夢(syndrome)"
+artist = "宮守文学 feat. 初音ミク"
+license = "Licensed by 宮守文学"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "c52bc8fbe8f2208fe7d386ad852cddee"
+title = "How about rainbow flavors?( *´꒳`*)っ"
+artist = "kuro"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "41ab28d1f12848c8bcf1574a3c75e205"
+title = "Stella Sinistra"
+artist = "Akhuta Philharmonic Orchestra"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "97953c465a9208338aa5e69b7695895e"
+title = "マインド・ゲーム"
+artist = "96 with メカショッチョー"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "261e2d6164eb8b2e0f74ad15162fd32c"
+title = "PUNISHER"
+artist = "TAG×PON"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "3f215352b939c692ca537c1d76665a66"
+title = "HYENA"
+artist = "Hommarju"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 11
+influence = 13
 
 [[songs.categories]]
 bitflag = 6
