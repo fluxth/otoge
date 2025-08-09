@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1403
-last_updated = "2025-08-01T03:36:57.272923367Z"
+count = 1407
+last_updated = "2025-08-09T03:26:05.859432708Z"
 
 [[songs]]
 id = "1043"
@@ -1678,8 +1678,7 @@ artist = "wowaka"
 image = "35c7bf45db2cc050.png"
 category = "niconico＆ボーカロイド"
 version = "12004"
-release = "2025-08-01"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -23119,6 +23118,78 @@ expert = "12"
 master = "14"
 
 [[songs]]
+id = "110"
+title = "MIRA"
+title_reading = "MIRA"
+artist = "Kanaria"
+image = "35ca863f15d7624f.png"
+category = "niconico＆ボーカロイド"
+version = "25516"
+release = "2025-08-08"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "111"
+title = "空回りライブラリ"
+title_reading = "カラマワリライフラリ"
+artist = "雪乃イト"
+image = "143a62b2d78eca40.png"
+category = "niconico＆ボーカロイド"
+version = "25516"
+release = "2025-08-08"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "112"
+title = "お呪い"
+title_reading = "オマシナイ"
+artist = "なきそ"
+image = "25f700cd2c5eb52b.png"
+category = "niconico＆ボーカロイド"
+version = "25516"
+release = "2025-08-08"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "113"
+title = "ありきたりな恋の歌"
+title_reading = "アリキタリナコイノウタ"
+artist = "GYARI"
+image = "d089a333ff0c746d.png"
+category = "niconico＆ボーカロイド"
+version = "25517"
+release = "2025-08-08"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "10"
+master = "13+"
+
+[[songs]]
 id = "630"
 title = "MYTH Re：LEASE"
 title_reading = "MYTHRELEASE"
@@ -23145,7 +23216,7 @@ image = "e01e7560acc1348d.png"
 category = "ゲーム＆バラエティ"
 version = "25515"
 release = "2025-08-01"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -23326,7 +23397,7 @@ image = "efa1f420c755d481.png"
 category = "ゲーム＆バラエティ"
 version = "25516"
 release = "2025-08-01"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]

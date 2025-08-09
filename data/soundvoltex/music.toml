@@ -1,6 +1,111 @@
 name = "soundvoltex"
-count = 2170
-last_updated = "2025-07-24T03:30:15.644312062Z"
+count = 2177
+last_updated = "2025-08-09T03:26:17.751165291Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=dI1MRPEA-Vfb69C2NCtbtA"
+title = "// If Summer Ever Comes_"
+artist = "黒魔"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=rMg9l2XUHOT9mQyngG8P0Q"
+title = "ØVER《Δ》"
+artist = "EmoCosine overlay"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=VSY0H_BStRtq8UPP8QsZaQ"
+title = "オムニシエント・ゼロ"
+artist = "ke-ji（CERTIA）"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=edKUqDBDdl43_OyGVSX3vw"
+title = "カミツレの成り方"
+artist = "テヅカ feat. 遠山小春"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=t30ykLh17Z2jt098jPxqGw"
+title = "KINGDOM COME"
+artist = "RoughSketch"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "8"
+advanced = "15"
+exhaust = "18"
+maximum = "20"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=HRZoIwjj25ISyT4mK3jZEA"
+title = "Grαnd Arχitect"
+artist = "CHUBAY"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=9Q_eyd2Z10Do28e5Bm0Czg"
+title = "Lollipop Error 404"
+artist = "Tsubusare BOZZ feat.madoka*"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=mXx5eLpardBY5EN752JvUA"
