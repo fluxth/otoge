@@ -1,6 +1,6 @@
 name = "soundvoltex"
 count = 2177
-last_updated = "2025-08-09T03:26:17.751165291Z"
+last_updated = "2025-08-21T11:28:49.019237309Z"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=dI1MRPEA-Vfb69C2NCtbtA"
@@ -26555,6 +26555,7 @@ name = "ボーカロイド"
 novice = "6"
 advanced = "11"
 exhaust = "16"
+exceed = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=oY-AvD0d6hjU_mqNDEEbsA"
@@ -29240,6 +29241,7 @@ name = "東方アレンジ"
 novice = "4"
 advanced = "8"
 exhaust = "15"
+exceed = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=YZa-g2Fq1gQ8g8cYxpxv4A"
@@ -32557,6 +32559,7 @@ name = "FLOOR"
 novice = "2"
 advanced = "7"
 exhaust = "12"
+exceed = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=u8GktZopmZ_W7kBNu6bNzA"
