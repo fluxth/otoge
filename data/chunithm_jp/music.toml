@@ -1,6 +1,81 @@
 name = "chunithm_jp"
-count = 1560
-last_updated = "2025-08-07T03:31:40.226493977Z"
+count = 1565
+last_updated = "2025-08-22T03:18:46.021232572Z"
+
+[[songs]]
+id = "2849"
+title = "1番輝く星"
+title_reading = "1ハンカカヤクホシ"
+artist = "アーリャ（CV：上坂すみれ）「時々ボソッとロシア語でデレる隣のアーリャさん」"
+image = "f960455d602444ed.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2864"
+title = "きゅびずむ"
+title_reading = "キユヒスム"
+artist = "超てんちゃん"
+image = "4679cc387de4fa20.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "2865"
+title = "きゅびびびびずむ"
+title_reading = "キユヒヒヒヒスム"
+artist = "超てんちゃん"
+image = "ad5eefa492fc9172.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "12+"
+master = "14+"
+
+[[songs]]
+id = "2850"
+title = "うい麦畑でつかまえて"
+title_reading = "ウイムキハタケテツカマエテ"
+artist = "しぐれうい"
+image = "dc21a93a2a5103a3.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "13+"
+
+[[songs]]
+id = "2851"
+title = "幽霊船戦"
+title_reading = "ユウレイセンセン"
+artist = "宝鐘マリン（ホロライブ）"
+image = "b21f078d9e70c073.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "14+"
 
 [[songs]]
 id = "2893"
@@ -15124,7 +15199,7 @@ title_reading = "アウシエントシンメトリウ"
 artist = "Sta feat.b"
 image = "72666e842e68af96.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22565,7 +22640,7 @@ title_reading = "ノウライ"
 artist = "鬱P feat.鯖"
 image = "edd22f25d62b34ea.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22580,7 +22655,7 @@ title_reading = "アノヒアノヘヤテアツタコト"
 artist = "wotaku feat. SHIKI"
 image = "efe636611ce07775.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -22595,7 +22670,7 @@ title_reading = "STARSAVELER"
 artist = "ShiBa"
 image = "4cbf8a9dd137c01b.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
