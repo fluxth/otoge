@@ -1,6 +1,6 @@
 name = "soundvoltex"
-count = 2177
-last_updated = "2025-08-21T11:28:49.019237309Z"
+count = 2175
+last_updated = "2025-08-27T03:16:35.494179085Z"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=dI1MRPEA-Vfb69C2NCtbtA"
@@ -11942,21 +11942,6 @@ exhaust = "15"
 gravity = "18"
 
 [[songs]]
-image = "/game/sdvx/vi/common/jacket.html?img=khrKXmMS8spn_nCfUDenbA"
-title = "太陽曰く燃えよカオス（Sol oscuro ¡Nya! Mix）"
-artist = 'Remixed by BEMANI Sound Team "U1-ASAMi" feat.ななひら'
-
-[[songs.categories]]
-id = "pops"
-name = "POPS&アニメ"
-
-[songs.levels]
-novice = "3"
-advanced = "11"
-exhaust = "14"
-maximum = "17"
-
-[[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=EVInzUFmLvhavM_mtR2-fw"
 title = "ねこみみ(=ФωФ=)ぱんでみみっく"
 artist = "ねこみりん feat.小宮真央"
@@ -11970,21 +11955,6 @@ novice = "6"
 advanced = "13"
 exhaust = "16"
 gravity = "18"
-
-[[songs]]
-image = "/game/sdvx/vi/common/jacket.html?img=AjSuCyspsKMd6bFVxwamrg"
-title = "回レ！雪月花 (Heart's Cry Remix)"
-artist = "Remixed by Heart's Cry"
-
-[[songs.categories]]
-id = "pops"
-name = "POPS&アニメ"
-
-[songs.levels]
-novice = "4"
-advanced = "10"
-exhaust = "13"
-maximum = "16"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=2GiE7nzLk39hs3jwmyowLg"
