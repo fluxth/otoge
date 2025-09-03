@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 333
-last_updated = "2025-08-29T03:15:57.706921346Z"
+count = 335
+last_updated = "2025-09-03T03:10:00.024162618Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5674,6 +5674,38 @@ name = "Virtual"
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "25335ab8226f6e7df5c2b7d712cba65a"
+title = "きらきら☆彡ぷりんせす"
+artist = "Maple Cafeteria"
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "a347eb70969f50b3a29b26dae9dfed86"
+title = "Citrus Burst"
+artist = "Enterskip"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
