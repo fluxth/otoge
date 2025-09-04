@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1015
-last_updated = "2025-08-21T11:28:37.159897347Z"
+count = 1010
+last_updated = "2025-09-04T03:10:45.479841849Z"
 
 [[songs]]
 id = "582300"
@@ -5278,36 +5278,6 @@ id = "1040"
 name = "高瀬 梨緒"
 
 [[songs]]
-id = "280100"
-title = "こどものしくみ"
-title_reading = "コトモノシクミ"
-artist = "ピノキオピー"
-date = "2019-11-28"
-image = "9952665c89c2c609.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "02"
-name = "niconico"
-
-[songs.levels]
-basic = "5"
-advanced = "7+"
-expert = "11"
-master = "12+"
-
-[songs.character]
-id = "1050"
-name = "結城 莉玖"
-
-[[songs]]
 id = "669700"
 title = "Let's Starry Party！"
 title_reading = "LETSSTARRYPARTY"
@@ -6214,35 +6184,6 @@ id = "1060"
 name = "藍原 椿"
 
 [[songs]]
-id = "285500"
-title = "メルティランドナイトメア"
-title_reading = "メルテイラントナイトメア"
-artist = "はるまきごはん feat.初音ミク"
-date = "2020-02-20"
-image = "256bbb037a3a20a8.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "02"
-name = "niconico"
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9+"
-master = "12"
-
-[songs.character]
-id = "1160"
-name = "東雲 つむぎ"
-
-[[songs]]
 id = "383500"
 title = "疾走あんさんぶる"
 title_reading = "シツソウアンサンフル"
@@ -6333,36 +6274,6 @@ master = "13+"
 [songs.character]
 id = "1040"
 name = "高瀬 梨緒"
-
-[[songs]]
-id = "181700"
-title = "ホシノキズナ"
-title_reading = "ホシノキスナ"
-artist = "神樹ヶ峰女学園星守クラス「バトルガール ハイスクール」"
-date = "2020-03-12"
-image = "f12b4cb4bb6ed402.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©2015-2020 COLOPL, Inc."
-
-[songs.chapter]
-id = "99034"
-name = "バトルガール ハイスクール"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "5180"
-name = "星月 みき"
 
 [[songs]]
 id = "275000"
@@ -16709,66 +16620,6 @@ master = "13+"
 [songs.character]
 id = "3030"
 name = "鏡音リン"
-
-[[songs]]
-id = "186700"
-title = "無敵☆moment"
-title_reading = "ムテキMOMENT"
-artist = "Peaky P-key「D4DJ」"
-date = "2022-03-17"
-image = "afe3758e2fb91486.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©bushiroad All Rights Reserved. © 2020 DONUTS Co. Ltd. All Rights Reserved."
-
-[songs.chapter]
-id = "99071"
-name = "D4DJ"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "2"
-advanced = "5"
-expert = "9"
-master = "12"
-
-[songs.character]
-id = "6175"
-name = "山手響子"
-
-[[songs]]
-id = "186800"
-title = "クライノイド"
-title_reading = "クライノイト"
-artist = "燐舞曲「D4DJ」"
-date = "2022-03-17"
-image = "8da3b32fa854c9ca.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©bushiroad All Rights Reserved. © 2020 DONUTS Co. Ltd. All Rights Reserved."
-
-[songs.chapter]
-id = "99071"
-name = "D4DJ"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "4"
-advanced = "7+"
-expert = "9+"
-master = "13"
-
-[songs.character]
-id = "6195"
-name = "青柳 椿"
 
 [[songs]]
 id = "483500"
