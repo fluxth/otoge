@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1565
-last_updated = "2025-08-22T03:18:46.021232572Z"
+count = 1569
+last_updated = "2025-09-04T03:10:44.992411529Z"
 
 [[songs]]
 id = "2849"
@@ -9,7 +9,7 @@ title_reading = "1ハンカカヤクホシ"
 artist = "アーリャ（CV：上坂すみれ）「時々ボソッとロシア語でデレる隣のアーリャさん」"
 image = "f960455d602444ed.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "キユヒスム"
 artist = "超てんちゃん"
 image = "4679cc387de4fa20.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -39,7 +39,7 @@ title_reading = "キユヒヒヒヒスム"
 artist = "超てんちゃん"
 image = "ad5eefa492fc9172.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -54,7 +54,7 @@ title_reading = "ウイムキハタケテツカマエテ"
 artist = "しぐれうい"
 image = "dc21a93a2a5103a3.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -69,7 +69,7 @@ title_reading = "ユウレイセンセン"
 artist = "宝鐘マリン（ホロライブ）"
 image = "b21f078d9e70c073.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -13450,6 +13450,21 @@ expert = "9+"
 master = "13+"
 
 [[songs]]
+id = "2859"
+title = "Burn!!!"
+title_reading = "BURN"
+artist = "藤堂 陽南袴(CV:八島 さらら)"
+image = "d725398d89dbc652.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11+"
+master = "14"
+
+[[songs]]
 id = "684"
 title = "Black'n White JAMMIN' CATS"
 title_reading = "BLACKNWHITEJAMMINCATS"
@@ -22676,6 +22691,51 @@ is_new = false
 basic = "3"
 advanced = "7"
 expert = "11"
+master = "14"
+
+[[songs]]
+id = "2855"
+title = "内臓♡マニピ"
+title_reading = "ナイソウマニヒ"
+artist = "Kijibato feat. をとは"
+image = "e18fd9af9133e46d.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "10+"
+master = "14+"
+
+[[songs]]
+id = "2856"
+title = "Steamed on the Beat"
+title_reading = "STEAMEDONTHEBEAT"
+artist = "電気式華憐音楽集団"
+image = "606b722f065dd646.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "14"
+
+[[songs]]
+id = "2857"
+title = "Challenger!!"
+title_reading = "CHALLENGER"
+artist = "シャティ"
+image = "68097129ef999df1.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
 master = "14"
 
 [[songs]]
