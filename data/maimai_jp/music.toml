@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1410
-last_updated = "2025-08-22T03:18:46.357750265Z"
+count = 1414
+last_updated = "2025-09-05T03:12:58.637992672Z"
 
 [[songs]]
 id = "1050"
@@ -23219,7 +23219,7 @@ image = "eda5cd3954117b53.png"
 category = "niconico＆ボーカロイド"
 version = "25517"
 release = "2025-08-22"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -23237,7 +23237,7 @@ image = "4ef4e7537385b42b.png"
 category = "niconico＆ボーカロイド"
 version = "25517"
 release = "2025-08-22"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -23255,7 +23255,7 @@ image = "edede17463c2cb20.png"
 category = "niconico＆ボーカロイド"
 version = "25518"
 release = "2025-08-22"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -23390,6 +23390,78 @@ basic = "3"
 advanced = "6"
 expert = "10+"
 master = "13"
+
+[[songs]]
+id = "631"
+title = "NO ONE YES MAN"
+title_reading = "NOONEYESMAN"
+artist = "MYUKKE."
+image = "2292348c921213b0.png"
+category = "ゲーム＆バラエティ"
+version = "25518"
+release = "2025-09-05"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "12"
+master = "13+"
+
+[[songs]]
+id = "632"
+title = "Leave All Behind"
+title_reading = "LEAVEALLBEHIND"
+artist = "rider"
+image = "07c863cf04ef6f93.png"
+category = "ゲーム＆バラエティ"
+version = "25518"
+release = "2025-09-05"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "633"
+title = "Retribution ～ Cycle of Redemption ～"
+title_reading = "RETRIBUTIONCYCLEOFREDEMPTION"
+artist = "Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)"
+image = "bed54ad3ef5fea33.png"
+category = "ゲーム＆バラエティ"
+version = "25518"
+release = "2025-09-05"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "13"
+master = "14"
+
+[[songs]]
+id = "634"
+title = "Luminescence"
+title_reading = "LUMINESCENCE"
+artist = "米虾Fomiki & 初云CLoudie"
+image = "9c6ba4b62558b06a.png"
+category = "ゲーム＆バラエティ"
+version = "25517"
+release = "2025-09-05"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "13+"
 
 [[songs]]
 id = "630"
