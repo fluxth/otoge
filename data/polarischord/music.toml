@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 335
-last_updated = "2025-09-09T03:15:31.082949252Z"
+count = 338
+last_updated = "2025-09-10T03:10:10.651275350Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5701,6 +5701,54 @@ easy = 3
 normal = 6
 hard = 10
 influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "3e51b218b717949dadacb4dad444864d"
+title = "激アツ☆マジヤバ☆チアガール"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 1
+normal = 4
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "0300ecab5bc13c8029e96b69a906b5b0"
+title = "双星ルミネセンス"
+artist = "一舞 ＆ 夏陽"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "17ac4743fc129932e4c3641a923e2d14"
+title = "走れメロンパン"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+influence = 10
 
 [[songs.categories]]
 bitflag = 6
