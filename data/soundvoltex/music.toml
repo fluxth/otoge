@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2178
-last_updated = "2025-08-29T03:16:14.081291373Z"
+count = 2182
+last_updated = "2025-09-11T03:14:30.819167955Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ZTReGGhu8MWDPz5otght3Q"
+title = "焔華"
+artist = "movies(moimoi×Xceon×Dai.)"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=SLtZijLyykN77VlEh_gX7A"
+title = "オーバーライド"
+artist = "吉田夜世"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=RSp14ZkCU57teRkDcG0wmQ"
+title = "Timepiece phase Ⅱ"
+artist = "佐々木博史"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=K-fIvcU3C8pOD2T4RjYsAw"
+title = "ライアーダンサー"
+artist = "マサラダ"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=kE88l6mcLrITfqvS6ai2RQ"
