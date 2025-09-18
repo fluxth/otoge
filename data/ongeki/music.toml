@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1010
-last_updated = "2025-09-04T03:10:45.479841849Z"
+count = 1019
+last_updated = "2025-09-18T03:12:00.002116651Z"
 
 [[songs]]
 id = "582300"
@@ -29337,7 +29337,7 @@ title_reading = "CRAZYABOUTYOU"
 artist = "kamome sano"
 date = "2025-08-21"
 image = "a84d4ca94a24ff7b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -29366,7 +29366,7 @@ title_reading = "ASYOUFEEL"
 artist = "DÉ DÉ MOUSE & WaMi"
 date = "2025-08-21"
 image = "608e7b18bdbc4625.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -29398,7 +29398,7 @@ title_reading = "GLITCHSTREET"
 artist = "KARUT「ブルーアーカイブ -Blue Archive-」"
 date = "2025-08-21"
 image = "e93ea6ecfc6378ef.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© 2025 NEXON Games Co., Ltd. All Rights Reserved."
@@ -29428,7 +29428,7 @@ title_reading = "REAOHARU"
 artist = "Nor「ブルーアーカイブ -Blue Archive-」"
 date = "2025-08-21"
 image = "ac61d67382fb3a57.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© 2025 NEXON Games Co., Ltd. All Rights Reserved."
@@ -29450,6 +29450,269 @@ master = "13+"
 [songs.character]
 id = "6850"
 name = "聖園 ミカ"
+
+[[songs]]
+id = "665800"
+title = "スキが止まらない！"
+title_reading = "スキカトマラナイ"
+artist = "曲：TAG／歌：井之原 小星(CV：ももの はるな)"
+date = "2025-09-04"
+image = "5ac7ca0321290280.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1090"
+name = "井之原 小星"
+
+[[songs]]
+id = "665700"
+title = "in den Himmel steigen"
+title_reading = "INDENHIMMELSTEIGEN"
+artist = "曲：RD-Sounds／歌：柏木 咲姫(CV：石見 舞菜香)"
+date = "2025-09-04"
+image = "e034f43306922dbd.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
+
+[[songs]]
+id = "665600"
+title = "天河游泳"
+title_reading = "テンカユウエイ"
+artist = "igel"
+date = "2025-09-04"
+image = "b7269454a4899ae8.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
+
+[[songs]]
+id = "665500"
+title = "TAIKAN GAME"
+title_reading = "TAIKANGAME"
+artist = "安井洋介"
+date = "2025-09-04"
+image = "28fa15a3db6b572c.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "1010"
+name = "星咲 あかり"
+
+[[songs]]
+id = "665400"
+title = "Good bye, Merry-Go-Round. (Kobaryo's FTN-Remix)"
+title_reading = "GOODBYEMERRYGOROUNDKOBARYOSFTNREMIX"
+artist = "Yooh / Kobaryo"
+date = "2025-09-04"
+image = "a8120cc323af6931.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
+
+[[songs]]
+id = "665300"
+title = "Xingularity"
+title_reading = "XINGULARITY"
+artist = "Alicemetix ex-ZAQUVA"
+date = "2025-09-04"
+image = "da70cc925c173851.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "12+"
+master = "14+"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
+
+[[songs]]
+id = "665200"
+title = "girls.exe"
+title_reading = "GIRLSEXE"
+artist = "rintaro soma"
+date = "2025-09-04"
+image = "282ab6697db00af6.png"
+is_new = false
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "7"
+advanced = "11+"
+expert = "14"
+master = "15"
+
+[songs.character]
+id = "1060"
+name = "藍原 椿"
+
+[[songs]]
+id = "166600"
+title = "Dream Believers (105期Ver.)"
+title_reading = "DREAMBELIEVERS105キVER"
+artist = "蓮ノ空女学院スクールアイドルクラブ"
+date = "2025-09-18"
+image = "99f0ff23b14b189c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©プロジェクトラブライブ！蓮ノ空女学院スクールアイドルクラブ"
+
+[songs.chapter]
+id = "99129"
+name = "Link！Like！ラブライブ！【第2弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[songs.character]
+id = "6545"
+name = "日野下 花帆"
+
+[[songs]]
+id = "166700"
+title = "アイドゥーミー！"
+title_reading = "アイトウミ"
+artist = "蓮ノ空女学院スクールアイドルクラブ"
+date = "2025-09-18"
+image = "aaafe44ea222b8f9.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©プロジェクトラブライブ！蓮ノ空女学院スクールアイドルクラブ"
+
+[songs.chapter]
+id = "99129"
+name = "Link！Like！ラブライブ！【第2弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "10"
+master = "13+"
+
+[songs.character]
+id = "6545"
+name = "日野下 花帆"
 
 [[categories]]
 id = "06"
