@@ -1,6 +1,81 @@
 name = "soundvoltex"
-count = 2187
-last_updated = "2025-09-26T03:14:05.585185917Z"
+count = 2192
+last_updated = "2025-09-29T03:17:39.363163125Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Ntn7T-m9vUqomXKfcMrjKQ"
+title = "朱と碧のランページ"
+artist = "covered by 儒烏風亭らでん(ReGLOSS)"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=YpjbpzThYg_A_vhlsGgxEQ"
+title = "カジノファイヤーことみちゃん"
+artist = "covered by 一条莉々華(ReGLOSS)"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=jmkf5vRN3wzHjm4n-CXZag"
+title = "Shooting Star"
+artist = "ReGLOSS"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "13"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=od6kd-oZ1b-1RpzZubPoMg"
+title = "murmur twins (guitar pop ver.)"
+artist = "covered by 音乃瀬奏(ReGLOSS)"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "2"
+advanced = "9"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=LDwdlvNJo9lCpEmWFqdQow"
+title = "リメンバーリメンバー"
+artist = "covered by 轟はじめ(ReGLOSS)"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "1"
+advanced = "8"
+exhaust = "13"
+maximum = "16"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=0rvi9QWcuPU2K4EOeJWGyg"
