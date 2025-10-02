@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1578
-last_updated = "2025-09-18T03:12:00.460942104Z"
+count = 1582
+last_updated = "2025-10-02T03:11:50.987101617Z"
 
 [[songs]]
 id = "2849"
@@ -2182,7 +2182,7 @@ title_reading = "スンタシエイキンク"
 artist = "なみぐる"
 image = "5e267d2979afc7f4.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2197,7 +2197,7 @@ title_reading = "オフソミウト"
 artist = "サツキ"
 image = "ff288202a6e6b17c.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2212,7 +2212,7 @@ title_reading = "スウハウヒウロウ"
 artist = "Guiano"
 image = "e5d5d9718239e0dc.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2227,7 +2227,7 @@ title_reading = "カルチヤ"
 artist = "ツミキ"
 image = "82dab59af12a8bd5.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10936,7 +10936,7 @@ title_reading = "スハイタウタンス"
 artist = "Toby Fox「UNDERTALE」"
 image = "f58c61f0f40e07cf.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -10951,7 +10951,7 @@ title_reading = "ユメトキホウ"
 artist = "Toby Fox「UNDERTALE」"
 image = "8d26ca603c9ecdea.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -13492,6 +13492,21 @@ is_new = false
 basic = "3"
 advanced = "5"
 expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2870"
+title = "ソウルのピース"
+title_reading = "ソウルノヒウス"
+artist = "葛城 華(CV:丸岡 和佳奈)"
+image = "d566db7c0f7ec2ba.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "10+"
 master = "13+"
 
 [[songs]]
@@ -22829,13 +22844,58 @@ expert = "10"
 master = "14"
 
 [[songs]]
+id = "2866"
+title = "ナラク・オン・エア"
+title_reading = "ナラクオンエア"
+artist = "吉田夜世 feat.棗いつき"
+image = "83c2148b0c5439ea.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "6"
+expert = "12"
+master = "14"
+
+[[songs]]
+id = "2867"
+title = "システム"
+title_reading = "システム"
+artist = "大漠波新 feat.ウォルピスカーター"
+image = "ff674bf7edab0f4c.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "2868"
+title = "恋伯色"
+title_reading = "コハクイロ"
+artist = "瀬名水紀 feat.六宮"
+image = "3c8481ae79bb7075.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "6"
+expert = "9+"
+master = "13+"
+
+[[songs]]
 id = "8308"
 title = "M.L.V.G"
 title_reading = "MLVG"
 artist = "テトラルキア「Re:ステージ！プリズムステップ」"
 image = "ccc776040f32eef4.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "跳"
@@ -22848,7 +22908,7 @@ title_reading = "ナイトオフナイツ"
 artist = "ビートまりお"
 image = "fd72d76f521e0c1b.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "時"
@@ -22861,7 +22921,7 @@ title_reading = "MEGALOVANIA"
 artist = "Toby Fox「UNDERTALE」"
 image = "20d9a4aad8375bce.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "避"
