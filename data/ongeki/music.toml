@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1019
-last_updated = "2025-09-18T03:12:00.002116651Z"
+count = 1025
+last_updated = "2025-10-02T03:11:51.469472690Z"
 
 [[songs]]
 id = "582300"
@@ -29661,7 +29661,7 @@ title_reading = "DREAMBELIEVERS105キVER"
 artist = "蓮ノ空女学院スクールアイドルクラブ"
 date = "2025-09-18"
 image = "99f0ff23b14b189c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©プロジェクトラブライブ！蓮ノ空女学院スクールアイドルクラブ"
@@ -29691,7 +29691,7 @@ title_reading = "アイトウミ"
 artist = "蓮ノ空女学院スクールアイドルクラブ"
 date = "2025-09-18"
 image = "aaafe44ea222b8f9.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©プロジェクトラブライブ！蓮ノ空女学院スクールアイドルクラブ"
@@ -29713,6 +29713,180 @@ master = "13+"
 [songs.character]
 id = "6545"
 name = "日野下 花帆"
+
+[[songs]]
+id = "575900"
+title = "アンビバレンス"
+title_reading = "アンヒハレンス"
+artist = "すりぃ×相沢"
+date = "2025-10-02"
+image = "591ed2f3e8aebfb9.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "1160"
+name = "東雲 つむぎ"
+
+[[songs]]
+id = "576000"
+title = "おしゃまなプリンセス"
+title_reading = "オシヤマナフリンセス"
+artist = "Shu feat. 七海うらら"
+date = "2025-10-02"
+image = "d16fb013aa632dfd.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "5"
+advanced = "8+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1160"
+name = "東雲 つむぎ"
+
+[[songs]]
+id = "576100"
+title = "B100d Hunter"
+title_reading = "B100DHUNTER"
+artist = "DIVELA feat.いゔどっと"
+date = "2025-10-02"
+image = "6d5f71583cba7254.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "11+"
+master = "14"
+
+[songs.character]
+id = "1050"
+name = "結城 莉玖"
+
+[[songs]]
+id = "716700"
+title = "感情アクセラレイション -三角 葵ソロver.-"
+title_reading = "カンシヨウアクセラレイシヨンミスミアオイソロVER"
+artist = "曲：矢鴇つかさ（Arte Refact）／歌：三角 葵(CV：春野 杏)"
+date = "2025-10-02"
+image = "06d89a3b68918eb8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "03083"
+name = "あぶない水着大事件"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "13"
+
+[songs.character]
+id = "1030"
+name = "三角 葵"
+
+[[songs]]
+id = "716800"
+title = "感情アクセラレイション -早乙女 彩華ソロver.-"
+title_reading = "カンシヨウアクセラレイシヨンサオトメアヤカソロVER"
+artist = "曲：矢鴇つかさ（Arte Refact）／歌：早乙女 彩華(CV：中島 唯)"
+date = "2025-10-02"
+image = "feecf1e76631fc45.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "03083"
+name = "あぶない水着大事件"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "13"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
+
+[[songs]]
+id = "716900"
+title = "感情アクセラレイション -柏木 咲姫ソロver.-"
+title_reading = "カンシヨウアクセラレイシヨンカシワキサキソロVER"
+artist = "曲：矢鴇つかさ（Arte Refact）／歌：柏木 咲姫(CV：石見 舞菜香)"
+date = "2025-10-02"
+image = "a07345a5705db536.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "03083"
+name = "あぶない水着大事件"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "13"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
 
 [[categories]]
 id = "06"
