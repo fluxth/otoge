@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1436
-last_updated = "2025-09-26T03:13:55.749764688Z"
+count = 1441
+last_updated = "2025-10-03T03:11:18.639249870Z"
 
 [[songs]]
 id = "1067"
@@ -7745,8 +7745,7 @@ artist = "DECO*27 feat.Tia"
 image = "c8caa99931db189d.png"
 category = "maimai"
 version = "19000"
-release = "2025-09-26"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -23738,7 +23737,7 @@ image = "503b44d4dc8fff1c.png"
 category = "ゲーム＆バラエティ"
 version = "26001"
 release = "2025-09-26"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -23756,13 +23755,103 @@ image = "50fa8e9ca7692f0c.png"
 category = "ゲーム＆バラエティ"
 version = "26001"
 release = "2025-09-26"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
 basic = "5"
 advanced = "8"
 expert = "12+"
+master = "14"
+
+[[songs]]
+id = "117"
+title = "しゅ～しん？変身☆ハカイシンzzZ"
+title_reading = "シユウシンヘンシンハカイシンZZZ"
+artist = "YOFUKASHi Sound Team feat.編井うも"
+image = "3b49138ef5b78f8b.png"
+category = "niconico＆ボーカロイド"
+version = "26002"
+release = "2025-10-03"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "118"
+title = "命テステス"
+title_reading = "イノチテステス"
+artist = "ぱりぱりさらうどん"
+image = "7987d57d04e10116.png"
+category = "niconico＆ボーカロイド"
+version = "26002"
+release = "2025-10-03"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "8"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "119"
+title = "拝啓、最高の思い出たち"
+title_reading = "ハイケイサイコウノオモイテタチ"
+artist = "ヤレギノ"
+image = "a7bd6ceaeb20ea10.png"
+category = "niconico＆ボーカロイド"
+version = "26002"
+release = "2025-10-03"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "120"
+title = "おべんきょうたいむ"
+title_reading = "オヘンキヨウタイム"
+artist = "litmus*"
+image = "57a35acac52f9635.png"
+category = "niconico＆ボーカロイド"
+version = "26002"
+release = "2025-10-03"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "12"
+master = "14"
+
+[[songs]]
+id = "121"
+title = "るろうらんる"
+title_reading = "ルロウランル"
+artist = "ちから"
+image = "393de382185611be.png"
+category = "niconico＆ボーカロイド"
+version = "26002"
+release = "2025-10-03"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11+"
 master = "14"
 
 [[songs]]
