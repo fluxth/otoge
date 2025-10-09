@@ -1,6 +1,36 @@
 name = "soundvoltex"
-count = 2192
-last_updated = "2025-09-29T03:17:39.363163125Z"
+count = 2194
+last_updated = "2025-10-09T03:14:40.979177042Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ORBBJC6RWFjTt7CBLJOCNQ"
+title = "ハートビート×スラッガー"
+artist = "あまみ×ひなみ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=a0NXJUh4nhP8L9QSHdKIrA"
+title = "FLAVOR-G"
+artist = "utzbo"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=Ntn7T-m9vUqomXKfcMrjKQ"

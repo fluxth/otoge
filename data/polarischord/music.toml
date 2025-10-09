@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 346
-last_updated = "2025-09-29T03:17:25.311979585Z"
+count = 347
+last_updated = "2025-10-09T03:14:28.667651703Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5907,6 +5907,22 @@ influence = 11
 bitflag = 1
 slug = "virtual"
 name = "Virtual"
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "a39f47dbe2e606253feb20d0567ec6d9"
+title = "Heroic DIVE!!"
+artist = "CHUBAY"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 9
+influence = 12
 
 [[songs.categories]]
 bitflag = 6
