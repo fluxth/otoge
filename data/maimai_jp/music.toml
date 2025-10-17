@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1441
-last_updated = "2025-10-03T03:11:18.639249870Z"
+count = 1447
+last_updated = "2025-10-17T03:15:54.462861387Z"
 
 [[songs]]
 id = "1067"
@@ -635,7 +635,8 @@ artist = "大谷智哉「リズム怪盗R 皇帝ナポレオンの遺産」"
 image = "7164862f8378206f.png"
 category = "ゲーム＆バラエティ"
 version = "10001"
-is_new = false
+release = "2025-10-16"
+is_new = true
 is_locked = false
 
 [songs.levels]
@@ -643,6 +644,12 @@ basic = "5"
 advanced = "7+"
 expert = "10+"
 master = "12+"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "879"
@@ -23474,6 +23481,42 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "931"
+title = "廃墟にいますキャンペーン"
+title_reading = "ハイキヨニイマスキヤンヘエン"
+artist = "吉田夜世 feat.ちっく。"
+image = "9de69d869392cae6.png"
+category = "maimai"
+version = "26003"
+release = "2025-10-16"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "934"
+title = "Customized Justice"
+title_reading = "CUSTOMIZEDJUSTICE"
+artist = "Kobaryo"
+image = "9354ec1583e9ffbb.png"
+category = "maimai"
+version = "26003"
+release = "2025-10-16"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8+"
+expert = "13"
+master = "14+"
+
+[[songs]]
 id = "1302"
 title = "イーヴィルガール"
 title_reading = "イイウイルカアル"
@@ -23773,7 +23816,7 @@ image = "3b49138ef5b78f8b.png"
 category = "niconico＆ボーカロイド"
 version = "26002"
 release = "2025-10-03"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -23791,7 +23834,7 @@ image = "7987d57d04e10116.png"
 category = "niconico＆ボーカロイド"
 version = "26002"
 release = "2025-10-03"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -23809,7 +23852,7 @@ image = "a7bd6ceaeb20ea10.png"
 category = "niconico＆ボーカロイド"
 version = "26002"
 release = "2025-10-03"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -23827,7 +23870,7 @@ image = "57a35acac52f9635.png"
 category = "niconico＆ボーカロイド"
 version = "26002"
 release = "2025-10-03"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -23845,7 +23888,7 @@ image = "393de382185611be.png"
 category = "niconico＆ボーカロイド"
 version = "26002"
 release = "2025-10-03"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -23853,6 +23896,42 @@ basic = "4"
 advanced = "7+"
 expert = "11+"
 master = "14"
+
+[[songs]]
+id = "113"
+title = "はじまりの未来"
+title_reading = "ハシマリノミライ"
+artist = "40mP × sasakure.UK / 初音ミク「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」"
+image = "0f8294359ea35f03.png"
+category = "niconico＆ボーカロイド"
+version = "26003"
+release = "2025-10-16"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "114"
+title = "Worlders"
+title_reading = "WORLDERS"
+artist = "じん / バーチャル・シンガー、Leo/need、MORE MORE JUMP！、Vivid BAD SQUAD、ワンダーランズ×ショウタイム、25時、ナイトコードで。「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」"
+image = "c76c2dfb5e5ba4e5.png"
+category = "niconico＆ボーカロイド"
+version = "26003"
+release = "2025-10-16"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "12+"
 
 [[songs]]
 id = "116"
@@ -24383,6 +24462,23 @@ kanji = "奏"
 comment = "一緒に！舞舞タイム！"
 
 [[songs]]
+id = "1443"
+title = "[藍]絶え間なく藍色"
+title_reading = "タエマナクアイイロ"
+artist = "獅子志司"
+image = "9fcfc39056f4c51e.png"
+category = "宴会場"
+version = "26003"
+release = "2025-10-16"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13?"
+kanji = "藍"
+comment = "絶え間なく青色"
+
+[[songs]]
 id = "1468"
 title = "[星]ほしぞらスペクタクル"
 title_reading = "ホシソラスヘクタクル"
@@ -24840,6 +24936,23 @@ is_locked = false
 level = "14?"
 kanji = "X"
 comment = "人（の初見姿観察推奨）マニア"
+
+[[songs]]
+id = "1444"
+title = "[音]snooze"
+title_reading = "SNOOZE"
+artist = "wotaku feat.SHIKI"
+image = "990f36f291344332.png"
+category = "宴会場"
+version = "26003"
+release = "2025-10-16"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13+?"
+kanji = "音"
+comment = "～音取りほぼMAXバージョン～"
 
 [[songs]]
 id = "1464"

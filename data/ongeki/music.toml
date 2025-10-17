@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1025
-last_updated = "2025-10-02T03:11:51.469472690Z"
+count = 1028
+last_updated = "2025-10-17T03:15:54.595678505Z"
 
 [[songs]]
 id = "582300"
@@ -29721,7 +29721,7 @@ title_reading = "アンヒハレンス"
 artist = "すりぃ×相沢"
 date = "2025-10-02"
 image = "591ed2f3e8aebfb9.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -29750,7 +29750,7 @@ title_reading = "オシヤマナフリンセス"
 artist = "Shu feat. 七海うらら"
 date = "2025-10-02"
 image = "d16fb013aa632dfd.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -29779,7 +29779,7 @@ title_reading = "B100DHUNTER"
 artist = "DIVELA feat.いゔどっと"
 date = "2025-10-02"
 image = "6d5f71583cba7254.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -29808,7 +29808,7 @@ title_reading = "カンシヨウアクセラレイシヨンミスミアオイソ
 artist = "曲：矢鴇つかさ（Arte Refact）／歌：三角 葵(CV：春野 杏)"
 date = "2025-10-02"
 image = "06d89a3b68918eb8.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -29837,7 +29837,7 @@ title_reading = "カンシヨウアクセラレイシヨンサオトメアヤカ
 artist = "曲：矢鴇つかさ（Arte Refact）／歌：早乙女 彩華(CV：中島 唯)"
 date = "2025-10-02"
 image = "feecf1e76631fc45.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -29866,7 +29866,7 @@ title_reading = "カンシヨウアクセラレイシヨンカシワキサキソ
 artist = "曲：矢鴇つかさ（Arte Refact）／歌：柏木 咲姫(CV：石見 舞菜香)"
 date = "2025-10-02"
 image = "a07345a5705db536.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -29887,6 +29887,96 @@ master = "13"
 [songs.character]
 id = "1100"
 name = "柏木 咲姫"
+
+[[songs]]
+id = "273600"
+title = "はじまりの未来"
+title_reading = "ハシマリノミライ"
+artist = "40mP × sasakure.UK"
+date = "2025-10-16"
+image = "c63f5d061335e951.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」製作委員会"
+
+[songs.chapter]
+id = "99130"
+name = "劇場版プロジェクトセカイ　壊れたセカイと歌えないミク"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "7067"
+name = "閉ざされた窓のセカイの初音ミク"
+
+[[songs]]
+id = "273700"
+title = "Worlders"
+title_reading = "WORLDERS"
+artist = "じん"
+date = "2025-10-16"
+image = "ca47494d57c5041a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」製作委員会"
+
+[songs.chapter]
+id = "99130"
+name = "劇場版プロジェクトセカイ　壊れたセカイと歌えないミク"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12+"
+
+[songs.character]
+id = "7068"
+name = "開かれた窓のセカイの初音ミク"
+
+[[songs]]
+id = "273800"
+title = "ダイダイダイダイダイキライ"
+title_reading = "タイタイタイタイタイキライ"
+artist = "雨良 Amala"
+date = "2025-10-16"
+image = "bdc32c7afa9285c1.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© 雨良 Amala"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "1060"
+name = "藍原 椿"
 
 [[categories]]
 id = "06"

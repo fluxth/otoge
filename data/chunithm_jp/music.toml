@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1582
-last_updated = "2025-10-02T03:11:50.987101617Z"
+count = 1587
+last_updated = "2025-10-17T03:15:53.662264795Z"
 
 [[songs]]
 id = "2849"
@@ -2174,6 +2174,36 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "15"
+
+[[songs]]
+id = "2874"
+title = "はじまりの未来"
+title_reading = "ハシマリノミライ"
+artist = "40mP × sasakure.UK / 初音ミク「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」"
+image = "8ff0614212fb7ad8.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2875"
+title = "Worlders"
+title_reading = "WORLDERS"
+artist = "じん / バーチャル・シンガー、Leo/need、MORE MORE JUMP！、Vivid BAD SQUAD、ワンダーランズ×ショウタイム、25時、ナイトコードで。「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」"
+image = "a44a7002e745fb11.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12+"
 
 [[songs]]
 id = "2894"
@@ -6680,6 +6710,51 @@ advanced = "6"
 expert = "9"
 master = "13"
 ultima = "14"
+
+[[songs]]
+id = "2871"
+title = "Idoratrize World"
+title_reading = "IDORATRIZEWORLD"
+artist = "A-One"
+image = "5e39b603890a94b9.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "14"
+
+[[songs]]
+id = "2872"
+title = "Necromantic"
+title_reading = "NECROMANTIC"
+artist = "暁Records"
+image = "584b8e745e6ff7fc.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2873"
+title = "Galaxy Collapse"
+title_reading = "GALAXYCOLLAPSE"
+artist = "黒皇帝"
+image = "7e960cc79d3ba17d.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "13+"
+master = "15"
 
 [[songs]]
 id = "2825"
@@ -13501,7 +13576,7 @@ title_reading = "ソウルノヒウス"
 artist = "葛城 華(CV:丸岡 和佳奈)"
 image = "d566db7c0f7ec2ba.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22850,7 +22925,7 @@ title_reading = "ナラクオンエア"
 artist = "吉田夜世 feat.棗いつき"
 image = "83c2148b0c5439ea.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -22865,7 +22940,7 @@ title_reading = "システム"
 artist = "大漠波新 feat.ウォルピスカーター"
 image = "ff674bf7edab0f4c.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -22880,7 +22955,7 @@ title_reading = "コハクイロ"
 artist = "瀬名水紀 feat.六宮"
 image = "3c8481ae79bb7075.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
