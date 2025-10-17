@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 347
-last_updated = "2025-10-09T03:14:28.667651703Z"
+count = 348
+last_updated = "2025-10-17T03:15:54.471394538Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5928,6 +5928,28 @@ influence = 12
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "3a2127488f24d88a9fdf300acf4cc2aa"
+title = "デッドライン症候群"
+artist = "irom"
+license = "Licensed by ЯÉVOLTE"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
 
 [[categories]]
 bitflag = 1
