@@ -1,6 +1,44 @@
 name = "soundvoltex"
-count = 2194
-last_updated = "2025-10-09T03:14:40.979177042Z"
+count = 2196
+last_updated = "2025-10-23T03:17:17.185483253Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qeZrg7Jxcx233SyR1g7JSQ"
+title = "FLOOD_FLOOR"
+artist = "brz1128"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=23C49BWYqdBge9muDTXYQA"
+title = "落赤"
+artist = "Acotto feat. 記憶に残る"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ORBBJC6RWFjTt7CBLJOCNQ"

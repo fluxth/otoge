@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 348
-last_updated = "2025-10-17T03:15:54.471394538Z"
+count = 351
+last_updated = "2025-10-23T03:17:07.121360932Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5950,6 +5950,54 @@ name = "ソーシャルミュージック"
 bitflag = 5
 slug = "variety"
 name = "バラエティ"
+
+[[songs]]
+id = "8b5d41f5f3c44025ef0f7790cd4aec19"
+title = "Squeeze"
+artist = "VENUS feat. Mutsuhiko Izumi"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "74ea0692fd3e1035d57179baef84bd04"
+title = "デッドボヲルdeホームラン"
+artist = "猫叉Masterβ2"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "2da467c66ac9677f430b9f892c394f04"
+title = "轟け！恋のビーンボール！！"
+artist = "ダイナミック野球兄弟 v.s. クロスファイヤーPrim"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
