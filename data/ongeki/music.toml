@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1028
-last_updated = "2025-10-17T03:15:54.595678505Z"
+count = 1030
+last_updated = "2025-10-30T03:20:51.098834897Z"
 
 [[songs]]
 id = "582300"
@@ -29895,7 +29895,7 @@ title_reading = "ハシマリノミライ"
 artist = "40mP × sasakure.UK"
 date = "2025-10-16"
 image = "c63f5d061335e951.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」製作委員会"
@@ -29925,7 +29925,7 @@ title_reading = "WORLDERS"
 artist = "じん"
 date = "2025-10-16"
 image = "ca47494d57c5041a.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」製作委員会"
@@ -29955,7 +29955,7 @@ title_reading = "タイタイタイタイタイキライ"
 artist = "雨良 Amala"
 date = "2025-10-16"
 image = "bdc32c7afa9285c1.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© 雨良 Amala"
@@ -29977,6 +29977,64 @@ master = "13"
 [songs.character]
 id = "1060"
 name = "藍原 椿"
+
+[[songs]]
+id = "665000"
+title = "Tachyon"
+title_reading = "TACHYON"
+artist = "Zekk"
+date = "2025-10-30"
+image = "3f95e0d3d5379861.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
+
+[[songs]]
+id = "665100"
+title = "lovelynonsense"
+title_reading = "LOVELYNONSENSE"
+artist = "tn-shi"
+date = "2025-10-30"
+image = "ee70cac61c4487f5.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80047"
+name = "KING of Performai The 7th 予選ラウンド"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "7"
+advanced = "10"
+expert = "14"
+master = "15"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
 
 [[categories]]
 id = "06"

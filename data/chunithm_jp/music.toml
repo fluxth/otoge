@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1587
-last_updated = "2025-10-17T03:15:53.662264795Z"
+count = 1588
+last_updated = "2025-10-30T03:20:50.747449511Z"
 
 [[songs]]
 id = "2849"
@@ -2182,7 +2182,7 @@ title_reading = "ハシマリノミライ"
 artist = "40mP × sasakure.UK / 初音ミク「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」"
 image = "8ff0614212fb7ad8.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2197,7 +2197,7 @@ title_reading = "WORLDERS"
 artist = "じん / バーチャル・シンガー、Leo/need、MORE MORE JUMP！、Vivid BAD SQUAD、ワンダーランズ×ショウタイム、25時、ナイトコードで。「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」"
 image = "a44a7002e745fb11.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -6718,7 +6718,7 @@ title_reading = "IDORATRIZEWORLD"
 artist = "A-One"
 image = "5e39b603890a94b9.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -6733,7 +6733,7 @@ title_reading = "NECROMANTIC"
 artist = "暁Records"
 image = "584b8e745e6ff7fc.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -6748,7 +6748,7 @@ title_reading = "GALAXYCOLLAPSE"
 artist = "黒皇帝"
 image = "7e960cc79d3ba17d.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -15401,6 +15401,21 @@ basic = "3"
 advanced = "6"
 expert = "10"
 master = "14"
+
+[[songs]]
+id = "2876"
+title = "渦状銀河のシンフォニエッタ"
+title_reading = "カシヨウキンカノシンフオニエツタ"
+artist = "山本真央樹"
+image = "afdd20950ed143a5.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "12+"
+master = "15"
 
 [[songs]]
 id = "802"
