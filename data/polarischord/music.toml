@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 351
-last_updated = "2025-10-23T03:17:07.121360932Z"
+count = 352
+last_updated = "2025-10-30T03:20:50.423095610Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -5998,6 +5998,23 @@ influence = 13
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "4966b7c9dca7539ed996ac3e32af4034"
+title = "絶え間なく藍色"
+artist = "獅子志司"
+license = "Licensed by 獅子志司"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
 
 [[categories]]
 bitflag = 1
