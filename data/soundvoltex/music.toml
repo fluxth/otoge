@@ -1,6 +1,6 @@
 name = "soundvoltex"
 count = 2196
-last_updated = "2025-10-23T03:17:17.185483253Z"
+last_updated = "2025-10-31T03:21:20.841441795Z"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=qeZrg7Jxcx233SyR1g7JSQ"
@@ -20925,6 +20925,7 @@ name = "その他"
 novice = "6"
 advanced = "11"
 exhaust = "17"
+exceed = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=X6X8WZfq60sW7qcdbqwSvA"
@@ -24427,6 +24428,7 @@ name = "BEMANI"
 novice = "5"
 advanced = "12"
 exhaust = "16"
+exceed = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=iLUG_z5FTwGgAOBp8xkM3A"
@@ -26127,6 +26129,7 @@ name = "東方アレンジ"
 novice = "3"
 advanced = "9"
 exhaust = "15"
+exceed = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=QpoiRrmILRVZa6A843E2kw"
