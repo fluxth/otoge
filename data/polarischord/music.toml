@@ -1,6 +1,6 @@
 name = "polarischord"
 count = 352
-last_updated = "2025-10-30T03:20:50.423095610Z"
+last_updated = "2025-11-05T03:21:06.178829517Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -703,6 +703,7 @@ license = "Licensed by Activ8 Inc."
 easy = 1
 normal = 6
 hard = 9
+influence = 11
 
 [[songs.categories]]
 bitflag = 1

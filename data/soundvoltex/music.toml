@@ -1,6 +1,21 @@
 name = "soundvoltex"
-count = 2196
-last_updated = "2025-10-31T03:21:20.841441795Z"
+count = 2197
+last_updated = "2025-11-05T03:21:17.819737564Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=tq94FpKrohWQo7Ws10kK2w"
+title = "シンクロニティ"
+artist = "おめがシスターズ"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=qeZrg7Jxcx233SyR1g7JSQ"
