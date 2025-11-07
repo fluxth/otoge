@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1449
-last_updated = "2025-10-30T03:20:50.478636292Z"
+count = 1453
+last_updated = "2025-11-07T03:21:03.565020107Z"
 
 [[songs]]
 id = "1073"
@@ -23366,7 +23366,7 @@ image = "07c863cf04ef6f93.png"
 category = "ゲーム＆バラエティ"
 version = "25518"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "3"
@@ -23383,7 +23383,7 @@ image = "bed54ad3ef5fea33.png"
 category = "ゲーム＆バラエティ"
 version = "25518"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "6"
@@ -23524,7 +23524,7 @@ image = "5745f4aa35faeedd.png"
 category = "maimai"
 version = "26004"
 release = "2025-10-30"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -23532,6 +23532,78 @@ basic = "6"
 advanced = "9"
 expert = "13"
 master = "14+"
+
+[[songs]]
+id = "932"
+title = "真空都市"
+title_reading = "シンクウトシ"
+artist = "ナナツカゼ"
+image = "9ba20e7aa22358c0.png"
+category = "maimai"
+version = "26005"
+release = "2025-11-07"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "933"
+title = "Eternal Return"
+title_reading = "ETERNALRETURN"
+artist = "Tatsunoshin & Aira Arere"
+image = "57d2dacfaffc601f.png"
+category = "maimai"
+version = "26005"
+release = "2025-11-07"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "934"
+title = "ぱぱぱらビーチ"
+title_reading = "ハハハラヒイチ"
+artist = "ぱぱぱらビーチ"
+image = "bb698510f3d02bac.png"
+category = "maimai"
+version = "26005"
+release = "2025-11-07"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "935"
+title = "Get U ♭ack"
+title_reading = "GETUBACK"
+artist = "Ryo Fukuda"
+image = "6420ff4f7a622cd6.png"
+category = "maimai"
+version = "26005"
+release = "2025-11-07"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8+"
+expert = "12+"
+master = "14"
 
 [[songs]]
 id = "1308"
@@ -23959,7 +24031,7 @@ image = "5dd0b04bc3c1a8d4.png"
 category = "niconico＆ボーカロイド"
 version = "26004"
 release = "2025-10-30"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
