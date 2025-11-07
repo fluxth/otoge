@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1588
-last_updated = "2025-10-30T03:20:50.747449511Z"
+count = 1593
+last_updated = "2025-11-07T03:21:03.285070438Z"
 
 [[songs]]
 id = "2849"
@@ -12619,6 +12619,7 @@ basic = "3"
 advanced = "5"
 expert = "8+"
 master = "12"
+ultima = "14+"
 
 [[songs]]
 id = "614"
@@ -13643,6 +13644,21 @@ basic = "3"
 advanced = "6"
 expert = "11+"
 master = "14"
+
+[[songs]]
+id = "2881"
+title = "Hardsync"
+title_reading = "HARDSYNC"
+artist = "桔梗 小夜曲(CV:原田 彩楓)"
+image = "be2426e63cf3c019.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "10+"
+master = "14+"
 
 [[songs]]
 id = "684"
@@ -15409,7 +15425,7 @@ title_reading = "カシヨウキンカノシンフオニエツタ"
 artist = "山本真央樹"
 image = "afdd20950ed143a5.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -16828,6 +16844,21 @@ expert = "11+"
 master = "14"
 
 [[songs]]
+id = "2882"
+title = "しとしとと"
+title_reading = "シトシトト"
+artist = "t+pazolite"
+image = "25c1a2346c2ff084.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9+"
+expert = "13"
+master = "14+"
+
+[[songs]]
 id = "202"
 title = "GEMINI -C-"
 title_reading = "GEMINIC"
@@ -17066,6 +17097,7 @@ basic = "3"
 advanced = "6"
 expert = "8"
 master = "11+"
+ultima = "13+"
 
 [[songs]]
 id = "79"
@@ -17285,6 +17317,7 @@ basic = "2"
 advanced = "5"
 expert = "10"
 master = "13+"
+ultima = "14+"
 
 [[songs]]
 id = "100"
@@ -17377,6 +17410,7 @@ basic = "3"
 advanced = "9"
 expert = "13"
 master = "14+"
+ultima = "15"
 
 [[songs]]
 id = "141"
@@ -17619,6 +17653,7 @@ basic = "3"
 advanced = "6"
 expert = "10"
 master = "14"
+ultima = "14+"
 
 [[songs]]
 id = "52"
@@ -17799,6 +17834,7 @@ basic = "3"
 advanced = "5"
 expert = "8+"
 master = "11"
+ultima = "13+"
 
 [[songs]]
 id = "66"
@@ -17889,6 +17925,7 @@ basic = "3"
 advanced = "6"
 expert = "10"
 master = "13+"
+ultima = "14+"
 
 [[songs]]
 id = "307"
@@ -18039,6 +18076,7 @@ basic = "3"
 advanced = "6"
 expert = "9+"
 master = "13+"
+ultima = "14"
 
 [[songs]]
 id = "256"
@@ -18354,6 +18392,7 @@ basic = "3"
 advanced = "6"
 expert = "8"
 master = "12+"
+ultima = "13+"
 
 [[songs]]
 id = "434"
@@ -20366,6 +20405,7 @@ basic = "2"
 advanced = "5"
 expert = "9"
 master = "11+"
+ultima = "13+"
 
 [[songs]]
 id = "1102"
@@ -22977,6 +23017,51 @@ basic = "4"
 advanced = "6"
 expert = "9+"
 master = "13+"
+
+[[songs]]
+id = "2877"
+title = "Warp Speed"
+title_reading = "WARPSPEED"
+artist = "Nhato"
+image = "7d047fe786983b56.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "14"
+
+[[songs]]
+id = "2878"
+title = "In the Straying Story"
+title_reading = "INTHESTRAYINGSTORY"
+artist = "polysha"
+image = "e40b950f8f57ba5e.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "13"
+master = "14+"
+
+[[songs]]
+id = "2879"
+title = "PhenomenoN"
+title_reading = "PHENOMENON"
+artist = "Laur feat.Tia"
+image = "77f5fe5824721f3b.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "14+"
 
 [[songs]]
 id = "8308"
