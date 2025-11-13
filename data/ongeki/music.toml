@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1030
-last_updated = "2025-10-30T03:20:51.098834897Z"
+count = 1033
+last_updated = "2025-11-13T03:22:47.406715369Z"
 
 [[songs]]
 id = "582300"
@@ -29985,7 +29985,7 @@ title_reading = "TACHYON"
 artist = "Zekk"
 date = "2025-10-30"
 image = "3f95e0d3d5379861.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -30014,7 +30014,7 @@ title_reading = "LOVELYNONSENSE"
 artist = "tn-shi"
 date = "2025-10-30"
 image = "ee70cac61c4487f5.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -30035,6 +30035,90 @@ master = "15"
 [songs.character]
 id = "1080"
 name = "早乙女 彩華"
+
+[[songs]]
+id = "664900"
+title = "六連星"
+title_reading = "ムツラホシ"
+artist = "taichi hiyama"
+date = "2025-11-13"
+image = "99ed07df6a0a0f4c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80048"
+name = "Primera Fes. ～ハイカラ Stage～"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "575800"
+title = "トノサマビーム"
+title_reading = "トノサマヒム"
+artist = "ぼっちぼろまる"
+date = "2025-11-13"
+image = "cfc59435357d17b2.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80048"
+name = "Primera Fes. ～ハイカラ Stage～"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "2"
+advanced = "8+"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "1020"
+name = "藤沢 柚子"
+
+[[songs]]
+id = "985000"
+title = "ブツメツビーターズ"
+title_reading = "フツメツヒタス"
+artist = "有形ランペイジ"
+date = "2025-11-13"
+image = "a921972c10659938.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+lunatic = "14+"
+
+[songs.character]
+id = "1060"
+name = "藍原 椿"
 
 [[categories]]
 id = "06"
