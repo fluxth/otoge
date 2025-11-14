@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 352
-last_updated = "2025-11-05T03:21:06.178829517Z"
+count = 355
+last_updated = "2025-11-14T03:21:54.014938922Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6016,6 +6016,54 @@ influence = 11
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "1f04f775db100e2e17f5aa705191dc7c"
+title = "温故知新でいこっ！"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 7
+influence = 10
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "de9cc649cbbedf99a984136a41647818"
+title = "ホーンテッド★メイドランチ"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "410e01f01bec2e7a619960a1cbbca6c8"
+title = "漆黒のスペシャルプリンセスサンデー"
+artist = "日向美ビタースイーツ♪"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
