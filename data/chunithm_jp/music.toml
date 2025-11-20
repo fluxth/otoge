@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1593
-last_updated = "2025-11-07T03:21:03.285070438Z"
+count = 1601
+last_updated = "2025-11-20T03:20:41.990432688Z"
 
 [[songs]]
 id = "2849"
@@ -2174,6 +2174,81 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "15"
+
+[[songs]]
+id = "2883"
+title = "最愛人生ランナー"
+title_reading = "サイアイシンセイランナウ"
+artist = "かいりきベア"
+image = "33d2f048744c3dc7.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2884"
+title = "ウィーアーピコピコハンマーズ!!!!"
+title_reading = "ウイウアウヒコヒコハンマウス"
+artist = "cosMo＠暴走P"
+image = "556239ee68f8398d.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11+"
+master = "14"
+
+[[songs]]
+id = "2885"
+title = "ジェットブラック"
+title_reading = "シエツトフラツク"
+artist = "雄之助"
+image = "0f03de1a9e1c6f66.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "2886"
+title = "トレジャーガーデン"
+title_reading = "トレシヤウカウテン"
+artist = "Ponchi♪ feat.初音ミク"
+image = "beb522614da0812c.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "14"
+
+[[songs]]
+id = "2887"
+title = "電光刹歌"
+title_reading = "テンコウセツカ"
+artist = "かめりあ"
+image = "7004f2e2d805252d.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11+"
+master = "14"
 
 [[songs]]
 id = "2874"
@@ -13652,7 +13727,7 @@ title_reading = "HARDSYNC"
 artist = "桔梗 小夜曲(CV:原田 彩楓)"
 image = "be2426e63cf3c019.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -16850,7 +16925,7 @@ title_reading = "シトシトト"
 artist = "t+pazolite"
 image = "25c1a2346c2ff084.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -23025,7 +23100,7 @@ title_reading = "WARPSPEED"
 artist = "Nhato"
 image = "7d047fe786983b56.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -23040,7 +23115,7 @@ title_reading = "INTHESTRAYINGSTORY"
 artist = "polysha"
 image = "e40b950f8f57ba5e.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -23055,13 +23130,52 @@ title_reading = "PHENOMENON"
 artist = "Laur feat.Tia"
 image = "77f5fe5824721f3b.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
 advanced = "6"
 expert = "11"
 master = "14+"
+
+[[songs]]
+id = "8311"
+title = "可愛くてごめん"
+title_reading = "カワイクテコメン"
+artist = "HoneyWorks feat. ちゅーたん(CV:早見沙織)"
+image = "35e7324e46b3a22a.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.worlds_end]
+kanji = "狂"
+star = "5"
+
+[[songs]]
+id = "8312"
+title = "GIGA BLAST"
+title_reading = "GIGABLAST"
+artist = "Blacklolita"
+image = "ea316bf9cb6234e0.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.worlds_end]
+kanji = "蔵"
+star = "7"
+
+[[songs]]
+id = "8313"
+title = "Reach For The Stars"
+title_reading = "REACHFORTHESTARS"
+artist = "ソニック カラーズ"
+image = "1ddd5f3de0a9cea4.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.worlds_end]
+kanji = "速"
+star = "3"
 
 [[songs]]
 id = "8308"
