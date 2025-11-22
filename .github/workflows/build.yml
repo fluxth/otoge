@@ -3,14 +3,14 @@ name: Build otoge binaries
 on:
   pull_request:
     paths:
-      - '**'
-      - '!data/**'
+      - "**"
+      - "!data/**"
   push:
     branches:
-      - 'main'
+      - "main"
     paths:
-      - '**'
-      - '!data/**'
+      - "**"
+      - "!data/**"
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Checkout repository
-        uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # v6
+        uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # v6.0.0
 
       - name: Install rust toolchain
         run: cargo version
