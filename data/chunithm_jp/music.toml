@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1601
-last_updated = "2025-11-20T03:20:41.990432688Z"
+count = 1605
+last_updated = "2025-11-27T03:21:31.676379430Z"
 
 [[songs]]
 id = "2849"
@@ -2182,7 +2182,7 @@ title_reading = "サイアイシンセイランナウ"
 artist = "かいりきベア"
 image = "33d2f048744c3dc7.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2197,7 +2197,7 @@ title_reading = "ウイウアウヒコヒコハンマウス"
 artist = "cosMo＠暴走P"
 image = "556239ee68f8398d.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2212,7 +2212,7 @@ title_reading = "シエツトフラツク"
 artist = "雄之助"
 image = "0f03de1a9e1c6f66.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2227,7 +2227,7 @@ title_reading = "トレシヤウカウテン"
 artist = "Ponchi♪ feat.初音ミク"
 image = "beb522614da0812c.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2242,7 +2242,7 @@ title_reading = "テンコウセツカ"
 artist = "かめりあ"
 image = "7004f2e2d805252d.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12678,6 +12678,21 @@ is_new = false
 basic = "4"
 advanced = "7"
 expert = "13"
+master = "15"
+
+[[songs]]
+id = "2892"
+title = "Kaleidoscope"
+title_reading = "KALEIDOSCOPE"
+artist = "Lycoris in the parterre"
+image = "c5ad1c07054c5848.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "13+"
 master = "15"
 
 [[songs]]
@@ -23139,13 +23154,58 @@ expert = "11"
 master = "14+"
 
 [[songs]]
+id = "2888"
+title = "hyperreality"
+title_reading = "HYPERREALITY"
+artist = "tn-shi"
+image = "219cb10cdc1ff89c.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "8"
+expert = "13+"
+master = "15"
+
+[[songs]]
+id = "2889"
+title = "Deep Blue"
+title_reading = "DEEPBLUE"
+artist = "technoplanet feat. Tamako Kinoshita"
+image = "917d640156fba7b8.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "6"
+advanced = "11"
+expert = "14+"
+master = "15+"
+
+[[songs]]
+id = "2890"
+title = "DEvourER"
+title_reading = "DEVOURER"
+artist = "ZxNX + Redsign"
+image = "48c3d4cf53d33c2c.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "12+"
+master = "14+"
+
+[[songs]]
 id = "8311"
 title = "可愛くてごめん"
 title_reading = "カワイクテコメン"
 artist = "HoneyWorks feat. ちゅーたん(CV:早見沙織)"
 image = "35e7324e46b3a22a.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "狂"
@@ -23158,7 +23218,7 @@ title_reading = "GIGABLAST"
 artist = "Blacklolita"
 image = "ea316bf9cb6234e0.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "蔵"
@@ -23171,7 +23231,7 @@ title_reading = "REACHFORTHESTARS"
 artist = "ソニック カラーズ"
 image = "1ddd5f3de0a9cea4.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "速"
