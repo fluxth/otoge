@@ -1,6 +1,21 @@
 name = "soundvoltex"
-count = 2199
-last_updated = "2025-11-13T03:22:56.575836034Z"
+count = 2200
+last_updated = "2025-11-27T03:21:43.077452803Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=91fymiRSHGxFzJzxNSoU1Q"
+title = "Divine Ether"
+artist = "あまみ×ひなみ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=vCtyLuXxy0ATYpDMaWdGXA"

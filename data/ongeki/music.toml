@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1033
-last_updated = "2025-11-13T03:22:47.406715369Z"
+count = 1037
+last_updated = "2025-11-27T03:21:31.696866758Z"
 
 [[songs]]
 id = "582300"
@@ -30043,7 +30043,7 @@ title_reading = "ムツラホシ"
 artist = "taichi hiyama"
 date = "2025-11-13"
 image = "99ed07df6a0a0f4c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -30072,7 +30072,7 @@ title_reading = "トノサマヒム"
 artist = "ぼっちぼろまる"
 date = "2025-11-13"
 image = "cfc59435357d17b2.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -30101,7 +30101,7 @@ title_reading = "フツメツヒタス"
 artist = "有形ランペイジ"
 date = "2025-11-13"
 image = "a921972c10659938.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 
@@ -30119,6 +30119,126 @@ lunatic = "14+"
 [songs.character]
 id = "1060"
 name = "藍原 椿"
+
+[[songs]]
+id = "166200"
+title = "キミイロクロニクル"
+title_reading = "キミイロクロニクル"
+artist = "Palette Project（暁月クララ、七海ロナ、常磐カナメ、藤宮コトハ、江波キョウカ、鬼多見アユム、香鳴ハノン）"
+date = "2025-11-27"
+image = "b746754cfc94b54a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Palette Project"
+
+[songs.chapter]
+id = "99133"
+name = "Palette Project【第2弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "7066"
+name = "Palette Project"
+
+[[songs]]
+id = "166300"
+title = "トキメキ禁断症状"
+title_reading = "トキメキキンタンシヨウシヨウ"
+artist = "RouteHeart（七海ロナ・藤宮コトハ）"
+date = "2025-11-27"
+image = "98c77ff27f0c41b4.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Palette Project"
+
+[songs.chapter]
+id = "99133"
+name = "Palette Project【第2弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12"
+
+[songs.character]
+id = "7070"
+name = "RouteHeart"
+
+[[songs]]
+id = "166400"
+title = "光の惑星"
+title_reading = "ヒカリノワクセイ"
+artist = "Sputrip（暁月クララ・香鳴ハノン・常磐カナメ）"
+date = "2025-11-27"
+image = "43caff6cfcb8619a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Palette Project"
+
+[songs.chapter]
+id = "99133"
+name = "Palette Project【第2弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "12+"
+
+[songs.character]
+id = "7072"
+name = "Sputrip"
+
+[[songs]]
+id = "166500"
+title = "MORAL"
+title_reading = "MORAL"
+artist = "REGALILIA（江波キョウカ・鬼多見アユム）"
+date = "2025-11-27"
+image = "396cdea4dcbbd21d.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Palette Project"
+
+[songs.chapter]
+id = "99133"
+name = "Palette Project【第2弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "6"
+advanced = "9"
+expert = "11+"
+master = "14+"
+
+[songs.character]
+id = "7071"
+name = "REGALILIA"
 
 [[categories]]
 id = "06"
