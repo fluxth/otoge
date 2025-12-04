@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 355
-last_updated = "2025-11-14T03:21:54.014938922Z"
+count = 358
+last_updated = "2025-12-04T03:27:14.506639136Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6059,6 +6059,54 @@ easy = 3
 normal = 7
 hard = 10
 influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "670fea07981fc3458f574ed470d4a047"
+title = "Into The Madness"
+artist = "Yuta Imai"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "72006f82183b1854baf212dce8bc4f01"
+title = "Test Flight"
+artist = "黒魔"
+
+[songs.levels]
+easy = 4
+normal = 8
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "7d27a236e900996cc26a39a2815a7893"
+title = "極圏"
+artist = "cosMo VS dj TAKA"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 11
+influence = 13
 
 [[songs.categories]]
 bitflag = 6

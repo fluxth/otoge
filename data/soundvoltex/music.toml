@@ -1,6 +1,66 @@
 name = "soundvoltex"
-count = 2200
-last_updated = "2025-11-27T03:21:43.077452803Z"
+count = 2204
+last_updated = "2025-12-04T03:27:27.482593549Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ga294GkM7FbFKZGapjqQdA"
+title = "#Evil_Signs_of_Bloodlines"
+artist = "RoughSkreamZ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=EHp7i4F05XDtD2ygQioziQ"
+title = "555 (Please call me “Go! Go! Go!”)"
+artist = "RoughSketch"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=rH2Sk-wW5xoDpf6UacwL8w"
+title = "Temporal Veil"
+artist = "Gardens"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=CRKUbwPSQDmgLuboxyPlxQ"
+title = "フラッフィー・アドベンチャー！"
+artist = "みーに feat. まより"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "12"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=91fymiRSHGxFzJzxNSoU1Q"
