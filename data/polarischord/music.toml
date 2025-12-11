@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 358
-last_updated = "2025-12-04T03:27:14.506639136Z"
+count = 361
+last_updated = "2025-12-11T03:29:21.201867549Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6107,6 +6107,54 @@ easy = 4
 normal = 7
 hard = 11
 influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "b28055aa19e02e24c0f4f1495cdd1d88"
+title = "Saiph"
+artist = 'BEMANI Sound Team "Yvya"'
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "974361e4cc8917618f8ac17a77b1385f"
+title = "Crescent:Letter"
+artist = "かゆき"
+
+[songs.levels]
+easy = 4
+normal = 8
+hard = 12
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "31917f9ac4dce1b99da0de6bd95f7d19"
+title = "ほしふり"
+artist = "Sana"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 11
 
 [[songs.categories]]
 bitflag = 6

@@ -1,6 +1,51 @@
 name = "soundvoltex"
-count = 2061
-last_updated = "2025-12-10T03:29:16.772623195Z"
+count = 2204
+last_updated = "2025-12-11T03:29:32.711133396Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=R6jSupO3dAzSxWBRiKpOBA"
+title = "天泣"
+artist = 'BEMANI Sound Team "meteorologists"'
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=h0MpuoWvlCElA_JrlahGKQ"
+title = "Blessed Horizon"
+artist = "Qutabire"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=GzFivscWLQrUKqOzk1-96g"
+title = "めた・メタ？ひまわり＊パンチ"
+artist = "ひまわり＊パンチ"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=ga294GkM7FbFKZGapjqQdA"
@@ -1232,6 +1277,306 @@ name = "FLOOR"
 novice = "5"
 advanced = "12"
 exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Cux5Hhakqj6Jf488uDvMlw"
+title = "caramel ribbon (Tatsunoshin Remix)"
+artist = "Tatsunoshin"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=SrlICTCseqWqE1mJB8b-JA"
+title = "XROSS INFECTION -xiRemix-"
+artist = "xi"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=F9EG23PUcmRr9DHgqNiI2g"
+title = "The world of sound -celestial mix-"
+artist = "BlackY feat. Risa Yuzuki"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Gmmhap6xeHSmbAuYBrOaLQ"
+title = "Dynasty -dal segno-"
+artist = "Ashrount"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=PD1jCVZCt3d3Q5-5ToxHAQ"
+title = "いいわけバニー"
+artist = "兎田ぺこら"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "2"
+advanced = "9"
+exhaust = "13"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qgeUR3lISmbXI0Z079YXYw"
+title = "最強女神†ウーサペコラ"
+artist = "兎田ぺこら"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=8BrOihn4qn38RWZ7CaHwQg"
+title = "全人類　兎化計画！"
+artist = "兎田ぺこら"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=FDJG9AD_hjAc61d0SoCEtg"
+title = "ララララビット！！"
+artist = "兎田ぺこら"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ir1lXGtia5vytQDJt11_Fw"
+title = "じもとっこスイーツ♪"
+artist = "ホララ・ホリック with 日向美ビタースイーツ♪"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=WsHr540CVKaU3fmveUz3cw"
+title = "チョコレートスマイル"
+artist = "日向美ビタースイーツ♪ & ここなつ"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=C433-83Y4pnKoz2FKogJMQ"
+title = "ロマンシングエスケープ"
+artist = "ここなつ2.0"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "3"
+advanced = "9"
+exhaust = "13"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=85UynBqwYZB85D4eUfV5rg"
+title = "孤独のドロップハンター"
+artist = "otoshi.b×でか大×みゅい"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=TLUtxe5a0IIWXlLN04Xfsw"
+title = "ぼくらのはじまりのおと"
+artist = "Shiron+こふ×モリモリあつしと提供でお送りしました。"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=wptJfvrFFC16kSUsXGTU_A"
+title = "MiRÀi"
+artist = "#EmoCosine"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=WOOUIU6ij6wZHL8Hzi3p_Q"
+title = "Line markeR"
+artist = "打打だいず"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=jv-24rD-fGftG03HgmeQwg"
+title = "reSTART yOUR STORIES"
+artist = "setu-O"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=C-enQUBFAPRJv0Fqr-GTrw"
+title = "C18H27NO3(ryhki remix)"
+artist = "ryhki"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=L8sY1clwisW9Arxo9zNYxg"
+title = "Crack Traxxxx (108x3 BPM Remix)"
+artist = "RoughSketch"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=vqneIbLfFkl8g7QXgFSsvg"
+title = "大宇宙ステージ奈落変"
+artist = "めと（Metomate）"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=d-WgS5malr0DMuKmwKpCeg"
+title = 'Profession (αirlemoneX "Mechanical Engineering" Remix)'
+artist = "αirlemoneX"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
 maximum = "17"
 
 [[songs]]
@@ -13151,6 +13496,306 @@ exhaust = "15"
 maximum = "17"
 
 [[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=vB_CKlHSkQx3SOuiT7a6Aw"
+title = "スイーツはとまらない♪"
+artist = "日向美ビタースイーツ♪"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=xmg0I2iHvxd1c6wGwubIzQ"
+title = "TENKAICHI ULTIMATE BOSSRUSH MEDLEY"
+artist = "TENKAICHI LEGENDS"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=3ei47qHybfCZOYft4cVMUg"
+title = "熱情のサパデアード"
+artist = "日向美ビタースイーツ♪"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qvoL3ERGcYoRH5dKMbQxHA"
+title = "Hi-Fi!!双子'S"
+artist = "technoplanet feat. ＯＲＩ姫 & やみん"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "10"
+exhaust = "14"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=FPH2mhclLjY8NdxLZf6MzA"
+title = "120秒のエンドロール"
+artist = "colorless（からとP feat.脱線ぐーぅ）"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=iI-A7KelFDzRI7b-kt5Ckg"
+title = "ヒカリユリイカ"
+artist = "ここなつ"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=aih0Ib1iO8udgxsr4mUtyQ"
+title = "び"
+artist = "立秋 feat.ちょこ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ZYtyfPU3mMtCJ9YUi1kfIQ"
+title = "ベビーステップ"
+artist = "ここなつ"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=d0mJxR_xbPwHqVZYNW5Z-g"
+title = "無魎大数"
+artist = "cosMo＠暴走P"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=OLuF0uQJc0Lo0lMSYGkLNg"
+title = "Addicted Moon"
+artist = "Amateras Records feat.築山さえ"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=M9Dizpvv7Utq6cBK6XnBfg"
+title = "ARROW RAIN feat. ayame"
+artist = "Alstroemeria Records"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qLR18um10O6H0arlzTwTXA"
+title = "伊邪那美白山姫大神"
+artist = "Morrigan feat. リリィ"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=eW-rWlG77XIYPo_rR81Lrw"
+title = "雲海"
+artist = "椎名　豪"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=gJo1LF8u1oRNEz_eKYTiZQ"
+title = "vivid landscape"
+artist = "paraoka"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=W2dWTzDg0l1ojK5SD0Euyg"
+title = "Enjoy This Time"
+artist = "DJ Noriken feat. yukacco"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=sQ0sFRvTG0zA-rQYEFkjlg"
+title = "On take SUN"
+artist = "Sampling Masters MEGA"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=PaGYpAFQSndXNZGaveDZxw"
+title = "怪盗Ｆの台本～消えたダイヤの謎～(EXIT TUNES)"
+artist = "ひとしずく×やま△ feat.松下、eclair、おさむらいさん、柿チョコ、コニー、しゅーず、che:櫻井、nero、びびあん、mao（bass）、ゆう十、リシェ"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "11"
+exhaust = "14"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=NJPNDAyBf5CjItH8C-dNLg"
+title = "Colors"
+artist = "REDALiCE feat.野宮あゆみ"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "14"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=rtGJCZ-u7d80WSEDSPeXbQ"
+title = "Colorless feat.ももかみ"
+artist = "Spacelectro"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=sO2zy17nxsxirRZdAlRTUQ"
+title = "君は Fantasista"
+artist = "杉下 トキヤ"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=lutT3pVgMPPbsTsVmZW7Kw"
 title = "GaLaXyEggPlanT"
 artist = "sasakure.UK"
@@ -14049,6 +14694,330 @@ novice = "6"
 advanced = "13"
 exhaust = "16"
 maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=O6jq9rMMbUJpSh6idcvNLw"
+title = "逆月"
+artist = 'BEMANI Sound Team "HuΣeR" feat.Fernweh'
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=krFFJUY7C_c5IYMsCq59uQ"
+title = "Xevel"
+artist = "Tatsh「CHUNITHM」より"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=oNWwCmkIqygVl3e4aOXjAA"
+title = "Taiko Drum Monster"
+artist = "steμ feat. siroa「太鼓の達人」より"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=NGv0jdpcgrZYWvZ9tno50A"
+title = "Elemental Creation"
+artist = "dj TAKA meets DJ YOSHITAKA"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=e87C9L9l-K7HzsBwSp6fhg"
+title = "Empathetic"
+artist = "Sota÷Des"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "11"
+exhaust = "13"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=DC1bCGc_wj4NrAZhVOpvNg"
+title = "お米の美味しい炊き方、そしてお米を食べることによるその効果。"
+artist = "大日本鉄倶楽部【あさき＆９６】"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "11"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=mM3Ssuz9meK_0SRgvJ10rg"
+title = "GAIA"
+artist = "猫叉L.E.D.Master+"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=2yf0U8UJp9Mmi81HqLIYlg"
+title = "Synergy For Angels"
+artist = "TAG×U1-ASAMi"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=3QgAKhBpB5il7jY3kxK8wQ"
+title = "STULTI"
+artist = "MAX MAXIMIZER VS DJ TOTTO"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=vAbc6Blf70vvjYJ5c0lhIA"
+title = "晴天Bon Voyage"
+artist = "TOMOSUKE × seiya-murai feat. ALT"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=OCkywA0Oepd_67d1ZP3xow"
+title = "創世ノート"
+artist = "PON+wac"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=n6Lr71yf4H5Uw-xVPW4d5A"
+title = "虹色の花"
+artist = "Akhuta y OJ"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "5"
+advanced = "10"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=xPaF9GWeoOwbVGTpkwNjnA"
+title = "ラキラキ"
+artist = "Mutsuhiko Izumi & S-C-U"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=X3E2_Uwth2ivmW6ng2fWDQ"
+title = "Invisible Bullets"
+artist = "brz1128"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qG5Z_LMAt6rzgAYQmUyPqA"
+title = "Venomous Firefly"
+artist = "かめりあ"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=z8TtYUlOcZStJHcYrruF9Q"
+title = "Tic Exe"
+artist = "Se-U-Ra"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ScmcVO7Sp2w5TgAq70aO7A"
+title = "Night Rockin' Bird"
+artist = "kanone"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "14"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=wiVvWP5UNboGs9AFn70z2Q"
+title = "Nostalgic Blood of the Strife"
+artist = "Laur"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=HET8m5fvjxrSopBaEAZ9Kg"
+title = "Princess K"
+artist = "Retropolitaliens(Ms.+駄々子)"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=8HKKJHLXGc8brsU9qvkdCg"
+title = "PROVOES*PROPOSE <<êl fine>>"
+artist = 'Yu_Asahina as "papyrus"'
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+gravity = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=z1P1xnV9aT7eTULpXlW47w"
@@ -17445,6 +18414,622 @@ novice = "6"
 advanced = "11"
 exhaust = "15"
 maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=3sWOkIVZUv3yoxlfkTjOEQ"
+title = "Altale"
+artist = "削除"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "5"
+advanced = "10"
+exhaust = "13"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=1xlppbIUM_9iBqnYfdTK3g"
+title = "PUPA"
+artist = "モリモリあつし"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=WP3EfupBiz-qihi3tqK8_Q"
+title = "Game Over"
+artist = "Ancraft"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=2pZ1bldnAfBHRremJ3Ac1Q"
+title = "JUNKIE FLAVOR"
+artist = "yaseta + Hidra-Xjeil"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=TP9mmvW16clPGQFieRr9Zw"
+title = "dreamin' of u"
+artist = "Jun Kuroda"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "10"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=3Gk9Wu7_9uHpVqSSL_58Eg"
+title = "rhythmology study"
+artist = "古屋直雪"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=xVEzCD-gChpMUqQNVp5yaw"
+title = "Legendary Road"
+artist = "kanone"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=QL0TSlwe6ldGhmPS31Yx3A"
+title = "SACRIFICE feat. ayame"
+artist = "Alstroemeria Records"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=UyGoYGLPyUvio6oC8j9_ng"
+title = "廃獄ドリームランド"
+artist = "SOUND HOLIC feat. Nana Takahashi"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=7faAPqfqdxKfpRI3NVJJ7g"
+title = "Burn everything"
+artist = "LiLA'c Records"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "2"
+advanced = "8"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=AjNtWOUIta-lpjfw1A5FGg"
+title = "冒涜的選択のアレグリア ft. Mayumi Morinaga"
+artist = "Iceon(Frost Fragment)"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "3"
+advanced = "7"
+exhaust = "13"
+maximum = "15"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=BHMMCvjDIhh-CWY4j5LYyg"
+title = "Root Consciousness"
+artist = "溝口ゆうま feat.大瀬良あい vs. QURELESS"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=w28pgnasut2-wOF-8Wu9uw"
+title = "オンディーヌの泪"
+artist = "かねこちはる"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=aVNpVRpUU0JX-mhBsTQ1-A"
+title = "ゴーストマスコット"
+artist = "はるなば feat.みかん汁"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=hYwO-dXcfMoC1f_oFkPKbA"
+title = "Gorgetech"
+artist = "Shiron"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=_iuhE09T2ZaeS-V2I9te_g"
+title = "少女救世論"
+artist = "暁Records"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "3"
+advanced = "7"
+exhaust = "12"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=k67gLfvpnjHk7QWYY_nBRA"
+title = "Sweet Requiem"
+artist = "REDALiCE & aran"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ia7QPRvbPpdBk_LUUYs0wA"
+title = "SprrRush!!"
+artist = "MisoilePunch♪ feat.KIRARI"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "9"
+exhaust = "12"
+maximum = "15"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=M_XaS8ZfVYrd37aKhaMKgw"
+title = "つるぺったん"
+artist = "Silver Forest feat. くろねこ アキ さきち カガリ"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=8NORXJB7eNwV2559V56bxQ"
+title = "ぱあ"
+artist = "立秋 feat.ちょこ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "9"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=7ZAlNn9ifzIGKTV0U7q6cw"
+title = "Finale"
+artist = "A-One"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "5"
+advanced = "9"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=aHfhkynBWuADw_5vliIFlg"
+title = "I feel something for you"
+artist = "556ミリメートル"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "2"
+advanced = "7"
+exhaust = "12"
+maximum = "15"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=iAxZ8Gt4yE4PEswp6EskcQ"
+title = "透明な記憶の風穴"
+artist = "少女フラクタル"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "12"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=kgi7i0NFZGVM190EaPApuw"
+title = "FIRE IN MY HEART"
+artist = "Spacelectro"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "2"
+advanced = "8"
+exhaust = "13"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=2-Pch6_SLgP93w-tPxbV0A"
+title = "幽玄の桜"
+artist = "音召缶 feat.Renna"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "5"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=MWsCNDLB1GvuN3SKYCclCA"
+title = "雷鼓サンダービート"
+artist = "ARM(IOSYS) feat.ビートまりお(COOL&CREATE)"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=BsAzsvxs7YqT_bQuC8q1rA"
+title = "Regretful Flower"
+artist = "Amateras Records feat.築山さえ"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "4"
+advanced = "11"
+exhaust = "14"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=DuZsDFjNsGtIaRiBXorkEg"
+title = "私とあなたのMYOURENJI☆"
+artist = "歌恋人"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "3"
+advanced = "7"
+exhaust = "12"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=jjCM0PzkBs6T_PhPIi_rWw"
+title = "Vigor"
+artist = "Yooh"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=7iuDd7d9sQKibWEbMaNxow"
+title = "The Golden Era"
+artist = "polysha"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "11"
+exhaust = "15"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=jGqj5LiBr593obFUntyTzQ"
+title = "405nm(Shu※mix)"
+artist = "Shu※"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "10"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=joFwDDvHMjaVKDKRy4_H_w"
+title = "Mind Mapping(ag Remix)"
+artist = "ag"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "9"
+exhaust = "13"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Y2-jph6TcKSDGUZqEbTirw"
+title = "恋とキングコング"
+artist = "日向美ビタースイーツ♪"
+
+[[songs.categories]]
+id = "hinabita"
+name = "ひなビタ♪/バンめし♪"
+
+[songs.levels]
+novice = "3"
+advanced = "8"
+exhaust = "12"
+maximum = "15"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=-4apFSL376m70mxSKaWuBw"
+title = "Technical Master"
+artist = "天音 (Rolling Contact)"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "4"
+advanced = "8"
+exhaust = "14"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=BM9lbXYqGBi7X-i7HVChHw"
+title = "Dystopia"
+artist = "DiGiTAL WiNG feat.花たん/YURiCa"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "2"
+advanced = "7"
+exhaust = "12"
+maximum = "15"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=AjdedkwoNUVCDtaEYYYacQ"
+title = "トーホータノシ (feat. 抹)"
+artist = "魂音泉"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "5"
+advanced = "10"
+exhaust = "14"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=U0S6DpWlLx4OrqulDEXG4w"
+title = "NEWBORN CRYING"
+artist = "ZYTOKINE feat. nachi"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "3"
+advanced = "9"
+exhaust = "12"
+maximum = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Upo5435uKd5JBQxsCr4iRg"
+title = "物凄いスペースシャトルでこいしが物凄いうた"
+artist = "Halozy feat. ななひら"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "15"
+maximum = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=DQHx2RcY2J1P6e6SXNTRPg"
+title = "Crystallize Forest"
+artist = "奏瀬いちこ feat.Silver Forest"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "3"
+advanced = "8"
+exhaust = "11"
+maximum = "15"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=tFtUw301EtT7Nqg4FD8dNw"
+title = "Blue Fire"
+artist = "REDALiCE feat. 野宮あゆみ"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "4"
+advanced = "8"
+exhaust = "12"
+maximum = "16"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=cefbBKVo39W497Vrm8LOdw"
@@ -22062,6 +23647,291 @@ name = "FLOOR"
 novice = "4"
 advanced = "11"
 exhaust = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=7TZ6IINyoIsy3yHP_Lmcrg"
+title = "FAKE STYLE II"
+artist = "FAKE TYPE."
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "15"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=YlC6pvFz_OJtnzOQWxI9lg"
+title = "Blacksphere"
+artist = "s-don as Iriss"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "12"
+exhaust = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=iD7EMiReV15XUfDKZaRmcQ"
+title = "Le ××××"
+artist = "Orange Vox+ ft.konomi*"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "9"
+exhaust = "15"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=VfWylvedTKmEq9Vsvbj2tg"
+title = "零れる夢のレミニセンス"
+artist = "borzy & 結月そら"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "8"
+exhaust = "13"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=lIgR82CWFFxyf3p2DUBIbw"
+title = "ショットガン・ラヴァーズ(EXIT TUNES)"
+artist = "のぼる↑ feat. 松下"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=5X8nD4qnheg0En6zC6G6Cg"
+title = "じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～"
+artist = "かめりあ feat. ななひら"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=H_I8cKdtcQSJBM9oo4j3JQ"
+title = "HAELE III ~Angel Worlds~"
+artist = "Yu_Asahina ft. Ritsuka"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "15"
+gravity = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=qTZG2IHSJxH-QawKAcCv7Q"
+title = "ドーパミン"
+artist = "U1 overground"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=igy3ssRtUJwSVZbPwpCqQw"
+title = "crêpe suzette"
+artist = "kamome sano"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "5"
+advanced = "10"
+exhaust = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=OE_btawOEL0B332XlftrIA"
+title = "Shiawase Transmission"
+artist = "you"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "4"
+advanced = "10"
+exhaust = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=B1Pzosgk-WLPRzrKw2TerQ"
+title = "双翼 - Black Wings - SDVX Edit. -"
+artist = "SOUND HOLIC feat. 709sec. & YURiCa"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=Ijdfr2cR5c9vWhdjn6gpKQ"
+title = "Treasure"
+artist = "発熱巫女～ず"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "3"
+advanced = "8"
+exhaust = "13"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=IWRj0Ycd58ZL_eVHLzYZuw"
+title = "星の器 feat. らっぷびと"
+artist = "魂音泉"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "4"
+advanced = "9"
+exhaust = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=bqGWAjMVA6wNfs2eu2GbcQ"
+title = "三つ数えろ"
+artist = "豚乙女"
+
+[[songs.categories]]
+id = "toho"
+name = "東方アレンジ"
+
+[songs.levels]
+novice = "3"
+advanced = "10"
+exhaust = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=p_2UvgI1Qsj-Hu-Hj1X7-Q"
+title = "Lucky*Clover"
+artist = "Shiron＋こふ×モリモリあつしと提供でお送りします。"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "11"
+exhaust = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=KV9eVLgEw9Zg2uWuMAY2cg"
+title = "マサカリブレイド"
+artist = "REDALiCE"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=xeuJg7gqEQA3x0sYTmIx6g"
+title = "Garakuta Doll Play"
+artist = "t+pazolite 「maimai」より"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "17"
+heavenly = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=eRri_0UOKhIlmGAfl7hW4w"
+title = "きたさいたま2000"
+artist = "LindaAI-CUE（BNGI）「太鼓の達人」より"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "18"
+heavenly = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=BRVyhQHeLdAG1o6jRw8Chg"
+title = "Got more raves？"
+artist = "E.G.G.「グルーヴコースター」より"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "17"
+heavenly = "19"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=PwrqyUhBoWRFzckfWooFgw"
+title = "FLOWER"
+artist = "DJ YOSHITAKA 「jubeat」より"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "5"
+advanced = "11"
+exhaust = "18"
+heavenly = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=2k35urPrZUvyHvQFmaNrgQ"
@@ -31599,6 +33469,333 @@ name = "BEMANI"
 novice = "3"
 advanced = "7"
 exhaust = "11"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=XYdDkYDq7CSlhvXqLqMvKw"
+title = "good high school"
+artist = "baker"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "2"
+advanced = "5"
+exhaust = "8"
+infinite = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=JntZDcPOGxTlLPWO49uyjw"
+title = "「月風魔伝」龍骨鬼戦 yks Remix"
+artist = "yuukiss"
+
+[[songs.categories]]
+id = "others"
+name = "その他"
+
+[songs.levels]
+novice = "5"
+advanced = "8"
+exhaust = "13"
+infinite = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=uvRn5_GFdbOlQ77R_G1svg"
+title = "ごりらがいるんだ"
+artist = "ピノキオP"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "4"
+advanced = "8"
+exhaust = "12"
+infinite = "15"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=HJ0mN3SGqic6mQGWS7LJ2g"
+title = "jet coaster☆girl sasakure.UK tRiCkStAr Remix"
+artist = "sasakure.UK feat. mirto"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "1"
+advanced = "5"
+exhaust = "9"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=UBYILWwO5szC6wnbLAW0Pw"
+title = "dilemma"
+artist = "豚乙女"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "2"
+advanced = "6"
+exhaust = "10"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=HaBPIV3ZaNC-PjLEKNLGbQ"
+title = "SurVALI"
+artist = "YM"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "3"
+advanced = "8"
+exhaust = "11"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ZwzhnhAS-swEKRsYmMmwXA"
+title = "smooooch・∀・ KN mix"
+artist = "KN"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "3"
+advanced = "8"
+exhaust = "13"
+exceed = "17"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=NQFoGMR_OOuJORRxn-CBkg"
+title = "とある少年の一日"
+artist = "蝶々P"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "3"
+advanced = "7"
+exhaust = "12"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=DN9o-kvekJtnAJz_1ovV8Q"
+title = "ナナイロ"
+artist = "otetsu"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "2"
+advanced = "7"
+exhaust = "10"
+infinite = "13"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=zpMSyu0Z48rCR23jmreFZA"
+title = "西日暮里の踊り"
+artist = "家の裏でマンボウが死んでるP"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "4"
+advanced = "7"
+exhaust = "12"
+infinite = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=BgWAn3DBmfaRVK5AywnvaA"
+title = "Ha･lle･lu･jah"
+artist = "SOUND HOLIC feat. Nana Takahashi"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "4"
+advanced = "7"
+exhaust = "13"
+infinite = "15"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=C9NAajqA52W0CMsj-MTMpw"
+title = "バタフライキャット"
+artist = "daniwell"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "3"
+advanced = "8"
+exhaust = "13"
+infinite = "15"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=v-jrXKh15RQwtG7Icl6fkg"
+title = "PULSE LASER"
+artist = "ヒゲドライバー"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "2"
+advanced = "7"
+exhaust = "12"
+infinite = "16"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=IE8jCkmC6WLjBOToCdkdcQ"
+title = "ヒマワリ MUZIK SERVANT Remix"
+artist = "MUZIK SERVANT"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "8"
+exhaust = "10"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=sx6pQSv5_A8lC0sx-8i4dQ"
+title = "ふしぎなくすり いっきのみっくす"
+artist = "ゆうゆ"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "3"
+advanced = "6"
+exhaust = "11"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=aDe76h_ALExhWgca35FarQ"
+title = "Broken 8cmix"
+artist = "iroha(sasaki)"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "10"
+exhaust = "14"
+heavenly = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=DY8QNyowholIEhDmlue1Lw"
+title = "MAX 300 takamatt MIN REMIX"
+artist = "takamatt"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "9"
+exhaust = "13"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=8BQGdK1Qvzg7zM1b4s6Mgg"
+title = "Love♡Shine わんだふるmix"
+artist = "ARM (IOSYS) feat. 一ノ瀬月琉 (monotone)"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "4"
+advanced = "7"
+exhaust = "13"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=ciH5CljIVaFU5agtL1K6tQ"
+title = "Love♡sicK"
+artist = "8#Prince(八王子P)"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "3"
+advanced = "7"
+exhaust = "11"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=DSEFgT7KmxMcfAM_ZEQZTg"
+title = "Rebellious stage"
+artist = "Dios/シグナルP"
+
+[[songs.categories]]
+id = "vocaloid"
+name = "ボーカロイド"
+
+[[songs.categories]]
+id = "sdvx"
+name = "SDVXオリジナル"
+
+[songs.levels]
+novice = "2"
+advanced = "6"
+exhaust = "10"
+infinite = "13"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=lBibI2LoqHr8QsBB-exgFw"
