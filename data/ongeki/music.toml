@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1037
-last_updated = "2025-11-27T03:21:31.696866758Z"
+count = 1040
+last_updated = "2025-12-11T03:29:21.622638697Z"
 
 [[songs]]
 id = "582300"
@@ -30127,7 +30127,7 @@ title_reading = "キミイロクロニクル"
 artist = "Palette Project（暁月クララ、七海ロナ、常磐カナメ、藤宮コトハ、江波キョウカ、鬼多見アユム、香鳴ハノン）"
 date = "2025-11-27"
 image = "b746754cfc94b54a.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Palette Project"
@@ -30157,7 +30157,7 @@ title_reading = "トキメキキンタンシヨウシヨウ"
 artist = "RouteHeart（七海ロナ・藤宮コトハ）"
 date = "2025-11-27"
 image = "98c77ff27f0c41b4.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Palette Project"
@@ -30187,7 +30187,7 @@ title_reading = "ヒカリノワクセイ"
 artist = "Sputrip（暁月クララ・香鳴ハノン・常磐カナメ）"
 date = "2025-11-27"
 image = "43caff6cfcb8619a.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Palette Project"
@@ -30217,7 +30217,7 @@ title_reading = "MORAL"
 artist = "REGALILIA（江波キョウカ・鬼多見アユム）"
 date = "2025-11-27"
 image = "396cdea4dcbbd21d.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Palette Project"
@@ -30239,6 +30239,96 @@ master = "14+"
 [songs.character]
 id = "7071"
 name = "REGALILIA"
+
+[[songs]]
+id = "478400"
+title = "浮世絵横丁"
+title_reading = "ウキヨエヨコチヨウ"
+artist = "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき）"
+date = "2025-12-11"
+image = "04d6a98b11ba22c8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©魔界都市ニイガタ"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "5"
+advanced = "9+"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "1120"
+name = "逢坂 茜"
+
+[[songs]]
+id = "478500"
+title = "I.M.I"
+title_reading = "IMI"
+artist = "打打だいず FEAT. 月乃"
+date = "2025-12-11"
+image = "85b18d050466e102.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©打打だいず"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1030"
+name = "三角 葵"
+
+[[songs]]
+id = "478600"
+title = "夢紡ぎのワンダラー"
+title_reading = "ユメツムキノワンタラ"
+artist = "いるかアイス × Tanchiky feat. 初音ミク"
+date = "2025-12-11"
+image = "9135256c9eb02ee7.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©On Prism Records / ©irucaice / ©Tanchiky"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1090"
+name = "井之原 小星"
 
 [[categories]]
 id = "06"
