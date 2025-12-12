@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1461
-last_updated = "2025-12-05T03:26:32.169460398Z"
+count = 1465
+last_updated = "2025-12-12T03:29:02.035980769Z"
 
 [[songs]]
 id = "1089"
@@ -849,8 +849,7 @@ artist = "ひとしずくP・やま△"
 image = "379a393f1e3acfbf.png"
 category = "niconico＆ボーカロイド"
 version = "11000"
-release = "2025-12-05"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -10384,7 +10383,7 @@ image = "249cc28f8f59539a.png"
 category = "niconico＆ボーカロイド"
 version = "26007"
 release = "2025-12-05"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -23624,6 +23623,78 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "944"
+title = "ミクマリ"
+title_reading = "ミクマリ"
+artist = "テヅカ"
+image = "a9ef3210029d3530.png"
+category = "maimai"
+version = "26008"
+release = "2025-12-12"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "945"
+title = "雲外蒼電 -Dreaming Voltage-"
+title_reading = "ウンカイソウテンDREAMINGVOLTAGE"
+artist = "adaptor vs DRIVE."
+image = "02dd6a5eb800fbbf.png"
+category = "maimai"
+version = "26008"
+release = "2025-12-12"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "12"
+master = "13+"
+
+[[songs]]
+id = "946"
+title = "鬼女紅妖"
+title_reading = "キシヨコウヨウ"
+artist = "Earliri"
+image = "12e822396bbf7ca1.png"
+category = "maimai"
+version = "26008"
+release = "2025-12-12"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "11+"
+master = "14"
+
+[[songs]]
+id = "947"
+title = "華天月兎"
+title_reading = "カテンケツト"
+artist = "satella feat.Risa Yuzuki"
+image = "03e15327e6423545.png"
+category = "maimai"
+version = "26008"
+release = "2025-12-12"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "12"
+master = "14"
+
+[[songs]]
 id = "1325"
 title = "イーヴィルガール"
 title_reading = "イイウイルカアル"
@@ -23668,7 +23739,7 @@ image = "632ba87daeb2ced1.png"
 category = "オンゲキ＆CHUNITHM"
 version = "26007"
 release = "2025-12-05"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -24175,7 +24246,7 @@ image = "c3401b26c76a2c53.png"
 category = "niconico＆ボーカロイド"
 version = "26007"
 release = "2025-12-05"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -24193,7 +24264,7 @@ image = "08cbc4bd3390930d.png"
 category = "niconico＆ボーカロイド"
 version = "26007"
 release = "2025-12-05"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
