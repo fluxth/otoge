@@ -1,6 +1,21 @@
 name = "soundvoltex"
-count = 2204
-last_updated = "2025-12-11T03:29:32.711133396Z"
+count = 2205
+last_updated = "2025-12-18T03:28:06.160847743Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=x7A_FbZ07tuHViwyZrk0EQ"
+title = "双星の冒険録"
+artist = "やどりぎ"
+
+[[songs.categories]]
+id = "floor"
+name = "FLOOR"
+
+[songs.levels]
+novice = "6"
+advanced = "12"
+exhaust = "15"
+maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=R6jSupO3dAzSxWBRiKpOBA"
