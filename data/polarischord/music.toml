@@ -1,6 +1,6 @@
 name = "polarischord"
 count = 364
-last_updated = "2025-12-18T03:27:54.393233710Z"
+last_updated = "2025-12-20T03:23:57.779528641Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -2370,7 +2370,7 @@ name = "ソーシャルミュージック"
 id = "8895e201c8abaa7facc52be84b8f9564"
 title = "人マニア"
 artist = "原口沙輔"
-license = "Licensed by Sasuke Haraguchi"
+license = "Licensed by 原口沙輔"
 
 [songs.levels]
 easy = 4
@@ -3910,7 +3910,7 @@ name = "バラエティ"
 id = "008e12b6549db2e25b1ad15328b16e6b"
 title = "イガク"
 artist = "原口沙輔"
-license = "Licensed by Haraguchi Sasuke"
+license = "Licensed by 原口沙輔"
 
 [songs.levels]
 easy = 4
