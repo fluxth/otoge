@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 364
-last_updated = "2025-12-20T03:23:57.779528641Z"
+count = 365
+last_updated = "2025-12-23T03:29:41.187808200Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6203,6 +6203,22 @@ easy = 2
 normal = 6
 hard = 9
 influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "f8026a1ba4bc3b4a530b550ee564898e"
+title = "Daisuke"
+artist = "Y&Co."
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 7
+influence = 11
 
 [[songs.categories]]
 bitflag = 6
