@@ -1,6 +1,36 @@
 name = "chunithm_jp"
-count = 1610
-last_updated = "2025-12-11T03:29:21.171473211Z"
+count = 1615
+last_updated = "2025-12-24T03:29:06.082067508Z"
+
+[[songs]]
+id = "2920"
+title = "アイドゥーミー！"
+title_reading = "アイトウウミウ"
+artist = "蓮ノ空女学院スクールアイドルクラブ「Link！Like！ラブライブ！」"
+image = "8a60a70e7ff941f1.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "13+"
+
+[[songs]]
+id = "2921"
+title = "Edelied"
+title_reading = "EDELIED"
+artist = "Edel Note[セラス 柳田 リリエンフェルト(CV.三宅美羽)、桂城 泉(CV.進藤あまね)]「Link！Like！ラブライブ！」"
+image = "1154917db46011a1.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "13+"
 
 [[songs]]
 id = "2896"
@@ -9,7 +39,7 @@ title_reading = "BOWANDARROWアニメオウフニンクVER"
 artist = "米津玄師"
 image = "8b1f25ededff1ff4.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -25,7 +55,7 @@ title_reading = "AVEMUJICA"
 artist = "Ave Mujica"
 image = "a093f933858fe77b.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -40,7 +70,7 @@ title_reading = "KILLKISS"
 artist = "Ave Mujica"
 image = "9c44c561f9f5ea7b.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -55,7 +85,7 @@ title_reading = "カイシユウ"
 artist = "サカナクション"
 image = "53ced9062ae57b54.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -70,7 +100,7 @@ title_reading = "イツタンステイTONIGHT"
 artist = "不破湊"
 image = "f83e854fb473805a.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2042,13 +2072,58 @@ master = "14+"
 ultima = "15"
 
 [[songs]]
+id = "2922"
+title = "㋰責任集合体"
+title_reading = "ムセキニンシユウコウタイ"
+artist = "マサラダ"
+image = "ca8e87e6896d99b1.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2923"
+title = "バカ通信"
+title_reading = "ハカツウシン"
+artist = "isonosuke"
+image = "1c0cd842e31d1ff2.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "14"
+
+[[songs]]
+id = "2924"
+title = "ヤババイナ"
+title_reading = "ヤハハイナ"
+artist = "さたぱんP"
+image = "2a1db642d331bc94.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "11+"
+master = "14"
+
+[[songs]]
 id = "2901"
 title = "モニタリング"
 title_reading = "モニタリンク"
 artist = "DECO*27"
 image = "9a705446de285ac7.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2063,7 +2138,7 @@ title_reading = "ハケノハナ"
 artist = "なきそ"
 image = "c5db31708cd784e6.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2079,7 +2154,7 @@ title_reading = "キヤンテイウクツキウチヨコレウト"
 artist = "はろける"
 image = "d4ee322176209943.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -6616,7 +6691,7 @@ title_reading = "ULTIMATETASTE"
 artist = "ぱらどっと"
 image = "bb542d4615c79046.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -10578,7 +10653,7 @@ title_reading = "AIAE"
 artist = "DJ'TEKINA//SOMETHING a.k.a ゆよゆっぺ"
 image = "75ac394edc1b6294.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11105,7 +11180,7 @@ title_reading = "ヒツクフリツチノシトウシアトリスムFFACARRANGEF
 artist = "SQUARE ENIX"
 image = "6526fdf31b83f552.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -12570,7 +12645,7 @@ title_reading = "MORNINGLOOM"
 artist = "saaa"
 image = "de74f5f3ea113c7b.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12585,7 +12660,7 @@ title_reading = "ANGELICLAYER"
 artist = "SHIKI"
 image = "0d333c9eab239e8b.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -13820,7 +13895,7 @@ title_reading = "アタリマエタノオノミナエ"
 artist = "小野 美苗(CV:伊藤 美来)"
 image = "9e77859d6fd5efa3.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -15216,7 +15291,7 @@ title_reading = "BIRTH"
 artist = "llliiillliiilll"
 image = "504297fb1be61191.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -15608,7 +15683,7 @@ title_reading = "WAKEUPMAKEUPFEVER"
 artist = "曲：アオワイファイ／歌：オンゲキシューターズ"
 image = "f7a3d3df8b3c65e0.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -16898,7 +16973,7 @@ title_reading = "STARLIGHTLIMITED"
 artist = "カタオカツグミ"
 image = "b1e943c7a72617fb.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -23253,7 +23328,7 @@ title_reading = "マホウニテラサレタアンコウル"
 artist = "MIMI feat.wawa"
 image = "0435eee3e95b03a0.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -23268,7 +23343,7 @@ title_reading = "シナ"
 artist = "niki feat.DELUTAYA"
 image = "4f87f9a2b0c6678c.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -23283,7 +23358,7 @@ title_reading = "ROADTOAVENTURA"
 artist = "s-don"
 image = "c396f54a2b4909c1.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -23298,7 +23373,7 @@ title_reading = "ホシヲツナクシユトラウル"
 artist = "ああああ"
 image = "847a10e09b44fbc9.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -23313,7 +23388,7 @@ title_reading = "MOMOCO68000"
 artist = "AKIRA YAMAOKA"
 image = "93df75f4bb6daa87.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -23328,7 +23403,7 @@ title_reading = "SCHERZOフオルトウウナノイタスラ"
 artist = "MIssinoary & DCWH"
 image = "141156011c312445.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -23343,7 +23418,7 @@ title_reading = "THEUNCONTROLLABLECINDERELLA"
 artist = "Felysrator (feat. Lamanya)"
 image = "72cd2fb54e03d738.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -23358,7 +23433,7 @@ title_reading = "IWANNA"
 artist = "静香(CV.長谷川育美)「ワールドダイスター 夢のステラリウム」"
 image = "6cd072470f3b7ef9.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "招"
@@ -23371,7 +23446,7 @@ title_reading = "ADVERSEGAFF"
 artist = "siromaru"
 image = "569029f97393c551.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "撃"
@@ -23384,7 +23459,7 @@ title_reading = "TERIQMA"
 artist = "owl＊tree"
 image = "bd8c3d1941e2efc7.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "割"

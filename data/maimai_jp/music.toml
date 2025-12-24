@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1465
-last_updated = "2025-12-12T03:29:02.035980769Z"
+count = 1470
+last_updated = "2025-12-24T03:29:06.488516310Z"
 
 [[songs]]
 id = "1089"
@@ -23631,7 +23631,7 @@ image = "a9ef3210029d3530.png"
 category = "maimai"
 version = "26008"
 release = "2025-12-12"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -23649,7 +23649,7 @@ image = "02dd6a5eb800fbbf.png"
 category = "maimai"
 version = "26008"
 release = "2025-12-12"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -23667,7 +23667,7 @@ image = "12e822396bbf7ca1.png"
 category = "maimai"
 version = "26008"
 release = "2025-12-12"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -23685,7 +23685,7 @@ image = "03e15327e6423545.png"
 category = "maimai"
 version = "26008"
 release = "2025-12-12"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -24274,6 +24274,60 @@ expert = "12"
 master = "13+"
 
 [[songs]]
+id = "116"
+title = "スノーマン (Rerec)"
+title_reading = "スノウマンREREC"
+artist = "halyosy"
+image = "67a6e0f8822e2d7a.png"
+category = "niconico＆ボーカロイド"
+version = "26009"
+release = "2025-12-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "662"
+title = "JINGLE DEATH"
+title_reading = "JINGLEDEATH"
+artist = "DJ Myosuke & Gram"
+image = "c467dedfe621ce57.png"
+category = "ゲーム＆バラエティ"
+version = "26009"
+release = "2025-12-24"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "12"
+master = "14"
+
+[[songs]]
+id = "113"
+title = "ヤミナベ!!!!"
+title_reading = "ヤミナヘ"
+artist = "cosMo＠暴走P"
+image = "48b784c73d0cba6b.png"
+category = "niconico＆ボーカロイド"
+version = "26009"
+release = "2025-12-24"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "12+"
+master = "14"
+
+[[songs]]
 id = "120"
 title = "サイエンス"
 title_reading = "サイエンス"
@@ -24715,6 +24769,23 @@ is_locked = false
 level = "13?"
 kanji = "協"
 comment = "中央で踊るダンサー、急募。"
+
+[[songs]]
+id = "1466"
+title = "[一]もうみんなしねばいいのに"
+title_reading = "モウミンナシネハイイノニ"
+artist = "谷屋楽"
+image = "0efa58724b907097.png"
+category = "宴会場"
+version = "26009"
+release = "2025-12-24"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14+?"
+kanji = "一"
+comment = "どいつもこいつもリア充しやがって！"
 
 [[songs]]
 id = "1477"
@@ -25361,6 +25432,23 @@ is_locked = false
 level = "13?"
 kanji = "耐"
 comment = "命はひとつ"
+
+[[songs]]
+id = "1467"
+title = "[充]エンジェル ドリーム"
+title_reading = "エンシエルトリイム"
+artist = "「太鼓の達人」より"
+image = "503b44d4dc8fff1c.png"
+category = "宴会場"
+version = "26009"
+release = "2025-12-24"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "11?"
+kanji = "充"
+comment = "目と目を合わせて舞を分け合おう"
 
 [[songs]]
 id = "1526"
