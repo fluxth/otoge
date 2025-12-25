@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1040
-last_updated = "2025-12-11T03:29:21.622638697Z"
+count = 1045
+last_updated = "2025-12-25T03:29:59.227581283Z"
 
 [[songs]]
 id = "582300"
@@ -30247,7 +30247,7 @@ title_reading = "ウキヨエヨコチヨウ"
 artist = "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき）"
 date = "2025-12-11"
 image = "04d6a98b11ba22c8.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©魔界都市ニイガタ"
@@ -30277,7 +30277,7 @@ title_reading = "IMI"
 artist = "打打だいず FEAT. 月乃"
 date = "2025-12-11"
 image = "85b18d050466e102.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©打打だいず"
@@ -30307,7 +30307,7 @@ title_reading = "ユメツムキノワンタラ"
 artist = "いるかアイス × Tanchiky feat. 初音ミク"
 date = "2025-12-11"
 image = "9135256c9eb02ee7.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©On Prism Records / ©irucaice / ©Tanchiky"
@@ -30329,6 +30329,156 @@ master = "14"
 [songs.character]
 id = "1090"
 name = "井之原 小星"
+
+[[songs]]
+id = "273100"
+title = "最愛人生ランナー"
+title_reading = "サイアイシンセイランナ"
+artist = "かいりきベア"
+date = "2025-12-25"
+image = "2671efd5642c74c9.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
+
+[songs.chapter]
+id = "99134"
+name = "Project ONSOKU"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "3010"
+name = "初音ミク"
+
+[[songs]]
+id = "273200"
+title = "ウィーアーピコピコハンマーズ!!!!"
+title_reading = "ウイアヒコヒコハンマス"
+artist = "cosMo＠暴走P"
+date = "2025-12-25"
+image = "60dc587061a817a7.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
+
+[songs.chapter]
+id = "99134"
+name = "Project ONSOKU"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "5"
+advanced = "9+"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "3010"
+name = "初音ミク"
+
+[[songs]]
+id = "273300"
+title = "ジェットブラック"
+title_reading = "シエツトフラク"
+artist = "雄之助"
+date = "2025-12-25"
+image = "66748ade3e1064a3.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
+
+[songs.chapter]
+id = "99134"
+name = "Project ONSOKU"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "3010"
+name = "初音ミク"
+
+[[songs]]
+id = "273400"
+title = "トレジャーガーデン"
+title_reading = "トレシヤカテン"
+artist = "Ponchi♪ feat.初音ミク"
+date = "2025-12-25"
+image = "86e0bd7f4f08a3da.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
+
+[songs.chapter]
+id = "99134"
+name = "Project ONSOKU"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "6"
+advanced = "9+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "3010"
+name = "初音ミク"
+
+[[songs]]
+id = "273500"
+title = "電光刹歌"
+title_reading = "テンコウセツカ"
+artist = "かめりあ"
+date = "2025-12-25"
+image = "d7480e551d572926.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
+
+[songs.chapter]
+id = "99134"
+name = "Project ONSOKU"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "3010"
+name = "初音ミク"
 
 [[categories]]
 id = "06"

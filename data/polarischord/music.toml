@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 365
-last_updated = "2025-12-23T03:29:41.187808200Z"
+count = 366
+last_updated = "2025-12-25T03:29:59.156507228Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6219,6 +6219,22 @@ easy = 2
 normal = 5
 hard = 7
 influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "803f46a20d2dab94b676fa983e6cb3d9"
+title = "ルミナスデイズ"
+artist = "ここなつ"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 10
 
 [[songs.categories]]
 bitflag = 6
