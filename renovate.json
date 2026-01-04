@@ -3,23 +3,34 @@
   "extends": [
     "config:recommended",
     "helpers:pinGitHubActionDigests",
-    "regexManagers:githubActionsVersions",
-    "npm:unpublishSafe",
+    "customManagers:githubActionsVersions",
+    "security:minimumReleaseAgeNpm",
     ":maintainLockFilesMonthly",
     ":pinVersions",
     "github>Turbo87/renovate-config//rust/updateToolchain"
   ],
-  "reviewers": ["fluxth"],
+  "reviewers": [
+    "fluxth"
+  ],
   "timezone": "Asia/Tokyo",
-  "schedule": ["before 7am"],
+  "schedule": [
+    "before 7am"
+  ],
   "prHourlyLimit": 0,
   "prConcurrentLimit": 0,
   "packageRules": [
     {
       "description": "Auto-merge GitHub Actions patch and digest updates",
-      "matchUpdateTypes": ["patch", "digest"],
-      "matchManagers": ["github-actions"],
-      "schedule": ["before 6am"],
+      "matchUpdateTypes": [
+        "patch",
+        "digest"
+      ],
+      "matchManagers": [
+        "github-actions"
+      ],
+      "schedule": [
+        "before 6am"
+      ],
       "automerge": true,
       "automergeType": "pr"
     }
