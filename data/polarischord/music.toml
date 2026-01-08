@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 366
-last_updated = "2025-12-25T03:29:59.156507228Z"
+count = 369
+last_updated = "2026-01-08T03:30:27.100536767Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6235,6 +6235,54 @@ easy = 2
 normal = 5
 hard = 8
 influence = 10
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "4066fbbd26c1fdda9aa2ac1e3eefbe42"
+title = "野球の遊び方　そしてその歴史　～決定版～"
+artist = "あさき大監督"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 8
+influence = 10
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "d32e78891d78c069e919c4ace5935eca"
+title = "IX"
+artist = "dj TAKA VS DJ TOTTO feat.藍"
+
+[songs.levels]
+easy = 3
+normal = 8
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "ba23af16c77f5bc742908beef4f9b5db"
+title = "Engraved Mark"
+artist = "Ryu☆ ∞ Des-ROW"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
 
 [[songs.categories]]
 bitflag = 6

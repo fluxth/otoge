@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1615
-last_updated = "2025-12-24T03:29:06.082067508Z"
+count = 1620
+last_updated = "2026-01-08T03:30:27.016822328Z"
 
 [[songs]]
 id = "2920"
@@ -9,7 +9,7 @@ title_reading = "アイトウウミウ"
 artist = "蓮ノ空女学院スクールアイドルクラブ「Link！Like！ラブライブ！」"
 image = "8a60a70e7ff941f1.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "EDELIED"
 artist = "Edel Note[セラス 柳田 リリエンフェルト(CV.三宅美羽)、桂城 泉(CV.進藤あまね)]「Link！Like！ラブライブ！」"
 image = "1154917db46011a1.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2078,7 +2078,7 @@ title_reading = "ムセキニンシユウコウタイ"
 artist = "マサラダ"
 image = "ca8e87e6896d99b1.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2093,7 +2093,7 @@ title_reading = "ハカツウシン"
 artist = "isonosuke"
 image = "1c0cd842e31d1ff2.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -2108,7 +2108,7 @@ title_reading = "ヤハハイナ"
 artist = "さたぱんP"
 image = "2a1db642d331bc94.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -6683,6 +6683,81 @@ advanced = "6"
 expert = "9"
 master = "13"
 ultima = "14"
+
+[[songs]]
+id = "2925"
+title = "A-Yah-YAh-YaH-YAH!"
+title_reading = "AYAHYAHYAHYAH"
+artist = "凋叶棕 feat. めらみぽっぷ"
+image = "d5a8367ca8aa89dd.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "13+"
+
+[[songs]]
+id = "2926"
+title = "アマノジャクリバース feat. ｙｔｒ"
+title_reading = "アマノシヤクリハウスFEATYTR"
+artist = "魂音泉"
+image = "2d874aecc46cca02.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "2927"
+title = "The Music of Violent Eating"
+title_reading = "THEMUSICOFVIOLENTEATING"
+artist = "Jerico"
+image = "be12c8f92e6a4e21.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "5"
+advanced = "8"
+expert = "13"
+master = "15"
+
+[[songs]]
+id = "2928"
+title = "New World"
+title_reading = "NEWWORLD"
+artist = "FELT"
+image = "d1944af5d4deb244.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "2929"
+title = "メイドノココロハアヤツリドール"
+title_reading = "メイトノココロハアヤツリトウル"
+artist = "森羅万象"
+image = "d2f478766aab9169.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9+"
+master = "12+"
 
 [[songs]]
 id = "2904"
@@ -23400,7 +23475,7 @@ master = "14"
 id = "2917"
 title = "〚回帰〛 ～Scherzo ~フォルトゥーナの悪戯~"
 title_reading = "SCHERZOフオルトウウナノイタスラ"
-artist = "MIssinoary & DCWH"
+artist = "MIssionary & DCWH"
 image = "141156011c312445.jpg"
 category = "ORIGINAL"
 is_new = false
