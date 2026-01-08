@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1045
-last_updated = "2025-12-25T03:29:59.227581283Z"
+count = 1047
+last_updated = "2026-01-08T03:30:27.153558572Z"
 
 [[songs]]
 id = "582300"
@@ -30337,7 +30337,7 @@ title_reading = "サイアイシンセイランナ"
 artist = "かいりきベア"
 date = "2025-12-25"
 image = "2671efd5642c74c9.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
@@ -30367,7 +30367,7 @@ title_reading = "ウイアヒコヒコハンマス"
 artist = "cosMo＠暴走P"
 date = "2025-12-25"
 image = "60dc587061a817a7.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
@@ -30397,7 +30397,7 @@ title_reading = "シエツトフラク"
 artist = "雄之助"
 date = "2025-12-25"
 image = "66748ade3e1064a3.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
@@ -30427,7 +30427,7 @@ title_reading = "トレシヤカテン"
 artist = "Ponchi♪ feat.初音ミク"
 date = "2025-12-25"
 image = "86e0bd7f4f08a3da.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
@@ -30457,7 +30457,7 @@ title_reading = "テンコウセツカ"
 artist = "かめりあ"
 date = "2025-12-25"
 image = "d7480e551d572926.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
@@ -30479,6 +30479,66 @@ master = "13+"
 [songs.character]
 id = "3010"
 name = "初音ミク"
+
+[[songs]]
+id = "382400"
+title = "魔理沙は大変なものを盗んでいきました"
+title_reading = "マリサハタイヘンナモノヲヌスンテイキマシタ"
+artist = "ARM＋夕野ヨシミ (IOSYS) feat.藤咲かりん"
+date = "2026-01-08"
+image = "1eac175c0bbf4dda.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©上海アリス幻樂団"
+
+[songs.chapter]
+id = "99135"
+name = "東方妖々夢【第2弾】"
+
+[songs.category]
+id = "03"
+name = "東方Project"
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "11"
+master = "14"
+
+[songs.character]
+id = "2090"
+name = "アリス・マーガトロイド"
+
+[[songs]]
+id = "382500"
+title = "彷徨いの冥～天～"
+title_reading = "サマヨイノメイアマツ"
+artist = "少女フラクタル"
+date = "2026-01-08"
+image = "6d339d4a041214ea.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©上海アリス幻樂団　©少女フラクタル"
+
+[songs.chapter]
+id = "99135"
+name = "東方妖々夢【第2弾】"
+
+[songs.category]
+id = "03"
+name = "東方Project"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "2330"
+name = "西行寺 幽々子"
 
 [[categories]]
 id = "06"
