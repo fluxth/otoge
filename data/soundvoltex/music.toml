@@ -1,6 +1,36 @@
 name = "soundvoltex"
-count = 2205
-last_updated = "2025-12-18T03:28:06.160847743Z"
+count = 2207
+last_updated = "2026-01-15T03:31:06.128184906Z"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=DR3HZtoGQC1vDqdvYlL9Cg"
+title = "chaplet"
+artist = "DJ TOTTO"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "6"
+advanced = "13"
+exhaust = "16"
+maximum = "18"
+
+[[songs]]
+image = "/game/sdvx/vi/common/jacket.html?img=KYqUabkLP7MJznWuvj8TVg"
+title = "Plan 8"
+artist = "Ryu☆"
+
+[[songs.categories]]
+id = "bemani"
+name = "BEMANI"
+
+[songs.levels]
+novice = "7"
+advanced = "14"
+exhaust = "17"
+maximum = "19"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=x7A_FbZ07tuHViwyZrk0EQ"
