@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1475
-last_updated = "2026-01-09T03:30:35.552107423Z"
+count = 1478
+last_updated = "2026-01-17T03:28:47.987954823Z"
 
 [[songs]]
 id = "1099"
@@ -23922,7 +23922,7 @@ image = "3114baf324a8a372.png"
 category = "niconico＆ボーカロイド"
 version = "26010"
 release = "2026-01-09"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -24156,7 +24156,7 @@ image = "67c30af72f7293e4.png"
 category = "niconico＆ボーカロイド"
 version = "26010"
 release = "2026-01-09"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -24354,7 +24354,7 @@ image = "299dad20075dc4c4.png"
 category = "POPS＆アニメ"
 version = "26010"
 release = "2026-01-09"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -24372,7 +24372,7 @@ image = "ce26768f1271c875.png"
 category = "POPS＆アニメ"
 version = "26010"
 release = "2026-01-09"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -24390,7 +24390,7 @@ image = "fff8332aea8283cd.png"
 category = "niconico＆ボーカロイド"
 version = "26010"
 release = "2026-01-09"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -24416,6 +24416,24 @@ basic = "6"
 advanced = "8"
 expert = "12+"
 master = "14"
+
+[[songs]]
+id = "11"
+title = "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP"
+title_reading = "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP"
+artist = "3markets[ ]"
+image = "8e5cbe0e7b8a325b.png"
+category = "POPS＆アニメ"
+version = "26011"
+release = "2026-01-16"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "13"
 
 [[songs]]
 id = "126"
@@ -24793,6 +24811,23 @@ kanji = "回"
 comment = "今から振り回しますので離れていてください"
 
 [[songs]]
+id = "1476"
+title = "[鏡]MIRROR of MAGIC"
+title_reading = "MIRROROFMAGIC"
+artist = "Shoichiro Hirata feat.SUIMI"
+image = "967e724b039ec9dc.png"
+category = "宴会場"
+version = "26011"
+release = "2026-01-16"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "12?"
+kanji = "鏡"
+comment = "MIRROR of ADVANCED(↻)"
+
+[[songs]]
 id = "1516"
 title = "[習]ウミユリ海底譚"
 title_reading = "ウミユリカイテイタン"
@@ -24876,6 +24911,23 @@ is_locked = false
 level = "14+?"
 kanji = "一"
 comment = "どいつもこいつもリア充しやがって！"
+
+[[songs]]
+id = "1477"
+title = "[邪]アマノジャクリバース feat. ｙｔｒ"
+title_reading = "アマノシヤクリハアスFEATYTR"
+artist = "魂音泉"
+image = "3f2d512deca0579b.png"
+category = "宴会場"
+version = "26011"
+release = "2026-01-16"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13+?"
+kanji = "邪"
+comment = "ぜたっ作を面譜なルワジイ"
 
 [[songs]]
 id = "1489"
