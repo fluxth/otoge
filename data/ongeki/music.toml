@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1047
-last_updated = "2026-01-08T03:30:27.153558572Z"
+count = 1049
+last_updated = "2026-01-22T03:32:00.554581242Z"
 
 [[songs]]
 id = "582300"
@@ -30487,7 +30487,7 @@ title_reading = "マリサハタイヘンナモノヲヌスンテイキマシタ
 artist = "ARM＋夕野ヨシミ (IOSYS) feat.藤咲かりん"
 date = "2026-01-08"
 image = "1eac175c0bbf4dda.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©上海アリス幻樂団"
@@ -30517,7 +30517,7 @@ title_reading = "サマヨイノメイアマツ"
 artist = "少女フラクタル"
 date = "2026-01-08"
 image = "6d339d4a041214ea.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©上海アリス幻樂団　©少女フラクタル"
@@ -30539,6 +30539,64 @@ master = "13"
 [songs.character]
 id = "2330"
 name = "西行寺 幽々子"
+
+[[songs]]
+id = "575600"
+title = "ふらふらふら、"
+title_reading = "フラフラフラ"
+artist = "アオワイファイ feat.犀羅"
+date = "2026-01-22"
+image = "3873b2054d49086f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "99136"
+name = "maimai でらっくす"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "2"
+advanced = "8"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "7050"
+name = "ラズ"
+
+[[songs]]
+id = "575700"
+title = "Straight into the lights"
+title_reading = "STRAIGHTINTOTHELIGHTS"
+artist = "Cosmograph"
+date = "2026-01-22"
+image = "40ac3e77f03c488f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "99136"
+name = "maimai でらっくす"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "5"
+advanced = "10"
+expert = "12+"
+master = "15"
+
+[songs.character]
+id = "7058"
+name = "アシッド"
 
 [[categories]]
 id = "06"

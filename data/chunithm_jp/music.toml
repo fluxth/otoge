@@ -1,6 +1,21 @@
 name = "chunithm_jp"
-count = 1620
-last_updated = "2026-01-08T03:30:27.016822328Z"
+count = 1625
+last_updated = "2026-01-22T03:32:00.094788712Z"
+
+[[songs]]
+id = "3003"
+title = "Choose!!!"
+title_reading = "CHOOSE"
+artist = "サイダーガール TVアニメ「悪役令嬢転生おじさん」"
+image = "b5eff2e5e6e10b15.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12"
 
 [[songs]]
 id = "2920"
@@ -6691,7 +6706,7 @@ title_reading = "AYAHYAHYAHYAH"
 artist = "凋叶棕 feat. めらみぽっぷ"
 image = "d5a8367ca8aa89dd.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -6706,7 +6721,7 @@ title_reading = "アマノシヤクリハウスFEATYTR"
 artist = "魂音泉"
 image = "2d874aecc46cca02.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -6721,7 +6736,7 @@ title_reading = "THEMUSICOFVIOLENTEATING"
 artist = "Jerico"
 image = "be12c8f92e6a4e21.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -6736,7 +6751,7 @@ title_reading = "NEWWORLD"
 artist = "FELT"
 image = "d1944af5d4deb244.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -6751,7 +6766,7 @@ title_reading = "メイトノココロハアヤツリトウル"
 artist = "森羅万象"
 image = "d2f478766aab9169.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -12742,6 +12757,51 @@ basic = "2"
 advanced = "6"
 expert = "10+"
 master = "14+"
+
+[[songs]]
+id = "2932"
+title = "愛と煩悩と輪廻と常識の極彩世界"
+title_reading = "アイトホンノウトリンネトシヨウシキノコクサイセカイ"
+artist = "sound piercer feat.Ritsu"
+image = "ccab57547b68569f.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "12"
+master = "15"
+
+[[songs]]
+id = "2933"
+title = "ゼイタクするまで抱きしめて"
+title_reading = "セイタクスルマテタキシメテ"
+artist = "kei_iwata / KeiuO"
+image = "3c8ab9ef6a7782b9.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "14"
+
+[[songs]]
+id = "2934"
+title = "LAST PROPOZE"
+title_reading = "LASTPROPOZE"
+artist = "あとぅす feat.橘花音"
+image = "9165f76e6dd66e11.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "14"
 
 [[songs]]
 id = "145"
@@ -23500,6 +23560,21 @@ basic = "4"
 advanced = "8+"
 expert = "13"
 master = "14+"
+
+[[songs]]
+id = "2919"
+title = "轆轤首"
+title_reading = "ロクロクヒ"
+artist = "かねこちはる"
+image = "2b6966ef8a837f60.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "13+"
+master = "15"
 
 [[songs]]
 id = "8315"
