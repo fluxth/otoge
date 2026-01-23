@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 369
-last_updated = "2026-01-08T03:30:27.100536767Z"
+count = 372
+last_updated = "2026-01-22T03:32:00.357565918Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6283,6 +6283,54 @@ easy = 3
 normal = 7
 hard = 10
 influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "b362e840bc1a0608ee6b497cefd4b08b"
+title = "シグナライズ"
+artist = "muyu"
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "66d7d4cfec46f98c84bfc32c416c6198"
+title = "Eclipsed Wings"
+artist = "ushiee"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 11
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "1f37a1238b94f0dda41ee259d34d8f45"
+title = "The Burning of the Brain"
+artist = "Katali"
+
+[songs.levels]
+easy = 4
+normal = 8
+hard = 11
+influence = 13
 
 [[songs.categories]]
 bitflag = 6
