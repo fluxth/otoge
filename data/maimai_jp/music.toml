@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1478
-last_updated = "2026-01-17T03:28:47.987954823Z"
+count = 1481
+last_updated = "2026-01-23T03:31:09.847187209Z"
 
 [[songs]]
 id = "1099"
@@ -10329,6 +10329,30 @@ expert = "11+"
 master = "14+"
 
 [[songs]]
+id = "645"
+title = "Paranoia"
+title_reading = "PARANOIA"
+artist = "DiGiTAL WiNG feat. 花たん"
+image = "2bb6a69fa0e66cc6.png"
+category = "東方Project"
+version = "26012"
+release = "2026-01-23"
+is_new = true
+is_locked = false
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13+"
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "9"
+master = "13"
+
+[[songs]]
 id = "1184"
 title = "VIIIbit Explorer"
 title_reading = "VIIIBITEXPLORER"
@@ -13053,23 +13077,6 @@ basic = "4"
 advanced = "7+"
 expert = "9+"
 master = "12+"
-
-[[songs]]
-id = "644"
-title = "Paranoia"
-title_reading = "PARANOIA"
-artist = "DiGiTAL WiNG feat. 花たん"
-image = "2bb6a69fa0e66cc6.png"
-category = "東方Project"
-version = "21000"
-is_new = false
-is_locked = false
-
-[songs.dx_levels]
-basic = "4"
-advanced = "7"
-expert = "9"
-master = "13"
 
 [[songs]]
 id = "619"
@@ -24426,7 +24433,7 @@ image = "8e5cbe0e7b8a325b.png"
 category = "POPS＆アニメ"
 version = "26011"
 release = "2026-01-16"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -24434,6 +24441,60 @@ basic = "3"
 advanced = "6"
 expert = "9+"
 master = "13"
+
+[[songs]]
+id = "669"
+title = "Restricted Access"
+title_reading = "RESTRICTEDACCESS"
+artist = "Knighthood"
+image = "de1bf8e1a4349172.png"
+category = "ゲーム＆バラエティ"
+version = "26012"
+release = "2026-01-23"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "670"
+title = "胡蝶乃舞"
+title_reading = "コチヨウノマイ"
+artist = "Srav3R"
+image = "243cb5e190e6bc1c.png"
+category = "ゲーム＆バラエティ"
+version = "26012"
+release = "2026-01-23"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "671"
+title = "零號車輛"
+title_reading = "リンハオチユウリヤン"
+artist = "seatrus"
+image = "5013b0405bb25bc3.png"
+category = "ゲーム＆バラエティ"
+version = "26012"
+release = "2026-01-23"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "12+"
+master = "14+"
 
 [[songs]]
 id = "126"
