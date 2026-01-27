@@ -1,6 +1,6 @@
 name = "soundvoltex"
 count = 2207
-last_updated = "2026-01-15T03:31:06.128184906Z"
+last_updated = "2026-01-27T03:32:17.544405621Z"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=DR3HZtoGQC1vDqdvYlL9Cg"
@@ -5042,7 +5042,7 @@ maximum = "18"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=n9k4WKVa0Q5D0JknopRxmg"
-title = "ヒバナ-Reloaded-"
+title = "ヒバナ (Reloaded)"
 artist = "DECO*27"
 
 [[songs.categories]]
