@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1049
-last_updated = "2026-01-22T03:32:00.554581242Z"
+count = 1051
+last_updated = "2026-02-05T03:46:27.482095262Z"
 
 [[songs]]
 id = "582300"
@@ -30547,7 +30547,7 @@ title_reading = "フラフラフラ"
 artist = "アオワイファイ feat.犀羅"
 date = "2026-01-22"
 image = "3873b2054d49086f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -30576,7 +30576,7 @@ title_reading = "STRAIGHTINTOTHELIGHTS"
 artist = "Cosmograph"
 date = "2026-01-22"
 image = "40ac3e77f03c488f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -30597,6 +30597,68 @@ master = "15"
 [songs.character]
 id = "7058"
 name = "アシッド"
+
+[[songs]]
+id = "272900"
+title = "愛して愛して愛して"
+title_reading = "アイシテアイシテアイシテ"
+artist = "きくお"
+date = "2026-02-05"
+image = "16104e0bce4e193f.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = """
+©DWANGO Co., Ltd.\r
+さしみやま、赤卵"""
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "10+"
+master = "14+"
+
+[songs.character]
+id = "1070"
+name = "桜井 春菜"
+
+[[songs]]
+id = "273000"
+title = "お呪い"
+title_reading = "オマシナイ"
+artist = "なきそ"
+date = "2026-02-05"
+image = "cba27d92e76e3779.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©なきそ"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
 
 [[categories]]
 id = "06"
