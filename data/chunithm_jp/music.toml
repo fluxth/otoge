@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1625
-last_updated = "2026-01-22T03:32:00.094788712Z"
+count = 1629
+last_updated = "2026-02-05T03:46:26.955743935Z"
 
 [[songs]]
 id = "3003"
@@ -9,7 +9,7 @@ title_reading = "CHOOSE"
 artist = "サイダーガール TVアニメ「悪役令嬢転生おじさん」"
 image = "b5eff2e5e6e10b15.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -12765,7 +12765,7 @@ title_reading = "アイトホンノウトリンネトシヨウシキノコクサ
 artist = "sound piercer feat.Ritsu"
 image = "ccab57547b68569f.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -12780,7 +12780,7 @@ title_reading = "セイタクスルマテタキシメテ"
 artist = "kei_iwata / KeiuO"
 image = "3c8ab9ef6a7782b9.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12795,7 +12795,7 @@ title_reading = "LASTPROPOZE"
 artist = "あとぅす feat.橘花音"
 image = "9165f76e6dd66e11.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -14052,6 +14052,21 @@ basic = "2"
 advanced = "6"
 expert = "9+"
 master = "13+"
+
+[[songs]]
+id = "2939"
+title = "ソレイユ"
+title_reading = "ソレイユ"
+artist = "芒崎 奏(CV:立花 理香)"
+image = "e77ba5fab553a22b.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "12"
+master = "14"
 
 [[songs]]
 id = "1012"
@@ -23575,6 +23590,51 @@ basic = "5"
 advanced = "9"
 expert = "13+"
 master = "15"
+
+[[songs]]
+id = "2935"
+title = "天地のうた"
+title_reading = "アメツチノウタ"
+artist = "駄菓子O型 feat.みょみょ"
+image = "f8aaf7dd36dd8811.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "2936"
+title = "Aether Wind"
+title_reading = "AETHERWIND"
+artist = "OSTER project feat. 常盤ゆう"
+image = "6777d4ea3be2a2bf.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2937"
+title = "そして春めくモノローグ"
+title_reading = "ソシテハルメクモノロウク"
+artist = "Qutabire feat.柚子花"
+image = "5f449d387f43ebea.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "8315"
