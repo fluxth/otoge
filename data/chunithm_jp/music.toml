@@ -1,6 +1,51 @@
 name = "chunithm_jp"
-count = 1629
-last_updated = "2026-02-05T03:46:26.955743935Z"
+count = 1638
+last_updated = "2026-02-19T03:48:16.093163768Z"
+
+[[songs]]
+id = "2940"
+title = "もっと！"
+title_reading = "モツト"
+artist = "花鋏キョウ、獅子神レオナ、水瓶ミア、夢川かなう"
+image = "432fb97ae2b4f7ed.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2941"
+title = "はっぴーでいず！"
+title_reading = "ハツヒウテイス"
+artist = "獅子神レオナ"
+image = "23560f22212bd8f3.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "2942"
+title = "Behavior"
+title_reading = "BEHAVIOR"
+artist = "花鋏キョウ"
+image = "82fd934f0c6db89f.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12+"
 
 [[songs]]
 id = "3003"
@@ -454,6 +499,7 @@ basic = "3"
 advanced = "6"
 expert = "9+"
 master = "12+"
+ultima = "14"
 
 [[songs]]
 id = "2807"
@@ -2085,6 +2131,36 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "15"
+
+[[songs]]
+id = "2943"
+title = "M@GICAL☆CURE! LOVE ♥ SHOT!"
+title_reading = "MAGICALCURELOVESHOT"
+artist = "SAWTOWNE"
+image = "bf91481c099be8b0.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "2944"
+title = "LEMON MELON COOKIE"
+title_reading = "LEMONMELONCOOKIE"
+artist = "TAK"
+image = "cea61e6ad49c9194.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "12+"
 
 [[songs]]
 id = "2922"
@@ -14060,7 +14136,7 @@ title_reading = "ソレイユ"
 artist = "芒崎 奏(CV:立花 理香)"
 image = "e77ba5fab553a22b.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -23598,7 +23674,7 @@ title_reading = "アメツチノウタ"
 artist = "駄菓子O型 feat.みょみょ"
 image = "f8aaf7dd36dd8811.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -23613,7 +23689,7 @@ title_reading = "AETHERWIND"
 artist = "OSTER project feat. 常盤ゆう"
 image = "6777d4ea3be2a2bf.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -23628,13 +23704,67 @@ title_reading = "ソシテハルメクモノロウク"
 artist = "Qutabire feat.柚子花"
 image = "5f449d387f43ebea.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
 advanced = "6"
 expert = "10"
 master = "13+"
+
+[[songs]]
+id = "2938"
+title = "Sweet & Sour"
+title_reading = "SWEETSOUR"
+artist = "Sakuzyo or Sobrem"
+image = "f9d67323746c8e6e.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.levels]
+basic = "5"
+advanced = "10"
+expert = "14"
+master = "15+"
+
+[[songs]]
+id = "8318"
+title = "J219"
+title_reading = "J219"
+artist = "Cranky"
+image = "88146bcaa9380e95.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.worlds_end]
+kanji = "狂"
+star = "1"
+
+[[songs]]
+id = "8319"
+title = "volcanic"
+title_reading = "VOLCANIC"
+artist = "DETRO a.k.a ルゼ"
+image = "f33e03d3238f349c.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.worlds_end]
+kanji = "避"
+star = "7"
+
+[[songs]]
+id = "8320"
+title = "Fighting My Way"
+title_reading = "FIGHTINGMYWAY"
+artist = "歌：花海咲季 (CV. 長月あおい) 作詞：HIROMI　作曲・編曲：Giga「学園アイドルマスター」"
+image = "db54e46036143b95.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.worlds_end]
+kanji = "戻"
+star = "3"
 
 [[songs]]
 id = "8315"
