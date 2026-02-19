@@ -1,6 +1,6 @@
 name = "polarischord"
 count = 375
-last_updated = "2026-02-18T03:48:41.017266201Z"
+last_updated = "2026-02-19T03:48:16.259542213Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -203,6 +203,7 @@ license = "Licensed by COVER"
 easy = 2
 normal = 4
 hard = 7
+influence = 9
 
 [[songs.categories]]
 bitflag = 1
@@ -390,6 +391,7 @@ license = "Licensed by COOL&CREATE"
 easy = 1
 normal = 3
 hard = 6
+influence = 9
 
 [[songs.categories]]
 bitflag = 1
@@ -411,6 +413,7 @@ license = "Licensed by COOL&CREATE"
 easy = 3
 normal = 5
 hard = 8
+influence = 11
 
 [[songs.categories]]
 bitflag = 1
@@ -432,6 +435,7 @@ license = "Licensed by COOL&CREATE"
 easy = 2
 normal = 6
 hard = 9
+influence = 11
 
 [[songs.categories]]
 bitflag = 1
@@ -453,6 +457,7 @@ license = "Licensed by COOL&CREATE"
 easy = 2
 normal = 5
 hard = 10
+influence = 11
 
 [[songs.categories]]
 bitflag = 1
@@ -474,6 +479,7 @@ license = "Licensed by COOL&CREATE"
 easy = 2
 normal = 6
 hard = 8
+influence = 10
 
 [[songs.categories]]
 bitflag = 1
