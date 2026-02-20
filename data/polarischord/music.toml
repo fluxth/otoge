@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 375
-last_updated = "2026-02-19T03:48:16.259542213Z"
+count = 378
+last_updated = "2026-02-20T03:46:50.805425035Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6394,6 +6394,54 @@ influence = 13
 bitflag = 2
 slug = "social"
 name = "ソーシャルミュージック"
+
+[[songs]]
+id = "0a9507336a68c90bb187ec43b2a11df3"
+title = "Λkasha"
+artist = "BlackY feat. Risa Yuzuki"
+
+[songs.levels]
+easy = 4
+normal = 8
+hard = 12
+influence = 14
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "15253f66586a620f780968beee5577d9"
+title = "while (screen is blue)"
+artist = "kamome sano"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "6dc4ced367cd52ff1ad8701f864b911b"
+title = "いつかの夢、またねの約束。"
+artist = "TAKU1175 ft. 駄々子"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1

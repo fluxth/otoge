@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1486
-last_updated = "2026-02-13T03:49:44.986041456Z"
+count = 1489
+last_updated = "2026-02-20T03:46:50.593476358Z"
 
 [[songs]]
 id = "1107"
@@ -24569,6 +24569,60 @@ expert = "12+"
 master = "14+"
 
 [[songs]]
+id = "508"
+title = "恋の氷結おてんば湯けむりチルノ温泉"
+title_reading = "コイノヒヨウケツオテンハユケムリチルノオンセン"
+artist = "uno×夕野ヨシミ feat. miko"
+image = "ce668c0f0af605ed.png"
+category = "東方Project"
+version = "26015"
+release = "2026-02-20"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "509"
+title = "イタ電はやめて！ ぼくらのスカーレット・コール"
+title_reading = "イタテンハヤメテホクラノスカアレツトコオル"
+artist = "七条レタスグループ"
+image = "211caf1afd2beb7a.png"
+category = "東方Project"
+version = "26015"
+release = "2026-02-20"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "1"
+advanced = "5"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "510"
+title = "むしみこうにゃーのハッピッピー"
+title_reading = "ムシミコウニヤアノハツヒツヒイ"
+artist = "ARM×狐夢想 feat. miko×山本椛"
+image = "2dede017b65f838e.png"
+category = "東方Project"
+version = "26015"
+release = "2026-02-20"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
 id = "117"
 title = "ラプラスショコラ"
 title_reading = "ラフラスシヨコラ"
@@ -24577,7 +24631,7 @@ image = "130694f9747295ff.png"
 category = "niconico＆ボーカロイド"
 version = "26014"
 release = "2026-02-13"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
