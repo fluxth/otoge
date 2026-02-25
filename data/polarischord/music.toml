@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 378
-last_updated = "2026-02-20T03:46:50.805425035Z"
+count = 379
+last_updated = "2026-02-25T03:47:41.617096213Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6436,6 +6436,22 @@ artist = "TAKU1175 ft. 駄々子"
 easy = 2
 normal = 5
 hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "266448a46612d2908725890d9dbb2246"
+title = "Signs and Wonders"
+artist = "ネオン(CV:藤川茜)、芽兎めう(CV:五十嵐裕美)"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 7
 influence = 11
 
 [[songs.categories]]
