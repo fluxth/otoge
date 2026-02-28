@@ -1,6 +1,6 @@
 name = "soundvoltex"
-count = 2207
-last_updated = "2026-01-27T03:32:17.544405621Z"
+count = 2205
+last_updated = "2026-02-28T03:34:59.247990629Z"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=DR3HZtoGQC1vDqdvYlL9Cg"
@@ -11490,36 +11490,6 @@ novice = "6"
 advanced = "13"
 exhaust = "16"
 maximum = "18"
-
-[[songs]]
-image = "/game/sdvx/vi/common/jacket.html?img=tvLOExZGPpgGvevqyrjyPw"
-title = "かくしん的☆めたまるふぉ～ぜっ！（crabMixx）"
-artist = "土間うまる（CV.田中あいみ） Remixed by いぬ"
-
-[[songs.categories]]
-id = "pops"
-name = "POPS&アニメ"
-
-[songs.levels]
-novice = "2"
-advanced = "8"
-exhaust = "13"
-maximum = "16"
-
-[[songs]]
-image = "/game/sdvx/vi/common/jacket.html?img=bky2qlbw-ny2RzN6Na0FzQ"
-title = "鏡面の波（ramble mix）"
-artist = 'YURiKA Remixed by BEMANI Sound Team "DJ TOTTO"'
-
-[[songs.categories]]
-id = "pops"
-name = "POPS&アニメ"
-
-[songs.levels]
-novice = "4"
-advanced = "10"
-exhaust = "14"
-maximum = "17"
 
 [[songs]]
 image = "/game/sdvx/vi/common/jacket.html?img=t-OGEwozo0KrP4ch9SBY7A"
