@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1055
-last_updated = "2026-02-19T03:48:16.456551462Z"
+count = 1058
+last_updated = "2026-03-05T03:46:09.947575262Z"
 
 [[songs]]
 id = "582300"
@@ -90,7 +90,7 @@ id = "1010"
 name = "星咲 あかり"
 
 [[songs]]
-id = "577000"
+id = "544600"
 title = "Oshama Scramble!"
 title_reading = "OSHAMASCRAMBLE"
 artist = "t+pazolite"
@@ -148,7 +148,7 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "577400"
+id = "545000"
 title = "AMAZING MIGHTYYYY!!!!"
 title_reading = "AMAZINGMIGHTYYYY"
 artist = "WAiKURO"
@@ -206,7 +206,7 @@ id = "1010"
 name = "星咲 あかり"
 
 [[songs]]
-id = "577100"
+id = "544700"
 title = "Mare Maris"
 title_reading = "MAREMARIS"
 artist = "M2U"
@@ -322,7 +322,7 @@ id = "1040"
 name = "高瀬 梨緒"
 
 [[songs]]
-id = "577200"
+id = "544800"
 title = "Hyper Active"
 title_reading = "HYPERACTIVE"
 artist = "HiTECH NINJA"
@@ -439,7 +439,7 @@ id = "1060"
 name = "藍原 椿"
 
 [[songs]]
-id = "577300"
+id = "544900"
 title = "天火明命"
 title_reading = "アメノホアカリ"
 artist = "削除"
@@ -1488,7 +1488,7 @@ id = "1100"
 name = "柏木 咲姫"
 
 [[songs]]
-id = "577500"
+id = "545100"
 title = "oboro"
 title_reading = "OBORO"
 artist = "ヒゲドライバー"
@@ -1546,7 +1546,7 @@ id = "1100"
 name = "柏木 咲姫"
 
 [[songs]]
-id = "577600"
+id = "545200"
 title = "7thSense"
 title_reading = "7THSENSE"
 artist = "削除"
@@ -2116,7 +2116,7 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "577700"
+id = "545300"
 title = "Dragoon"
 title_reading = "DRAGOON"
 artist = "Shandy kubota"
@@ -3813,7 +3813,7 @@ id = "1010"
 name = "星咲 あかり"
 
 [[songs]]
-id = "577800"
+id = "545400"
 title = "Garakuta Doll Play"
 title_reading = "GARAKUTADOLLPLAY"
 artist = "t+pazolite"
@@ -5075,7 +5075,7 @@ id = "2050"
 name = "十六夜 咲夜"
 
 [[songs]]
-id = "577900"
+id = "545500"
 title = "SILENT BLUE"
 title_reading = "SILENTBLUE"
 artist = "かねこちはる"
@@ -6803,7 +6803,7 @@ id = "1020"
 name = "藤沢 柚子"
 
 [[songs]]
-id = "578000"
+id = "545600"
 title = "でらっくmaimai♪てんてこまい!"
 title_reading = "テラツクマイマイテンテコマイ"
 artist = "やしきん feat.でらっくま(CV:三森すずこ)"
@@ -7009,7 +7009,7 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "578100"
+id = "545700"
 title = "超常マイマイン"
 title_reading = "チヨウシヨウマイマイン"
 artist = "ナユタン星人"
@@ -8024,7 +8024,7 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "578200"
+id = "545800"
 title = "雷切-RAIKIRI-"
 title_reading = "ライキリRAIKIRI"
 artist = "kanone"
@@ -8575,7 +8575,7 @@ id = "2050"
 name = "十六夜 咲夜"
 
 [[songs]]
-id = "578300"
+id = "545900"
 title = "ヤミツキ"
 title_reading = "ヤミツキ"
 artist = "MARETU"
@@ -9890,7 +9890,7 @@ id = "1060"
 name = "藍原 椿"
 
 [[songs]]
-id = "578400"
+id = "546000"
 title = "larva"
 title_reading = "LARVA"
 artist = "ガリガリさむし"
@@ -10154,7 +10154,7 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "578500"
+id = "546100"
 title = "QZKago Requiem"
 title_reading = "QZKAGOREQUIEM"
 artist = "t+pazolite"
@@ -10760,7 +10760,7 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "578600"
+id = "546200"
 title = "四月の雨"
 title_reading = "シカツノアメ"
 artist = "cubesato"
@@ -11082,7 +11082,7 @@ id = "1080"
 name = "早乙女 彩華"
 
 [[songs]]
-id = "578700"
+id = "546300"
 title = "Secret Sleuth"
 title_reading = "SECRETSLEUTH"
 artist = "島爺×蜂屋ななし"
@@ -13209,7 +13209,7 @@ id = "5410"
 name = "光"
 
 [[songs]]
-id = "578800"
+id = "546400"
 title = "TEmPTaTiON"
 title_reading = "TEMPTATION"
 artist = "かねこちはる"
@@ -14225,7 +14225,7 @@ id = "1110"
 name = "九條 楓"
 
 [[songs]]
-id = "578900"
+id = "546500"
 title = "福宿音屋魂音泉"
 title_reading = "フクヤトルオトヤタマオンセン"
 artist = "魂音泉"
@@ -15950,7 +15950,7 @@ id = "1120"
 name = "逢坂 茜"
 
 [[songs]]
-id = "579000"
+id = "546600"
 title = "Alea jacta est!"
 title_reading = "ALEAJACTAEST"
 artist = "BlackY fused with WAiKURO"
@@ -16651,7 +16651,7 @@ id = "1090"
 name = "井之原 小星"
 
 [[songs]]
-id = "579100"
+id = "546700"
 title = "Blows Up Everything"
 title_reading = "BLOWSUPEVERYTHING"
 artist = "USAO"
@@ -16680,7 +16680,7 @@ id = "1010"
 name = "星咲 あかり"
 
 [[songs]]
-id = "579200"
+id = "546800"
 title = "マイオドレ！舞舞タイム"
 title_reading = "マイオトレマイマイタイム"
 artist = "キノシタ feat. そらみこ"
@@ -17229,7 +17229,7 @@ id = "1130"
 name = "珠洲島 有栖"
 
 [[songs]]
-id = "579300"
+id = "546900"
 title = "REAL VOICE"
 title_reading = "REALVOICE"
 artist = "達見 恵 featured by 佐野 宏晃"
@@ -18467,7 +18467,7 @@ id = "1150"
 name = "柏木 美亜"
 
 [[songs]]
-id = "579400"
+id = "547000"
 title = "L'épilogue"
 title_reading = "LEPILOGUE"
 artist = "SOUND HOLIC feat. Nana Takahashi"
@@ -18951,7 +18951,7 @@ id = "1100"
 name = "柏木 咲姫"
 
 [[songs]]
-id = "579500"
+id = "547100"
 title = "ここからはじまるプロローグ。"
 title_reading = "ココカラハシマルフロロク"
 artist = "ああああ"
@@ -19067,7 +19067,7 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "579600"
+id = "547200"
 title = "とびだせ！TO THE COSMIC!!"
 title_reading = "トヒタセTOTHECOSMIC"
 artist = "t+pazolite feat. しゃま(CV:種﨑 敦美) & みるく(CV:伊藤 あすか)"
@@ -19671,7 +19671,7 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "579800"
+id = "547400"
 title = "Paradisoda"
 title_reading = "PARADISODA"
 artist = "魂音泉"
@@ -19700,7 +19700,7 @@ id = "1020"
 name = "藤沢 柚子"
 
 [[songs]]
-id = "579700"
+id = "547300"
 title = "夢花火"
 title_reading = "ユメハナヒ"
 artist = "豚乙女"
@@ -19787,7 +19787,7 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "579900"
+id = "547500"
 title = "Caliburne ～Story of the Legendary sword～"
 title_reading = "CALIBURNESTORYOFTHELEGENDARYSWORD"
 artist = "Project Grimoire"
@@ -19816,7 +19816,7 @@ id = "1090"
 name = "井之原 小星"
 
 [[songs]]
-id = "580000"
+id = "547600"
 title = "FestivaLight"
 title_reading = "FESTIVALIGHT"
 artist = "霜月はるか"
@@ -20280,7 +20280,7 @@ id = "1050"
 name = "結城 莉玖"
 
 [[songs]]
-id = "580100"
+id = "547700"
 title = "the EmpErroR"
 title_reading = "THEEMPERROR"
 artist = "sasakure.UK"
@@ -20365,7 +20365,7 @@ id = "3010"
 name = "初音ミク"
 
 [[songs]]
-id = "580300"
+id = "547900"
 title = "Cosmic Train"
 title_reading = "COSMICTRAIN"
 artist = "Shoichiro Hirata feat.SUIMI"
@@ -20394,7 +20394,7 @@ id = "1100"
 name = "柏木 咲姫"
 
 [[songs]]
-id = "580200"
+id = "547800"
 title = "渦状銀河のシンフォニエッタ"
 title_reading = "カシヨウキンカノシンフオニエツタ"
 artist = "山本真央樹"
@@ -21000,7 +21000,7 @@ id = "1070"
 name = "桜井 春菜"
 
 [[songs]]
-id = "580400"
+id = "548000"
 title = "遺伝子レベル∞スパイラル"
 title_reading = "イテンシレヘルスハイラル"
 artist = "NAOKI feat.小坂りゆ"
@@ -21029,7 +21029,7 @@ id = "1080"
 name = "早乙女 彩華"
 
 [[songs]]
-id = "580500"
+id = "548100"
 title = "花と、雪と、ドラムンベース。"
 title_reading = "ハナトユキトトラムンヘス"
 artist = "kanone feat. せんざい"
@@ -21317,7 +21317,7 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "580600"
+id = "548200"
 title = "BREaK! BREaK! BREaK!"
 title_reading = "BREAKBREAKBREAK"
 artist = "HiTECH NINJA vs Cranky"
@@ -21494,7 +21494,7 @@ id = "1140"
 name = "日向 千夏"
 
 [[songs]]
-id = "580700"
+id = "548300"
 title = "Imitation:Loud Lounge"
 title_reading = "IMITATIONLOUDLOUNGE"
 artist = "Ino(chronoize)"
@@ -21758,7 +21758,7 @@ id = "1030"
 name = "三角 葵"
 
 [[songs]]
-id = "580800"
+id = "548400"
 title = "Regulus"
 title_reading = "REGULUS"
 artist = "お月さま交響曲"
@@ -21875,36 +21875,6 @@ master = "13"
 [songs.character]
 id = "6005"
 name = "名取さな"
-
-[[songs]]
-id = "189100"
-title = "アンチグラビティ・ガール"
-title_reading = "アンチクラヒテイカル"
-artist = "月ノ美兎"
-date = "2023-05-25"
-image = "6091a7e19b9efcec.png"
-is_new = false
-is_lunatic = false
-is_bonus_track = false
-copyright = "©ANYCOLOR, Inc."
-
-[songs.chapter]
-id = "00001"
-name = "マイリスト"
-
-[songs.category]
-id = "01"
-name = "POPS＆ANIME"
-
-[songs.levels]
-basic = "3"
-advanced = "7+"
-expert = "11"
-master = "13+"
-
-[songs.character]
-id = "1030"
-name = "三角 葵"
 
 [[songs]]
 id = "282500"
@@ -22108,7 +22078,7 @@ id = "1080"
 name = "早乙女 彩華"
 
 [[songs]]
-id = "580900"
+id = "548500"
 title = "Candy Tall Woman"
 title_reading = "CANDYTALLWOMAN"
 artist = "naotyu- feat. 佐々木恵梨"
@@ -22137,7 +22107,7 @@ id = "1070"
 name = "桜井 春菜"
 
 [[songs]]
-id = "581000"
+id = "548600"
 title = "Rainbow Rush Story"
 title_reading = "RAINBOWRUSHSTORY"
 artist = "いるかアイス feat.ちょこ"
@@ -22344,7 +22314,7 @@ id = "1120"
 name = "逢坂 茜"
 
 [[songs]]
-id = "581100"
+id = "548700"
 title = "居並ぶ穀物と溜息まじりの運送屋"
 title_reading = "イナラフコクモツトタメイキマシリノウンソウヤ"
 artist = "hanzo"
@@ -22429,7 +22399,7 @@ id = "1050"
 name = "結城 莉玖"
 
 [[songs]]
-id = "581200"
+id = "548800"
 title = "Death Scythe"
 title_reading = "DEATHSCYTHE"
 artist = "SHIKI"
@@ -22777,7 +22747,7 @@ id = "1040"
 name = "高瀬 梨緒"
 
 [[songs]]
-id = "581300"
+id = "548900"
 title = "VIIIbit Explorer"
 title_reading = "VIIIBITEXPLORER"
 artist = "Lime"
@@ -22953,7 +22923,7 @@ id = "1140"
 name = "日向 千夏"
 
 [[songs]]
-id = "581400"
+id = "549000"
 title = "Fragrance"
 title_reading = "FRAGRANCE"
 artist = "Tsukasa(Arte Refact)"
@@ -22982,7 +22952,7 @@ id = "1020"
 name = "藤沢 柚子"
 
 [[songs]]
-id = "581500"
+id = "549100"
 title = "We Gonna Party"
 title_reading = "WEGONNAPARTY"
 artist = "Cranky"
@@ -23011,7 +22981,7 @@ id = "1010"
 name = "星咲 あかり"
 
 [[songs]]
-id = "581600"
+id = "549200"
 title = "Starlight Disco"
 title_reading = "STARLIGHTDISCO"
 artist = "loos feat. Meramipop"
@@ -23242,7 +23212,7 @@ id = "1160"
 name = "東雲 つむぎ"
 
 [[songs]]
-id = "581700"
+id = "549300"
 title = "RIFFRAIN"
 title_reading = "RIFFRAIN"
 artist = "夏代孝明"
@@ -23390,7 +23360,7 @@ id = "1090"
 name = "井之原 小星"
 
 [[songs]]
-id = "581800"
+id = "549400"
 title = "N3V3R G3T OV3R"
 title_reading = "N3V3RG3TOVER"
 artist = "C-Show"
@@ -23565,7 +23535,7 @@ id = "1170"
 name = "皇城 セツナ"
 
 [[songs]]
-id = "581900"
+id = "549500"
 title = "Sage"
 title_reading = "SAGE"
 artist = "かめりあ"
@@ -24361,7 +24331,7 @@ name = "式宮 舞菜"
 [[songs]]
 id = "723100"
 title = "Prominence -皇城 セツナソロver.-"
-title_reading = "フロミネンススメラキセツナソロVER"
+title_reading = "PROMINENCEスメラキセツナソロVER"
 artist = "曲：下野 隼／歌：皇城 セツナ(CV：八巻 アンナ)"
 date = "2024-03-07"
 image = "974dc5212ea3d597.png"
@@ -24391,7 +24361,7 @@ name = "皇城 セツナ"
 [[songs]]
 id = "723200"
 title = "Prominence -式宮 碧音ソロver.-"
-title_reading = "フロミネンスシキミヤアオネソロVER"
+title_reading = "PROMINENCEシキミヤアオネソロVER"
 artist = "曲：下野 隼／歌：式宮 碧音(CV：髙橋 ミナミ)"
 date = "2024-03-07"
 image = "abb8365c44e39d63.png"
@@ -24561,7 +24531,7 @@ name = "鳳 ここな"
 [[songs]]
 id = "722700"
 title = "Dramatic…？ -珠洲島 有栖ソロver.-"
-title_reading = "トラマテイクススシマアリスソロVER"
+title_reading = "DRAMATICススシマアリスソロVER"
 artist = "曲：Kijibato／歌：珠洲島 有栖(CV：長縄 まりあ)"
 date = "2024-03-27"
 image = "5a5e070e6e5a63b9.png"
@@ -24590,7 +24560,7 @@ name = "珠洲島 有栖"
 [[songs]]
 id = "722800"
 title = "Dramatic…？ -日向 千夏ソロver.-"
-title_reading = "トラマテイクヒナタチナツソロVER"
+title_reading = "DRAMATICヒナタチナツソロVER"
 artist = "曲：Kijibato／歌：日向 千夏(CV：岡咲 美保)"
 date = "2024-03-27"
 image = "6a05b45c14cf653d.png"
@@ -24619,7 +24589,7 @@ name = "日向 千夏"
 [[songs]]
 id = "722900"
 title = "Dramatic…？ -皇城 セツナソロver.-"
-title_reading = "トラマテイクスメラキセツナソロVER"
+title_reading = "DRAMATICスメラキセツナソロVER"
 artist = "曲：Kijibato／歌：皇城 セツナ(CV：八巻 アンナ)"
 date = "2024-03-27"
 image = "3e0415545612cda4.png"
@@ -24648,7 +24618,7 @@ name = "皇城 セツナ"
 [[songs]]
 id = "722650"
 title = "Dramatic…？ -星咲 あかりソロver.-"
-title_reading = "トラマテイクホシサキアカリソロVER"
+title_reading = "DRAMATICホシサキアカリソロVER"
 artist = "曲：Kijibato／歌：星咲 あかり(CV：赤尾 ひかる)"
 date = "2024-03-27"
 image = "7b003f717148fa0c.png"
@@ -25739,7 +25709,7 @@ id = "1110"
 name = "九條 楓"
 
 [[songs]]
-id = "582000"
+id = "549600"
 title = "アンバークロニクル"
 title_reading = "アンハクロニクル"
 artist = "しーけー feat.ricono"
@@ -26572,7 +26542,7 @@ id = "1120"
 name = "逢坂 茜"
 
 [[songs]]
-id = "582100"
+id = "549700"
 title = "#狂った民族2 PRAVARGYAZOOQA"
 title_reading = "クルツタミンソク2PRAVARGYAZOOQA"
 artist = "DJ Raisei"
@@ -26777,7 +26747,7 @@ id = "6610"
 name = "稀羽すう"
 
 [[songs]]
-id = "582200"
+id = "549800"
 title = "群青シグナル"
 title_reading = "クンシヨウシクナル"
 artist = "テヅカ feat. 獅子神レオナ"
@@ -27241,7 +27211,7 @@ id = "1120"
 name = "逢坂 茜"
 
 [[songs]]
-id = "582250"
+id = "549900"
 title = "スローアライズ"
 title_reading = "スロアライス"
 artist = "Endorfin."
@@ -27299,7 +27269,7 @@ id = "1010"
 name = "星咲 あかり"
 
 [[songs]]
-id = "576900"
+id = "544500"
 title = "Our Wrenally"
 title_reading = "OURWRENALLY"
 artist = "t+pazolite"
@@ -27690,7 +27660,7 @@ id = "1170"
 name = "皇城 セツナ"
 
 [[songs]]
-id = "576800"
+id = "544400"
 title = "8-EM"
 title_reading = "8EM"
 artist = "Sampling Masters AYA"
@@ -27898,7 +27868,7 @@ name = "藍原 椿"
 [[songs]]
 id = "723550"
 title = "Individual on parade! -藤沢 柚子ソロver.-"
-title_reading = "INDIVIDUALONPARADEスメラキセツナソロVER"
+title_reading = "INDIVIDUALONPARADEフシサワユスソロVER"
 artist = "曲：渡部チェル／歌：藤沢 柚子(CV：保科 李沙)"
 date = "2025-03-27"
 image = "55ef7fa45887aae2.png"
@@ -28244,7 +28214,7 @@ id = "1090"
 name = "井之原 小星"
 
 [[songs]]
-id = "576700"
+id = "544300"
 title = "Energizing Flame"
 title_reading = "ENERGIZINGFLAME"
 artist = "Artifact vs. Dualcast"
@@ -28273,7 +28243,7 @@ id = "1010"
 name = "星咲 あかり"
 
 [[songs]]
-id = "576600"
+id = "544200"
 title = "QuiQ"
 title_reading = "QUIQ"
 artist = "owl＊tree feat.nie＊tree"
@@ -28658,7 +28628,7 @@ id = "1150"
 name = "柏木 美亜"
 
 [[songs]]
-id = "576500"
+id = "544100"
 title = "SPILL OVER COLORS"
 title_reading = "SPILLOVERCOLORS"
 artist = "矢鴇つかさ feat. kalon."
@@ -28982,7 +28952,7 @@ id = "1050"
 name = "結城 莉玖"
 
 [[songs]]
-id = "576400"
+id = "544000"
 title = "Λzure Vixen"
 title_reading = "AZUREVIXEN"
 artist = "かめりあ"
@@ -29011,7 +28981,7 @@ id = "1060"
 name = "藍原 椿"
 
 [[songs]]
-id = "576300"
+id = "543900"
 title = "Ignition"
 title_reading = "IGNITION"
 artist = "パソコン音楽クラブ"
@@ -29331,7 +29301,7 @@ id = "1150"
 name = "柏木 美亜"
 
 [[songs]]
-id = "576200"
+id = "543800"
 title = "crazy (about you)"
 title_reading = "CRAZYABOUTYOU"
 artist = "kamome sano"
@@ -29715,7 +29685,7 @@ id = "6545"
 name = "日野下 花帆"
 
 [[songs]]
-id = "575900"
+id = "543500"
 title = "アンビバレンス"
 title_reading = "アンヒハレンス"
 artist = "すりぃ×相沢"
@@ -29744,7 +29714,7 @@ id = "1160"
 name = "東雲 つむぎ"
 
 [[songs]]
-id = "576000"
+id = "543600"
 title = "おしゃまなプリンセス"
 title_reading = "オシヤマナフリンセス"
 artist = "Shu feat. 七海うらら"
@@ -29773,7 +29743,7 @@ id = "1160"
 name = "東雲 つむぎ"
 
 [[songs]]
-id = "576100"
+id = "543700"
 title = "B100d Hunter"
 title_reading = "B100DHUNTER"
 artist = "DIVELA feat.いゔどっと"
@@ -30066,7 +30036,7 @@ id = "1040"
 name = "高瀬 梨緒"
 
 [[songs]]
-id = "575800"
+id = "543400"
 title = "トノサマビーム"
 title_reading = "トノサマヒム"
 artist = "ぼっちぼろまる"
@@ -30541,7 +30511,7 @@ id = "2330"
 name = "西行寺 幽々子"
 
 [[songs]]
-id = "575600"
+id = "543100"
 title = "ふらふらふら、"
 title_reading = "フラフラフラ"
 artist = "アオワイファイ feat.犀羅"
@@ -30570,7 +30540,7 @@ id = "7050"
 name = "ラズ"
 
 [[songs]]
-id = "575700"
+id = "543300"
 title = "Straight into the lights"
 title_reading = "STRAIGHTINTOTHELIGHTS"
 artist = "Cosmograph"
@@ -30610,7 +30580,7 @@ is_lunatic = false
 is_bonus_track = false
 copyright = """
 ©DWANGO Co., Ltd.\r
-さしみやま、赤卵"""
+©さしみやま、赤卵"""
 
 [songs.chapter]
 id = "00001"
@@ -30667,7 +30637,7 @@ title_reading = "367DAYS"
 artist = "KiRaRe「Re:ステージ！プリズムステップ」"
 date = "2026-02-19"
 image = "c3f0783d8d3b6649.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Re:STAGE! PROJECT"
@@ -30697,7 +30667,7 @@ title_reading = "BRILLIANTWINGS"
 artist = "ステラマリス「Re:ステージ！プリズムステップ」"
 date = "2026-02-19"
 image = "17c01969ec253f48.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Re:STAGE! PROJECT"
@@ -30727,7 +30697,7 @@ title_reading = "ABYSSTOEDEN"
 artist = "トロワアンジュ「Re:ステージ！プリズムステップ」"
 date = "2026-02-19"
 image = "d2021029ede79d72.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Re:STAGE! PROJECT"
@@ -30757,7 +30727,7 @@ title_reading = "NOROCKNOLIFE"
 artist = "曲：下野 隼／歌：結城 莉玖(CV：朝日奈 丸佳)、坂東 美久龍(CV：山田 奈都美)"
 date = "2026-02-19"
 image = "5b4d665ecec62102.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Re:STAGE! PROJECT"
@@ -30779,6 +30749,125 @@ master = "14"
 [songs.character]
 id = "1050"
 name = "結城 莉玖"
+
+[[songs]]
+id = "664700"
+title = "THE CELESTIA 180"
+title_reading = "THECELESTIA180"
+artist = "Sobrem / Sound piercer “Espitz” Gt.NeLiME"
+date = "2026-03-05"
+image = "4f54a4cba1a078e8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "6"
+advanced = "11+"
+expert = "14"
+master = "15"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
+
+[[songs]]
+id = "165200"
+title = "無敵的ハピネス！(SOS団5人Ver.)"
+title_reading = "ムテキテキハヒネスSOSタン5ニンVER"
+artist = "涼宮ハルヒ(CV.平野綾),長門有希(CV.茅原実里),朝比奈みくる(CV.後藤邑子)、キョン(CV.杉田智和)、古泉一樹(CV.小野大輔)"
+date = "2026-03-05"
+image = "95e63afc61d6d68c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Nagaru Tanigawa, Noizi Ito/KADOKAWA"
+
+[songs.chapter]
+id = "99141"
+name = "涼宮ハルヒシリーズ"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "7073"
+name = "涼宮 ハルヒ"
+
+[[songs]]
+id = "165300"
+title = "Chasing destiny"
+title_reading = "CHASINGDESTINY"
+artist = "涼宮ハルヒ(CV.平野綾)"
+date = "2026-03-05"
+image = "be14669e611d601b.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Nagaru Tanigawa, Noizi Ito/KADOKAWA"
+
+[songs.chapter]
+id = "99141"
+name = "涼宮ハルヒシリーズ"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "14"
+
+[songs.character]
+id = "7074"
+name = "長門 有希"
+
+[[songs]]
+id = "165400"
+title = "Colorful Starting Line"
+title_reading = "COLORFULSTARTINGLINE"
+artist = "涼宮ハルヒ(CV.平野綾)"
+date = "2026-03-05"
+image = "3d9f1561b0d46800.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Nagaru Tanigawa, Noizi Ito/KADOKAWA"
+
+[songs.chapter]
+id = "99141"
+name = "涼宮ハルヒシリーズ"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10+"
+master = "12+"
+
+[songs.character]
+id = "7075"
+name = "朝比奈 みくる"
 
 [[categories]]
 id = "06"
