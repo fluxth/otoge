@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1645
-last_updated = "2026-03-05T03:46:09.724069090Z"
+count = 1648
+last_updated = "2026-03-19T03:51:21.362591696Z"
 
 [[songs]]
 id = "2945"
@@ -9,7 +9,7 @@ title_reading = "ムテキテキハヒネスSOSタン5ニンVER"
 artist = "涼宮ハルヒ(CV.平野綾),長門有希(CV.茅原実里),朝比奈みくる(CV.後藤邑子)、キョン(CV.杉田智和)、古泉一樹(CV.小野大輔)"
 image = "786329418aa00b1b.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "CHASINGDESTINY"
 artist = "涼宮ハルヒ(CV.平野綾)"
 image = "50e6714eb0b9d1f7.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -39,7 +39,7 @@ title_reading = "COLORFULSTARTINGLINE"
 artist = "涼宮ハルヒ(CV.平野綾)"
 image = "841a31d8f231cb51.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -14106,7 +14106,7 @@ title_reading = "FUTUREREFRAIN"
 artist = "萩原 七々瀬(CV:東城 日沙子)"
 image = "45e3a32332609caf.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -17274,7 +17274,7 @@ title_reading = "THETRIANGLE"
 artist = "Yuta Imai"
 image = "773b590c9a43452c.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -17529,7 +17529,7 @@ title_reading = "DOMINUSGRAIL"
 artist = "xi"
 image = "351f97f8eb271e94.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"
@@ -17544,7 +17544,7 @@ title_reading = "VERSEX"
 artist = "Yu_Asahina"
 image = "994c8312e7285a1e.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "6"
@@ -23831,6 +23831,51 @@ basic = "5"
 advanced = "10"
 expert = "14"
 master = "15+"
+
+[[songs]]
+id = "2951"
+title = "パステル・シタイ！"
+title_reading = "ハステルシタイ"
+artist = "もちうつね feat.桃寝ちのい"
+image = "74c743afe44f45d5.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2952"
+title = "彩祭ワンダーワン！"
+title_reading = "サイサイワンタウワン"
+artist = "Ponchi♪ feat.はぁち"
+image = "39631322c7453d61.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "14"
+
+[[songs]]
+id = "2953"
+title = "Fly Better!"
+title_reading = "FLYBETTER"
+artist = "ShiBa × U-Ruri"
+image = "2ccb91f3bb3d9356.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "13+"
 
 [[songs]]
 id = "8318"

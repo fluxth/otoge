@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1058
-last_updated = "2026-03-05T03:46:09.947575262Z"
+count = 1061
+last_updated = "2026-03-19T03:51:21.452289514Z"
 
 [[songs]]
 id = "582300"
@@ -30757,7 +30757,7 @@ title_reading = "THECELESTIA180"
 artist = "Sobrem / Sound piercer “Espitz” Gt.NeLiME"
 date = "2026-03-05"
 image = "4f54a4cba1a078e8.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -30786,7 +30786,7 @@ title_reading = "ムテキテキハヒネスSOSタン5ニンVER"
 artist = "涼宮ハルヒ(CV.平野綾),長門有希(CV.茅原実里),朝比奈みくる(CV.後藤邑子)、キョン(CV.杉田智和)、古泉一樹(CV.小野大輔)"
 date = "2026-03-05"
 image = "95e63afc61d6d68c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Nagaru Tanigawa, Noizi Ito/KADOKAWA"
@@ -30816,7 +30816,7 @@ title_reading = "CHASINGDESTINY"
 artist = "涼宮ハルヒ(CV.平野綾)"
 date = "2026-03-05"
 image = "be14669e611d601b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Nagaru Tanigawa, Noizi Ito/KADOKAWA"
@@ -30846,7 +30846,7 @@ title_reading = "COLORFULSTARTINGLINE"
 artist = "涼宮ハルヒ(CV.平野綾)"
 date = "2026-03-05"
 image = "3d9f1561b0d46800.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Nagaru Tanigawa, Noizi Ito/KADOKAWA"
@@ -30868,6 +30868,102 @@ master = "12+"
 [songs.character]
 id = "7075"
 name = "朝比奈 みくる"
+
+[[songs]]
+id = "272500"
+title = "モニタリング"
+title_reading = "モニタリンク"
+artist = "DECO*27"
+date = "2026-03-19"
+image = "70f97ce7e615e765.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = """
+© DECO*27 / © OTOIRO\r
+© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"""
+
+[songs.chapter]
+id = "99142"
+name = "デコミク"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[songs.character]
+id = "7079"
+name = "デコミク(ダークネス)"
+
+[[songs]]
+id = "272600"
+title = "テレパシ"
+title_reading = "テレハシ"
+artist = "DECO*27"
+date = "2026-03-19"
+image = "cc4443e3ccdb2887.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = """
+© DECO*27 / © OTOIRO\r
+© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"""
+
+[songs.chapter]
+id = "99142"
+name = "デコミク"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "10+"
+master = "13+"
+
+[songs.character]
+id = "7078"
+name = "デコミク(ライトネス)"
+
+[[songs]]
+id = "272700"
+title = "ラビットホール"
+title_reading = "ラヒトホル"
+artist = "DECO*27"
+date = "2026-03-19"
+image = "d002345fa24580e3.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = """
+© DECO*27 / © OTOIRO\r
+© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"""
+
+[songs.chapter]
+id = "99142"
+name = "デコミク"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[songs.character]
+id = "7079"
+name = "デコミク(ダークネス)"
 
 [[categories]]
 id = "06"
