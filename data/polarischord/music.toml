@@ -1,6 +1,6 @@
 name = "polarischord"
 count = 379
-last_updated = "2026-02-25T03:47:41.617096213Z"
+last_updated = "2026-03-23T03:52:44.713560903Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -94,7 +94,7 @@ license = "Licensed by Aoi ch."
 easy = 3
 normal = 6
 hard = 9
-influence = 11
+influence = 12
 
 [[songs.categories]]
 bitflag = 1
@@ -457,7 +457,7 @@ license = "Licensed by COOL&CREATE"
 easy = 2
 normal = 5
 hard = 10
-influence = 11
+influence = 12
 
 [[songs.categories]]
 bitflag = 1
@@ -1318,7 +1318,7 @@ license = "Licensed by 非可逆リズム(モリモリあつし)"
 [songs.levels]
 easy = 4
 normal = 8
-hard = 10
+hard = 11
 influence = 13
 
 [[songs.categories]]
@@ -1672,7 +1672,7 @@ license = "Ⓒ DECO*27 Ⓒ OTOIRO"
 [songs.levels]
 easy = 4
 normal = 7
-hard = 10
+hard = 11
 influence = 12
 
 [[songs.categories]]
@@ -1994,7 +1994,7 @@ license = "Licensed by MAGES.Inc."
 easy = 2
 normal = 5
 hard = 8
-influence = 10
+influence = 11
 
 [[songs.categories]]
 bitflag = 3
@@ -4829,7 +4829,7 @@ license = "Licensed by Zekk"
 easy = 2
 normal = 5
 hard = 9
-influence = 11
+influence = 12
 
 [[songs.categories]]
 bitflag = 5
@@ -5589,7 +5589,7 @@ artist = "kuro"
 easy = 2
 normal = 5
 hard = 8
-influence = 11
+influence = 12
 
 [[songs.categories]]
 bitflag = 6
@@ -6144,7 +6144,7 @@ artist = "かゆき"
 easy = 4
 normal = 8
 hard = 12
-influence = 13
+influence = 14
 
 [[songs.categories]]
 bitflag = 6
@@ -6176,7 +6176,7 @@ artist = "少年ラジオ"
 easy = 4
 normal = 8
 hard = 12
-influence = 13
+influence = 14
 
 [[songs.categories]]
 bitflag = 6
@@ -6419,7 +6419,7 @@ artist = "kamome sano"
 [songs.levels]
 easy = 3
 normal = 7
-hard = 11
+hard = 12
 influence = 13
 
 [[songs.categories]]
