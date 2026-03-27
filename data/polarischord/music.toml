@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 379
-last_updated = "2026-03-23T03:52:44.713560903Z"
+count = 388
+last_updated = "2026-03-27T03:56:14.593940305Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6453,6 +6453,153 @@ easy = 2
 normal = 5
 hard = 7
 influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "609970ef44db1e3ba5e1cc035bac431f"
+title = "ダーリンダンス"
+artist = "かいりきベア"
+license = "Licensed by かいりきベア,のう"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "6306f44cfa8b06280172f3578c3067ba"
+title = "ボッカデラベリタ"
+artist = "柊キライ"
+license = "Licensed by 柊キライ, Licensed by WOOMA"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "4837c9692d8f00635dc545db7ba1aea8"
+title = "未完成讃歌"
+artist = "しゃいと feat. 初音ミク"
+license = "Licensed by しゃいと"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "6fc01dcf71a43feb802292fd85203f1e"
+title = "Dream Re:CHORD"
+artist = "よみぃ"
+
+[songs.levels]
+easy = 3
+normal = 8
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "c1d71f19e84e937cbe5f54f3e7f2d446"
+title = "RUINA"
+artist = "Dustup VS MAX MAXIMIZER"
+
+[songs.levels]
+easy = 3
+normal = 8
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "bc6465f69f1c5dc496dd1c73d59543d9"
+title = "No Rule Adventure"
+artist = "nora2r"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 11
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "94888c13a4e3db727d0c7abc07f03a77"
+title = "Remember ～ 彼方から ～"
+artist = '達見 恵 featured by BEMANI Sound Team "S-C-U"'
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "f3c2e94e422c8b84c967c9bcf45c6dba"
+title = "Little Rock Overture"
+artist = "惑星計画"
+
+[songs.levels]
+easy = 2
+normal = 4
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "046f62a12fa82253903e89b984c518d5"
+title = "unipolar♡heart"
+artist = "KE!JU＆TAN1CHU＆めめめ"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 10
+influence = 12
 
 [[songs.categories]]
 bitflag = 6
