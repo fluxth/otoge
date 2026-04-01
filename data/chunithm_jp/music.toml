@@ -1,6 +1,21 @@
 name = "chunithm_jp"
-count = 1648
-last_updated = "2026-03-19T03:51:21.362591696Z"
+count = 1668
+last_updated = "2026-04-01T04:01:38.537119748Z"
+
+[[songs]]
+id = "2958"
+title = "僕達のギャグマンガ日和"
+title_reading = "ホクタチノキヤクマンカヒヨリ"
+artist = "うえだゆうじ"
+image = "9005b60621dcc779.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10+"
+master = "13+"
 
 [[songs]]
 id = "2945"
@@ -2176,6 +2191,36 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "15"
+
+[[songs]]
+id = "2956"
+title = "ウルトラトレーラー"
+title_reading = "ウルトラトレウラウ"
+artist = "マサラダ"
+image = "65007fbd8e46057f.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "13+"
+
+[[songs]]
+id = "2957"
+title = "ふぁんぶる！"
+title_reading = "フアンフル"
+artist = "藤原ハガネ"
+image = "4db514baa6eac479.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "11"
+master = "14"
 
 [[songs]]
 id = "2943"
@@ -11689,6 +11734,7 @@ basic = "3"
 advanced = "7"
 expert = "10"
 master = "14"
+ultima = "15"
 
 [[songs]]
 id = "319"
@@ -12082,6 +12128,7 @@ basic = "4"
 advanced = "7"
 expert = "10+"
 master = "14"
+ultima = "15"
 
 [[songs]]
 id = "679"
@@ -23839,7 +23886,7 @@ title_reading = "ハステルシタイ"
 artist = "もちうつね feat.桃寝ちのい"
 image = "74c743afe44f45d5.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -23854,7 +23901,7 @@ title_reading = "サイサイワンタウワン"
 artist = "Ponchi♪ feat.はぁち"
 image = "39631322c7453d61.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -23869,13 +23916,80 @@ title_reading = "FLYBETTER"
 artist = "ShiBa × U-Ruri"
 image = "2ccb91f3bb3d9356.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
 advanced = "6"
 expert = "9+"
 master = "13+"
+
+[[songs]]
+id = "2954"
+title = "Phantom Crisis"
+title_reading = "PHANTOMCRISIS"
+artist = "t+pazolite vs Yuta Imai"
+image = "691d65ce2e1e4129.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.levels]
+basic = "6"
+advanced = "11+"
+expert = "14"
+master = "15+"
+
+[[songs]]
+id = "8321"
+title = "九龍メタルゾネス"
+title_reading = "クウロンメタルソネス"
+artist = "桔梗 小夜曲(CV:原田 彩楓)"
+image = "8bdf60548f88a503.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "7"
+
+[[songs]]
+id = "8322"
+title = "イガク"
+title_reading = "イカク"
+artist = "原口沙輔 feat.重音テト"
+image = "d7c1f9ad9b27714a.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "光"
+star = "3"
+
+[[songs]]
+id = "8323"
+title = "Nyan Cat"
+title_reading = "NYANCAT"
+artist = "daniwellP feat. 桃音モモ"
+image = "7c61807e6c1cf0b3.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "歌"
+star = "3"
+
+[[songs]]
+id = "8324"
+title = "Kaleidoscope"
+title_reading = "KALEIDOSCOPE"
+artist = "Lycoris in the parterre"
+image = "f7b2061df398527a.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.worlds_end]
+kanji = "狂"
+star = "5"
 
 [[songs]]
 id = "8318"
@@ -24112,6 +24226,19 @@ kanji = "蔵"
 star = "7"
 
 [[songs]]
+id = "8302"
+title = "猫祭り"
+title_reading = "ネコマツリ"
+artist = "箱部 なる(CV:M・A・O)"
+image = "cdc8363af404f134.jpg"
+category = "イロドリミドリ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "3"
+
+[[songs]]
 id = "8295"
 title = "カオスが極まる"
 title_reading = "カオスカキワマル"
@@ -24281,6 +24408,32 @@ kanji = "改"
 star = "5"
 
 [[songs]]
+id = "8273"
+title = "【ゆっくり実況】ゆっくりペンギンが怒槌をやってみた！ Part1"
+title_reading = "ユツクリシツキヨウユツクリヘンキンカイカスチヲヤツテミタPART1"
+artist = "ゲキ！チュウマイ公式ちゃんねる"
+image = "bcd2cd5ff570e8bb.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "7"
+
+[[songs]]
+id = "8274"
+title = "ラストバトル ～サシュウとの戦い～"
+title_reading = "ラストハトルサシユウトノタタカイ"
+artist = "「IRODORIMIDORI FANTASY VII ～悠久のマイガハラント～」より"
+image = "2231e11bbb845c19.jpg"
+category = "イロドリミドリ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "5"
+
+[[songs]]
 id = "8275"
 title = "シル・ヴ・プレジデント"
 title_reading = "シルウフレシテント"
@@ -24372,6 +24525,32 @@ kanji = "跳"
 star = "5"
 
 [[songs]]
+id = "8260"
+title = "4月1日でございました"
+title_reading = "4カツ1タチテコサイマシタ"
+artist = "Cranky"
+image = "cb494e0e94ede82c.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "5"
+
+[[songs]]
+id = "8259"
+title = "【3Dサウンド】小夜ちゃんが秘密裏に手に入れたヤベエ機材でヤベエ音を録る話【イヤホン推奨】（EDテーマ：A.S.S.S.M.R.）"
+title_reading = "3DサウントサヨチヤンカヒミツリニテニイレタヤヘエキサイテヤヘエオトヲトルハナシイヤホンスイシヨウEDテウマASSSMR"
+artist = "桔梗 小夜曲(CV:原田 彩楓)"
+image = "7c2112df4bfbf10f.jpg"
+category = "イロドリミドリ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "5"
+
+[[songs]]
 id = "8252"
 title = "まっすぐ→→→ストリーム！"
 title_reading = "マツスクストリウム"
@@ -24424,6 +24603,19 @@ kanji = "狂"
 star = "7"
 
 [[songs]]
+id = "8206"
+title = "恋はりんりん☆あーりんベル"
+title_reading = "コイハリンリンアウリンヘル"
+artist = "御形 アリシアナ(CV:福原 綾香)"
+image = "fa7f503d763cbf2e.jpg"
+category = "イロドリミドリ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "5"
+
+[[songs]]
 id = "8198"
 title = "巫女みこナース・愛のテーマ"
 title_reading = "ミコミコナウスアイノテウマ"
@@ -24448,6 +24640,32 @@ is_new = false
 [songs.worlds_end]
 kanji = "割"
 star = "3"
+
+[[songs]]
+id = "8180"
+title = "【3Dサウンド】小野ちゃんが真夏のビーチでスイカを叩き割る話【イヤホン推奨】"
+title_reading = "3Dサウントオノチヤンカマナツノヒウチテスイカヲタタキワルハナシイヤホンスイシヨウ"
+artist = "HaNaMiNa"
+image = "fa6efefb66c38dd2.jpg"
+category = "イロドリミドリ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "1"
+
+[[songs]]
+id = "8181"
+title = "conflict(斉唱)"
+title_reading = "CONFLICTセイシヨウ"
+artist = "イロドリミドリ"
+image = "e69344eb5159304d.jpg"
+category = "イロドリミドリ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "5"
 
 [[songs]]
 id = "8168"
@@ -24487,6 +24705,19 @@ is_new = false
 [songs.worlds_end]
 kanji = "！"
 star = "7"
+
+[[songs]]
+id = "8146"
+title = "なるがちゃんなぎにいよいよえれー目にあわされる話"
+title_reading = "ナルカチヤンナキニイヨイヨエレウメニアワサレルハナシ"
+artist = "イロドリミドリ"
+image = "56f3a98028b88321.jpg"
+category = "イロドリミドリ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "5"
 
 [[songs]]
 id = "8129"
@@ -24554,6 +24785,19 @@ kanji = "布"
 star = "5"
 
 [[songs]]
+id = "8116"
+title = "イロドリミドリ杯花映塚全一決定戦公式テーマソング『ウソテイ』"
+title_reading = "イロトリミトリハイカエイツカセンイチケツテイセンコウシキテウマソンクウソテイ"
+artist = "イロドリミドリ"
+image = "43bd6cbc31e4c02c.jpg"
+category = "イロドリミドリ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "7"
+
+[[songs]]
 id = "8110"
 title = "AMAZING MIGHTYYYY!!!!"
 title_reading = "AMAZINGMIGHTYYYY"
@@ -24591,6 +24835,19 @@ is_new = false
 [songs.worlds_end]
 kanji = "時"
 star = "1"
+
+[[songs]]
+id = "8078"
+title = "あねぺったん"
+title_reading = "アネヘツタン"
+artist = "月鈴姉妹(イロドリミドリ)"
+image = "a6889b8a729210be.jpg"
+category = "イロドリミドリ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "7"
 
 [[songs]]
 id = "8091"
@@ -24669,6 +24926,19 @@ is_new = false
 [songs.worlds_end]
 kanji = "戻"
 star = "7"
+
+[[songs]]
+id = "8025"
+title = "Help me, あーりん！"
+title_reading = "HELPMEアウリン"
+artist = "イロドリミドリ"
+image = "c1ff8df1757fedf4.jpg"
+category = "イロドリミドリ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "嘘"
+star = "5"
 
 [[songs]]
 id = "8024"

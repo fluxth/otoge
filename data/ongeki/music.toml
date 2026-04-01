@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1061
-last_updated = "2026-03-19T03:51:21.452289514Z"
+count = 1063
+last_updated = "2026-04-01T04:01:38.491296469Z"
 
 [[songs]]
 id = "582300"
@@ -30876,7 +30876,7 @@ title_reading = "モニタリンク"
 artist = "DECO*27"
 date = "2026-03-19"
 image = "70f97ce7e615e765.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -30908,7 +30908,7 @@ title_reading = "テレハシ"
 artist = "DECO*27"
 date = "2026-03-19"
 image = "cc4443e3ccdb2887.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -30940,7 +30940,7 @@ title_reading = "ラヒトホル"
 artist = "DECO*27"
 date = "2026-03-19"
 image = "d002345fa24580e3.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -30964,6 +30964,64 @@ master = "13+"
 [songs.character]
 id = "7079"
 name = "デコミク(ダークネス)"
+
+[[songs]]
+id = "272400"
+title = "テトリス"
+title_reading = "テトリス"
+artist = "柊マグネタイト"
+date = "2026-04-01"
+image = "88b1378da67132af.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = """
+©柊マグネタイト　©瀬奈悠太  ©DWANGO Co., Ltd.\r
+© 線/小山乃舞世/[TWINDRILLロゴ]"""
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "02"
+name = "niconico"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "1090"
+name = "井之原 小星"
+
+[[songs]]
+id = "945300"
+title = "時空を超えて久しぶり！"
+title_reading = "シクウヲコエテヒサシフリ"
+artist = "アルル(CV 園崎未恵)「ぷよぷよ」"
+date = "2026-04-01"
+image = "1945076320b6f2b3.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+
+[songs.chapter]
+id = "99143"
+name = "ぷよぷよ"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+lunatic = "0"
+
+[songs.character]
+id = "7081"
+name = "アルル"
 
 [[categories]]
 id = "06"
