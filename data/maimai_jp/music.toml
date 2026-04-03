@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1522
-last_updated = "2026-04-01T04:01:38.464928353Z"
+count = 1527
+last_updated = "2026-04-03T03:54:18.568570734Z"
 
 [[songs]]
 id = "1125"
@@ -7125,7 +7125,8 @@ artist = "ぱなまん/カラスヤサボウ"
 image = "9dfd23eb9143196f.png"
 category = "niconico＆ボーカロイド"
 version = "18502"
-is_new = false
+release = "2026-04-03"
+is_new = true
 is_locked = false
 
 [songs.levels]
@@ -7133,6 +7134,12 @@ basic = "5"
 advanced = "7"
 expert = "11+"
 master = "13"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "13+"
 
 [[songs]]
 id = "858"
@@ -24735,6 +24742,24 @@ expert = "12"
 master = "14"
 
 [[songs]]
+id = "982"
+title = "Break The Speakers"
+title_reading = "BREAKTHESPEAKERS"
+artist = "DJ Myosuke"
+image = "cd7cdd7115f1ff5f.png"
+category = "maimai"
+version = "26502"
+release = "2026-04-03"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8+"
+expert = "12+"
+master = "14+"
+
+[[songs]]
 id = "1368"
 title = "TECHNOPOLIS 2085"
 title_reading = "TECHNOPOLIS2085"
@@ -24779,7 +24804,7 @@ image = "45003096bc3cb9f8.png"
 category = "オンゲキ＆CHUNITHM"
 version = "26501"
 release = "2026-04-01"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25005,6 +25030,78 @@ is_locked = false
 basic = "5"
 advanced = "8"
 expert = "12"
+master = "14"
+
+[[songs]]
+id = "680"
+title = "奇々解体"
+title_reading = "キキカイタイ"
+artist = "MURASAKI feat.かたたかんな"
+image = "4ac68a88fe9a4259.png"
+category = "ゲーム＆バラエティ"
+version = "26501"
+release = "2026-04-03"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "120"
+title = "雑魚"
+title_reading = "サコ"
+artist = "柊マグネタイト"
+image = "e6f92fc3b0d0e053.png"
+category = "niconico＆ボーカロイド"
+version = "26502"
+release = "2026-04-03"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "119"
+title = "お返事まだカナ？おじさん構文！"
+title_reading = "オヘンシマタカナオシサンコウフン"
+artist = "吉本おじさん"
+image = "2f80772d2f249183.png"
+category = "niconico＆ボーカロイド"
+version = "26502"
+release = "2026-04-03"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "688"
+title = "ZEUS"
+title_reading = "ZEUS"
+artist = "DÉ DÉ MOUSE & KAJI"
+image = "1b7f907d0295f73b.png"
+category = "ゲーム＆バラエティ"
+version = "26502"
+release = "2026-04-03"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "12+"
 master = "14"
 
 [[songs]]
