@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1063
-last_updated = "2026-04-01T04:01:38.491296469Z"
+count = 1069
+last_updated = "2026-04-09T03:55:08.427673309Z"
 
 [[songs]]
 id = "582300"
@@ -30972,7 +30972,7 @@ title_reading = "テトリス"
 artist = "柊マグネタイト"
 date = "2026-04-01"
 image = "88b1378da67132af.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -31004,7 +31004,7 @@ title_reading = "シクウヲコエテヒサシフリ"
 artist = "アルル(CV 園崎未恵)「ぷよぷよ」"
 date = "2026-04-01"
 image = "1945076320b6f2b3.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 
@@ -31022,6 +31022,180 @@ lunatic = "0"
 [songs.character]
 id = "7081"
 name = "アルル"
+
+[[songs]]
+id = "478000"
+title = "Odysseus"
+title_reading = "ODYSSEUS"
+artist = "XeoN"
+date = "2026-04-09"
+image = "5d3b3b579a91b282.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99144"
+name = "DJMAX【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "6"
+advanced = "10+"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "6625"
+name = "エル・クレア"
+
+[[songs]]
+id = "478100"
+title = "Hypernaid"
+title_reading = "HYPERNAID"
+artist = "KATOMORI"
+date = "2026-04-09"
+image = "86a5abf55fb333c1.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99144"
+name = "DJMAX【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "6625"
+name = "エル・クレア"
+
+[[songs]]
+id = "478200"
+title = "Memory of Beach"
+title_reading = "MEMORYOFBEACH"
+artist = "M2U"
+date = "2026-04-09"
+image = "951d41218aa7086c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99144"
+name = "DJMAX【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "13+"
+
+[songs.character]
+id = "6625"
+name = "エル・クレア"
+
+[[songs]]
+id = "478300"
+title = "End of the Moonlight"
+title_reading = "ENDOFTHEMOONLIGHT"
+artist = "Forte Escape"
+date = "2026-04-09"
+image = "f34eca77cb4421e7.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99144"
+name = "DJMAX【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "6625"
+name = "エル・クレア"
+
+[[songs]]
+id = "945100"
+title = "Odysseus"
+title_reading = "ODYSSEUS"
+artist = "XeoN"
+date = "2026-04-09"
+image = "1a38ce6ca555cb17.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99144"
+name = "DJMAX【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+lunatic = "0"
+
+[songs.character]
+id = "6625"
+name = "エル・クレア"
+
+[[songs]]
+id = "945200"
+title = "Hypernaid"
+title_reading = "HYPERNAID"
+artist = "KATOMORI"
+date = "2026-04-09"
+image = "f5618dc0781b497d.png"
+is_new = true
+is_lunatic = true
+is_bonus_track = false
+copyright = "©Neowiz. All Rights Reserved."
+
+[songs.chapter]
+id = "99144"
+name = "DJMAX【第2弾】"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+lunatic = "0"
+
+[songs.character]
+id = "6625"
+name = "エル・クレア"
 
 [[categories]]
 id = "06"
