@@ -1,6 +1,6 @@
 name = "chunithm_intl"
-count = 1429
-last_updated = "2025-11-20T03:20:42.100194578Z"
+count = 1489
+last_updated = "2026-04-16T04:02:20.622560392Z"
 
 [[songs]]
 id = "2819"
@@ -9,7 +9,7 @@ title_reading = "TAIDADA"
 artist = "ずっと真夜中でいいのに。"
 image = "86a52dcd3a3c1190.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -24,7 +24,7 @@ title_reading = "モエチヤツカフアイア"
 artist = "弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」"
 image = "4995a362b07802c4.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -40,7 +40,7 @@ title_reading = "ハイヨロコンテ"
 artist = "こっちのけんと"
 image = "2d6724156acd1491.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -1454,13 +1454,73 @@ master = "14+"
 ultima = "15"
 
 [[songs]]
+id = "2839"
+title = "ブタサンダー"
+title_reading = "フタサンタウ"
+artist = "ゆこぴ"
+image = "261b96cc30398de6.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "8+"
+master = "13"
+
+[[songs]]
+id = "2840"
+title = "私の歯医者さん"
+title_reading = "ワタシノハイシヤサン"
+artist = "ゆこぴ"
+image = "99a5ef719e4a5b7e.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "8"
+master = "13"
+
+[[songs]]
+id = "2841"
+title = "少女A"
+title_reading = "シヨウシヨA"
+artist = "椎名もた"
+image = "99a5f5206ba8389c.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "14"
+
+[[songs]]
+id = "2842"
+title = "え？あぁ、そう。- 10th Anniversary Edition -"
+title_reading = "エアアソウ10THANNIVERSARYEDITION"
+artist = "蝶々P"
+image = "dc9accd551abab04.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "14"
+
+[[songs]]
 id = "2822"
 title = "ラヴィ"
 title_reading = "ラウイ"
 artist = "すりぃ"
 image = "cf64b226dc4e371d.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -1476,7 +1536,7 @@ title_reading = "テトリス"
 artist = "柊マグネタイト"
 image = "2638c4d5ec3a4936.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -1491,7 +1551,7 @@ title_reading = "モミアケヲシヤカアケヲ"
 artist = "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ"
 image = "4f191745bb2adf3b.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -5665,7 +5725,7 @@ title_reading = "サイシユウキチクイモウトフラントウルSCHROMARE
 artist = "ビートまりお × 黒魔"
 image = "c8f86fe539ef4f25.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9958,7 +10018,7 @@ title_reading = "REAOHARU"
 artist = "Nor「ブルーアーカイブ -Blue Archive-」"
 image = "4ea6b37f3e6d40e5.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -9973,7 +10033,7 @@ title_reading = "UNWELCOMESCHOOL"
 artist = "Mitsukiyo「ブルーアーカイブ -Blue Archive-」"
 image = "7c236c814e236d39.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -9989,7 +10049,7 @@ title_reading = "イロトリキヤンハス"
 artist = "Mitsukiyo「ブルーアーカイブ -Blue Archive-」"
 image = "2052bb12a465f286.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11409,7 +11469,7 @@ title_reading = "ニルウノシンソウ"
 artist = "TJ.hangneil + Atomic Sphere feat.Annabel"
 image = "e83b8caa89d6948e.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -12373,7 +12433,7 @@ title_reading = "タンイカナイ"
 artist = "五十嵐 撫子(CV:花井 美春)"
 image = "ca791e9bd762bc91.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -14161,7 +14221,7 @@ title_reading = "ENERGIZINGFLAME"
 artist = "Artifact vs. Dualcast"
 image = "bb1d32dafa47b4be.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -14176,7 +14236,7 @@ title_reading = "カシヨウキンカノシンフオニエツタ"
 artist = "山本真央樹"
 image = "afdd20950ed143a5.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -14483,6 +14543,21 @@ basic = "3"
 advanced = "6"
 expert = "11"
 master = "14"
+
+[[songs]]
+id = "2827"
+title = "Individual on parade!"
+title_reading = "INDIVIDUALONPARADE"
+artist = "曲：渡部チェル／歌：珠洲島 有栖(CV：長縄 まりあ)、皇城 セツナ(CV：八巻 アンナ)、柏木 咲姫(CV：石見 舞菜香)、日向 千夏(CV：岡咲 美保)、井之原 小星(CV：ももの はるな)"
+image = "92f2fa910ab26134.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
 
 [[songs]]
 id = "2235"
@@ -15571,7 +15646,7 @@ title_reading = "DAYDREAMA"
 artist = "HiTECH NINJA"
 image = "72229dd444b71cb3.jpg"
 category = "ゲキマイ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21422,7 +21497,7 @@ title_reading = "エモウシヨンキヤフチヤウ"
 artist = "藍月なくる"
 image = "3db8b98717501dfd.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21437,7 +21512,7 @@ title_reading = "FLAPCLAP"
 artist = "棗いつき"
 image = "ed7ce038c352361a.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21452,7 +21527,7 @@ title_reading = "LUMINOIDLOVEPART2"
 artist = "DÉ DÉ MOUSE"
 image = "fe9b367f73fee276.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21467,7 +21542,7 @@ title_reading = "KRONOS"
 artist = "Street"
 image = "2aafc2127e1f7be2.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21482,7 +21557,7 @@ title_reading = "TOXIC"
 artist = "Zekk"
 image = "e125b15c438a129a.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -21497,7 +21572,7 @@ title_reading = "ハラレルホライスンス"
 artist = "BilliumMoto"
 image = "2a1627220d9ae475.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -21512,13 +21587,728 @@ title_reading = "WINGNO6223"
 artist = "NAMV & Game-i"
 image = "355e4c4d48457c14.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
 advanced = "7"
 expert = "11"
 master = "14"
+
+[[songs]]
+id = "8306"
+title = "Invitation"
+title_reading = "INVITATION"
+artist = "れるりり feat.ろん"
+image = "64bd0ed0aaa44733.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "割"
+star = "5"
+
+[[songs]]
+id = "8314"
+title = "sølips"
+title_reading = "SOLIPS"
+artist = "rintaro soma"
+image = "fc9439b20d61ebf0.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "蔵"
+star = "9"
+
+[[songs]]
+id = "8307"
+title = "Kattobi KEIKYU Rider"
+title_reading = "KATTOBIKEIKYURIDER"
+artist = "Sampling Masters MEGA"
+image = "56db92840a938eea.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "翔"
+star = "5"
+
+[[songs]]
+id = "8300"
+title = "Blue Noise"
+title_reading = "BLUENOISE"
+artist = "from PACA PACA PASSION"
+image = "c63c789ece25b7ce.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "敷"
+star = "3"
+
+[[songs]]
+id = "8301"
+title = "Sunlight Starlight"
+title_reading = "SUNLIGHTSTARLIGHT"
+artist = "Palme"
+image = "28c669042470b64d.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "蔵"
+star = "7"
+
+[[songs]]
+id = "8295"
+title = "カオスが極まる"
+title_reading = "カオスカキワマル"
+artist = "UNISON SQUARE GARDEN「ブルーロック」"
+image = "893eaf6ba8e6f9d8.jpg"
+category = "POPS & ANIME"
+is_new = false
+
+[songs.worlds_end]
+kanji = "両"
+star = "1"
+
+[[songs]]
+id = "8296"
+title = "What's up? Pop!"
+title_reading = "WHATSUPPOP"
+artist = "Capchii"
+image = "b8625d505fd659d8.jpg"
+category = "niconico"
+is_new = false
+
+[songs.worlds_end]
+kanji = "招"
+star = "7"
+
+[[songs]]
+id = "8297"
+title = "おくすり飲んで寝よう"
+title_reading = "オクスリノンテネヨウ"
+artist = "もちうつね"
+image = "45aaf1e10094703f.jpg"
+category = "niconico"
+is_new = false
+
+[songs.worlds_end]
+kanji = "狂"
+star = "7"
+
+[[songs]]
+id = "8292"
+title = "ジングルベル"
+title_reading = "シンクルヘル"
+artist = "SEGA Sound Unit[H.]"
+image = "4dc56b2043c33fce.jpg"
+category = "POPS & ANIME"
+is_new = false
+
+[songs.worlds_end]
+kanji = "改"
+star = "5"
+
+[[songs]]
+id = "8293"
+title = "花と、雪と、ドラムンベース。"
+title_reading = "ハナトユキトトラムンヘウス"
+artist = "kanone feat. せんざい"
+image = "59c87fe70c1afc2a.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "撃"
+star = "7"
+
+[[songs]]
+id = "8294"
+title = "Ever green Never end"
+title_reading = "EVERGREENNEVEREND"
+artist = "月鈴 白奈(CV:高野 麻里佳)"
+image = "1398c296ce9d34f8.jpg"
+category = "イロドリミドリ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "翔"
+star = "3"
+
+[[songs]]
+id = "8289"
+title = "マツケンサンバⅡ"
+title_reading = "マツケンサンハII"
+artist = "松平健 [covered by 光吉猛修]"
+image = "7e34f6d00b69eeb7.jpg"
+category = "POPS & ANIME"
+is_new = false
+
+[songs.worlds_end]
+kanji = "狂"
+star = "3"
+
+[[songs]]
+id = "8290"
+title = "Reverberate"
+title_reading = "REVERBERATE"
+artist = "とろまる"
+image = "d4c443166eefb21f.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "半"
+star = "5"
+
+[[songs]]
+id = "8291"
+title = "分からない"
+title_reading = "ワカラナイ"
+artist = "ろん×黒魔"
+image = "01b15e5e8fb1fe46.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "？"
+star = "3"
+
+[[songs]]
+id = "8286"
+title = "異星にいこうね"
+title_reading = "イセイニイコウネ"
+artist = "いよわ　feat.星界"
+image = "18e494b75322ce94.jpg"
+category = "niconico"
+is_new = false
+
+[songs.worlds_end]
+kanji = "翔"
+star = "3"
+
+[[songs]]
+id = "8287"
+title = "《種子》 ～ Set You Free"
+title_reading = "シユシSETYOUFREE"
+artist = "Iris"
+image = "c07a6d16901fcb0b.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "翔"
+star = "5"
+
+[[songs]]
+id = "8288"
+title = "Elemental Creation"
+title_reading = "ELEMENTALCREATION"
+artist = "dj TAKA meets DJ YOSHITAKA"
+image = "dcb123094f6a1268.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "跳"
+star = "7"
+
+[[songs]]
+id = "8283"
+title = "強風オールバック"
+title_reading = "キヨウフウオウルハツク"
+artist = "ゆこぴ"
+image = "78290c2cb56f2192.jpg"
+category = "niconico"
+is_new = false
+
+[songs.worlds_end]
+kanji = "戻"
+star = "5"
+
+[[songs]]
+id = "8284"
+title = "強風オールバック"
+title_reading = "キヨウフウオウルハツク"
+artist = "ゆこぴ"
+image = "9e9101ae104e1391.jpg"
+category = "niconico"
+is_new = false
+
+[songs.worlds_end]
+kanji = "弾"
+star = "5"
+
+[[songs]]
+id = "8285"
+title = "強風オールバック"
+title_reading = "キヨウフウオウルハツク"
+artist = "ゆこぴ"
+image = "6d4d6af0f1f2320a.jpg"
+category = "niconico"
+is_new = false
+
+[songs.worlds_end]
+kanji = "避"
+star = "3"
+
+[[songs]]
+id = "8270"
+title = "セガサターン起動音[H.][Remix]"
+title_reading = "セカサタウンキトウオンHREMIX"
+artist = "Hiro"
+image = "0976666576bc8229.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "舞"
+star = "7"
+
+[[songs]]
+id = "8272"
+title = "ガチ恋ラビリンス"
+title_reading = "カチコイラヒリンス"
+artist = "森羅万象"
+image = "a1cc8ab3ed3db183.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "改"
+star = "5"
+
+[[songs]]
+id = "8275"
+title = "シル・ヴ・プレジデント"
+title_reading = "シルウフレシテント"
+artist = "P丸様。"
+image = "08387606c829a936.jpg"
+category = "POPS & ANIME"
+is_new = false
+
+[songs.worlds_end]
+kanji = "敷"
+star = "1"
+
+[[songs]]
+id = "8277"
+title = "レーイレーイ"
+title_reading = "レウイレウイ"
+artist = "かいりきベア feat.松下"
+image = "69c42af6e2583d45.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "？"
+star = "3"
+
+[[songs]]
+id = "8280"
+title = "人生攻略☆Tips"
+title_reading = "シンセイコウリヤクTIPS"
+artist = "れるりり feat.konoco"
+image = "0705dfb84b4fd162.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "割"
+star = "1"
+
+[[songs]]
+id = "8267"
+title = "ETERNAL DRAIN"
+title_reading = "ETERNALDRAIN"
+artist = "カラフル・サウンズ・ポート"
+image = "c3cdb935843332aa.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "狂"
+star = "5"
+
+[[songs]]
+id = "8268"
+title = "M.S.S.Planet"
+title_reading = "MSSPLANET"
+artist = "M.S.S Project"
+image = "3ee12e1b51a98dc8.jpg"
+category = "niconico"
+is_new = false
+
+[songs.worlds_end]
+kanji = "割"
+star = "5"
+
+[[songs]]
+id = "8264"
+title = "Revived"
+title_reading = "REVIVED"
+artist = "UNDEAD CORPORATION"
+image = "2acd1de47ca55700.jpg"
+category = "東方Project"
+is_new = false
+
+[songs.worlds_end]
+kanji = "狂"
+star = "5"
+
+[[songs]]
+id = "8265"
+title = "モア！ジャンプ！モア！"
+title_reading = "モアシヤンフモア"
+artist = "ナユタン星人 / 初音ミク / MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+image = "0c0be195d06c9f50.jpg"
+category = "niconico"
+is_new = false
+
+[songs.worlds_end]
+kanji = "跳"
+star = "5"
+
+[[songs]]
+id = "8263"
+title = "Aleph-0"
+title_reading = "ALEPH0"
+artist = "LeaF"
+image = "2883628d257bff33.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "避"
+star = "9"
+
+[[songs]]
+id = "8255"
+title = "ENDYMION"
+title_reading = "ENDYMION"
+artist = "fallen shepherd ft. RabbiTon Strings"
+image = "03f04dbd20a58eef.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "招"
+star = "7"
+
+[[songs]]
+id = "8252"
+title = "まっすぐ→→→ストリーム！"
+title_reading = "マツスクストリウム"
+artist = "曲：本多友紀（Arte Refact）／歌：日向 千夏(CV：岡咲 美保)"
+image = "b40184cfdb996450.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "狂"
+star = "3"
+
+[[songs]]
+id = "8238"
+title = "ラグトレイン"
+title_reading = "ラクトレイン"
+artist = "稲葉曇"
+image = "b19aa623ae70ce94.jpg"
+category = "niconico"
+is_new = false
+
+[songs.worlds_end]
+kanji = "両"
+star = "3"
+
+[[songs]]
+id = "8220"
+title = "Nijirate Fanatics"
+title_reading = "NIJIRATEFANATICS"
+artist = "yukitani"
+image = "333fa1697efd7090.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "？"
+star = "5"
+
+[[songs]]
+id = "8198"
+title = "巫女みこナース・愛のテーマ"
+title_reading = "ミコミコナウスアイノテウマ"
+artist = "Chu☆"
+image = "0ed9600714186c47.jpg"
+category = "POPS & ANIME"
+is_new = false
+
+[songs.worlds_end]
+kanji = "狂"
+star = "3"
+
+[[songs]]
+id = "8185"
+title = "ロキ"
+title_reading = "ロキ"
+artist = "みきとP"
+image = "c954f41a791b9413.jpg"
+category = "niconico"
+is_new = false
+
+[songs.worlds_end]
+kanji = "割"
+star = "3"
+
+[[songs]]
+id = "8168"
+title = "STARTLINER"
+title_reading = "STARTLINER"
+artist = "曲：kz(livetune)／歌：オンゲキシューターズ"
+image = "84827eba6a1948ce.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "避"
+star = "1"
+
+[[songs]]
+id = "8166"
+title = "folern"
+title_reading = "FOLERN"
+artist = "ぬゆり"
+image = "13740c400a4691f3.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "狂"
+star = "9"
+
+[[songs]]
+id = "8159"
+title = "コーチンズカップ・クラシック"
+title_reading = "コウチンスカツフクラシツク"
+artist = "POPHOLIC「龍が如く５　夢、叶えし者」"
+image = "a694a0323009a57c.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "！"
+star = "7"
+
+[[songs]]
+id = "8141"
+title = "End Time"
+title_reading = "ENDTIME"
+artist = "Cres."
+image = "70962f0832741994.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "狂"
+star = "9"
+
+[[songs]]
+id = "8135"
+title = "WARNING×WARNING×WARNING"
+title_reading = "WARNINGWARNINGWARNING"
+artist = "暁Records"
+image = "9da286791c7895d1.jpg"
+category = "東方Project"
+is_new = false
+
+[songs.worlds_end]
+kanji = "！"
+star = "7"
+
+[[songs]]
+id = "8129"
+title = "Starlight Disco"
+title_reading = "STARLIGHTDISCO"
+artist = "loos feat. Meramipop"
+image = "ddb5ec9926ce3482.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "舞"
+star = "5"
+
+[[songs]]
+id = "8124"
+title = "volcanic"
+title_reading = "VOLCANIC"
+artist = "DETRO a.k.a ルゼ"
+image = "92e52b733f8939cb.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "狂"
+star = "7"
+
+[[songs]]
+id = "8123"
+title = "GEMINI -M-"
+title_reading = "GEMINIM"
+artist = "Tatsh"
+image = "4b2a3508d39a43b6.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "舞"
+star = "7"
+
+[[songs]]
+id = "8121"
+title = "ウソラセラ"
+title_reading = "ウソラセラ"
+artist = "ピノキオピー"
+image = "a6d3cbf22648dedf.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "両"
+star = "9"
+
+[[songs]]
+id = "8110"
+title = "AMAZING MIGHTYYYY!!!!"
+title_reading = "AMAZINGMIGHTYYYY"
+artist = "WAiKURO"
+image = "8abd044a69fbdbce.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "戻"
+star = "7"
+
+[[songs]]
+id = "8098"
+title = "今ぞ♡崇め奉れ☆オマエらよ！！～姫の秘メタル渇望～"
+title_reading = "イマソアカメタテマツレオマエラヨヒメノヒメタルカツホウ"
+artist = "あべにゅうぷろじぇくと feat.佐倉 紗織　produced by ave;new"
+image = "96c9c984f310d558.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "狂"
+star = "7"
+
+[[songs]]
+id = "8084"
+title = "だんだん早くなる"
+title_reading = "タンタンハヤクナル"
+artist = "40mP"
+image = "82bee9dfce16e9fb.jpg"
+category = "niconico"
+is_new = false
+
+[songs.worlds_end]
+kanji = "時"
+star = "1"
+
+[[songs]]
+id = "8091"
+title = "Oshama Scramble! (Cranky Remix)"
+title_reading = "OSHAMASCRAMBLECRANKYREMIX"
+artist = "Cranky"
+image = "0d16cf138fd9ef7b.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "？"
+star = "5"
+
+[[songs]]
+id = "8053"
+title = "Oshama Scramble!"
+title_reading = "OSHAMASCRAMBLE"
+artist = "t+pazolite"
+image = "8ee8eeb30163588f.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "改"
+star = "5"
+
+[[songs]]
+id = "8049"
+title = "チルノのパーフェクトさんすう教室"
+title_reading = "チルノノハウフエクトサンスウキヨウシツ"
+artist = "ARM＋夕野ヨシミ (IOSYS) feat.miko"
+image = "664482b6c02bb903.jpg"
+category = "東方Project"
+is_new = false
+
+[songs.worlds_end]
+kanji = "避"
+star = "3"
+
+[[songs]]
+id = "8026"
+title = "FREEDOM DiVE"
+title_reading = "FREEDOMDIVE"
+artist = "xi"
+image = "5cc569f26459117b.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "狂"
+star = "9"
+
+[[songs]]
+id = "8020"
+title = "B.B.K.K.B.K.K."
+title_reading = "BBKKBKK"
+artist = "nora2r"
+image = "cbf397f330e040e5.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "戻"
+star = "7"
+
+[[songs]]
+id = "8024"
+title = "Garakuta Doll Play (sasakure.UK clutter remix)"
+title_reading = "GARAKUTADOLLPLAYSASAKUREUKCLUTTERREMIX"
+artist = "sasakure.UK"
+image = "971c362a9b65209e.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "改"
+star = "7"
+
+[[songs]]
+id = "8000"
+title = "幾四音-Ixion-"
+title_reading = "イクシオンIXION"
+artist = "M.S.S Project"
+image = "e4c034fc74ff62fc.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.worlds_end]
+kanji = "止"
+star = "1"
 
 [[categories]]
 slug = "pops_anime"

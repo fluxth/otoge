@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1668
-last_updated = "2026-04-01T04:01:38.537119748Z"
+count = 1672
+last_updated = "2026-04-16T04:02:20.347940967Z"
 
 [[songs]]
 id = "2958"
@@ -9,7 +9,7 @@ title_reading = "ホクタチノキヤクマンカヒヨリ"
 artist = "うえだゆうじ"
 image = "9005b60621dcc779.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2199,7 +2199,7 @@ title_reading = "ウルトラトレウラウ"
 artist = "マサラダ"
 image = "65007fbd8e46057f.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2214,7 +2214,7 @@ title_reading = "フアンフル"
 artist = "藤原ハガネ"
 image = "4db514baa6eac479.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10918,6 +10918,21 @@ expert = "13"
 master = "15"
 
 [[songs]]
+id = "2962"
+title = "バンバード ～Piano Version～"
+title_reading = "ハンハウトPIANOVERSION"
+artist = "mozell"
+image = "436affe2be8db137.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "11"
+master = "14"
+
+[[songs]]
 id = "2353"
 title = "幻想即興曲"
 title_reading = "ケンソウソツキヨウキヨクシヨハン"
@@ -11384,6 +11399,21 @@ expert = "11"
 master = "15"
 
 [[songs]]
+id = "2959"
+title = "無双の咆哮 Warcry Overload"
+title_reading = "ムソウノホウコウWARCRYOVERLOAD"
+artist = "永田泰之"
+image = "5e9b5e75bf05b27c.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "12"
+master = "14"
+
+[[songs]]
 id = "2816"
 title = "RE Aoharu"
 title_reading = "REAOHARU"
@@ -11443,6 +11473,36 @@ basic = "4"
 advanced = "8"
 expert = "13+"
 master = "15"
+
+[[songs]]
+id = "2960"
+title = "God only knows"
+title_reading = "GODONLYKNOWS"
+artist = "A-One"
+image = "0cb3382441cd8284.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "14"
+
+[[songs]]
+id = "2961"
+title = "New Starlight"
+title_reading = "NEWSTARLIGHT"
+artist = "DiGiTAL WiNG"
+image = "c8a1df3e97ad768f.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "901"
@@ -23946,7 +24006,7 @@ title_reading = "クウロンメタルソネス"
 artist = "桔梗 小夜曲(CV:原田 彩楓)"
 image = "8bdf60548f88a503.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "嘘"
@@ -23959,7 +24019,7 @@ title_reading = "イカク"
 artist = "原口沙輔 feat.重音テト"
 image = "d7c1f9ad9b27714a.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "光"
@@ -23972,7 +24032,7 @@ title_reading = "NYANCAT"
 artist = "daniwellP feat. 桃音モモ"
 image = "7c61807e6c1cf0b3.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "歌"
@@ -23985,7 +24045,7 @@ title_reading = "KALEIDOSCOPE"
 artist = "Lycoris in the parterre"
 image = "f7b2061df398527a.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "狂"
