@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1527
-last_updated = "2026-04-03T03:54:18.568570734Z"
+count = 1530
+last_updated = "2026-04-17T04:01:14.993956409Z"
 
 [[songs]]
 id = "1125"
@@ -7125,8 +7125,7 @@ artist = "ぱなまん/カラスヤサボウ"
 image = "9dfd23eb9143196f.png"
 category = "niconico＆ボーカロイド"
 version = "18502"
-release = "2026-04-03"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -24750,7 +24749,7 @@ image = "cd7cdd7115f1ff5f.png"
 category = "maimai"
 version = "26502"
 release = "2026-04-03"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -25040,8 +25039,8 @@ artist = "MURASAKI feat.かたたかんな"
 image = "4ac68a88fe9a4259.png"
 category = "ゲーム＆バラエティ"
 version = "26501"
-release = "2026-04-03"
-is_new = true
+release = "2026-04-01"
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25059,7 +25058,7 @@ image = "e6f92fc3b0d0e053.png"
 category = "niconico＆ボーカロイド"
 version = "26502"
 release = "2026-04-03"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25077,7 +25076,7 @@ image = "2f80772d2f249183.png"
 category = "niconico＆ボーカロイド"
 version = "26502"
 release = "2026-04-03"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25095,7 +25094,7 @@ image = "1b7f907d0295f73b.png"
 category = "ゲーム＆バラエティ"
 version = "26502"
 release = "2026-04-03"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25103,6 +25102,60 @@ basic = "5"
 advanced = "8"
 expert = "12+"
 master = "14"
+
+[[songs]]
+id = "685"
+title = "Nine Point Eight"
+title_reading = "NINEPOINTEIGHT"
+artist = "Mili"
+image = "061d072f922e7c9d.png"
+category = "ゲーム＆バラエティ"
+version = "26503"
+release = "2026-04-17"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "686"
+title = "Myosotis"
+title_reading = "MYOSOTIS"
+artist = "M2U / Arranger : M2U & NICODE / Vocal : Guriri & Lucy"
+image = "1b056d860e5c2f6e.png"
+category = "ゲーム＆バラエティ"
+version = "26503"
+release = "2026-04-17"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8+"
+expert = "12"
+master = "14"
+
+[[songs]]
+id = "687"
+title = "ANiMA"
+title_reading = "ANIMA"
+artist = "xi"
+image = "d51e7f189023c7e0.png"
+category = "ゲーム＆バラエティ"
+version = "26503"
+release = "2026-04-17"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "12+"
+master = "14+"
 
 [[songs]]
 id = "1594"
