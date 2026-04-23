@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1672
-last_updated = "2026-04-16T04:02:20.347940967Z"
+count = 1675
+last_updated = "2026-04-23T04:01:51.110060810Z"
 
 [[songs]]
 id = "2958"
@@ -10924,7 +10924,7 @@ title_reading = "ハンハウトPIANOVERSION"
 artist = "mozell"
 image = "436affe2be8db137.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -11405,7 +11405,7 @@ title_reading = "ムソウノホウコウWARCRYOVERLOAD"
 artist = "永田泰之"
 image = "5e9b5e75bf05b27c.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11481,7 +11481,7 @@ title_reading = "GODONLYKNOWS"
 artist = "A-One"
 image = "0cb3382441cd8284.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -11496,7 +11496,7 @@ title_reading = "NEWSTARLIGHT"
 artist = "DiGiTAL WiNG"
 image = "c8a1df3e97ad768f.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -23998,6 +23998,51 @@ basic = "6"
 advanced = "11+"
 expert = "14"
 master = "15+"
+
+[[songs]]
+id = "2963"
+title = "Beenden"
+title_reading = "BEENDEN"
+artist = "隣の庭は青い(庭師+Aoi)"
+image = "e90fc35b817a7a27.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "13+"
+master = "15"
+
+[[songs]]
+id = "2964"
+title = "EFX"
+title_reading = "EFX"
+artist = "Avans"
+image = "66b1fadb306c805e.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "2965"
+title = "薄明のクオリア"
+title_reading = "ハクメイノクオリア"
+artist = "polysha feat. 高城みよ"
+image = "4c7fc5467cfc5e86.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "11"
+master = "14"
 
 [[songs]]
 id = "8321"
