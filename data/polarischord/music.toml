@@ -1,6 +1,6 @@
 name = "polarischord"
 count = 388
-last_updated = "2026-03-27T03:56:14.593940305Z"
+last_updated = "2026-04-23T04:01:51.307480093Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -237,6 +237,7 @@ license = "Licensed by Kanaria"
 easy = 3
 normal = 6
 hard = 8
+influence = 11
 
 [[songs.categories]]
 bitflag = 2
@@ -604,6 +605,7 @@ artist = ""
 easy = 3
 normal = 6
 hard = 8
+influence = 11
 
 [[songs.categories]]
 bitflag = 3

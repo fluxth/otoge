@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1069
-last_updated = "2026-04-09T03:55:08.427673309Z"
+count = 1071
+last_updated = "2026-04-23T04:01:51.120090144Z"
 
 [[songs]]
 id = "582300"
@@ -31030,7 +31030,7 @@ title_reading = "ODYSSEUS"
 artist = "XeoN"
 date = "2026-04-09"
 image = "5d3b3b579a91b282.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -31060,7 +31060,7 @@ title_reading = "HYPERNAID"
 artist = "KATOMORI"
 date = "2026-04-09"
 image = "86a5abf55fb333c1.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -31090,7 +31090,7 @@ title_reading = "MEMORYOFBEACH"
 artist = "M2U"
 date = "2026-04-09"
 image = "951d41218aa7086c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -31120,7 +31120,7 @@ title_reading = "ENDOFTHEMOONLIGHT"
 artist = "Forte Escape"
 date = "2026-04-09"
 image = "f34eca77cb4421e7.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -31150,7 +31150,7 @@ title_reading = "ODYSSEUS"
 artist = "XeoN"
 date = "2026-04-09"
 image = "1a38ce6ca555cb17.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -31177,7 +31177,7 @@ title_reading = "HYPERNAID"
 artist = "KATOMORI"
 date = "2026-04-09"
 image = "f5618dc0781b497d.png"
-is_new = true
+is_new = false
 is_lunatic = true
 is_bonus_track = false
 copyright = "©Neowiz. All Rights Reserved."
@@ -31196,6 +31196,64 @@ lunatic = "0"
 [songs.character]
 id = "6625"
 name = "エル・クレア"
+
+[[songs]]
+id = "664600"
+title = "星綴りのアルケミスト"
+title_reading = "ホシツツリノアルケミスト"
+artist = "Lime"
+date = "2026-04-23"
+image = "a6df315e1f026900.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80050"
+name = "Shooter's Dream 《ASTERISM》"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1020"
+name = "藤沢 柚子"
+
+[[songs]]
+id = "664500"
+title = "ココリエール"
+title_reading = "ココリエル"
+artist = "曲：高橋涼 (SUPA LOVE)／歌：ASTERISM [星咲 あかり(CV：赤尾 ひかる)、藤沢 柚子(CV：保科 李沙)、三角 葵(CV：春野 杏)]"
+date = "2026-04-23"
+image = "b39e1ef3db6aecfe.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80050"
+name = "Shooter's Dream 《ASTERISM》"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "1030"
+name = "三角 葵"
 
 [[categories]]
 id = "06"
