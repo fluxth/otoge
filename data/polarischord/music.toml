@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 388
-last_updated = "2026-04-23T04:01:51.307480093Z"
+count = 394
+last_updated = "2026-04-24T04:04:05.336995579Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6601,6 +6601,109 @@ artist = "KE!JU＆TAN1CHU＆めめめ"
 easy = 2
 normal = 6
 hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "565889653c6688f2b31d447a9ae6559f"
+title = "チルノのパーフェクトさんすう学園【ビートまりお】"
+artist = "ビートまりお"
+license = "Licensed by COOL&CREATE, 上海アリス幻樂団"
+
+[songs.levels]
+easy = 2
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "915b6d4d1f4645ee89494de4937e8dad"
+title = "チルノのパーフェクトさんすう学園【初音ミク】"
+artist = "ビートまりお×まろん feat.初音ミク"
+license = "Licensed by COOL&CREATE, 上海アリス幻樂団"
+
+[songs.levels]
+easy = 1
+normal = 5
+hard = 7
+influence = 10
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "02f02b5ac7ee90aa59dcb8dde43a1f6e"
+title = "天邪鬼"
+artist = "Qlarabelle"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "07cad8022f54ac4ac7f1cd4f0e7ae7c1"
+title = "TECHNOPHOBIA"
+artist = 'BEMANI Sound Team "HuΣeR"'
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "07366058d0bf08bacace8e56e4059d42"
+title = "Submerge Serenade"
+artist = "lapix"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 11
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "7e441a4553aa49c97d8e3e891fe10e18"
+title = "Substance"
+artist = 'BEMANI Sound Team "めめめ”'
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 11
 influence = 12
 
 [[songs.categories]]
