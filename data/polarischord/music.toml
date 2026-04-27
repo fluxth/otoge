@@ -1,6 +1,6 @@
 name = "polarischord"
 count = 394
-last_updated = "2026-04-24T04:04:05.336995579Z"
+last_updated = "2026-04-27T04:12:04.403322328Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6612,7 +6612,7 @@ name = "オリジナル"
 id = "565889653c6688f2b31d447a9ae6559f"
 title = "チルノのパーフェクトさんすう学園【ビートまりお】"
 artist = "ビートまりお"
-license = "Licensed by COOL&CREATE, 上海アリス幻樂団"
+license = "Licensed by COOL&CREATE, ©上海アリス幻樂団"
 
 [songs.levels]
 easy = 2
@@ -6629,7 +6629,7 @@ name = "東方"
 id = "915b6d4d1f4645ee89494de4937e8dad"
 title = "チルノのパーフェクトさんすう学園【初音ミク】"
 artist = "ビートまりお×まろん feat.初音ミク"
-license = "Licensed by COOL&CREATE, 上海アリス幻樂団"
+license = "Licensed by COOL&CREATE, ©上海アリス幻樂団"
 
 [songs.levels]
 easy = 1
