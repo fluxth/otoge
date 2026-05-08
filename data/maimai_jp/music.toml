@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1533
-last_updated = "2026-05-01T04:21:36.025875710Z"
+count = 1536
+last_updated = "2026-05-08T04:03:22.056665657Z"
 
 [[songs]]
 id = "1137"
@@ -24757,6 +24757,60 @@ basic = "5"
 advanced = "8+"
 expert = "12+"
 master = "14+"
+
+[[songs]]
+id = "957"
+title = "オールマスター"
+title_reading = "オオルマスタア"
+artist = "大漠波新 feat.ヲタみん"
+image = "b2e3d6fc3355505c.png"
+category = "maimai"
+version = "26505"
+release = "2026-05-08"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "6"
+expert = "11"
+master = "13"
+
+[[songs]]
+id = "960"
+title = "STRAY"
+title_reading = "STRAY"
+artist = "umigame"
+image = "0c1776c0455539c6.png"
+category = "maimai"
+version = "26505"
+release = "2026-05-08"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "961"
+title = "クロノイデア"
+title_reading = "クロノイテア"
+artist = "iDEN LiLY feat.X-Fenriey"
+image = "b58811c7febe49dc.png"
+category = "maimai"
+version = "26505"
+release = "2026-05-08"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "11+"
+master = "14"
 
 [[songs]]
 id = "1380"
