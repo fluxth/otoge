@@ -35,12 +35,19 @@ jobs:
         run: |
           echo "CURRENT_DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)" >> "$GITHUB_ENV"
 
+      - name: Generate GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@1b10c78c7865c340bc4f6099eb2f838309f1e8c3 # v3.1.1
+        with:
+          client-id: ${{ vars.GH_APP_ID }}
+          private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
         with:
-          token: ${{ secrets.FLUXCIBOT_PAT }}
-          committer: FluxCI bot <automated@thitat.net>
-          author: FluxCI bot <automated@thitat.net>
+          token: ${{ steps.app-token.outputs.token }}
+          committer: flux-ci[bot] <283426290+flux-ci[bot]@users.noreply.github.com>
+          author: flux-ci[bot] <283426290+flux-ci[bot]@users.noreply.github.com>
           commit-message: "data: song database update for ${{ env.CURRENT_DATE }}"
           title: "Song database update for ${{ env.CURRENT_DATE }}"
           body: |
