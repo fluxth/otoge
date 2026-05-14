@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1071
-last_updated = "2026-04-23T04:01:51.120090144Z"
+count = 1074
+last_updated = "2026-05-14T04:18:22.030058325Z"
 
 [[songs]]
 id = "582300"
@@ -31204,7 +31204,7 @@ title_reading = "ホシツツリノアルケミスト"
 artist = "Lime"
 date = "2026-04-23"
 image = "a6df315e1f026900.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -31233,7 +31233,7 @@ title_reading = "ココリエル"
 artist = "曲：高橋涼 (SUPA LOVE)／歌：ASTERISM [星咲 あかり(CV：赤尾 ひかる)、藤沢 柚子(CV：保科 李沙)、三角 葵(CV：春野 杏)]"
 date = "2026-04-23"
 image = "b39e1ef3db6aecfe.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -31254,6 +31254,96 @@ master = "13"
 [songs.character]
 id = "1030"
 name = "三角 葵"
+
+[[songs]]
+id = "164800"
+title = "キスキツネ"
+title_reading = "キスキツネ"
+artist = "HIMEHINA"
+date = "2026-05-14"
+image = "e2079e73e216fefc.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©LaRa"
+
+[songs.chapter]
+id = "99145"
+name = "HIMEHINA【第2弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "8"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "6290"
+name = "ヒメヒナ"
+
+[[songs]]
+id = "164900"
+title = "WWW"
+title_reading = "WWW"
+artist = "HIMEHINA"
+date = "2026-05-14"
+image = "51867fb25fafe80e.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©LaRa"
+
+[songs.chapter]
+id = "99145"
+name = "HIMEHINA【第2弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "6290"
+name = "ヒメヒナ"
+
+[[songs]]
+id = "165000"
+title = "うたかたよいかないで"
+title_reading = "ウタカタヨイカナイテ"
+artist = "HIMEHINA"
+date = "2026-05-14"
+image = "e70a64004a62cec6.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©LaRa"
+
+[songs.chapter]
+id = "99145"
+name = "HIMEHINA【第2弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10"
+master = "12+"
+
+[songs.character]
+id = "6290"
+name = "ヒメヒナ"
 
 [[categories]]
 id = "06"
