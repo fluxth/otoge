@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1536
-last_updated = "2026-05-08T04:03:22.056665657Z"
+count = 1540
+last_updated = "2026-05-14T04:18:22.049852183Z"
 
 [[songs]]
 id = "1137"
@@ -24767,7 +24767,7 @@ image = "b2e3d6fc3355505c.png"
 category = "maimai"
 version = "26505"
 release = "2026-05-08"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -24785,7 +24785,7 @@ image = "0c1776c0455539c6.png"
 category = "maimai"
 version = "26505"
 release = "2026-05-08"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -24803,7 +24803,7 @@ image = "b58811c7febe49dc.png"
 category = "maimai"
 version = "26505"
 release = "2026-05-08"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -25220,7 +25220,7 @@ image = "29f763608c039fc9.png"
 category = "ゲーム＆バラエティ"
 version = "26504"
 release = "2026-05-01"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25238,7 +25238,7 @@ image = "21e5f789b15956f9.png"
 category = "ゲーム＆バラエティ"
 version = "26504"
 release = "2026-05-01"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25256,12 +25256,66 @@ image = "8616b8d09e526660.png"
 category = "ゲーム＆バラエティ"
 version = "26504"
 release = "2026-05-01"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
 basic = "3"
 advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "6"
+title = "キスキツネ"
+title_reading = "キスキツネ"
+artist = "HIMEHINA"
+image = "a9567047ac19c427.png"
+category = "POPS＆アニメ"
+version = "26506"
+release = "2026-05-14"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "7"
+title = "WWW"
+title_reading = "WWW"
+artist = "HIMEHINA"
+image = "b873005e6463213c.png"
+category = "POPS＆アニメ"
+version = "26506"
+release = "2026-05-14"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "8"
+title = "うたかたよいかないで"
+title_reading = "ウタカタヨイカナイテ"
+artist = "HIMEHINA"
+image = "17b2fa631b0824d7.png"
+category = "POPS＆アニメ"
+version = "26506"
+release = "2026-05-14"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
 expert = "10"
 master = "13"
 
@@ -26335,6 +26389,23 @@ is_locked = false
 level = "12+?"
 kanji = "嘘"
 comment = "嘘に踊れ"
+
+[[songs]]
+id = "1530"
+title = "[音]愛包ダンスホール"
+title_reading = "アイハイタンスホオル"
+artist = "HIMEHINA"
+image = "264d51b84676ad67.png"
+category = "宴会場"
+version = "26506"
+release = "2026-05-14"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13+?"
+kanji = "音"
+comment = "～音取りほぼMAXバージョン～"
 
 [[songs]]
 id = "1557"

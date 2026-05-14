@@ -1,6 +1,52 @@
 name = "chunithm_jp"
-count = 1675
-last_updated = "2026-04-23T04:01:51.110060810Z"
+count = 1692
+last_updated = "2026-05-14T04:18:22.041850365Z"
+
+[[songs]]
+id = "2979"
+title = "キスキツネ"
+title_reading = "キスキツネ"
+artist = "HIMEHINA"
+image = "70736c900114d732.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2980"
+title = "WWW"
+title_reading = "WWW"
+artist = "HIMEHINA"
+image = "5cb62363cba66f4b.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "9"
+master = "12+"
+ultima = "14"
+
+[[songs]]
+id = "3002"
+title = "うたかたよいかないで"
+title_reading = "ウタカタヨイカナイテ"
+artist = "HIMEHINA"
+image = "ef2c22c0f97703cc.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "2958"
@@ -2191,6 +2237,36 @@ advanced = "5"
 expert = "8+"
 master = "14+"
 ultima = "15"
+
+[[songs]]
+id = "2981"
+title = "花弁、それにまつわる音声"
+title_reading = "カヘンソレニマツワルオンセイ"
+artist = "あばらや"
+image = "f2c93f26b6568653.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2982"
+title = "愛して愛して愛して"
+title_reading = "アイシテアイシテアイシテ"
+artist = "きくお"
+image = "9085fe54856f6bb7.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "14+"
 
 [[songs]]
 id = "2956"
@@ -9414,6 +9490,21 @@ expert = "13+"
 master = "14+"
 
 [[songs]]
+id = "2970"
+title = "†渚の小悪魔ラヴリィ～レイディオ†"
+title_reading = "ナキサノコアクマラフリイレイテイオ"
+artist = "夏色ビキニのPrim"
+image = "b227a354f158fec6.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "14"
+
+[[songs]]
 id = "470"
 title = "セイクリッド　ルイン"
 title_reading = "セイクリツトルイン"
@@ -9639,6 +9730,21 @@ expert = "10+"
 master = "13+"
 
 [[songs]]
+id = "2971"
+title = "聖者の息吹"
+title_reading = "セイシヤノイフキ"
+artist = "世阿弥 vs Tatsh「グルーヴコースター」"
+image = "fa67a8f24675ec38.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "12+"
+master = "14+"
+
+[[songs]]
 id = "2043"
 title = "DAZZLING♡SEASON"
 title_reading = "DAZZLINGSEASON"
@@ -9804,6 +9910,21 @@ expert = "12"
 master = "15"
 
 [[songs]]
+id = "2972"
+title = "超MANJIラッシュ"
+title_reading = "チヨウMANJIラツシユ"
+artist = "Massive New Krew「WACCA」"
+image = "f9a6b164418d922e.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "13"
+master = "14+"
+
+[[songs]]
 id = "33"
 title = "Blue Noise"
 title_reading = "BLUENOISE"
@@ -9894,6 +10015,21 @@ basic = "3"
 advanced = "5"
 expert = "10"
 master = "12+"
+
+[[songs]]
+id = "2973"
+title = "Lips XTC -Sorist Remix-"
+title_reading = "LIPSXTCSORISTREMIX"
+artist = "from PACA PACA PASSION Special"
+image = "873ad3e03caedb0d.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "13+"
+master = "15"
 
 [[songs]]
 id = "386"
@@ -10181,6 +10317,21 @@ expert = "13+"
 master = "14+"
 
 [[songs]]
+id = "2978"
+title = "ALTER EGO"
+title_reading = "ALTEREGO"
+artist = "Yuta Imai vs Qlarabelle「Arcaea」"
+image = "96dca6406e40c201.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "13+"
+master = "15"
+
+[[songs]]
 id = "2036"
 title = "CHAOS"
 title_reading = "CHAOS"
@@ -10254,6 +10405,21 @@ basic = "2"
 advanced = "7"
 expert = "12"
 master = "14"
+
+[[songs]]
+id = "2974"
+title = "Marigold"
+title_reading = "MARIGOLD"
+artist = "M2U / Arranger: M2U, NICODE / Vocal: Guriri, M2U 「DEEMO」"
+image = "7a19b31e47f91fb5.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "13+"
+master = "15"
 
 [[songs]]
 id = "807"
@@ -10348,6 +10514,21 @@ expert = "12"
 master = "14+"
 
 [[songs]]
+id = "2975"
+title = "glory MAX -to the MAXimum-"
+title_reading = "GLORYMAXTOTHEMAXIMUM"
+artist = "TAK"
+image = "8bd58bb075d55449.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "11+"
+master = "14+"
+
+[[songs]]
 id = "2532"
 title = "Spasmodic"
 title_reading = "SPASMODIC"
@@ -10390,6 +10571,21 @@ is_new = false
 basic = "4"
 advanced = "8+"
 expert = "12"
+master = "15"
+
+[[songs]]
+id = "2976"
+title = "DESTRUCTION 3,2,1"
+title_reading = "DESTRUCTION321"
+artist = "Normal1zer vs. Broken Nerdz「Phigros」"
+image = "ce21ae87308e7599.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "5"
+advanced = "11+"
+expert = "14"
 master = "15"
 
 [[songs]]
@@ -10466,6 +10662,21 @@ basic = "3"
 advanced = "7"
 expert = "10+"
 master = "13+"
+
+[[songs]]
+id = "2977"
+title = "Ré：Ré"
+title_reading = "RERE"
+artist = "モリモリあつし vs. uma「Muse Dash」"
+image = "117154b0ebadf063.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "13+"
+master = "15"
 
 [[songs]]
 id = "2533"
@@ -15693,6 +15904,21 @@ expert = "13"
 master = "14+"
 
 [[songs]]
+id = "2968"
+title = "PANDORA PARADOXXX"
+title_reading = "PANDORAPARADOXXX"
+artist = "削除"
+image = "7c0d2bba8c6432e8.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.levels]
+basic = "6"
+advanced = "11+"
+expert = "14+"
+master = "15+"
+
+[[songs]]
 id = "99"
 title = "言ノ葉カルマ"
 title_reading = "コトノハカルマ"
@@ -17388,6 +17614,21 @@ basic = "5"
 advanced = "8"
 expert = "13"
 master = "15"
+
+[[songs]]
+id = "2969"
+title = "μ3"
+title_reading = "ミユウ3"
+artist = "水野健治 VS 穴山大輔"
+image = "d79a18964b32fadb.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.levels]
+basic = "5"
+advanced = "11+"
+expert = "14"
+master = "15+"
 
 [[songs]]
 id = "202"
@@ -24006,7 +24247,7 @@ title_reading = "BEENDEN"
 artist = "隣の庭は青い(庭師+Aoi)"
 image = "e90fc35b817a7a27.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -24021,7 +24262,7 @@ title_reading = "EFX"
 artist = "Avans"
 image = "66b1fadb306c805e.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -24036,13 +24277,28 @@ title_reading = "ハクメイノクオリア"
 artist = "polysha feat. 高城みよ"
 image = "4c7fc5467cfc5e86.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
 advanced = "7+"
 expert = "11"
 master = "14"
+
+[[songs]]
+id = "2966"
+title = "月葬"
+title_reading = "ケツソウ"
+artist = "黒魔 × rintaro soma"
+image = "526f2c61c37fb231.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "14"
+master = "15+"
 
 [[songs]]
 id = "8321"
