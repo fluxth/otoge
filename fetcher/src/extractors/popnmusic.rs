@@ -21,11 +21,10 @@ where
     G::Song: Send,
     Vec<<G as Otoge>::Song>: FromIterator<Song>,
 {
-    async fn fetch_songs() -> anyhow::Result<Vec<G::Song>> {
+    async fn fetch_songs(client: &reqwest::Client) -> anyhow::Result<Vec<G::Song>> {
         let selectors = Selectors::init()
             .map_err(|e| anyhow::anyhow!("Failed to initialize CSS selectors: {e}"))?;
 
-        let client = reqwest::Client::new();
         let url = G::api_url();
 
         info!("Fetching all songs");
@@ -36,7 +35,7 @@ where
             category: "0",
         };
 
-        let all_songs = fetch_pages_for_filter(&client, url, &all_filter, &selectors)
+        let all_songs = fetch_pages_for_filter(client, url, &all_filter, &selectors)
             .instrument(info_span!("fetch_all"))
             .await?;
 
@@ -54,7 +53,7 @@ where
                 category: "0",
             };
 
-            let songs = fetch_pages_for_filter(&client, url, &filter, &selectors)
+            let songs = fetch_pages_for_filter(client, url, &filter, &selectors)
                 .instrument(info_span!("fetch_version", id = version_id))
                 .await?;
 
@@ -83,7 +82,7 @@ where
                 category: "0",
             };
 
-            let songs = fetch_pages_for_filter(&client, url, &filter, &selectors)
+            let songs = fetch_pages_for_filter(client, url, &filter, &selectors)
                 .instrument(info_span!("fetch_bemani", id = bemani_id))
                 .await?;
 
@@ -105,7 +104,7 @@ where
                 category: &category_id,
             };
 
-            let songs = fetch_pages_for_filter(&client, url, &filter, &selectors)
+            let songs = fetch_pages_for_filter(client, url, &filter, &selectors)
                 .instrument(info_span!("fetch_recommendations", id = category_id))
                 .await?;
 

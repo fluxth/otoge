@@ -20,12 +20,12 @@ where
     G::Song: Send,
     Vec<<G as Otoge>::Song>: FromIterator<Song>,
 {
-    async fn fetch_songs() -> anyhow::Result<Vec<G::Song>> {
+    async fn fetch_songs(client: &reqwest::Client) -> anyhow::Result<Vec<G::Song>> {
         let selectors = Selectors::init().unwrap();
         let first_page = 1;
         let name = G::name();
 
-        let first_page_content = get_page_content(first_page).await?;
+        let first_page_content = get_page_content(client, first_page).await?;
         let page_count = parse_page_count(first_page_content.html_string.as_str(), &selectors)?;
         info!("Got {} total pages", page_count);
 
@@ -35,16 +35,19 @@ where
             &selectors,
         )?];
 
-        let fetch_tasks = (first_page + 1..=page_count).map(get_page_content);
-
         let semaphore = Arc::new(Semaphore::new(10));
         let mut joinset = JoinSet::new();
 
-        for future in fetch_tasks {
+        for page_num in (first_page + 1)..=page_count {
             let sem_local = Arc::clone(&semaphore);
+            let client = client.clone();
+
             joinset.spawn(async move {
                 let _permit = sem_local.acquire_owned().await.unwrap();
-                future.instrument(info_span!("fetch_remote", name)).await
+
+                get_page_content(&client, page_num)
+                    .instrument(info_span!("fetch_remote", name))
+                    .await
             });
         }
 
@@ -109,11 +112,14 @@ impl Selectors {
     }
 }
 
-async fn get_page_content(page_num: usize) -> anyhow::Result<FetchedPage> {
+async fn get_page_content(
+    client: &reqwest::Client,
+    page_num: usize,
+) -> anyhow::Result<FetchedPage> {
     info!("Fetching song index, page {}", page_num);
     let url = "https://p.eagate.573.jp/game/sdvx/vi/music/index.html";
 
-    let resp = reqwest::Client::new()
+    let resp = client
         .post(url)
         .form(&[("page", page_num.to_string().as_str())])
         .send()

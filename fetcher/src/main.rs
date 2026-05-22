@@ -160,7 +160,8 @@ where
 {
     info!("Fetching remote song list");
 
-    let songs = G::Extractor::fetch_songs().await?;
+    let client = reqwest::Client::new();
+    let songs = G::Extractor::fetch_songs(&client).await?;
     info!("Fetched {} songs", &songs.len());
 
     Ok(G::new_data_store(songs))

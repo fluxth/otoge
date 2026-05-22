@@ -24,5 +24,5 @@ pub trait Extractor<G>
 where
     G: Otoge + FetchTask<G>,
 {
-    async fn fetch_songs() -> Result<Vec<G::Song>>;
+    async fn fetch_songs(client: &reqwest::Client) -> Result<Vec<G::Song>>;
 }
