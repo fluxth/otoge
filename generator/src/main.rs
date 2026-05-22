@@ -14,6 +14,7 @@ use tracing_subscriber::EnvFilter;
 use otoge::chunithm::{ChunithmIntl, ChunithmJP};
 use otoge::maimai::{MaimaiIntl, MaimaiJP};
 use otoge::ongeki::Ongeki;
+use otoge::popnmusic::PopNMusic;
 use otoge::shared::traits::{DataStore, Otoge};
 use otoge::soundvoltex::SoundVoltex;
 use traits::GenerateTask;
@@ -26,6 +27,7 @@ impl GenerateTask<Self> for ChunithmIntl {}
 impl GenerateTask<Self> for Ongeki {}
 impl GenerateTask<Self> for MaimaiJP {}
 impl GenerateTask<Self> for MaimaiIntl {}
+impl GenerateTask<Self> for PopNMusic {}
 impl GenerateTask<Self> for SoundVoltex {}
 
 macro_rules! handle_result {
@@ -66,6 +68,7 @@ async fn main() -> Result<()> {
         process::<Ongeki>(),
         process::<MaimaiJP>(),
         process::<MaimaiIntl>(),
+        process::<PopNMusic>(),
     );
 
     info!("All generate tasks completed");
@@ -78,6 +81,7 @@ async fn main() -> Result<()> {
     handle_result!(3, Ongeki, results, return_result);
     handle_result!(4, MaimaiJP, results, return_result);
     handle_result!(5, MaimaiIntl, results, return_result);
+    handle_result!(6, PopNMusic, results, return_result);
 
     info!("Exiting");
     return_result

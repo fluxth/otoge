@@ -5,6 +5,7 @@ mod chunithm;
 mod maimai;
 mod ongeki;
 mod polarischord;
+mod popnmusic;
 mod soundvoltex;
 
 use std::path::Path;
@@ -16,6 +17,7 @@ use otoge::chunithm::{ChunithmIntl, ChunithmJP};
 use otoge::maimai::{MaimaiIntl, MaimaiJP};
 use otoge::ongeki::Ongeki;
 use otoge::polarischord::PolarisChord;
+use otoge::popnmusic::PopNMusic;
 use otoge::shared::traits::{DataStore as DataStoreTrait, Otoge};
 use otoge::soundvoltex::SoundVoltex;
 
@@ -66,6 +68,7 @@ async fn main() -> Result<()> {
         process::<MaimaiJP>(),
         process::<MaimaiIntl>(),
         process::<PolarisChord>(),
+        process::<PopNMusic>(),
     );
 
     info!("All fetch completed");
@@ -79,6 +82,7 @@ async fn main() -> Result<()> {
     handle_result!(4, MaimaiJP, results, return_result);
     handle_result!(5, MaimaiIntl, results, return_result);
     handle_result!(6, PolarisChord, results, return_result);
+    handle_result!(7, PopNMusic, results, return_result);
 
     info!("Exiting");
     return_result
@@ -101,11 +105,11 @@ where
     let local_data_store = load_local_data_store::<G>(Some(data_path))
         .instrument(info_span!("load_local", name))
         .await
-        .unwrap_or_else(|_err| {
+        .unwrap_or_else(|err| {
             let span = info_span!("load_local", name);
             let _span = span.enter();
 
-            warn!("Local song list not found or couldn't be loaded");
+            warn!(error = %err, "Local song list not found or couldn't be loaded");
             None
         });
 
