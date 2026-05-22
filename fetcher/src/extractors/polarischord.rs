@@ -28,11 +28,10 @@ where
     G::Song: std::convert::From<G::ApiSong>,
     G::ApiSong: DeserializeOwned + std::fmt::Debug,
 {
-    async fn fetch_songs() -> anyhow::Result<Vec<G::Song>> {
+    async fn fetch_songs(client: &reqwest::Client) -> anyhow::Result<Vec<G::Song>> {
         let input_data = APIInput::default();
         let url = G::api_url();
 
-        let client = reqwest::Client::new();
         let resp = client.post(url).form(&input_data).send().await?;
         let data = resp.json::<APIResponse<G::ApiSong>>().await?;
 

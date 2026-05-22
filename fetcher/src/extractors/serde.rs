@@ -14,8 +14,8 @@ where
     G::Song: std::convert::From<G::ApiSong>,
     G::ApiSong: DeserializeOwned,
 {
-    async fn fetch_songs() -> anyhow::Result<Vec<G::Song>> {
-        let resp = reqwest::get(G::api_url()).await?;
+    async fn fetch_songs(client: &reqwest::Client) -> anyhow::Result<Vec<G::Song>> {
+        let resp = client.get(G::api_url()).send().await?;
         let data = resp.json::<Vec<G::ApiSong>>().await?;
 
         Ok(data.into_iter().map(|song| song.into()).collect())

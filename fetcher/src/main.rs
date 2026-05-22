@@ -5,6 +5,7 @@ mod chunithm;
 mod maimai;
 mod ongeki;
 mod polarischord;
+mod popnmusic;
 mod soundvoltex;
 
 use std::path::Path;
@@ -16,28 +17,17 @@ use otoge::chunithm::{ChunithmIntl, ChunithmJP};
 use otoge::maimai::{MaimaiIntl, MaimaiJP};
 use otoge::ongeki::Ongeki;
 use otoge::polarischord::PolarisChord;
+use otoge::popnmusic::PopNMusic;
 use otoge::shared::traits::{DataStore as DataStoreTrait, Otoge};
 use otoge::soundvoltex::SoundVoltex;
 
 use anyhow::{Error, Result};
-use tokio::join;
+use tokio::task::JoinSet;
 use tracing::metadata::LevelFilter;
 use tracing::{Instrument, error, info, info_span, warn};
 use tracing_subscriber::EnvFilter;
 
 const DATA_PATH: &str = "./data";
-
-macro_rules! handle_result {
-    ($index:tt, $type:ident, $results:ident, $return:ident) => {
-        let name = $type::name();
-        if let Err(err) = $results.$index {
-            error!("Task {} failed: {}", name, err);
-            $return = Err(Error::msg("One or more tasks failed"));
-        } else {
-            info!("Task {} succeeded", name);
-        }
-    };
-}
 
 #[tokio::main]
 async fn main() -> Result<()> {
@@ -57,31 +47,42 @@ async fn main() -> Result<()> {
         env!("CARGO_PKG_VERSION")
     );
 
-    // FIXME: Find a better way to do this :(
-    let results = join!(
-        process::<SoundVoltex>(),
-        process::<ChunithmJP>(),
-        process::<ChunithmIntl>(),
-        process::<Ongeki>(),
-        process::<MaimaiJP>(),
-        process::<MaimaiIntl>(),
-        process::<PolarisChord>(),
-    );
-
-    info!("All fetch completed");
+    let mut joinset: JoinSet<(&'static str, Result<()>)> = JoinSet::new();
+    joinset.spawn(run::<SoundVoltex>());
+    joinset.spawn(run::<PopNMusic>());
+    joinset.spawn(run::<ChunithmJP>());
+    joinset.spawn(run::<ChunithmIntl>());
+    joinset.spawn(run::<Ongeki>());
+    joinset.spawn(run::<MaimaiJP>());
+    joinset.spawn(run::<MaimaiIntl>());
+    joinset.spawn(run::<PolarisChord>());
 
     let mut return_result = Ok(());
 
-    handle_result!(0, SoundVoltex, results, return_result);
-    handle_result!(1, ChunithmJP, results, return_result);
-    handle_result!(2, ChunithmIntl, results, return_result);
-    handle_result!(3, Ongeki, results, return_result);
-    handle_result!(4, MaimaiJP, results, return_result);
-    handle_result!(5, MaimaiIntl, results, return_result);
-    handle_result!(6, PolarisChord, results, return_result);
+    while let Some(join_result) = joinset.join_next().await {
+        let (name, result) = join_result.expect("task panicked");
+        if let Err(err) = result {
+            error!("Task {} failed: {}", name, err);
+            return_result = Err(Error::msg("One or more tasks failed"));
+        } else {
+            info!("Task {} succeeded", name);
+        }
+    }
 
+    info!("All fetch completed");
     info!("Exiting");
     return_result
+}
+
+async fn run<G>() -> (&'static str, Result<()>)
+where
+    G: Otoge + FetchTask<G>,
+    G::Extractor: Extractor<G>,
+    G::Song: serde::de::DeserializeOwned + std::convert::From<G::ApiSong>,
+    G::ApiSong: serde::de::DeserializeOwned,
+    G::DataStore: DataStoreTrait + serde::de::DeserializeOwned + serde::Serialize,
+{
+    (G::name(), process::<G>().await)
 }
 
 async fn process<G>() -> Result<()>
@@ -101,11 +102,11 @@ where
     let local_data_store = load_local_data_store::<G>(Some(data_path))
         .instrument(info_span!("load_local", name))
         .await
-        .unwrap_or_else(|_err| {
+        .unwrap_or_else(|err| {
             let span = info_span!("load_local", name);
             let _span = span.enter();
 
-            warn!("Local song list not found or couldn't be loaded");
+            warn!(error = %err, "Local song list not found or couldn't be loaded");
             None
         });
 
@@ -156,7 +157,8 @@ where
 {
     info!("Fetching remote song list");
 
-    let songs = G::Extractor::fetch_songs().await?;
+    let client = reqwest::Client::new();
+    let songs = G::Extractor::fetch_songs(&client).await?;
     info!("Fetched {} songs", &songs.len());
 
     Ok(G::new_data_store(songs))
