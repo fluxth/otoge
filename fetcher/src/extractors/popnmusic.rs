@@ -1,16 +1,19 @@
-use std::{collections::HashMap, sync::Arc};
+use std::borrow::Cow;
+use std::collections::HashMap;
+use std::sync::Arc;
 
 use async_trait::async_trait;
-use scraper::{Html, Selector, error::SelectorErrorKind};
-use tokio::{sync::Semaphore, task::JoinSet};
+use scraper::Html;
+use scraper::Selector;
+use scraper::error::SelectorErrorKind;
+use tokio::sync::Semaphore;
+use tokio::task::JoinSet;
 use tracing::{Instrument, info, info_span};
 
 use crate::traits::{Extractor, FetchTask};
-use otoge::{
-    popnmusic::models::{Category, LevelMap, Song},
-    popnmusic::{get_all_bemani, get_all_categories, get_all_versions},
-    shared::traits::Otoge,
-};
+use otoge::popnmusic::models::{Category, LevelMap, Song};
+use otoge::popnmusic::{get_all_bemani, get_all_categories, get_all_versions};
+use otoge::shared::traits::Otoge;
 
 pub struct PopNMusicExtractor;
 
@@ -22,96 +25,162 @@ where
     Vec<<G as Otoge>::Song>: FromIterator<Song>,
 {
     async fn fetch_songs(client: &reqwest::Client) -> anyhow::Result<Vec<G::Song>> {
-        let selectors = Selectors::init()
-            .map_err(|e| anyhow::anyhow!("Failed to initialize CSS selectors: {e}"))?;
+        let selectors = Arc::new(
+            Selectors::init()
+                .map_err(|e| anyhow::anyhow!("Failed to initialize CSS selectors: {e}"))?,
+        );
 
         let url = G::api_url();
+        let semaphore = Arc::new(Semaphore::new(10));
 
         info!("Fetching all songs");
 
-        let all_filter = PageFilter {
-            version: "-1",
-            bemani: "0",
-            category: "0",
-        };
-
-        let all_songs = fetch_pages_for_filter(client, url, &all_filter, &selectors)
-            .instrument(info_span!("fetch_all"))
-            .await?;
+        let all_songs = fetch_pages_for_filter(
+            client.clone(),
+            url,
+            PageFilter {
+                version: "-1".into(),
+                bemani: "0".into(),
+                category: "0".into(),
+            },
+            Arc::clone(&selectors),
+            Arc::clone(&semaphore),
+        )
+        .instrument(info_span!("fetch_all"))
+        .await?;
 
         info!("Fetched {} songs", all_songs.len());
 
-        info!("Fetching version song lists");
+        info!("Fetching version, bemani, and recommendation category song lists");
 
-        let mut version_map: HashMap<SongKey, Category> = HashMap::new();
+        let all_bemani = get_all_bemani();
+        let bemani_order: HashMap<String, usize> = all_bemani
+            .iter()
+            .enumerate()
+            .map(|(index, bemani)| (bemani.id.as_ref().to_owned(), index))
+            .collect();
+
+        let all_categories = get_all_categories();
+        let category_order: HashMap<String, usize> = all_categories
+            .iter()
+            .enumerate()
+            .map(|(index, category)| (category.id.as_ref().to_owned(), index))
+            .collect();
+
+        let mut joinset: JoinSet<anyhow::Result<FilterResult>> = JoinSet::new();
 
         for version in get_all_versions() {
             let version_id = version.id.as_ref().to_owned();
-            let filter = PageFilter {
-                version: &version_id,
-                bemani: "0",
-                category: "0",
-            };
+            let client = client.clone();
+            let selectors = Arc::clone(&selectors);
+            let semaphore = Arc::clone(&semaphore);
+            let span = info_span!("fetch_version", id = version_id);
 
-            let songs = fetch_pages_for_filter(client, url, &filter, &selectors)
-                .instrument(info_span!("fetch_version", id = version_id))
-                .await?;
+            joinset.spawn(
+                async move {
+                    let filter = PageFilter {
+                        version: version_id.into(),
+                        bemani: "0".into(),
+                        category: "0".into(),
+                    };
 
-            for parsed in songs {
-                let key = SongKey::from_parsed(&parsed);
+                    let songs =
+                        fetch_pages_for_filter(client, url, filter, selectors, semaphore).await?;
 
-                anyhow::ensure!(
-                    !version_map.contains_key(&key),
-                    "Song '{}' found in multiple versions",
-                    parsed.title
-                );
-
-                version_map.insert(key, version.clone());
-            }
+                    Ok(FilterResult::Version(version, songs))
+                }
+                .instrument(span),
+            );
         }
 
-        info!("Fetching BEMANI song lists");
-
-        let mut bemani_map: HashMap<SongKey, Vec<Category>> = HashMap::new();
-
-        for bemani in get_all_bemani() {
+        for bemani in all_bemani {
             let bemani_id = bemani.id.as_ref().to_owned();
-            let filter = PageFilter {
-                version: "-1",
-                bemani: &bemani_id,
-                category: "0",
-            };
+            let client = client.clone();
+            let selectors = Arc::clone(&selectors);
+            let semaphore = Arc::clone(&semaphore);
+            let span = info_span!("fetch_bemani", id = bemani_id);
 
-            let songs = fetch_pages_for_filter(client, url, &filter, &selectors)
-                .instrument(info_span!("fetch_bemani", id = bemani_id))
-                .await?;
+            joinset.spawn(
+                async move {
+                    let filter = PageFilter {
+                        version: "-1".into(),
+                        bemani: bemani_id.into(),
+                        category: "0".into(),
+                    };
 
-            for parsed in songs {
-                let key = SongKey::from_parsed(&parsed);
-                bemani_map.entry(key).or_default().push(bemani.clone());
-            }
+                    let songs =
+                        fetch_pages_for_filter(client, url, filter, selectors, semaphore).await?;
+
+                    Ok(FilterResult::Bemani(bemani, songs))
+                }
+                .instrument(span),
+            );
         }
 
-        info!("Fetching recommendation category song lists");
+        for category in all_categories {
+            let category_id = category.id.as_ref().to_owned();
+            let client = client.clone();
+            let selectors = Arc::clone(&selectors);
+            let semaphore = Arc::clone(&semaphore);
+            let span = info_span!("fetch_recommendations", id = category_id);
 
+            joinset.spawn(
+                async move {
+                    let filter = PageFilter {
+                        version: "-1".into(),
+                        bemani: "0".into(),
+                        category: category_id.into(),
+                    };
+
+                    let songs =
+                        fetch_pages_for_filter(client, url, filter, selectors, semaphore).await?;
+
+                    Ok(FilterResult::RecommendationCategory(category, songs))
+                }
+                .instrument(span),
+            );
+        }
+
+        let mut version_map: HashMap<SongKey, Category> = HashMap::new();
+        let mut bemani_map: HashMap<SongKey, Vec<Category>> = HashMap::new();
         let mut category_map: HashMap<SongKey, Vec<Category>> = HashMap::new();
 
-        for category in get_all_categories() {
-            let category_id = category.id.as_ref().to_owned();
-            let filter = PageFilter {
-                version: "-1",
-                bemani: "0",
-                category: &category_id,
-            };
+        while let Some(result) = joinset.join_next().await {
+            match result?? {
+                FilterResult::Version(version, songs) => {
+                    for parsed in songs {
+                        let key = SongKey::from_parsed(&parsed);
 
-            let songs = fetch_pages_for_filter(client, url, &filter, &selectors)
-                .instrument(info_span!("fetch_recommendations", id = category_id))
-                .await?;
+                        anyhow::ensure!(
+                            !version_map.contains_key(&key),
+                            "Song '{}' found in multiple versions",
+                            parsed.title
+                        );
 
-            for parsed in songs {
-                let key = SongKey::from_parsed(&parsed);
-                category_map.entry(key).or_default().push(category.clone());
+                        version_map.insert(key, version.clone());
+                    }
+                }
+                FilterResult::Bemani(bemani, songs) => {
+                    for parsed in songs {
+                        let key = SongKey::from_parsed(&parsed);
+                        bemani_map.entry(key).or_default().push(bemani.clone());
+                    }
+                }
+                FilterResult::RecommendationCategory(category, songs) => {
+                    for parsed in songs {
+                        let key = SongKey::from_parsed(&parsed);
+                        category_map.entry(key).or_default().push(category.clone());
+                    }
+                }
             }
+        }
+
+        for entries in bemani_map.values_mut() {
+            entries.sort_by_key(|bemani| bemani_order[bemani.id.as_ref()]);
+        }
+
+        for entries in category_map.values_mut() {
+            entries.sort_by_key(|category| category_order[category.id.as_ref()]);
         }
 
         let mut songs = Vec::with_capacity(all_songs.len());
@@ -156,6 +225,12 @@ impl SongKey {
     }
 }
 
+enum FilterResult {
+    Version(Category, Vec<ParsedSong>),
+    Bemani(Category, Vec<ParsedSong>),
+    RecommendationCategory(Category, Vec<ParsedSong>),
+}
+
 struct ParsedSong {
     image: String,
     genre: String,
@@ -164,10 +239,10 @@ struct ParsedSong {
     levels: LevelMap,
 }
 
-struct PageFilter<'a> {
-    version: &'a str,
-    bemani: &'a str,
-    category: &'a str,
+struct PageFilter {
+    version: Cow<'static, str>,
+    bemani: Cow<'static, str>,
+    category: Cow<'static, str>,
 }
 
 struct FetchedPage {
@@ -196,31 +271,33 @@ impl Selectors {
 }
 
 async fn fetch_pages_for_filter(
-    client: &reqwest::Client,
-    base_url: &str,
-    filter: &PageFilter<'_>,
-    selectors: &Selectors,
+    client: reqwest::Client,
+    base_url: &'static str,
+    filter: PageFilter,
+    selectors: Arc<Selectors>,
+    semaphore: Arc<Semaphore>,
 ) -> anyhow::Result<Vec<ParsedSong>> {
-    let first_page = get_page_content(client, base_url, 0, filter).await?;
-    let last_page = parse_last_page(&first_page.html_string, selectors)?;
+    let first_page = {
+        let _permit = Arc::clone(&semaphore).acquire_owned().await.unwrap();
+        get_page_content(&client, base_url, 0, &filter).await?
+    };
+
+    let last_page = parse_for_last_page(&first_page.html_string, &selectors)?;
     info!("Got {} total pages", last_page + 1);
 
     let mut pages: Vec<(usize, Vec<ParsedSong>)> = vec![(
         0,
-        parse_songs_from_page(&first_page.html_string, selectors)?,
+        parse_songs_from_page(&first_page.html_string, &selectors)?,
     )];
 
-    let semaphore = Arc::new(Semaphore::new(10));
-    let client = client.clone();
     let mut joinset = JoinSet::new();
 
     for page_num in 1..=last_page {
         let sem = Arc::clone(&semaphore);
         let client = client.clone();
-        let base_url = base_url.to_owned();
-        let version = filter.version.to_owned();
-        let bemani = filter.bemani.to_owned();
-        let category = filter.category.to_owned();
+        let version = filter.version.clone();
+        let bemani = filter.bemani.clone();
+        let category = filter.category.clone();
 
         let span = tracing::Span::current();
 
@@ -229,12 +306,12 @@ async fn fetch_pages_for_filter(
                 let _permit = sem.acquire_owned().await.unwrap();
 
                 let filter = PageFilter {
-                    version: &version,
-                    bemani: &bemani,
-                    category: &category,
+                    version,
+                    bemani,
+                    category,
                 };
 
-                get_page_content(&client, &base_url, page_num, &filter).await
+                get_page_content(&client, base_url, page_num, &filter).await
             }
             .instrument(span),
         );
@@ -244,7 +321,7 @@ async fn fetch_pages_for_filter(
         let fetched = result??;
         pages.push((
             fetched.page_num,
-            parse_songs_from_page(&fetched.html_string, selectors)?,
+            parse_songs_from_page(&fetched.html_string, &selectors)?,
         ));
     }
 
@@ -257,7 +334,7 @@ async fn get_page_content(
     client: &reqwest::Client,
     base_url: &str,
     page_num: usize,
-    filter: &PageFilter<'_>,
+    filter: &PageFilter,
 ) -> anyhow::Result<FetchedPage> {
     info!("Fetching page {}", page_num + 1);
 
@@ -265,10 +342,10 @@ async fn get_page_content(
         .get(base_url)
         .query(&[
             ("page", page_num.to_string().as_str()),
-            ("version", filter.version),
+            ("version", filter.version.as_ref()),
             ("lv", "0"),
-            ("bemani", filter.bemani),
-            ("category", filter.category),
+            ("bemani", filter.bemani.as_ref()),
+            ("category", filter.category.as_ref()),
             ("keyword", ""),
             ("sort", "music"),
             ("sort_type", "none"),
@@ -283,7 +360,7 @@ async fn get_page_content(
     })
 }
 
-fn parse_last_page(html_str: &str, selectors: &Selectors) -> anyhow::Result<usize> {
+fn parse_for_last_page(html_str: &str, selectors: &Selectors) -> anyhow::Result<usize> {
     let html = Html::parse_document(html_str);
     let mut max_page = 0;
 
