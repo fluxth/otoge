@@ -28,6 +28,7 @@ use tracing::{Instrument, error, info, info_span, warn};
 use tracing_subscriber::EnvFilter;
 
 const DATA_PATH: &str = "./data";
+const DEFAULT_USER_AGENT: &str = include_str!("./default_user_agent.txt");
 
 #[tokio::main]
 async fn main() -> Result<()> {
@@ -99,6 +100,10 @@ where
     let data_dir = G::data_path(Some(data_path));
     tokio::fs::create_dir_all(&data_dir).await?;
 
+    let client = reqwest::Client::builder()
+        .user_agent(DEFAULT_USER_AGENT)
+        .build()?;
+
     let local_data_store = load_local_data_store::<G>(Some(data_path))
         .instrument(info_span!("load_local", name))
         .await
@@ -110,11 +115,11 @@ where
             None
         });
 
-    let new_data_store = fetch_remote::<G>()
+    let new_data_store = fetch_remote::<G>(&client)
         .instrument(info_span!("fetch_remote", name))
         .await?;
 
-    G::verify_categories(&new_data_store).await?;
+    G::verify_categories(&client, &new_data_store).await?;
 
     async {
         let should_update = if let Some(data_store) = local_data_store {
@@ -150,15 +155,14 @@ where
     Ok(())
 }
 
-async fn fetch_remote<G>() -> Result<G::DataStore>
+async fn fetch_remote<G>(client: &reqwest::Client) -> Result<G::DataStore>
 where
     G: Otoge + FetchTask<G>,
     G::Extractor: Extractor<G>,
 {
     info!("Fetching remote song list");
 
-    let client = reqwest::Client::new();
-    let songs = G::Extractor::fetch_songs(&client).await?;
+    let songs = G::Extractor::fetch_songs(client).await?;
     info!("Fetched {} songs", &songs.len());
 
     Ok(G::new_data_store(songs))

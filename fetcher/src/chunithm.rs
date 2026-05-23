@@ -46,7 +46,10 @@ impl FetchTask<Self> for ChunithmJP {
         "https://chunithm.sega.jp/storage/json/music.json"
     }
 
-    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(
+        _client: &reqwest::Client,
+        data_store: &<Self as Otoge>::DataStore,
+    ) -> Result<()> {
         Self::impl_verify_categories(data_store)
     }
 
@@ -65,7 +68,10 @@ impl FetchTask<Self> for ChunithmIntl {
         "https://chunithm.sega.com/assets/data/music.json"
     }
 
-    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(
+        _client: &reqwest::Client,
+        data_store: &<Self as Otoge>::DataStore,
+    ) -> Result<()> {
         Self::impl_verify_categories(data_store)
     }
 

@@ -46,7 +46,10 @@ impl FetchTask<Self> for MaimaiJP {
         "https://maimai.sega.jp/data/maimai_songs.json"
     }
 
-    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(
+        _client: &reqwest::Client,
+        data_store: &<Self as Otoge>::DataStore,
+    ) -> Result<()> {
         Self::impl_verify_categories(data_store)
     }
 
@@ -65,7 +68,10 @@ impl FetchTask<Self> for MaimaiIntl {
         "https://maimai.sega.com/assets/data/maimai_songs.json"
     }
 
-    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(
+        _client: &reqwest::Client,
+        data_store: &<Self as Otoge>::DataStore,
+    ) -> Result<()> {
         Self::impl_verify_categories(data_store)
     }
 

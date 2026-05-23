@@ -14,7 +14,10 @@ where
     fn api_url() -> &'static str;
 
     fn new_data_store(songs: Vec<G::Song>) -> G::DataStore;
-    async fn verify_categories(_data_store: &G::DataStore) -> Result<()> {
+    async fn verify_categories(
+        _client: &reqwest::Client,
+        _data_store: &G::DataStore,
+    ) -> Result<()> {
         Ok(())
     }
 }

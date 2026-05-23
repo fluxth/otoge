@@ -22,7 +22,10 @@ impl FetchTask<Self> for PopNMusic {
         DataStore::new(Self::name(), songs)
     }
 
-    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(
+        _client: &reqwest::Client,
+        data_store: &<Self as Otoge>::DataStore,
+    ) -> Result<()> {
         let versions = &data_store.versions;
         let bemani_games = &data_store.bemani;
         let categories = &data_store.categories;

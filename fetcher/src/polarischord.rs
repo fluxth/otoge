@@ -10,10 +10,10 @@ use otoge::polarischord::PolarisChord;
 use otoge::polarischord::models::{Category, DataStore, Song, SongFromAPI};
 use otoge::shared::traits::Otoge;
 
-async fn fetch_categories() -> Result<Vec<Category>> {
+async fn fetch_categories(client: &reqwest::Client) -> Result<Vec<Category>> {
     let url = "https://p.eagate.573.jp/game/polarischord/pc/music/index.html";
 
-    let resp = reqwest::get(url).await?;
+    let resp = client.get(url).send().await?;
     let html_string = resp.text().await?;
 
     let html = Html::parse_document(html_string.as_str());
@@ -66,9 +66,12 @@ impl FetchTask<Self> for PolarisChord {
         DataStore::new(Self::name(), songs)
     }
 
-    async fn verify_categories(data_store: &<Self as Otoge>::DataStore) -> Result<()> {
+    async fn verify_categories(
+        client: &reqwest::Client,
+        data_store: &<Self as Otoge>::DataStore,
+    ) -> Result<()> {
         let local_categories = data_store.categories.as_slice();
-        let fetched_categories = fetch_categories().await?;
+        let fetched_categories = fetch_categories(client).await?;
 
         ensure!(
             local_categories == fetched_categories.as_slice(),

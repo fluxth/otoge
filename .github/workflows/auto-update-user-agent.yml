@@ -1,0 +1,41 @@
+name: Auto update fetcher user-agent
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run every Sunday at 0:00 UTC
+    - cron: "0 0 * * sun"
+
+jobs:
+  update:
+    name: Update fetcher user-agent
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+
+      - name: Update user-agent
+        run: |
+          curl 'https://cdn.jsdelivr.net/gh/microlinkhq/top-user-agents@master/src/index.json' | jq -rj '.[0]' > 'fetcher/src/default_user_agent.txt'
+
+      - name: Generate GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
+        with:
+          client-id: ${{ vars.GH_APP_ID }}
+          private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+          committer: flux-ci[bot] <283426290+flux-ci[bot]@users.noreply.github.com>
+          author: flux-ci[bot] <283426290+flux-ci[bot]@users.noreply.github.com>
+          commit-message: "chore(fetcher): update fetcher user-agent"
+          title: "chore(fetcher): update fetcher user-agent"
+          body: "Update otoge-fetcher user-agent to latest most popular"
+          branch: auto/fetcher-user-agent
+          reviewers: fluxth
