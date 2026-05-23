@@ -31,6 +31,9 @@ jobs:
       - name: Run otoge-fetcher
         run: cargo run --release --bin otoge-fetcher
 
+      - name: Update README song database table
+        run: bash scripts/update_readme.sh
+
       - name: Resolve current date
         run: |
           echo "CURRENT_DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)" >> "$GITHUB_ENV"
