@@ -35,16 +35,22 @@ where
 
         info!("Fetching all songs");
 
+        let all_songs_filter = PageFilter::no_filter();
+
+        let all_songs_first_page = {
+            let _permit = Arc::clone(&semaphore).acquire_owned().await.unwrap();
+            get_page_content(client, url, 0, &all_songs_filter).await?
+        };
+
+        verify_filter_options(&all_songs_first_page.html_string, &selectors)?;
+
         let all_songs = fetch_pages_for_filter(
             client.clone(),
             url,
-            PageFilter {
-                version: "-1".into(),
-                bemani: "0".into(),
-                category: "0".into(),
-            },
+            all_songs_filter,
             Arc::clone(&selectors),
             Arc::clone(&semaphore),
+            Some(all_songs_first_page),
         )
         .instrument(info_span!("fetch_all"))
         .await?;
@@ -80,12 +86,12 @@ where
                 async move {
                     let filter = PageFilter {
                         version: version_id.into(),
-                        bemani: "0".into(),
-                        category: "0".into(),
+                        ..PageFilter::no_filter()
                     };
 
                     let songs =
-                        fetch_pages_for_filter(client, url, filter, selectors, semaphore).await?;
+                        fetch_pages_for_filter(client, url, filter, selectors, semaphore, None)
+                            .await?;
 
                     Ok(FilterResult::Version(version, songs))
                 }
@@ -103,13 +109,13 @@ where
             joinset.spawn(
                 async move {
                     let filter = PageFilter {
-                        version: "-1".into(),
                         bemani: bemani_id.into(),
-                        category: "0".into(),
+                        ..PageFilter::no_filter()
                     };
 
                     let songs =
-                        fetch_pages_for_filter(client, url, filter, selectors, semaphore).await?;
+                        fetch_pages_for_filter(client, url, filter, selectors, semaphore, None)
+                            .await?;
 
                     Ok(FilterResult::Bemani(bemani, songs))
                 }
@@ -127,13 +133,13 @@ where
             joinset.spawn(
                 async move {
                     let filter = PageFilter {
-                        version: "-1".into(),
-                        bemani: "0".into(),
                         category: category_id.into(),
+                        ..PageFilter::no_filter()
                     };
 
                     let songs =
-                        fetch_pages_for_filter(client, url, filter, selectors, semaphore).await?;
+                        fetch_pages_for_filter(client, url, filter, selectors, semaphore, None)
+                            .await?;
 
                     Ok(FilterResult::RecommendationCategory(category, songs))
                 }
@@ -245,6 +251,18 @@ struct PageFilter {
     category: Cow<'static, str>,
 }
 
+impl PageFilter {
+    // Sentinel values for "no filter":
+    // version="-1" means all versions, bemani/category="0" means all.
+    fn no_filter() -> Self {
+        Self {
+            version: "-1".into(),
+            bemani: "0".into(),
+            category: "0".into(),
+        }
+    }
+}
+
 struct FetchedPage {
     page_num: usize,
     html_string: String,
@@ -253,6 +271,9 @@ struct FetchedPage {
 struct Selectors {
     list_items: Selector,
     page_select_options: Selector,
+    version_options: Selector,
+    bemani_options: Selector,
+    category_options: Selector,
     item_image: Selector,
     item_info: Selector,
     item_level_span: Selector,
@@ -263,11 +284,67 @@ impl Selectors {
         Ok(Self {
             list_items: Selector::parse(r#"ul.mu_list_table:not(.mu_head) > li"#)?,
             page_select_options: Selector::parse(r#"select#s_page > option"#)?,
+            version_options: Selector::parse(r#"select#s_version > option"#)?,
+            bemani_options: Selector::parse(r#"select#s_bemani > option"#)?,
+            category_options: Selector::parse(r#"select#s_cate > option"#)?,
             item_image: Selector::parse(r#"img"#)?,
             item_info: Selector::parse(r#"p"#)?,
             item_level_span: Selector::parse(r#"span"#)?,
         })
     }
+}
+
+fn verify_filter_options(html: &str, selectors: &Selectors) -> anyhow::Result<()> {
+    use std::collections::HashSet;
+
+    let all_versions = get_all_versions();
+    let known_version_ids: HashSet<&str> = all_versions.iter().map(|v| v.id.as_ref()).collect();
+
+    let all_bemani = get_all_bemani();
+    let known_bemani_ids: HashSet<&str> = all_bemani.iter().map(|b| b.id.as_ref()).collect();
+
+    let all_categories = get_all_categories();
+    let known_category_ids: HashSet<&str> = all_categories.iter().map(|c| c.id.as_ref()).collect();
+
+    let document = Html::parse_document(html);
+
+    let unknown_versions: Vec<&str> = document
+        .select(&selectors.version_options)
+        .filter_map(|option| option.value().attr("value"))
+        .filter(|id| *id != "-1" && !known_version_ids.contains(id)) // "-1" = all versions sentinel
+        .collect();
+
+    anyhow::ensure!(
+        unknown_versions.is_empty(),
+        "Unknown version ids on site: {:?}",
+        unknown_versions
+    );
+
+    let unknown_bemani: Vec<&str> = document
+        .select(&selectors.bemani_options)
+        .filter_map(|option| option.value().attr("value"))
+        .filter(|id| *id != "0" && !known_bemani_ids.contains(id)) // "0" = no filter sentinel
+        .collect();
+
+    anyhow::ensure!(
+        unknown_bemani.is_empty(),
+        "Unknown bemani ids on site: {:?}",
+        unknown_bemani
+    );
+
+    let unknown_categories: Vec<&str> = document
+        .select(&selectors.category_options)
+        .filter_map(|option| option.value().attr("value"))
+        .filter(|id| *id != "0" && !known_category_ids.contains(id))
+        .collect();
+
+    anyhow::ensure!(
+        unknown_categories.is_empty(),
+        "Unknown recommendation category ids on site: {:?}",
+        unknown_categories
+    );
+
+    Ok(())
 }
 
 async fn fetch_pages_for_filter(
@@ -276,10 +353,14 @@ async fn fetch_pages_for_filter(
     filter: PageFilter,
     selectors: Arc<Selectors>,
     semaphore: Arc<Semaphore>,
+    prefetched_first_page: Option<FetchedPage>,
 ) -> anyhow::Result<Vec<ParsedSong>> {
-    let first_page = {
-        let _permit = Arc::clone(&semaphore).acquire_owned().await.unwrap();
-        get_page_content(&client, base_url, 0, &filter).await?
+    let first_page = match prefetched_first_page {
+        Some(page) => page,
+        None => {
+            let _permit = Arc::clone(&semaphore).acquire_owned().await.unwrap();
+            get_page_content(&client, base_url, 0, &filter).await?
+        }
     };
 
     let last_page = parse_for_last_page(&first_page.html_string, &selectors)?;
