@@ -215,7 +215,7 @@ where
             //    .replacen("/game/sdvx/vi/music/detail.html?music_id=", "", 1);
             //assert!(!id.contains('/'));
 
-            let image = music_entry
+            let image_id = music_entry
                 .select(&selectors.item_image)
                 .next()
                 .unwrap()
@@ -225,7 +225,7 @@ where
                 .to_owned();
 
             Song {
-                image,
+                image_id,
                 title,
                 artist,
                 categories: genres,

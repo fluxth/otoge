@@ -195,7 +195,7 @@ where
             let key = SongKey::from_parsed(&parsed);
 
             songs.push(Song {
-                image: parsed.image,
+                image_id: parsed.image_id,
                 genre: parsed.genre,
                 title: parsed.title,
                 artist: parsed.artist,
@@ -217,7 +217,7 @@ struct SongKey {
     title: String,
     artist: String,
     genre: String,
-    image: String,
+    image_id: String,
 }
 
 impl SongKey {
@@ -226,7 +226,7 @@ impl SongKey {
             title: parsed.title.clone(),
             artist: parsed.artist.clone(),
             genre: parsed.genre.clone(),
-            image: parsed.image.clone(),
+            image_id: parsed.image_id.clone(),
         }
     }
 }
@@ -238,7 +238,7 @@ enum FilterResult {
 }
 
 struct ParsedSong {
-    image: String,
+    image_id: String,
     genre: String,
     title: String,
     artist: String,
@@ -469,7 +469,7 @@ fn parse_songs_from_page(html_str: &str, selectors: &Selectors) -> anyhow::Resul
                 chunk.len()
             );
 
-            let image = chunk[0]
+            let image_id = chunk[0]
                 .select(&selectors.item_image)
                 .next()
                 .ok_or_else(|| anyhow::anyhow!("Song item missing img element"))?
@@ -514,7 +514,7 @@ fn parse_songs_from_page(html_str: &str, selectors: &Selectors) -> anyhow::Resul
             }
 
             Ok(ParsedSong {
-                image,
+                image_id,
                 genre,
                 title,
                 artist,

@@ -87,7 +87,7 @@ pub struct Song {
     title: String,
     title_reading: String,
     artist: String,
-    image: String,
+    image_id: String,
     pub category: String,
 
     is_new: bool,
@@ -106,7 +106,7 @@ impl From<SongFromAPI> for Song {
             title: other.title,
             title_reading: other.title_reading,
             artist: other.artist,
-            image: other.image,
+            image_id: other.image,
             category: other.category,
             is_new: other.is_new,
             levels: other.levels,

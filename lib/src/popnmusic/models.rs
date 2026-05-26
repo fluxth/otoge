@@ -27,7 +27,7 @@ pub struct LevelMap {
 
 #[derive(Debug, Serialize, Deserialize, PartialEq, Eq, Hash)]
 pub struct Song {
-    pub image: String,
+    pub image_id: String,
     pub genre: String,
     pub title: String,
     pub artist: String,

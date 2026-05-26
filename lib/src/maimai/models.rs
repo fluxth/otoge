@@ -136,7 +136,7 @@ pub struct Song {
     title: String,
     title_reading: String,
     artist: String,
-    image: String,
+    image_id: String,
     pub category: String,
     version: String,
     #[serde(skip_serializing_if = "Option::is_none")]
@@ -161,7 +161,7 @@ impl From<SongFromAPI> for Song {
             title: other.title,
             title_reading: other.title_reading,
             artist: other.artist,
-            image: other.image,
+            image_id: other.image,
             category: other.category,
             version: other.version,
             is_new: other.is_new,

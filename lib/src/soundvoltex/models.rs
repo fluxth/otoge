@@ -41,7 +41,7 @@ pub struct Category {
 pub struct Song {
     // FIXME: id changes regularly
     // pub id: String,
-    pub image: String,
+    pub image_id: String,
     pub title: String,
     pub artist: String,
     pub categories: Vec<Category>,
