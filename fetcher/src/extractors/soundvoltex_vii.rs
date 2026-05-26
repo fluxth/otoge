@@ -11,10 +11,10 @@ use otoge::{
     soundvoltex::models::{Category, LevelMap, Song},
 };
 
-pub struct SoundVoltexVIExtractor;
+pub struct SoundVoltexVIIExtractor;
 
 #[async_trait]
-impl<G> Extractor<G> for SoundVoltexVIExtractor
+impl<G> Extractor<G> for SoundVoltexVIIExtractor
 where
     G: Otoge + FetchTask<G>,
     G::Song: Send,

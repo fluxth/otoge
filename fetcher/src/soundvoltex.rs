@@ -3,7 +3,7 @@ use std::collections::HashSet;
 use anyhow::{Result, ensure};
 use async_trait::async_trait;
 
-use crate::extractors::soundvoltex_vi::SoundVoltexVIExtractor;
+use crate::extractors::soundvoltex_vii::SoundVoltexVIIExtractor;
 use crate::traits::FetchTask;
 use otoge::shared::traits::Otoge;
 use otoge::soundvoltex::SoundVoltex;
@@ -12,10 +12,10 @@ use otoge::soundvoltex::models::{DataStore, Song};
 #[async_trait]
 impl FetchTask<Self> for SoundVoltex {
     type ApiSong = Song;
-    type Extractor = SoundVoltexVIExtractor;
+    type Extractor = SoundVoltexVIIExtractor;
 
     fn api_url() -> &'static str {
-        "https://p.eagate.573.jp/game/sdvx/vi/music/index.html"
+        "https://p.eagate.573.jp/game/sdvx/vii/music/index.html"
     }
 
     fn new_data_store(songs: Vec<<Self as Otoge>::Song>) -> <Self as Otoge>::DataStore {
