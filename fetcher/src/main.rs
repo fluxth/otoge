@@ -48,15 +48,19 @@ async fn main() -> Result<()> {
         env!("CARGO_PKG_VERSION")
     );
 
+    let client = reqwest::Client::builder()
+        .user_agent(DEFAULT_USER_AGENT)
+        .build()?;
+
     let mut joinset: JoinSet<(&'static str, Result<()>)> = JoinSet::new();
-    joinset.spawn(run::<SoundVoltex>());
-    joinset.spawn(run::<PopNMusic>());
-    joinset.spawn(run::<ChunithmJP>());
-    joinset.spawn(run::<ChunithmIntl>());
-    joinset.spawn(run::<Ongeki>());
-    joinset.spawn(run::<MaimaiJP>());
-    joinset.spawn(run::<MaimaiIntl>());
-    joinset.spawn(run::<PolarisChord>());
+    joinset.spawn(run::<SoundVoltex>(client.clone()));
+    joinset.spawn(run::<PopNMusic>(client.clone()));
+    joinset.spawn(run::<ChunithmJP>(client.clone()));
+    joinset.spawn(run::<ChunithmIntl>(client.clone()));
+    joinset.spawn(run::<Ongeki>(client.clone()));
+    joinset.spawn(run::<MaimaiJP>(client.clone()));
+    joinset.spawn(run::<MaimaiIntl>(client.clone()));
+    joinset.spawn(run::<PolarisChord>(client));
 
     let mut return_result = Ok(());
 
@@ -75,7 +79,7 @@ async fn main() -> Result<()> {
     return_result
 }
 
-async fn run<G>() -> (&'static str, Result<()>)
+async fn run<G>(client: reqwest::Client) -> (&'static str, Result<()>)
 where
     G: Otoge + FetchTask<G>,
     G::Extractor: Extractor<G>,
@@ -83,10 +87,10 @@ where
     G::ApiSong: serde::de::DeserializeOwned,
     G::DataStore: DataStoreTrait + serde::de::DeserializeOwned + serde::Serialize,
 {
-    (G::name(), process::<G>().await)
+    (G::name(), process::<G>(client).await)
 }
 
-async fn process<G>() -> Result<()>
+async fn process<G>(client: reqwest::Client) -> Result<()>
 where
     G: Otoge + FetchTask<G>,
     G::Extractor: Extractor<G>,
@@ -99,10 +103,6 @@ where
     let data_path = Path::new(DATA_PATH);
     let data_dir = G::data_path(Some(data_path));
     tokio::fs::create_dir_all(&data_dir).await?;
-
-    let client = reqwest::Client::builder()
-        .user_agent(DEFAULT_USER_AGENT)
-        .build()?;
 
     let local_data_store = load_local_data_store::<G>(Some(data_path))
         .instrument(info_span!("load_local", name))
