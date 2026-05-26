@@ -480,8 +480,8 @@ fn parse_songs_from_page(html_str: &str, selectors: &Selectors) -> anyhow::Resul
 
             let info_nodes: Vec<_> = chunk[1].select(&selectors.item_info).collect();
             anyhow::ensure!(
-                info_nodes.len() >= 3,
-                "Expected at least 3 info nodes, got {}",
+                info_nodes.len() == 3,
+                "Expected 3 info nodes, got {}",
                 info_nodes.len()
             );
             let genre = info_nodes[0].text().collect::<Vec<_>>().join("");
