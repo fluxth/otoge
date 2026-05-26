@@ -14,6 +14,10 @@ impl Otoge for SoundVoltex {
     fn name() -> &'static str {
         "soundvoltex"
     }
+
+    fn image_url(image_id: &str) -> String {
+        format!("https://p.eagate.573.jp{}", image_id)
+    }
 }
 
 pub(crate) fn get_all_categories() -> Vec<Category> {
