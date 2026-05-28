@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1074
-last_updated = "2026-05-14T04:18:22.030058325Z"
+count = 1075
+last_updated = "2026-05-28T04:26:24.984558911Z"
 
 [[songs]]
 id = "582300"
@@ -31262,7 +31262,7 @@ title_reading = "キスキツネ"
 artist = "HIMEHINA"
 date = "2026-05-14"
 image_id = "e2079e73e216fefc.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©LaRa"
@@ -31292,7 +31292,7 @@ title_reading = "WWW"
 artist = "HIMEHINA"
 date = "2026-05-14"
 image_id = "51867fb25fafe80e.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©LaRa"
@@ -31322,7 +31322,7 @@ title_reading = "ウタカタヨイカナイテ"
 artist = "HIMEHINA"
 date = "2026-05-14"
 image_id = "e70a64004a62cec6.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©LaRa"
@@ -31344,6 +31344,39 @@ master = "12+"
 [songs.character]
 id = "6290"
 name = "ヒメヒナ"
+
+[[songs]]
+id = "165100"
+title = "Paranormal Cluster"
+title_reading = "PARANORMALCLUSTER"
+artist = "歌：ぱらすと！／作曲作詞：ZAQ／編曲：eba"
+date = "2026-05-28"
+image_id = "5b692679c9d480c9.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = """
+©2023 Parallel Artist Project\r
+℗2025 Parallel Artist Project\r
+© 2025 by DAIICHIKOSHO MUSIC PUBLISHING, INC., Nippon Television Music Corporation ＆ ClaN Entertainment inc. All rights reserved"""
+
+[songs.chapter]
+id = "99146"
+name = "ぱらすと！"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "11"
+master = "13+"
+
+[songs.character]
+id = "7102"
+name = "柑原あさひ"
 
 [[categories]]
 id = "06"

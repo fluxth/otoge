@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1692
-last_updated = "2026-05-14T04:18:22.041850365Z"
+count = 1697
+last_updated = "2026-05-28T04:26:24.997965735Z"
 
 [[songs]]
 id = "2979"
@@ -9,7 +9,7 @@ title_reading = "キスキツネ"
 artist = "HIMEHINA"
 image_id = "70736c900114d732.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "WWW"
 artist = "HIMEHINA"
 image_id = "5cb62363cba66f4b.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -40,7 +40,7 @@ title_reading = "ウタカタヨイカナイテ"
 artist = "HIMEHINA"
 image_id = "ef2c22c0f97703cc.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2245,7 +2245,7 @@ title_reading = "カヘンソレニマツワルオンセイ"
 artist = "あばらや"
 image_id = "f2c93f26b6568653.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2260,7 +2260,7 @@ title_reading = "アイシテアイシテアイシテ"
 artist = "きくお"
 image_id = "9085fe54856f6bb7.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -10915,6 +10915,81 @@ is_new = false
 [songs.levels]
 basic = "3"
 advanced = "7+"
+expert = "12+"
+master = "14"
+
+[[songs]]
+id = "2983"
+title = "BANG!"
+title_reading = "BANG"
+artist = "Shoichiro Hirata feat.Sana"
+image_id = "90a54b8193f98424.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "2984"
+title = "All Over Again"
+title_reading = "ALLOVERAGAIN"
+artist = "Zekk"
+image_id = "aafad30a3392956e.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "2985"
+title = "Amatsu"
+title_reading = "AMATSU"
+artist = "Juggernaut."
+image_id = "04df7bc962d5078d.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "11"
+master = "14+"
+
+[[songs]]
+id = "2986"
+title = "Reverie ft. xia"
+title_reading = "REVERIEFTXIA"
+artist = "Gardens"
+image_id = "af86935ed9ff3ae8.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "11+"
+master = "14+"
+
+[[songs]]
+id = "2987"
+title = "Imprinting"
+title_reading = "IMRINTING"
+artist = "Sakuzyo"
+image_id = "7e446b403499e42c.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8"
 expert = "12+"
 master = "14"
 
