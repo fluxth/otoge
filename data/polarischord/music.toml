@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 394
-last_updated = "2026-04-27T04:12:04.403322328Z"
+count = 397
+last_updated = "2026-05-29T04:28:03.123276743Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6704,6 +6704,54 @@ artist = 'BEMANI Sound Team "めめめ”'
 easy = 3
 normal = 6
 hard = 11
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "5d7871b475bd51e78a852e4ed982efbc"
+title = "混乱少女♥そふらんちゃん!!"
+artist = "かめりあ feat. ななひら"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "0ed7e847d1f4eca58296e263d54e5529"
+title = "ヤサイマシ☆ニンニクアブラオオメ"
+artist = "azuma feat. ななひら"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "2481129e7d3f0c2e76431c5227c2a29f"
+title = "じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～"
+artist = "かめりあ feat. ななひら"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
 influence = 12
 
 [[songs.categories]]
