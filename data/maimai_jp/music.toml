@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1540
-last_updated = "2026-05-14T04:18:22.049852183Z"
+count = 1545
+last_updated = "2026-05-29T04:28:02.830071706Z"
 
 [[songs]]
 id = "1137"
@@ -25274,7 +25274,7 @@ image_id = "a9567047ac19c427.png"
 category = "POPS＆アニメ"
 version = "26506"
 release = "2026-05-14"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25292,7 +25292,7 @@ image_id = "b873005e6463213c.png"
 category = "POPS＆アニメ"
 version = "26506"
 release = "2026-05-14"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25310,7 +25310,7 @@ image_id = "17b2fa631b0824d7.png"
 category = "POPS＆アニメ"
 version = "26506"
 release = "2026-05-14"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25318,6 +25318,61 @@ basic = "3"
 advanced = "7"
 expert = "10"
 master = "13"
+
+[[songs]]
+id = "127"
+title = "Intergalactic Bound"
+title_reading = "INTERGALACTICBOUND"
+artist = "Yunosuke / CircusP"
+image_id = "6e9ddddad4547a5c.png"
+category = "niconico＆ボーカロイド"
+version = "26507"
+release = "2026-05-29"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "128"
+title = "LEMON MELON COOKIE"
+title_reading = "LEMONMELONCOOKIE"
+artist = "TAK"
+image_id = "4231978adaae3582.png"
+category = "niconico＆ボーカロイド"
+version = "26507"
+release = "2026-05-29"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "11+"
+remaster = "13"
+
+[[songs]]
+id = "693"
+title = "3rd Avenue"
+title_reading = "3RDAVENUE"
+artist = "Sound Souler"
+image_id = "c395d1612b386275.png"
+category = "ゲーム＆バラエティ"
+version = "26507"
+release = "2026-05-29"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "13+"
 
 [[songs]]
 id = "1609"
@@ -26187,6 +26242,23 @@ kanji = "回"
 comment = "くるくる回る、お星さま。"
 
 [[songs]]
+id = "1528"
+title = "[即]Straight into the lights"
+title_reading = "STRAIGHTINTOTHELIGHTS"
+artist = "Cosmograph"
+image_id = "bb049831e2c0b573.png"
+category = "宴会場"
+version = "26507"
+release = "2026-05-29"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14+?"
+kanji = "即"
+comment = "ごめんなさい、今は急がないと"
+
+[[songs]]
 id = "1549"
 title = "[餡]隠密あんみつDX"
 title_reading = "オンミツアンミツDX"
@@ -26576,6 +26648,23 @@ is_locked = false
 level = "11?"
 kanji = "充"
 comment = "目と目を合わせて舞を分け合おう"
+
+[[songs]]
+id = "1529"
+title = "[覚]3rd Avenue"
+title_reading = "3RDAVENUE"
+artist = "Sound Souler"
+image_id = "c395d1612b386275.png"
+category = "宴会場"
+version = "26507"
+release = "2026-05-29"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "12?"
+kanji = "覚"
+comment = "Mai Dimension"
 
 [[songs]]
 id = "1602"
