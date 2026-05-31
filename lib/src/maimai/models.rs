@@ -5,7 +5,7 @@ use std::borrow::Cow;
 use crate::shared::deserializers::{
     all_default_values_as_none, bool_from_option_string, empty_string_as_none,
 };
-use crate::shared::traits::DataStore as DataStoreTrait;
+use crate::shared::traits::{DataStore as DataStoreTrait, SongImage, SongMetadata};
 
 use super::deserializers::deserialize_date;
 
@@ -99,7 +99,7 @@ pub struct SongFromAPI {
     title_reading: String,
     artist: String,
     #[serde(rename(deserialize = "image_url"))]
-    image: String,
+    image_id: String,
     #[serde(rename(deserialize = "catcode"))]
     category: String,
     #[serde(deserialize_with = "deserialize_date")]
@@ -137,6 +137,8 @@ pub struct Song {
     title_reading: String,
     artist: String,
     image_id: String,
+    #[serde(default)]
+    pub image_file: Option<String>,
     pub category: String,
     version: String,
     #[serde(skip_serializing_if = "Option::is_none")]
@@ -161,7 +163,8 @@ impl From<SongFromAPI> for Song {
             title: other.title,
             title_reading: other.title_reading,
             artist: other.artist,
-            image_id: other.image,
+            image_id: other.image_id,
+            image_file: None,
             category: other.category,
             version: other.version,
             is_new: other.is_new,
@@ -202,9 +205,43 @@ impl DataStore {
 }
 
 impl DataStoreTrait for DataStore {
+    type Song = Song;
+
     fn data_differs(&self, other: &Self) -> bool {
         self.count != other.count
             || !self.songs.iter().eq(other.songs.iter())
             || !self.categories.iter().eq(other.categories.iter())
+    }
+
+    fn songs(&self) -> &[Song] {
+        &self.songs
+    }
+
+    fn songs_mut(&mut self) -> &mut Vec<Song> {
+        &mut self.songs
+    }
+}
+
+impl SongImage for Song {
+    fn image_id(&self) -> &str {
+        &self.image_id
+    }
+
+    fn image_file(&self) -> Option<&str> {
+        self.image_file.as_deref()
+    }
+
+    fn set_image_file(&mut self, value: Option<String>) {
+        self.image_file = value;
+    }
+}
+
+impl SongMetadata for Song {
+    fn title(&self) -> &str {
+        &self.title
+    }
+
+    fn artist(&self) -> &str {
+        &self.artist
     }
 }

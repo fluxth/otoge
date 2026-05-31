@@ -14,6 +14,10 @@ impl Otoge for PopNMusic {
     fn name() -> &'static str {
         "popnmusic"
     }
+
+    fn image_url(image_id: &str) -> String {
+        format!("https://p.eagate.573.jp{}", image_id)
+    }
 }
 
 pub fn get_all_versions() -> Vec<Category> {

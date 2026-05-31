@@ -13,6 +13,13 @@ impl Otoge for ChunithmJP {
     fn name() -> &'static str {
         "chunithm_jp"
     }
+
+    fn image_url(image_id: &str) -> String {
+        format!(
+            "https://new.chunithm-net.com/chuni-mobile/html/mobile/img/{}",
+            image_id
+        )
+    }
 }
 
 pub struct ChunithmIntl;
@@ -22,6 +29,10 @@ impl Otoge for ChunithmIntl {
 
     fn name() -> &'static str {
         "chunithm_intl"
+    }
+
+    fn image_url(image_id: &str) -> String {
+        format!("https://chunithm-net-eng.com/mobile/img/{}", image_id)
     }
 }
 
