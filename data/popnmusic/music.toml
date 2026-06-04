@@ -1,6 +1,6 @@
 name = "popnmusic"
-count = 1980
-last_updated = "2026-05-26T04:24:52.605005218Z"
+count = 1981
+last_updated = "2026-06-04T04:29:47.088842106Z"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=0VU9Chj0Ll0A3XT8g9%2BAZ1Oh0wnV3kt%2BEV6yBWR1U4jI5qQWAmU2AbfmJIQW9MUa"
@@ -20031,6 +20031,26 @@ name = "pop'n music Sunny Park"
 [[songs.bemani]]
 id = "6"
 name = "SOUND VOLTEX"
+
+[[songs]]
+image_id = "/game/popn/popn29/images/img_binary.html?img=0VU9Chj0Ll0A3XT8g9%2BAZ5cRO/mmesnvcsrpfxCncC7I5qQWAmU2AbfmJIQW9MUa"
+genre = "エピックノヴァ"
+title = "Vi∀"
+artist = "不知火フレア Prod.by PON"
+
+[songs.levels]
+light = "10"
+normal = "26"
+hyper = "41"
+ex = "47"
+
+[songs.version]
+id = "29"
+name = "pop'n music High☆Cheers!!"
+
+[[songs.recommendation_categories]]
+id = "1"
+name = "オススメ"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=0VU9Chj0Ll0A3XT8g9%2BAZzdRaejlg7vpjRvUF6hKrUfI5qQWAmU2AbfmJIQW9MUa"
