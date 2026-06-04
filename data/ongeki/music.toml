@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1075
-last_updated = "2026-05-28T04:26:24.984558911Z"
+count = 1078
+last_updated = "2026-06-04T04:29:36.089098944Z"
 
 [[songs]]
 id = "582300"
@@ -31352,7 +31352,7 @@ title_reading = "PARANORMALCLUSTER"
 artist = "歌：ぱらすと！／作曲作詞：ZAQ／編曲：eba"
 date = "2026-05-28"
 image_id = "5b692679c9d480c9.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -31377,6 +31377,94 @@ master = "13+"
 [songs.character]
 id = "7102"
 name = "柑原あさひ"
+
+[[songs]]
+id = "165800"
+title = "Sweet Illusion (feat. DÉ DÉ MOUSE)"
+title_reading = "SWEETILLUSIONFEATDEDEMOUSE"
+artist = "白金 煌 (CV: 小宮有紗)"
+date = "2026-06-04"
+image_id = "0c7afdb586b20a03.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "電音部™＆ ©Bandai Namco Entertainment Inc."
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "1150"
+name = "柏木 美亜"
+
+[[songs]]
+id = "716000"
+title = "最っ高のエンタメだ!! -井之原 小星ソロver.-"
+title_reading = "サイツコウノエンタメタイノハラコホシソロVER"
+artist = "曲：本田正樹(Dream Monster)／歌：井之原 小星(CV：ももの はるな)"
+date = "2026-06-04"
+image_id = "b9738d23ddebe026.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "04004"
+name = "想い、繋がって"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "7+"
+expert = "12"
+master = "13+"
+
+[songs.character]
+id = "1090"
+name = "井之原 小星"
+
+[[songs]]
+id = "716100"
+title = "最っ高のエンタメだ!! -柏木 咲姫ソロver.-"
+title_reading = "サイツコウノエンタメタカシワキサキソロVER"
+artist = "曲：本田正樹(Dream Monster)／歌：柏木 咲姫(CV：石見 舞菜香)"
+date = "2026-06-04"
+image_id = "179ef564768c4e09.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "04004"
+name = "想い、繋がって"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "7+"
+expert = "12"
+master = "13+"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
 
 [[categories]]
 id = "06"
