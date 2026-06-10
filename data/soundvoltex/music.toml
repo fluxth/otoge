@@ -1,6 +1,6 @@
 name = "soundvoltex"
-count = 2205
-last_updated = "2026-02-28T03:34:59.247990629Z"
+count = 2203
+last_updated = "2026-06-10T04:29:08.750598149Z"
 
 [[songs]]
 image_id = "/game/sdvx/vi/common/jacket.html?img=DR3HZtoGQC1vDqdvYlL9Cg"
@@ -4753,36 +4753,6 @@ name = "FLOOR"
 novice = "5"
 advanced = "12"
 exhaust = "15"
-maximum = "17"
-
-[[songs]]
-image_id = "/game/sdvx/vi/common/jacket.html?img=Ok5wo7FbnVji35qoHlhv8Q"
-title = "Realize／アニメ「Re:ゼロから始める異世界生活」より"
-artist = "鈴木このみ"
-
-[[songs.categories]]
-id = "pops"
-name = "POPS&アニメ"
-
-[songs.levels]
-novice = "3"
-advanced = "9"
-exhaust = "14"
-maximum = "17"
-
-[[songs]]
-image_id = "/game/sdvx/vi/common/jacket.html?img=acp65PNcaH2Hnzokn3iflA"
-title = "Redo／アニメ「Re:ゼロから始める異世界生活」より"
-artist = "鈴木このみ"
-
-[[songs.categories]]
-id = "pops"
-name = "POPS&アニメ"
-
-[songs.levels]
-novice = "2"
-advanced = "10"
-exhaust = "14"
 maximum = "17"
 
 [[songs]]
