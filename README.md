@@ -13,6 +13,6 @@ Music games metadata
 | [O.N.G.E.K.I.](https://ongeki.sega.jp/)                        |  1078 |  2026-06-04  |    [View](data/ongeki/music.toml)     |
 | [Polaris Chord](https://p.eagate.573.jp/game/polarischord/pc/) |   397 |  2026-05-29  | [View](data/polarischord/music.toml)  |
 | [pop'n music](https://p.eagate.573.jp/game/popn/popn29/)       |  1981 |  2026-06-04  |   [View](data/popnmusic/music.toml)   |
-| [SOUND VOLTEX](https://p.eagate.573.jp/game/sdvx/vi/)          |  2203 |  2026-06-10  |  [View](data/soundvoltex/music.toml)  |
+| [SOUND VOLTEX](https://p.eagate.573.jp/game/sdvx/vii/)         |  2203 |  2026-06-10  |  [View](data/soundvoltex/music.toml)  |
 
 <!-- SONG_DB_END -->

@@ -26,7 +26,7 @@ game_url() {
         ongeki)        echo "https://ongeki.sega.jp/" ;;
         polarischord)  echo "https://p.eagate.573.jp/game/polarischord/pc/" ;;
         popnmusic)     echo "https://p.eagate.573.jp/game/popn/popn29/" ;;
-        soundvoltex)   echo "https://p.eagate.573.jp/game/sdvx/vi/" ;;
+        soundvoltex)   echo "https://p.eagate.573.jp/game/sdvx/vii/" ;;
         *)             echo "" ;;
     esac
 }
