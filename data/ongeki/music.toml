@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1078
-last_updated = "2026-06-04T04:29:36.089098944Z"
+count = 1081
+last_updated = "2026-06-11T04:29:19.651171203Z"
 
 [[songs]]
 id = "582300"
@@ -31385,7 +31385,7 @@ title_reading = "SWEETILLUSIONFEATDEDEMOUSE"
 artist = "白金 煌 (CV: 小宮有紗)"
 date = "2026-06-04"
 image_id = "0c7afdb586b20a03.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "電音部™＆ ©Bandai Namco Entertainment Inc."
@@ -31415,7 +31415,7 @@ title_reading = "サイツコウノエンタメタイノハラコホシソロVER
 artist = "曲：本田正樹(Dream Monster)／歌：井之原 小星(CV：ももの はるな)"
 date = "2026-06-04"
 image_id = "b9738d23ddebe026.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -31444,7 +31444,7 @@ title_reading = "サイツコウノエンタメタカシワキサキソロVER"
 artist = "曲：本田正樹(Dream Monster)／歌：柏木 咲姫(CV：石見 舞菜香)"
 date = "2026-06-04"
 image_id = "179ef564768c4e09.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -31465,6 +31465,94 @@ master = "13+"
 [songs.character]
 id = "1100"
 name = "柏木 咲姫"
+
+[[songs]]
+id = "165900"
+title = "PRECIOUS NIGHT (Prod.ハレトキドキ)"
+title_reading = "PRECIOUSNIGHTPRODハレトキトキ"
+artist = "黒鉄たま (CV: 秋奈)"
+date = "2026-06-11"
+image_id = "bc9aae775f57183c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "電音部™＆ ©Bandai Namco Entertainment Inc."
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "11+"
+master = "14"
+
+[songs.character]
+id = "1080"
+name = "早乙女 彩華"
+
+[[songs]]
+id = "716200"
+title = "Handmade Good Day -珠洲島 有栖ソロver.-"
+title_reading = "HANDMADEGOODDAYススシマアリスソロVER"
+artist = "曲：矢鴇つかさ（Arte Refact）／歌：珠洲島 有栖(CV：長縄 まりあ)"
+date = "2026-06-11"
+image_id = "9983a73e10e15db4.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80018"
+name = "有栖とセツナのチョコっとクッキング"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
+
+[[songs]]
+id = "716300"
+title = "Handmade Good Day -皇城 セツナソロver.-"
+title_reading = "HANDMADEGOODDAYスメラキセツナソロVER"
+artist = "曲：矢鴇つかさ（Arte Refact）／歌：皇城 セツナ(CV：八巻 アンナ)"
+date = "2026-06-11"
+image_id = "d3a55c5a1108188d.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80018"
+name = "有栖とセツナのチョコっとクッキング"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12"
+
+[songs.character]
+id = "1170"
+name = "皇城 セツナ"
 
 [[categories]]
 id = "06"

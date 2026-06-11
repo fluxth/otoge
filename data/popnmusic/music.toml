@@ -1,6 +1,6 @@
 name = "popnmusic"
-count = 1981
-last_updated = "2026-06-04T04:29:47.088842106Z"
+count = 1982
+last_updated = "2026-06-11T04:29:29.986628400Z"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=0VU9Chj0Ll0A3XT8g9%2BAZ1Oh0wnV3kt%2BEV6yBWR1U4jI5qQWAmU2AbfmJIQW9MUa"
@@ -15904,6 +15904,22 @@ name = "pop'n music 9"
 [[songs.bemani]]
 id = "1"
 name = "beatmania IIDX"
+
+[[songs]]
+image_id = "/game/popn/popn29/images/img_binary.html?img=0VU9Chj0Ll0A3XT8g9%2BAZ/0VNz/RRCc/ecboWyeQEqPI5qQWAmU2AbfmJIQW9MUa"
+genre = "リプルトーン"
+title = "SeLaS"
+artist = "m@sumi"
+
+[songs.levels]
+light = "9"
+normal = "25"
+hyper = "37"
+ex = "46"
+
+[songs.version]
+id = "29"
+name = "pop'n music High☆Cheers!!"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=0VU9Chj0Ll0A3XT8g9%2BAZ1p22I2kg9yuSQ%2BT0RC37zTI5qQWAmU2AbfmJIQW9MUa"
