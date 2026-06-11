@@ -1,6 +1,81 @@
 name = "chunithm_jp"
-count = 1697
-last_updated = "2026-05-28T04:26:24.997965735Z"
+count = 1703
+last_updated = "2026-06-11T04:29:19.599064227Z"
+
+[[songs]]
+id = "2989"
+title = "恋せよ乙女！"
+title_reading = "コイセヨオトメ"
+artist = "歌：米倉千尋 作詞：Riryka（AngelNote） 作曲：Famishin（ゆずソフト） 編曲：井ノ原 智（AngelNote）「サノバウィッチ」"
+image_id = "5ec4de7c738cb87e.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "2990"
+title = "sweet treasure"
+title_reading = "SWEETTREASURE"
+artist = "歌：綾地寧々（CV：桐谷華） 作詞：中山♡マミ（AngelNote） 作曲：篠原瑞希 編曲：篠原瑞希「サノバウィッチ」"
+image_id = "818cb4ac95f3ae94.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "8+"
+master = "12"
+
+[[songs]]
+id = "3004"
+title = "さくらんぼキッス～爆発だも～ん～"
+title_reading = "サクランホキツスハクハツタモン"
+artist = "KOTOKO"
+image_id = "0b70031a11871a45.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9"
+master = "12"
+
+[[songs]]
+id = "2992"
+title = "空気力学少女と少年の詩"
+title_reading = "クウキリキカクシヨウシヨトシヨウネンノウタ"
+artist = "はな"
+image_id = "10bd07e8f753a5ce.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
+
+[[songs]]
+id = "2993"
+title = "こころに響く恋ほたる"
+title_reading = "ココロニヒヒクコイホタル"
+artist = "橋本みゆき"
+image_id = "44b4e5af3c673738.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "8"
+master = "11+"
 
 [[songs]]
 id = "2979"
@@ -10925,7 +11000,7 @@ title_reading = "BANG"
 artist = "Shoichiro Hirata feat.Sana"
 image_id = "90a54b8193f98424.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -10940,7 +11015,7 @@ title_reading = "ALLOVERAGAIN"
 artist = "Zekk"
 image_id = "aafad30a3392956e.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10955,7 +11030,7 @@ title_reading = "AMATSU"
 artist = "Juggernaut."
 image_id = "04df7bc962d5078d.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10970,7 +11045,7 @@ title_reading = "REVERIEFTXIA"
 artist = "Gardens"
 image_id = "af86935ed9ff3ae8.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10985,7 +11060,7 @@ title_reading = "IMRINTING"
 artist = "Sakuzyo"
 image_id = "7e446b403499e42c.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -14928,6 +15003,21 @@ expert = "10"
 master = "13"
 
 [[songs]]
+id = "2988"
+title = "Re:Still"
+title_reading = "RESTILL"
+artist = "イロドリミドリ"
+image_id = "e438d6eaaf6d96c5.jpg"
+category = "イロドリミドリ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8+"
+expert = "11+"
+master = "15"
+
+[[songs]]
 id = "226"
 title = "Garakuta Doll Play"
 title_reading = "GARAKUTADOLLPLAY"
@@ -18757,6 +18847,7 @@ basic = "4"
 advanced = "7"
 expert = "12"
 master = "14+"
+ultima = "15"
 
 [[songs]]
 id = "248"
