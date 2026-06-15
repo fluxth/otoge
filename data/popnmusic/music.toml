@@ -1,6 +1,6 @@
 name = "popnmusic"
 count = 1982
-last_updated = "2026-06-11T04:29:29.986628400Z"
+last_updated = "2026-06-15T04:30:32.661144724Z"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=0VU9Chj0Ll0A3XT8g9%2BAZ1Oh0wnV3kt%2BEV6yBWR1U4jI5qQWAmU2AbfmJIQW9MUa"
@@ -2386,6 +2386,10 @@ ex = "44"
 [songs.version]
 id = "21"
 name = "pop'n music Sunny Park"
+
+[[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
 
 [[songs.bemani]]
 id = "4"
@@ -15524,6 +15528,10 @@ ex = "44"
 [songs.version]
 id = "21"
 name = "pop'n music Sunny Park"
+
+[[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
 
 [[songs.bemani]]
 id = "2"
@@ -30273,6 +30281,10 @@ name = "pop'n music High☆Cheers!!"
 id = "2"
 name = "DanceDanceRevolution"
 
+[[songs.bemani]]
+id = "6"
+name = "SOUND VOLTEX"
+
 [[songs.recommendation_categories]]
 id = "3"
 name = "ひなビタ♪"
@@ -32229,6 +32241,10 @@ name = "pop'n music High☆Cheers!!"
 [[songs.bemani]]
 id = "2"
 name = "DanceDanceRevolution"
+
+[[songs.bemani]]
+id = "6"
+name = "SOUND VOLTEX"
 
 [[songs.recommendation_categories]]
 id = "3"
@@ -34503,6 +34519,10 @@ name = "pop'n music High☆Cheers!!"
 id = "2"
 name = "DanceDanceRevolution"
 
+[[songs.bemani]]
+id = "6"
+name = "SOUND VOLTEX"
+
 [[songs.recommendation_categories]]
 id = "3"
 name = "ひなビタ♪"
@@ -34765,6 +34785,10 @@ name = "pop'n music High☆Cheers!!"
 [[songs.bemani]]
 id = "2"
 name = "DanceDanceRevolution"
+
+[[songs.bemani]]
+id = "6"
+name = "SOUND VOLTEX"
 
 [[songs.recommendation_categories]]
 id = "3"
@@ -42020,6 +42044,10 @@ name = "DanceDanceRevolution"
 [[songs.bemani]]
 id = "3"
 name = "GITADORA"
+
+[[songs.bemani]]
+id = "6"
+name = "SOUND VOLTEX"
 
 [[songs.recommendation_categories]]
 id = "3"
