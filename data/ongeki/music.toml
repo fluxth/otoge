@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1081
-last_updated = "2026-06-11T04:29:19.651171203Z"
+count = 1084
+last_updated = "2026-06-18T04:29:32.472767518Z"
 
 [[songs]]
 id = "582300"
@@ -31473,7 +31473,7 @@ title_reading = "PRECIOUSNIGHTPRODハレトキトキ"
 artist = "黒鉄たま (CV: 秋奈)"
 date = "2026-06-11"
 image_id = "bc9aae775f57183c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "電音部™＆ ©Bandai Namco Entertainment Inc."
@@ -31503,7 +31503,7 @@ title_reading = "HANDMADEGOODDAYススシマアリスソロVER"
 artist = "曲：矢鴇つかさ（Arte Refact）／歌：珠洲島 有栖(CV：長縄 まりあ)"
 date = "2026-06-11"
 image_id = "9983a73e10e15db4.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -31532,7 +31532,7 @@ title_reading = "HANDMADEGOODDAYスメラキセツナソロVER"
 artist = "曲：矢鴇つかさ（Arte Refact）／歌：皇城 セツナ(CV：八巻 アンナ)"
 date = "2026-06-11"
 image_id = "d3a55c5a1108188d.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -31553,6 +31553,94 @@ master = "12"
 [songs.character]
 id = "1170"
 name = "皇城 セツナ"
+
+[[songs]]
+id = "166000"
+title = "JUNGLE WAHHOI (Prod. YUC'e)"
+title_reading = "JUNGLEWAHHOIPRODYUCE"
+artist = "大賀ルキア (CV: 星川サラ)"
+date = "2026-06-18"
+image_id = "5b70b2a3f9528619.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "電音部™＆ ©Bandai Namco Entertainment Inc."
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "11+"
+master = "13+"
+
+[songs.character]
+id = "1140"
+name = "日向 千夏"
+
+[[songs]]
+id = "718300"
+title = "White Magic Night! -桜井 春菜ソロver.-"
+title_reading = "WHITEMAGICNIGHTサクライハルナソロVER"
+artist = "曲：矢鴇つかさ（Arte Refact）／歌：桜井 春菜(CV：近藤 玲奈)"
+date = "2026-06-18"
+image_id = "d779b8171e89521b.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80017"
+name = "私たちのクリスマス"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "12"
+
+[songs.character]
+id = "1070"
+name = "桜井 春菜"
+
+[[songs]]
+id = "718400"
+title = "White Magic Night! -柏木 咲姫ソロver.-"
+title_reading = "WHITEMAGICNIGHTカシワキサキソロVER"
+artist = "曲：矢鴇つかさ（Arte Refact）／歌：柏木 咲姫(CV：石見 舞菜香)"
+date = "2026-06-18"
+image_id = "671d089f49713580.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+
+[songs.chapter]
+id = "80017"
+name = "私たちのクリスマス"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "12"
+
+[songs.character]
+id = "1100"
+name = "柏木 咲姫"
 
 [[categories]]
 id = "06"
