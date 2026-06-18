@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1703
-last_updated = "2026-06-11T04:29:19.599064227Z"
+count = 1708
+last_updated = "2026-06-18T04:29:32.362819789Z"
 
 [[songs]]
 id = "2989"
@@ -9,7 +9,7 @@ title_reading = "コイセヨオトメ"
 artist = "歌：米倉千尋 作詞：Riryka（AngelNote） 作曲：Famishin（ゆずソフト） 編曲：井ノ原 智（AngelNote）「サノバウィッチ」"
 image_id = "5ec4de7c738cb87e.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "SWEETTREASURE"
 artist = "歌：綾地寧々（CV：桐谷華） 作詞：中山♡マミ（AngelNote） 作曲：篠原瑞希 編曲：篠原瑞希「サノバウィッチ」"
 image_id = "818cb4ac95f3ae94.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -39,7 +39,7 @@ title_reading = "サクランホキツスハクハツタモン"
 artist = "KOTOKO"
 image_id = "0b70031a11871a45.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -54,7 +54,7 @@ title_reading = "クウキリキカクシヨウシヨトシヨウネンノウタ
 artist = "はな"
 image_id = "10bd07e8f753a5ce.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -69,7 +69,7 @@ title_reading = "ココロニヒヒクコイホタル"
 artist = "橋本みゆき"
 image_id = "44b4e5af3c673738.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -15009,7 +15009,7 @@ title_reading = "RESTILL"
 artist = "イロドリミドリ"
 image_id = "e438d6eaaf6d96c5.jpg"
 category = "イロドリミドリ"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -16069,6 +16069,36 @@ expert = "13"
 master = "14+"
 
 [[songs]]
+id = "2994"
+title = "プリズム△▽リズム"
+title_reading = "フリスムリスム"
+artist = "Shoichiro Hirata feat.Sana"
+image_id = "21a8175a426fe563.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "12+"
+
+[[songs]]
+id = "2995"
+title = "ARAIS"
+title_reading = "ARAIS"
+artist = "千本松 仁"
+image_id = "30816e48cd846654.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "12+"
+master = "15"
+
+[[songs]]
 id = "2968"
 title = "PANDORA PARADOXXX"
 title_reading = "PANDORAPARADOXXX"
@@ -16506,6 +16536,21 @@ expert = "11"
 master = "14"
 
 [[songs]]
+id = "2997"
+title = "アイシング・ドリーム"
+title_reading = "アイシンクトリウム"
+artist = "曲：卯乃／歌：珠洲島 有栖(CV：長縄 まりあ)、西館 ハク(CV：佐藤 実季)"
+image_id = "8c990138062cb75a.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "12+"
+
+[[songs]]
 id = "2369"
 title = "絆はずっとGrowing Up!!!"
 title_reading = "キスナハスツトGROWINGUP"
@@ -16759,6 +16804,21 @@ basic = "3"
 advanced = "5"
 expert = "9"
 master = "12"
+
+[[songs]]
+id = "2996"
+title = "いちげき！のテーマ"
+title_reading = "イチケキノテウマ"
+artist = "曲：ヒゲドライバー／歌：いちげきしゅーたーず！"
+image_id = "316257c59546036c.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11+"
+master = "14"
 
 [[songs]]
 id = "973"
@@ -17779,6 +17839,21 @@ basic = "5"
 advanced = "8"
 expert = "13"
 master = "15"
+
+[[songs]]
+id = "2998"
+title = "Pastel Sprinkles"
+title_reading = "PASTELSPRINKLES"
+artist = "pan"
+image_id = "324dd04a986bf49a.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "12+"
+master = "14"
 
 [[songs]]
 id = "2969"

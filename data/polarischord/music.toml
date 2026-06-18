@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 397
-last_updated = "2026-05-29T04:28:03.123276743Z"
+count = 403
+last_updated = "2026-06-18T04:29:32.720325244Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6753,6 +6753,102 @@ easy = 3
 normal = 6
 hard = 9
 influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "4b08ab11015cc2d04bb9e3c08bc71e34"
+title = "れとりば！"
+artist = "OSTER project feat. 月ノ輪乃愛"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "ffddda9252b6ec82b7e948d9e78a5a23"
+title = "MURASAME"
+artist = "Hommarju"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "8cb8de6873775e9288d5d25ee1389a38"
+title = "Deep tenDon Reflex"
+artist = 'BEMANI Sound Team "Coyaan"'
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "cae53c9ff5428fc605356d136e4aee66"
+title = "断罪のミメシス"
+artist = "KE!JU"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "81d88a2fcca36b038cc50186b3876cd7"
+title = "Smintheus"
+artist = "TAN1CHU"
+
+[songs.levels]
+easy = 4
+normal = 8
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "a58b53c8d0a05ebd190dc02141fa4ec4"
+title = "Any%"
+artist = "めめめ"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 10
+influence = 13
 
 [[songs.categories]]
 bitflag = 6
