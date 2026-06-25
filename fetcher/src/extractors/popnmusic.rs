@@ -196,6 +196,7 @@ where
 
             songs.push(Song {
                 image_id: parsed.image_id,
+                image_file: None,
                 genre: parsed.genre,
                 title: parsed.title,
                 artist: parsed.artist,

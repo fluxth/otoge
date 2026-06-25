@@ -226,6 +226,7 @@ where
 
             Song {
                 image_id,
+                image_file: None,
                 title,
                 artist,
                 categories: genres,
