@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1084
-last_updated = "2026-06-18T04:29:32.472767518Z"
+count = 1087
+last_updated = "2026-06-25T04:23:57.939255559Z"
 
 [[songs]]
 id = "582300"
@@ -31561,7 +31561,7 @@ title_reading = "JUNGLEWAHHOIPRODYUCE"
 artist = "大賀ルキア (CV: 星川サラ)"
 date = "2026-06-18"
 image_id = "5b70b2a3f9528619.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "電音部™＆ ©Bandai Namco Entertainment Inc."
@@ -31591,7 +31591,7 @@ title_reading = "WHITEMAGICNIGHTサクライハルナソロVER"
 artist = "曲：矢鴇つかさ（Arte Refact）／歌：桜井 春菜(CV：近藤 玲奈)"
 date = "2026-06-18"
 image_id = "d779b8171e89521b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -31620,7 +31620,7 @@ title_reading = "WHITEMAGICNIGHTカシワキサキソロVER"
 artist = "曲：矢鴇つかさ（Arte Refact）／歌：柏木 咲姫(CV：石見 舞菜香)"
 date = "2026-06-18"
 image_id = "671d089f49713580.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 
@@ -31641,6 +31641,96 @@ master = "12"
 [songs.character]
 id = "1100"
 name = "柏木 咲姫"
+
+[[songs]]
+id = "166100"
+title = "Eat Sleep Dance (feat. Moe Shop)"
+title_reading = "EATSLEEPDANCEFEATMOESHOP"
+artist = "犬吠埼紫杏 (CV: 長谷川玲奈)"
+date = "2026-06-25"
+image_id = "12891d5f76330027.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "電音部™＆ ©Bandai Namco Entertainment Inc."
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "1040"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "724100"
+title = "アイシング・ドリーム -珠洲島 有栖ソロver.-"
+title_reading = "アイシンクトリムススシマアリスソロVER"
+artist = "曲：卯乃／歌：珠洲島 有栖(CV：長縄 まりあ)"
+date = "2026-06-25"
+image_id = "ae82777755a1fef7.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+copyright = "© Re:STAGE! PROJECT"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "12+"
+
+[songs.character]
+id = "1130"
+name = "珠洲島 有栖"
+
+[[songs]]
+id = "724200"
+title = "アイシング・ドリーム -西館 ハクソロver.-"
+title_reading = "アイシンクトリムニシタテハクソロVER"
+artist = "曲：卯乃／歌：西館 ハク(CV：佐藤 実季)"
+date = "2026-06-25"
+image_id = "8c50c9defb420c37.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+copyright = "© Re:STAGE! PROJECT"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10+"
+master = "12+"
+
+[songs.character]
+id = "5190"
+name = "式宮 舞菜"
 
 [[categories]]
 id = "06"
