@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1549
-last_updated = "2026-06-12T04:29:25.332397799Z"
+count = 1555
+last_updated = "2026-06-26T04:27:19.567030595Z"
 
 [[songs]]
 id = "1146"
@@ -7057,8 +7057,7 @@ artist = "Junky feat. 乙姫(CV:浅川悠)"
 image_id = "c20ee423d01b854a.png"
 category = "maimai"
 version = "18501"
-release = "2026-06-12"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -24828,7 +24827,7 @@ image_id = "7cf6656cbbd95701.png"
 category = "maimai"
 version = "26508"
 release = "2026-06-12"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -24846,7 +24845,7 @@ image_id = "9db4ea8b086f5765.png"
 category = "maimai"
 version = "26508"
 release = "2026-06-12"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -24864,7 +24863,7 @@ image_id = "d924d8b85c4655cc.png"
 category = "maimai"
 version = "26508"
 release = "2026-06-12"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -24882,7 +24881,7 @@ image_id = "ea4cd9df410fa1b0.png"
 category = "maimai"
 version = "26508"
 release = "2026-06-12"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -25282,7 +25281,7 @@ category = "ゲーム＆バラエティ"
 version = "26503"
 release = "2026-04-17"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "6"
@@ -25452,6 +25451,78 @@ basic = "3"
 advanced = "6"
 expert = "11"
 master = "13+"
+
+[[songs]]
+id = "525"
+title = "純情アルメリア"
+title_reading = "シユンシヨウアルメリア"
+artist = "森羅万象"
+image_id = "9d139b8426001293.png"
+category = "東方Project"
+version = "26509"
+release = "2026-06-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "526"
+title = "運命線上のアリア"
+title_reading = "ウンメイセンシヨウノアリア"
+artist = "森羅万象"
+image_id = "26721fc25e2f9f91.png"
+category = "東方Project"
+version = "26509"
+release = "2026-06-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "527"
+title = "デンデラパーティーナイト"
+title_reading = "テンテラハアテイイナイト"
+artist = "森羅万象"
+image_id = "d352008e0f49d5d9.png"
+category = "東方Project"
+version = "26509"
+release = "2026-06-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "528"
+title = "Absolute Queen"
+title_reading = "ABSOLUTEQUEEN"
+artist = "Laur"
+image_id = "3d2dcf5c55d4e855.png"
+category = "東方Project"
+version = "26509"
+release = "2026-06-26"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "8"
+expert = "12+"
+master = "14"
 
 [[songs]]
 id = "1620"
@@ -26100,6 +26171,23 @@ kanji = "藍"
 comment = "絶え間なく青色"
 
 [[songs]]
+id = "1537"
+title = "[奏]悪戯センセーション"
+title_reading = "イタスラセンセイシヨン"
+artist = "森羅万象"
+image_id = "5c5ae698a3ca6825.png"
+category = "宴会場"
+version = "26509"
+release = "2026-06-26"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13?"
+kanji = "奏"
+comment = "二人で一つなの クランベリー"
+
+[[songs]]
 id = "1581"
 title = "[星]ほしぞらスペクタクル"
 title_reading = "ホシソラスヘクタクル"
@@ -26540,6 +26628,23 @@ is_locked = false
 level = "12+?"
 kanji = "嘘"
 comment = "嘘に踊れ"
+
+[[songs]]
+id = "1538"
+title = "[招]Re:Unknown X"
+title_reading = "REUNKNOWNX"
+artist = "まらしぃ"
+image_id = "0847c38d2a623e99.png"
+category = "宴会場"
+version = "26509"
+release = "2026-06-26"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14+?"
+kanji = "招"
+comment = "LUNATIC X"
 
 [[songs]]
 id = "1541"
