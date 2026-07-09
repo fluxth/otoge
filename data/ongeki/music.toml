@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1087
-last_updated = "2026-06-25T04:23:57.939255559Z"
+count = 1089
+last_updated = "2026-07-09T07:08:54.615815566Z"
 
 [[songs]]
 id = "582300"
@@ -31649,7 +31649,7 @@ title_reading = "EATSLEEPDANCEFEATMOESHOP"
 artist = "犬吠埼紫杏 (CV: 長谷川玲奈)"
 date = "2026-06-25"
 image_id = "12891d5f76330027.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "電音部™＆ ©Bandai Namco Entertainment Inc."
@@ -31679,7 +31679,7 @@ title_reading = "アイシンクトリムススシマアリスソロVER"
 artist = "曲：卯乃／歌：珠洲島 有栖(CV：長縄 まりあ)"
 date = "2026-06-25"
 image_id = "ae82777755a1fef7.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 copyright = "© Re:STAGE! PROJECT"
@@ -31709,7 +31709,7 @@ title_reading = "アイシンクトリムニシタテハクソロVER"
 artist = "曲：卯乃／歌：西館 ハク(CV：佐藤 実季)"
 date = "2026-06-25"
 image_id = "8c50c9defb420c37.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = true
 copyright = "© Re:STAGE! PROJECT"
@@ -31731,6 +31731,64 @@ master = "12+"
 [songs.character]
 id = "5190"
 name = "式宮 舞菜"
+
+[[songs]]
+id = "582000"
+title = "私たちは、花になる"
+title_reading = "ワタシタチハハナニナル"
+artist = "イロドリミドリ｜HaNaMiNa｜S.S.L."
+date = "2026-07-09"
+image_id = "33270b251274c5f2.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9+"
+master = "12"
+
+[songs.character]
+id = "5140"
+name = "明坂 芹菜"
+
+[[songs]]
+id = "582100"
+title = "Λlteration"
+title_reading = "ALTERATION"
+artist = "小仏 凪(CV:佐倉 薫)＆月鈴 白奈(CV:高野 麻里佳)＆御形 アリシアナ(CV:福原 綾香)＆桔梗 小夜曲(CV:原田 彩楓)"
+date = "2026-07-09"
+image_id = "e4b4144e4e95521a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "05"
+name = "チュウマイ"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "5140"
+name = "明坂 芹菜"
 
 [[categories]]
 id = "06"

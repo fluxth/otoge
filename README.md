@@ -10,7 +10,7 @@ Music games metadata
 | [CHUNITHM (Japan)](https://chunithm.sega.jp/)                  |  1722 |  2026-07-02  |  [View](data/chunithm_jp/music.toml)  |
 | [maimai DX (International)](https://maimai.sega.com/)          |  1386 |  2026-01-22  |  [View](data/maimai_intl/music.toml)  |
 | [maimai DX (Japan)](https://maimai.sega.jp/)                   |  1559 |  2026-07-02  |   [View](data/maimai_jp/music.toml)   |
-| [O.N.G.E.K.I.](https://ongeki.sega.jp/)                        |  1087 |  2026-06-25  |    [View](data/ongeki/music.toml)     |
+| [O.N.G.E.K.I.](https://ongeki.sega.jp/)                        |  1089 |  2026-07-09  |    [View](data/ongeki/music.toml)     |
 | [Polaris Chord](https://p.eagate.573.jp/game/polarischord/pc/) |   403 |  2026-06-18  | [View](data/polarischord/music.toml)  |
 | [pop'n music](https://p.eagate.573.jp/game/popn/popn29/)       |  1982 |  2026-06-21  |   [View](data/popnmusic/music.toml)   |
 | [SOUND VOLTEX](https://p.eagate.573.jp/game/sdvx/vii/)         |  2200 |  2026-06-30  |  [View](data/soundvoltex/music.toml)  |
