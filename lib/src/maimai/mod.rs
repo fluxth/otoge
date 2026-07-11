@@ -14,6 +14,10 @@ impl Otoge for MaimaiJP {
     fn name() -> &'static str {
         "maimai_jp"
     }
+
+    fn image_url(image_id: &str) -> String {
+        format!("https://maimaidx.jp/maimai-mobile/img/Music/{}", image_id)
+    }
 }
 
 pub struct MaimaiIntl;
@@ -23,6 +27,13 @@ impl Otoge for MaimaiIntl {
 
     fn name() -> &'static str {
         "maimai_intl"
+    }
+
+    fn image_url(image_id: &str) -> String {
+        format!(
+            "https://maimaidx-eng.com/maimai-mobile/img/Music/{}",
+            image_id
+        )
     }
 }
 

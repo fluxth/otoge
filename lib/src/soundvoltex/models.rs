@@ -4,7 +4,7 @@ use chrono::{DateTime, Utc};
 use serde::{Deserialize, Serialize};
 
 use super::get_all_categories;
-use crate::shared::traits::DataStore as DataStoreTrait;
+use crate::shared::traits::{DataStore as DataStoreTrait, SongImage, SongMetadata};
 
 #[allow(dead_code)]
 #[derive(Serialize, Deserialize, Debug, Default, PartialEq)]
@@ -42,6 +42,8 @@ pub struct Song {
     // FIXME: id changes regularly
     // pub id: String,
     pub image_id: String,
+    #[serde(default)]
+    pub image_file: Option<String>,
     pub title: String,
     pub artist: String,
     pub categories: Vec<Category>,
@@ -70,9 +72,43 @@ impl DataStore {
 }
 
 impl DataStoreTrait for DataStore {
+    type Song = Song;
+
     fn data_differs(&self, other: &Self) -> bool {
         self.count != other.count
             || !self.songs.iter().eq(other.songs.iter())
             || !self.categories.iter().eq(other.categories.iter())
+    }
+
+    fn songs(&self) -> &[Song] {
+        &self.songs
+    }
+
+    fn songs_mut(&mut self) -> &mut Vec<Song> {
+        &mut self.songs
+    }
+}
+
+impl SongImage for Song {
+    fn image_id(&self) -> &str {
+        &self.image_id
+    }
+
+    fn image_file(&self) -> Option<&str> {
+        self.image_file.as_deref()
+    }
+
+    fn set_image_file(&mut self, value: Option<String>) {
+        self.image_file = value;
+    }
+}
+
+impl SongMetadata for Song {
+    fn title(&self) -> &str {
+        &self.title
+    }
+
+    fn artist(&self) -> &str {
+        &self.artist
     }
 }

@@ -5,7 +5,7 @@ use serde::{Deserialize, Serialize};
 
 use super::get_all_categories;
 use crate::shared::deserializers::{all_default_values_as_none, empty_string_as_none};
-use crate::shared::traits::DataStore as DataStoreTrait;
+use crate::shared::traits::{DataStore as DataStoreTrait, SongImage, SongMetadata};
 
 #[derive(Serialize)]
 pub struct APIInput {
@@ -64,6 +64,8 @@ pub struct Song {
     artist: String,
     #[serde(skip_serializing_if = "Option::is_none")]
     license: Option<String>,
+    #[serde(default)]
+    pub image_file: Option<String>,
     levels: LevelMap,
     categories: Vec<Category>,
 }
@@ -84,6 +86,7 @@ impl From<SongFromAPI> for Song {
             title: value.name,
             artist: value.composer,
             license: value.license,
+            image_file: None,
             levels: value.levels,
             categories,
         }
@@ -119,9 +122,43 @@ impl DataStore {
 }
 
 impl DataStoreTrait for DataStore {
+    type Song = Song;
+
     fn data_differs(&self, other: &Self) -> bool {
         self.count != other.count
             || !self.songs.iter().eq(other.songs.iter())
             || !self.categories.iter().eq(other.categories.iter())
+    }
+
+    fn songs(&self) -> &[Song] {
+        &self.songs
+    }
+
+    fn songs_mut(&mut self) -> &mut Vec<Song> {
+        &mut self.songs
+    }
+}
+
+impl SongImage for Song {
+    fn image_id(&self) -> &str {
+        &self.id
+    }
+
+    fn image_file(&self) -> Option<&str> {
+        self.image_file.as_deref()
+    }
+
+    fn set_image_file(&mut self, value: Option<String>) {
+        self.image_file = value;
+    }
+}
+
+impl SongMetadata for Song {
+    fn title(&self) -> &str {
+        &self.title
+    }
+
+    fn artist(&self) -> &str {
+        &self.artist
     }
 }
