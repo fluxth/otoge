@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 403
-last_updated = "2026-06-18T04:29:32.720325244Z"
+count = 407
+last_updated = "2026-07-16T05:32:25.707623295Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6848,6 +6848,70 @@ artist = "めめめ"
 easy = 3
 normal = 7
 hard = 10
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "c1f784d085c6069087873a739045dfa4"
+title = "CUE CUE RESCUE"
+artist = "TORIENA"
+
+[songs.levels]
+easy = 3
+normal = 8
+hard = 10
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "1350601b5a3e3a8f1add641b7278539c"
+title = "Yum Yum Jelly"
+artist = "YUC'e"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "31fa3ae076cceade5eff1ea4881928e0"
+title = "rottel-the-Mercury"
+artist = "sampling masters MEGA"
+
+[songs.levels]
+easy = 2
+normal = 8
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "60599aff675dc218983eecf81b57d1be"
+title = "SOLAR ECLIPSE"
+artist = 'Yuta Imai Vs. BEMANI Sound Team "Yvya" '
+
+[songs.levels]
+easy = 4
+normal = 8
+hard = 11
 influence = 13
 
 [[songs.categories]]
