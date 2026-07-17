@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1559
-last_updated = "2026-07-02T04:22:57.511394144Z"
+count = 1564
+last_updated = "2026-07-17T05:32:38.500456399Z"
 
 [[songs]]
 id = "1154"
@@ -24899,7 +24899,7 @@ image_id = "0f7aff2eb3425949.png"
 category = "maimai"
 version = "26510"
 release = "2026-07-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -24971,7 +24971,7 @@ image_id = "7ca1e931100a97a7.png"
 category = "オンゲキ＆CHUNITHM"
 version = "26510"
 release = "2026-07-02"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -24989,7 +24989,7 @@ image_id = "94961d3405db1230.png"
 category = "オンゲキ＆CHUNITHM"
 version = "26510"
 release = "2026-07-02"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25007,7 +25007,7 @@ image_id = "e983556daa1209a7.png"
 category = "オンゲキ＆CHUNITHM"
 version = "26510"
 release = "2026-07-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -25595,6 +25595,96 @@ basic = "5"
 advanced = "8"
 expert = "12+"
 master = "14"
+
+[[songs]]
+id = "128"
+title = "イレギュラーマン"
+title_reading = "イレキユラアマン"
+artist = "マサラダ"
+image_id = "d696ede5d69835d1.png"
+category = "niconico＆ボーカロイド"
+version = "26511"
+release = "2026-07-17"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "129"
+title = "ちっちゃな私"
+title_reading = "チツチヤナワタシ"
+artist = "マサラダ"
+image_id = "6c783c45faac031c.png"
+category = "niconico＆ボーカロイド"
+version = "26511"
+release = "2026-07-17"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "9+"
+master = "12+"
+
+[[songs]]
+id = "130"
+title = "2代目閻魔"
+title_reading = "2タイメエンマ"
+artist = "読谷あかね"
+image_id = "a811403363de238f.png"
+category = "niconico＆ボーカロイド"
+version = "26511"
+release = "2026-07-17"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "131"
+title = "シスターに懺悔を"
+title_reading = "シスタアニサンケヲ"
+artist = "廃原メモリ"
+image_id = "a152c59b2154f085.png"
+category = "niconico＆ボーカロイド"
+version = "26511"
+release = "2026-07-17"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "702"
+title = "Cryogenic"
+title_reading = "CRYOGENIC"
+artist = "Camellia ft. Petra Gurin「In Falsus」"
+image_id = "c4ec76bb151017b2.png"
+category = "ゲーム＆バラエティ"
+version = "26511"
+release = "2026-07-17"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "13+"
 
 [[songs]]
 id = "1633"
