@@ -8,7 +8,7 @@ edition = "2024"
 [dependencies]
 anyhow = "=1.0.104"
 chrono = { version = "=0.4.45", features = ["serde"] }
-serde = { version = "=1.0.228", features = ["serde_derive"] }
+serde = { version = "=1.0.229", features = ["serde_derive"] }
 tokio = { version = "=1.53.0", features = ["fs"] }
 toml = "=1.1.3"
 tracing = "=0.1.44"
