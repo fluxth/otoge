@@ -1,6 +1,6 @@
 name = "popnmusic"
 count = 1982
-last_updated = "2026-06-21T04:30:00.885924146Z"
+last_updated = "2026-07-22T05:39:59.359967172Z"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCX7se1r9W05Tbcfc6J1J20NTkqLSYVjc8QN%2B8vswDBb3"
@@ -162,7 +162,7 @@ name = "pop'n music 20 fantasia"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCaoGG/t3Y/w0UXykHW2XDaVTkqLSYVjc8QN%2B8vswDBb3"
-genre = "25 o'clock the WORLD"
+genre = "ユグドラ"
 title = "25 o'clock the WORLD"
 artist = 'BEMANI Sound Team "Power Of Nature"'
 
@@ -302,8 +302,56 @@ id = "16"
 name = "pop'n music 16 PARTY♪"
 
 [[songs]]
+image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCb%2BDySgAKDuoNg0bDgBs8m5TkqLSYVjc8QN%2B8vswDBb3"
+genre = "アニバーサリー"
+title = "50th Memorial Songs -Beginning Story-"
+artist = "BEMANI Sound Team"
+
+[songs.levels]
+light = "8"
+normal = "27"
+hyper = "38"
+ex = "45"
+
+[songs.version]
+id = "25"
+name = "pop'n music peace"
+
+[[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
+
+[[songs.bemani]]
+id = "2"
+name = "DanceDanceRevolution"
+
+[[songs.bemani]]
+id = "3"
+name = "GITADORA"
+
+[[songs.bemani]]
+id = "4"
+name = "jubeat"
+
+[[songs.bemani]]
+id = "5"
+name = "REFLEC BEAT"
+
+[[songs.bemani]]
+id = "6"
+name = "SOUND VOLTEX"
+
+[[songs.bemani]]
+id = "9"
+name = "ノスタルジア"
+
+[[songs.recommendation_categories]]
+id = "9"
+name = "GAME MUSIC"
+
+[[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCQ5zJcMGbNFoBC%2B7dThN3i9TkqLSYVjc8QN%2B8vswDBb3"
-genre = "50th Memorial Songs -Flagship medley-"
+genre = "アニバーサリー"
 title = "50th Memorial Songs -Flagship medley-"
 artist = "BEMANI Sound Team"
 
@@ -351,7 +399,7 @@ name = "GAME MUSIC"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCUnvEsVFWtVO1cMRug1duk5TkqLSYVjc8QN%2B8vswDBb3"
-genre = "50th Memorial Songs -The BEMANI History-"
+genre = "アニバーサリー"
 title = "50th Memorial Songs -The BEMANI History-"
 artist = "BEMANI Sound Team"
 
@@ -395,7 +443,7 @@ name = "ノスタルジア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCQNBQxkLhLYZZl0kBZNIKJpTkqLSYVjc8QN%2B8vswDBb3"
-genre = "50th Memorial Songs -二人の時 ～under the cherry blossoms～-"
+genre = "アニバーサリー"
 title = "50th Memorial Songs -二人の時 ～under the cherry blossoms～-"
 artist = "BEMANI Sound Team"
 
@@ -403,54 +451,6 @@ artist = "BEMANI Sound Team"
 light = "6"
 normal = "28"
 hyper = "39"
-ex = "45"
-
-[songs.version]
-id = "25"
-name = "pop'n music peace"
-
-[[songs.bemani]]
-id = "1"
-name = "beatmania IIDX"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
-
-[[songs.bemani]]
-id = "3"
-name = "GITADORA"
-
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
-id = "5"
-name = "REFLEC BEAT"
-
-[[songs.bemani]]
-id = "6"
-name = "SOUND VOLTEX"
-
-[[songs.bemani]]
-id = "9"
-name = "ノスタルジア"
-
-[[songs.recommendation_categories]]
-id = "9"
-name = "GAME MUSIC"
-
-[[songs]]
-image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCb%2BDySgAKDuoNg0bDgBs8m5TkqLSYVjc8QN%2B8vswDBb3"
-genre = "50th Memorial Songs -Beginning Story-"
-title = "50th Memorial Songs -Beginning Story-"
-artist = "BEMANI Sound Team"
-
-[songs.levels]
-light = "8"
-normal = "27"
-hyper = "38"
 ex = "45"
 
 [songs.version]
@@ -802,7 +802,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCQfKLbxv1jCs5twcwiWHvFNTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Afterimage d'automne"
+genre = "アシンメトリーアート"
 title = "Afterimage d'automne"
 artist = 'BEMANI Sound Team "猫叉劇団"'
 
@@ -1120,6 +1120,10 @@ name = "pop'n music 解明リドルズ"
 id = "1"
 name = "beatmania IIDX"
 
+[[songs.bemani]]
+id = "2"
+name = "DanceDanceRevolution"
+
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCQtEUsUc6%2BGianUOl83GZ9pTkqLSYVjc8QN%2B8vswDBb3"
 genre = "エレクトロバロック"
@@ -1264,7 +1268,7 @@ name = "MUSECA"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCWltEM64oeJz%2B%2BIza0ccj8tTkqLSYVjc8QN%2B8vswDBb3"
-genre = "ANNIVERSARY ∴∵∴ ←↓↑→"
+genre = "オービタリックアニバーサリー"
 title = "ANNIVERSARY ∴∵∴ ←↓↑→"
 artist = 'BEMANI Sound Team "U1 overground"'
 
@@ -1643,7 +1647,7 @@ name = "pop'n music 19 TUNE STREET"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCag6AtuXNCjTVZZwfzLWljdTkqLSYVjc8QN%2B8vswDBb3"
-genre = "BabeL ～MODEL DD101～"
+genre = "スケールアウト -Rebuild-"
 title = "BabeL ～MODEL DD101～"
 artist = 'BEMANI Sound Team "Mutsuhiko Izumi"'
 
@@ -1886,7 +1890,7 @@ name = "ノスタルジア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCay9fRE5JofC5HVY0xyzAvFTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Be blossom!!"
+genre = "レインボーポップ"
 title = "Be blossom!!"
 artist = "林ももこ"
 
@@ -1959,7 +1963,7 @@ name = "pop'n music éclale"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCbMOhdpX8NlC5zSnCxE9gMhTkqLSYVjc8QN%2B8vswDBb3"
-genre = "BEEF"
+genre = "ゾディアックオラクル牛"
 title = "BEEF"
 artist = 'BEMANI Sound Team "牛"'
 
@@ -2163,7 +2167,7 @@ name = "jubeat"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCUcjNRRTN7YMheoznALTN5RTkqLSYVjc8QN%2B8vswDBb3"
-genre = "biosphere　～天国の花～"
+genre = "ケルティックヘヴン"
 title = "biosphere　～天国の花～"
 artist = 'BEMANI Sound Team "猫叉Master" feat.藤野マナミ'
 
@@ -2270,7 +2274,7 @@ name = "SOUND VOLTEX"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCf%2B/rMNNx4RkV/XozCrgfCJTkqLSYVjc8QN%2B8vswDBb3"
-genre = "BLACK JACKAL"
+genre = "ダンスミュージック"
 title = "BLACK JACKAL"
 artist = "Akira Complex"
 
@@ -2325,7 +2329,7 @@ name = "pop'n music 10"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCWVT9tYGJ2VXm3AbtPBP25RTkqLSYVjc8QN%2B8vswDBb3"
-genre = "BLAZE∞BREEZE"
+genre = "スカーレットドライブ"
 title = "BLAZE∞BREEZE"
 artist = 'BEMANI Sound Team "TAG×PON"'
 
@@ -2397,7 +2401,7 @@ name = "jubeat"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCVNBEuP5bd2U1PhO5YLpTF1TkqLSYVjc8QN%2B8vswDBb3"
-genre = "Blind"
+genre = "フェイタリズム"
 title = "Blind"
 artist = "はるなば feat.七誌"
 
@@ -2452,7 +2456,7 @@ artist = "Covered by uno(IOSYS) feat. Fra"
 [songs.levels]
 light = "10"
 normal = "21"
-hyper = "36"
+hyper = "35"
 ex = "42"
 
 [songs.version]
@@ -2508,7 +2512,7 @@ name = "pop'n music 18 せんごく列伝"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCaa2VNUeETmCJExnHzp9hSBTkqLSYVjc8QN%2B8vswDBb3"
-genre = "BLSTR"
+genre = "ゲーミングテクノ"
 title = "BLSTR"
 artist = "Ujico*"
 
@@ -2614,7 +2618,7 @@ artist = "米津玄師"
 [songs.levels]
 light = "5"
 normal = "18"
-hyper = "32"
+hyper = "34"
 ex = "41"
 
 [songs.version]
@@ -2637,7 +2641,7 @@ artist = "Switch"
 
 [songs.levels]
 light = "3"
-normal = "15"
+normal = "17"
 hyper = "31"
 ex = "39"
 
@@ -2759,7 +2763,7 @@ artist = "Knights"
 light = "4"
 normal = "20"
 hyper = "34"
-ex = "41"
+ex = "40"
 
 [songs.version]
 id = "29"
@@ -2836,7 +2840,7 @@ name = "pop'n music 20 fantasia"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCSaRfpvJSVgg/dALAi/PU51TkqLSYVjc8QN%2B8vswDBb3"
-genre = "Burning Love"
+genre = "情熱R&B"
 title = "Burning Love"
 artist = "阿部靖広 feat.Luca"
 
@@ -3158,7 +3162,7 @@ name = "BeatStream"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCSir%2B0XLU4/uXt6mvC44mg1TkqLSYVjc8QN%2B8vswDBb3"
-genre = "CARTOON☆RagHour"
+genre = "ラグタイムパレード"
 title = "CARTOON☆RagHour"
 artist = "OSTER project"
 
@@ -3197,7 +3201,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCVNg1mchsnuPpXpxEA/CwORTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Catch Our Fire!"
+genre = "マーベラスチアー"
 title = "Catch Our Fire!"
 artist = "中島由貴"
 
@@ -3294,7 +3298,7 @@ name = "ノスタルジア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCUZrJ2zn5SuSwZJy06M1W01TkqLSYVjc8QN%2B8vswDBb3"
-genre = "Celsus Ⅱ"
+genre = "ヴァルキリーブレイクス2"
 title = "Celsus Ⅱ"
 artist = "onoken feat.夏川陽子"
 
@@ -3641,7 +3645,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCeofrlsTS3qA7Ll4zP2McyRTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Cloud 9"
+genre = "インテリジェンスハイテック"
 title = "Cloud 9"
 artist = "雄之助"
 
@@ -3760,7 +3764,7 @@ name = "DanceDanceRevolution"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCVaBX0Iz4rN7xnFdlhegAnlTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Come to Life"
+genre = "UKハードコア"
 title = "Come to Life"
 artist = "ARM (IOSYS) feat. Nicole Curry"
 
@@ -4039,7 +4043,7 @@ name = "pop'n 家庭用"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCcXOLHCpk3C2D0%2B9jqrljkhTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Crumble Soul"
+genre = "エンシャントテック"
 title = "Crumble Soul"
 artist = "lapix"
 
@@ -4084,7 +4088,7 @@ name = "pop'n music 7"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCe%2BTFXQY2kNRTxRoz3soZ2lTkqLSYVjc8QN%2B8vswDBb3"
-genre = "cucumis melo"
+genre = "メロン"
 title = "cucumis melo"
 artist = "red glasses feat.秋成"
 
@@ -4797,7 +4801,7 @@ name = "pop'n 家庭用"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCb7QzMtkmxgJrZvpz6gjQo1TkqLSYVjc8QN%2B8vswDBb3"
-genre = "Dive to the Sky"
+genre = "パニックカントリー"
 title = "Dive to the Sky"
 artist = "白澤亮 feat.ЯIRE"
 
@@ -4943,7 +4947,7 @@ name = "beatmania IIDX"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCfXFQ%2BlKKW1%2B335LyI2MFKVTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Dracophobia"
+genre = "インサニティ"
 title = "Dracophobia"
 artist = "上ノ瀬つかさ"
 
@@ -5841,6 +5845,10 @@ ex = "48"
 id = "21"
 name = "pop'n music Sunny Park"
 
+[[songs.bemani]]
+id = "6"
+name = "SOUND VOLTEX"
+
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCWE6cSkh40KznZZMS00JgghTkqLSYVjc8QN%2B8vswDBb3"
 genre = "カフェパーティー"
@@ -6183,7 +6191,7 @@ name = "pop'n music 13 カーニバル"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCZcI7Z7bwkXeu48NtSkHKxRTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Festum Duodecimum!"
+genre = "クラシック12"
 title = "Festum Duodecimum!"
 artist = 'BEMANI Sound Team "Gaius Iulius Akhutaros"'
 
@@ -6740,7 +6748,7 @@ artist = "Valkyrie"
 
 [songs.levels]
 light = "4"
-normal = "16"
+normal = "18"
 hyper = "30"
 ex = "41"
 
@@ -7434,7 +7442,7 @@ name = "MUSECA"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCdOnrxIMTUh3nsDd085RiOJTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Grave Strike"
+genre = "ゴスニューウェイヴ"
 title = "Grave Strike"
 artist = "Akino"
 
@@ -7450,7 +7458,7 @@ name = "pop'n music peace"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCacvXx4LXd4BoIu7MF2Id8VTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Gray clouds"
+genre = "カラープログレッシブ -灰-"
 title = "Gray clouds"
 artist = "Trick Trap"
 
@@ -7605,7 +7613,7 @@ name = "pop'n music UniLab"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCbD5B1ox1xAnarwcod2mO3xTkqLSYVjc8QN%2B8vswDBb3"
-genre = "H@appy Fever Forever!!"
+genre = "メロコアフォーエバーーーーーーーーーー"
 title = "H@appy Fever Forever!!"
 artist = "School"
 
@@ -8019,7 +8027,7 @@ name = "pop'n music UniLab"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCZhGLJ4j%2BF84orhzb0R4p2hTkqLSYVjc8QN%2B8vswDBb3"
-genre = "High Gravity"
+genre = "SFネオポップ"
 title = "High Gravity"
 artist = "Maro(feat.Coco海里）"
 
@@ -8132,7 +8140,7 @@ name = "pop'n music 12 いろは"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCdTh9FPh3HXghif5p33tsIBTkqLSYVjc8QN%2B8vswDBb3"
-genre = "home.(kors k Remix)"
+genre = "ヒーリングデュオREMIX"
 title = "home.(kors k Remix)"
 artist = "秋桜 + WORLD SEQUENCE remixed by kors k"
 
@@ -8224,8 +8232,8 @@ artist = "covered by 不知火フレア"
 [songs.levels]
 light = "4"
 normal = "21"
-hyper = "31"
-ex = "39"
+hyper = "33"
+ex = "42"
 
 [songs.version]
 id = "29"
@@ -9024,7 +9032,7 @@ name = "beatmania IIDX"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCYKdR3MHo8UZT4MDF9OrDZdTkqLSYVjc8QN%2B8vswDBb3"
-genre = "insist"
+genre = "ネオダンスポップ"
 title = "insist"
 artist = "Tomoyuki Uchida feat.秋成"
 
@@ -9138,7 +9146,7 @@ name = "REFLEC BEAT"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCW9bJHMTRGQr2eCkhlLgNwlTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Invisible Farewell"
+genre = "ホーンテッドセッション"
 title = "Invisible Farewell"
 artist = 'BEMANI Sound Team "TAKA×PON×Akhuta"'
 
@@ -9415,7 +9423,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCUBWPpO7fB7vjOCJrHTDFZJTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Jetcoaster Windy"
+genre = "ガーリィポップ"
 title = "Jetcoaster Windy"
 artist = 'BEMANI Sound Team "dj TAKA" feat.のの'
 
@@ -10016,7 +10024,7 @@ name = "クラシック"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCYFJvAdrw6iGKF9%2BQ7l8YotTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Lachryma《Re:Queen’M》"
+genre = "エピックレクイエム"
 title = "Lachryma《Re:Queen’M》"
 artist = "かねこちはる"
 
@@ -10098,7 +10106,7 @@ name = "pop'n music うさぎと猫と少年の夢"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCVSdefWa6IEqZcv2LsnDNolTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Last Twilight"
+genre = "メカニカルアートコア"
 title = "Last Twilight"
 artist = "cosMo＠暴走P"
 
@@ -10168,7 +10176,7 @@ name = "pop'n music 17 THE MOVIE"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCZ%2BDj0Km3baNyFMO4v38IA1TkqLSYVjc8QN%2B8vswDBb3"
-genre = "le mal du pays, numéro 1"
+genre = "ソフトロックプリクエル"
 title = "le mal du pays, numéro 1"
 artist = "orangebruit raccourci"
 
@@ -10220,7 +10228,7 @@ name = "pop'n music 解明リドルズ"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCVcDNznaBOjrZ5k/IpWX0f1TkqLSYVjc8QN%2B8vswDBb3"
-genre = "Les Jouets Sonore"
+genre = "ファンタジーパレード"
 title = "Les Jouets Sonore"
 artist = "avant-midi"
 
@@ -10593,7 +10601,7 @@ name = "beatmania IIDX"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCemnSABkAVcLJKeWfO7wOm1TkqLSYVjc8QN%2B8vswDBb3"
-genre = "Little Little Princess"
+genre = "パンクオペラ"
 title = "Little Little Princess"
 artist = "SHRINE 418"
 
@@ -10778,7 +10786,7 @@ name = "REFLEC BEAT"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCcXy7wrxuswQe0WFL8t5VV9TkqLSYVjc8QN%2B8vswDBb3"
-genre = "Love 2 Shuffle"
+genre = "フューチャーハウス"
 title = "Love 2 Shuffle"
 artist = 'BEMANI Sound Team "Sota F." feat. Starbitz'
 
@@ -10927,7 +10935,7 @@ name = "REFLEC BEAT"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCSTqY3%2ByKYo4lEnLurm2ng5TkqLSYVjc8QN%2B8vswDBb3"
-genre = "♥LOVE² シュガ→♥ (かめりあ&ななひら's Over-Sweet-Dempa ♥LOVE² シュガ→♥な恋愛教室 Remix)"
+genre = "ユーロビートREMIX"
 title = "♥LOVE² シュガ→♥ (かめりあ&ななひら's Over-Sweet-Dempa ♥LOVE² シュガ→♥な恋愛教室 Remix)"
 artist = "dj TAKA feat.のりあ remixed by かめりあ feat.ななひら"
 
@@ -12029,7 +12037,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCUJ4VbDTxZlj4%2BZH53ScX%2BBTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Mirage Age"
+genre = "マスロック"
 title = "Mirage Age"
 artist = "Marmalade butcher"
 
@@ -13364,7 +13372,7 @@ name = "REFLEC BEAT"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCUUNXPI2bx3akKb08nfzYWZTkqLSYVjc8QN%2B8vswDBb3"
-genre = "ΩVERSOUL"
+genre = "ハイテックレイヴ"
 title = "ΩVERSOUL"
 artist = "BlackY"
 
@@ -13924,7 +13932,7 @@ name = "pop'n music 17 THE MOVIE"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCe0cYr0mIcC7UU09VL1ben1TkqLSYVjc8QN%2B8vswDBb3"
-genre = "place of the sky"
+genre = "サイン"
 title = "place of the sky"
 artist = "CROSSED FINGERS"
 
@@ -13959,7 +13967,7 @@ name = "pop'n music 7"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCT8Xrz76yK5pSBROmh9dW69TkqLSYVjc8QN%2B8vswDBb3"
-genre = "PM is Here！"
+genre = "ポップスアゲイン"
 title = "PM is Here！"
 artist = 'BEMANI Sound Team "PON"'
 
@@ -14060,7 +14068,7 @@ name = "pop'n music 14 FEVER！"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCXbmFjdua2BHMvf3/ILh/5xTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Popperz Chronicle"
+genre = "マスターピース"
 title = "Popperz Chronicle"
 artist = "pop'n masters"
 
@@ -14104,7 +14112,7 @@ name = "ノスタルジア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCWdB1jzVHlyYnlIbv/7TuWRTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Popperz Chronicle(UPPER)"
+genre = "マスターピース(UPPER)"
 title = "Popperz Chronicle(UPPER)"
 artist = "pop'n masters"
 
@@ -15243,7 +15251,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCSG2Qka9RBqXrfadvP1dSD9TkqLSYVjc8QN%2B8vswDBb3"
-genre = "ROOM"
+genre = "ワンルームロック"
 title = "ROOM"
 artist = "Blanc Bunny Bandit"
 
@@ -15479,7 +15487,7 @@ name = "pop'n music 10"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCVv8Ou/x6CSuXIOn1inzGC5TkqLSYVjc8QN%2B8vswDBb3"
-genre = "Sacrifice Escape: 不条理の模倣による感情と代償"
+genre = "グリッチR＆B"
 title = "Sacrifice Escape: 不条理の模倣による感情と代償"
 artist = "memex"
 
@@ -15781,7 +15789,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCS0AvtM2sYnJII25jV8mvYBTkqLSYVjc8QN%2B8vswDBb3"
-genre = "SDVX REMIX SELECTION for pop'n music vol.01"
+genre = "オートメーションパラダイス"
 title = "SDVX REMIX SELECTION for pop'n music vol.01"
 artist = "AUTOMATION PARADISE"
 
@@ -15971,7 +15979,7 @@ name = "MUSECA"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCV1SFP7WfaeS7w4JTznqCsxTkqLSYVjc8QN%2B8vswDBb3"
-genre = "SESSION With You!"
+genre = "アニバーサリーセッション"
 title = "SESSION With You!"
 artist = "PartyCrew（from GD＆pm）"
 
@@ -16116,7 +16124,7 @@ name = "ノスタルジア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCbnTnbeIPbXcsG%2BUmHvfoXhTkqLSYVjc8QN%2B8vswDBb3"
-genre = "SHION（VENUS mix）"
+genre = "ハイスピード幻想チュナイ"
 title = "SHION（VENUS mix）"
 artist = "VENUS"
 
@@ -16362,7 +16370,7 @@ name = "pop'n music うさぎと猫と少年の夢"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCb21BfVo4WG%2ButP/gQTZYipTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Six String Proof"
+genre = "ハードロック"
 title = "Six String Proof"
 artist = 'BEMANI Sound Team "Yvya × Mutsuhiko Izumi"'
 
@@ -16556,6 +16564,10 @@ name = "beatmania IIDX"
 [[songs.bemani]]
 id = "2"
 name = "DanceDanceRevolution"
+
+[[songs.bemani]]
+id = "3"
+name = "GITADORA"
 
 [[songs.bemani]]
 id = "4"
@@ -16811,7 +16823,7 @@ name = "pop'n music うさぎと猫と少年の夢"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCd2FIADLlIzLk1AgqNqsxSBTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Sparkle Smilin'"
+genre = "トゥインクルポップ"
 title = "Sparkle Smilin'"
 artist = 'BEMANI Sound Team "Qrispy Joybox" feat.いちか'
 
@@ -17020,7 +17032,7 @@ name = "BeatStream"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCf2A28JGcujQH1FnYH8NgTZTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Sprite Digital"
+genre = "ドリーミードラムン"
 title = "Sprite Digital"
 artist = "Serph"
 
@@ -17238,7 +17250,7 @@ name = "pop'n music 10"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCbu3cILCDLbbCDs7vtGHVs5TkqLSYVjc8QN%2B8vswDBb3"
-genre = "station CRUX"
+genre = "ギャラクシートレイン"
 title = "station CRUX"
 artist = "m@sumi"
 
@@ -17644,7 +17656,7 @@ name = "GITADORA"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCQA6ox%2BGPOSGZLXCLW%2BUf7JTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Sulk"
+genre = "アーバンフューチャーベース"
 title = "Sulk"
 artist = "SYUNN"
 
@@ -18725,7 +18737,7 @@ name = "pop'n music Sunny Park"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCedqaTDbMPaPnWzD8f3hz0pTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Time has no money"
+genre = "ファミリーロック"
 title = "Time has no money"
 artist = "The Mizuno Family"
 
@@ -18756,7 +18768,7 @@ name = "pop'n music 19 TUNE STREET"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCeHbBDqRyRG%2BRXUFV66cIjdTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Timepiece phase II"
+genre = "プログレッシブロック"
 title = "Timepiece phase II"
 artist = "佐々木博史"
 
@@ -18948,7 +18960,7 @@ name = "SOUND VOLTEX"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCWAhxVsG3Oo40GNqxrlI3ztTkqLSYVjc8QN%2B8vswDBb3"
-genre = "toy boxer"
+genre = "ボクシングコア"
 title = "toy boxer"
 artist = 'BEMANI Sound Team "S-C-U & SYUNN"'
 
@@ -19119,7 +19131,7 @@ name = "pop'n music éclale"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCeOaMmBkoZkBwuErU8KI30BTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Trill auf G"
+genre = "ミュージックゲームズハードコア"
 title = "Trill auf G"
 artist = 'BEMANI Sound Team "dj TAKA"'
 
@@ -19877,9 +19889,10 @@ title = "Usual Days"
 artist = "EGOISTIC LEMONTEA"
 
 [songs.levels]
-light = "6"
+light = "8"
 normal = "14"
 hyper = "22"
+ex = "37"
 
 [songs.version]
 id = "0"
@@ -19891,7 +19904,7 @@ name = "beatmania IIDX"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCfPLZvQ9NWsvZYdRqNtlh6NTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Usual Days-remix"
+genre = "シンパシーREMIX"
 title = "Usual Days-remix"
 artist = "ota2"
 
@@ -20078,7 +20091,7 @@ name = "オススメ"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCQWb1xOt%2BgccWMo%2BuP4wmSVTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Vinculum stellarum"
+genre = "アンセムトランス"
 title = "Vinculum stellarum"
 artist = "iconoclasm"
 
@@ -20177,7 +20190,7 @@ name = "pop'n music うさぎと猫と少年の夢"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCcRS/4tN0lhi79j8JW5VC9BTkqLSYVjc8QN%2B8vswDBb3"
-genre = "Visterhv"
+genre = "リバースアウト"
 title = "Visterhv"
 artist = "Feryquitous"
 
@@ -20275,7 +20288,7 @@ name = "ノスタルジア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCYQO8AClPidkt/CSTpMJdzBTkqLSYVjc8QN%2B8vswDBb3"
-genre = "voltississimo"
+genre = "ボルテッシモ"
 title = "voltississimo"
 artist = 'BEMANI Sound Team "PHQUASE"'
 
@@ -20406,7 +20419,7 @@ artist = "キミのね"
 
 [songs.levels]
 light = "6"
-normal = "12"
+normal = "14"
 hyper = "31"
 ex = "42"
 
@@ -20505,7 +20518,7 @@ name = "REFLEC BEAT"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCR/NbHKWfSwaQWPMpO5OaR5TkqLSYVjc8QN%2B8vswDBb3"
-genre = "Welcome to pop'n fantasy"
+genre = "ポップンポップ2"
 title = "Welcome to pop'n fantasy"
 artist = "red glasses ＆ BlackY feat.pop'n fellows"
 
@@ -20976,7 +20989,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCbXiKGU/4P%2B0la69XwCLEKJTkqLSYVjc8QN%2B8vswDBb3"
-genre = "zeeros"
+genre = "ジールコンチェルト"
 title = "zeeros"
 artist = "onoken"
 
@@ -22015,7 +22028,7 @@ name = "GAME MUSIC"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCatQ8ktfxINDIreoIdyy2eZTkqLSYVjc8QN%2B8vswDBb3"
-genre = "アリスサイド・キャスリング"
+genre = "アリスダークネス"
 title = "アリスサイド・キャスリング"
 artist = "メリー・バッド・メルヘン"
 
@@ -22324,7 +22337,7 @@ artist = "原口沙輔 feat.重音テト"
 light = "5"
 normal = "17"
 hyper = "32"
-ex = "42"
+ex = "41"
 
 [songs.version]
 id = "29"
@@ -22579,7 +22592,7 @@ name = "クラシック"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCWjmenM2BJB42ihfwJ42dp1TkqLSYVjc8QN%2B8vswDBb3"
-genre = "いつまでやったって、別にいいじゃない！？"
+genre = "カプセル∞フォーエバー"
 title = "いつまでやったって、別にいいじゃない！？"
 artist = "上野圭市 feat. SAWA"
 
@@ -23555,7 +23568,7 @@ name = "beatmania IIDX"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCd6XnxSRfMWdPm8GLa2ucBlTkqLSYVjc8QN%2B8vswDBb3"
-genre = "焔華"
+genre = "ハイパー乱世ポップ"
 title = "焔華"
 artist = "movies(moimoi×Xceon×Dai.)"
 
@@ -23613,7 +23626,7 @@ artist = "吉田夜世 feat.重音テトSV"
 [songs.levels]
 light = "6"
 normal = "20"
-hyper = "37"
+hyper = "39"
 ex = "45"
 
 [songs.version]
@@ -23638,7 +23651,7 @@ name = "NET MUSIC・VOCALOID"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCdWh/CBe7z3WICm3XwCboWxTkqLSYVjc8QN%2B8vswDBb3"
-genre = "おーまい！らぶりー！すうぃーてぃ！だーりん！"
+genre = "ラブリーユース"
 title = "おーまい！らぶりー！すうぃーてぃ！だーりん！"
 artist = 'BEMANI Sound Team "PON" feat.NU-KO'
 
@@ -23678,7 +23691,7 @@ name = "ノスタルジア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCX3rT6xqMVqXphpo9UZbjMBTkqLSYVjc8QN%2B8vswDBb3"
-genre = "おーまい！らぶりー！すうぃーてぃ！だーりん！（DANCERUSH Style）"
+genre = "ラブリーユースREMIX"
 title = "おーまい！らぶりー！すうぃーてぃ！だーりん！（DANCERUSH Style）"
 artist = 'BEMANI Sound Team "PON" feat.NU-KO'
 
@@ -23890,7 +23903,7 @@ name = "MUSECA"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCV0UyqzhwCnaMYtZ5Qip61hTkqLSYVjc8QN%2B8vswDBb3"
-genre = "おたすけ！アン子ちゃん (シノビアンレディーのテーマ 弐)"
+genre = "ニンジャ卍ヒロイン 弐の巻"
 title = "おたすけ！アン子ちゃん (シノビアンレディーのテーマ 弐)"
 artist = "ARM × 狐夢想 ft. ricono"
 
@@ -23985,7 +23998,7 @@ name = "GAME MUSIC"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCdt4Vgw9Y0RApBh7zOeeR9ZTkqLSYVjc8QN%2B8vswDBb3"
-genre = "御伽噺に幕切れを"
+genre = "夜叉姫ロック"
 title = "御伽噺に幕切れを"
 artist = "夜叉姫神楽"
 
@@ -24036,7 +24049,7 @@ name = "pop'n music 13 カーニバル"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCdWOQA76RgL8FRqAgGYEFvxTkqLSYVjc8QN%2B8vswDBb3"
-genre = "オトメ聖戦タクティクス"
+genre = "ハウシーポップ2"
 title = "オトメ聖戦タクティクス"
 artist = "Shoichiro Hirata feat.Sana"
 
@@ -24199,6 +24212,10 @@ id = "14"
 name = "pop'n music 14 FEVER！"
 
 [[songs.bemani]]
+id = "2"
+name = "DanceDanceRevolution"
+
+[[songs.bemani]]
 id = "5"
 name = "REFLEC BEAT"
 
@@ -24220,6 +24237,10 @@ ex = "47"
 [songs.version]
 id = "17"
 name = "pop'n music 17 THE MOVIE"
+
+[[songs.bemani]]
+id = "2"
+name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "5"
@@ -24350,7 +24371,7 @@ name = "pop'n music 12 いろは"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCSQgleb%2B6FzLw6DDnglC1eZTkqLSYVjc8QN%2B8vswDBb3"
-genre = "おめでとう！おたんじょうび"
+genre = "バースデーソング"
 title = "おめでとう！おたんじょうび"
 artist = "ウッチーズ"
 
@@ -24535,8 +24556,8 @@ artist = "♪♪♪♪♪"
 [songs.levels]
 light = "6"
 normal = "21"
-hyper = "35"
-ex = "42"
+hyper = "37"
+ex = "44"
 
 [songs.version]
 id = "29"
@@ -24656,7 +24677,7 @@ name = "NET MUSIC・VOCALOID"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCfn3fMIVC2N4mbUAXuJF63ZTkqLSYVjc8QN%2B8vswDBb3"
-genre = "革命パッショネイト"
+genre = "ギャラクティックシンフォニー"
 title = "革命パッショネイト"
 artist = "日向美ビタースイーツ♪"
 
@@ -24692,7 +24713,7 @@ name = "ひなビタ♪"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCaMHaI3xqffYG6EogJk1KOtTkqLSYVjc8QN%2B8vswDBb3"
-genre = "革命パッショネイト(UPPER)"
+genre = "ギャラクティックシンフォニー(UPPER)"
 title = "革命パッショネイト(UPPER)"
 artist = "日向美ビタースイーツ♪"
 
@@ -25277,7 +25298,7 @@ artist = "CUTIE STREET"
 
 [songs.levels]
 light = "6"
-normal = "18"
+normal = "16"
 hyper = "33"
 ex = "41"
 
@@ -25305,7 +25326,7 @@ artist = "Covered by ちょぴん"
 
 [songs.levels]
 light = "4"
-normal = "14"
+normal = "15"
 hyper = "33"
 ex = "41"
 
@@ -25752,7 +25773,7 @@ name = "BeatStream"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCQjOasJcTOI%2B2AIyiEngon5TkqLSYVjc8QN%2B8vswDBb3"
-genre = "狂水一華"
+genre = "スタイリッシュクロスオーバー"
 title = "狂水一華"
 artist = 'BEMANI Sound Team "HuΣeR Vs. SYUNN" feat.いちか'
 
@@ -26691,7 +26712,7 @@ name = "ひなビタ♪"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCW5hT1z0lBwjGE5q6kuODRZTkqLSYVjc8QN%2B8vswDBb3"
-genre = "限界食堂"
+genre = "オイパンク∞"
 title = "限界食堂"
 artist = "ブタパンチ"
 
@@ -26847,7 +26868,7 @@ name = "GITADORA"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCcHAI0epSOsXBi7vzFFFHulTkqLSYVjc8QN%2B8vswDBb3"
-genre = "元禄花吹雪"
+genre = "大江戸元ロック"
 title = "元禄花吹雪"
 artist = "泉 陸奥彦"
 
@@ -27827,7 +27848,7 @@ name = "ノスタルジア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCTEr%2BevyOpQT/9/hDbL9cEdTkqLSYVjc8QN%2B8vswDBb3"
-genre = "コンビニエンスドラマ"
+genre = "コンビニダイアリー"
 title = "コンビニエンスドラマ"
 artist = "T-HEY and TANEKO with inopu"
 
@@ -27954,7 +27975,7 @@ name = "pop'n music 17 THE MOVIE"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCWiv7jgv9K/xKWrFinpxa8BTkqLSYVjc8QN%2B8vswDBb3"
-genre = "最小三倍完全数"
+genre = "ピタゴラス的不完全性破壊衝動音律(ハンマーによる)"
 title = "最小三倍完全数"
 artist = "DJ TECHNORCH"
 
@@ -27994,7 +28015,7 @@ name = "ノスタルジア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCc%2BS4G/JkHzvNA1fJ3J1sptTkqLSYVjc8QN%2B8vswDBb3"
-genre = "逆さま♥シンデレラパレード"
+genre = "メルヘンパレード"
 title = "逆さま♥シンデレラパレード"
 artist = "メリー・バッド・メルヘン"
 
@@ -28361,7 +28382,7 @@ name = "pop'n music 11"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCdFV0rPCR8BaJC7/ig1hJitTkqLSYVjc8QN%2B8vswDBb3"
-genre = "さよならのうた"
+genre = "ピース"
 title = "さよならのうた"
 artist = "aprésmidi"
 
@@ -28653,7 +28674,7 @@ name = "pop'n music ラピストリア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCYlP%2BrfvPKlV1gIgLJsHuXpTkqLSYVjc8QN%2B8vswDBb3"
-genre = "至上のラトゥーリア"
+genre = "シスターリチュアル"
 title = "至上のラトゥーリア"
 artist = "Vanitas Lacrimosa"
 
@@ -29450,7 +29471,7 @@ name = "J-POP"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCRMb%2B6PI2gy2LCB1twoKO7ZTkqLSYVjc8QN%2B8vswDBb3"
-genre = "少女と時の花"
+genre = "タイムスパイラル"
 title = "少女と時の花"
 artist = "mami & m@sumi"
 
@@ -29746,7 +29767,7 @@ name = "GAME MUSIC"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCRFaqC0qM9CQdwDRTvIRLjxTkqLSYVjc8QN%2B8vswDBb3"
-genre = "白露の風"
+genre = "想歌 風"
 title = "白露の風"
 artist = "Qrispy Joybox feat. 常盤ゆう"
 
@@ -29972,7 +29993,7 @@ name = "pop'n music Sunny Park"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCaiz8GYy58tYPK/IDVxt58ZTkqLSYVjc8QN%2B8vswDBb3"
-genre = "スイーツはとまらない♪"
+genre = "スウィートモントゥーノ"
 title = "スイーツはとまらない♪"
 artist = "日向美ビタースイーツ♪"
 
@@ -30008,7 +30029,7 @@ name = "ひなビタ♪"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCS7SfHuZJ3UhHpFdbaMHEBpTkqLSYVjc8QN%2B8vswDBb3"
-genre = "翠雨の祷"
+genre = "レイニーアートコア"
 title = "翠雨の祷"
 artist = "Cororo feat.Yuria Miyazono"
 
@@ -31717,7 +31738,7 @@ artist = "ナユタン星人"
 [songs.levels]
 light = "7"
 normal = "18"
-hyper = "34"
+hyper = "36"
 ex = "44"
 
 [songs.version]
@@ -31780,7 +31801,7 @@ name = "pop'n music 17 THE MOVIE"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCSjvSTOv0OxzNs7YtvKtvYtTkqLSYVjc8QN%2B8vswDBb3"
-genre = "多極性ニューロンの崩壊による人間の末路"
+genre = "セルメタル"
 title = "多極性ニューロンの崩壊による人間の末路"
 artist = 'BEMANI Sound Team "HuΣeR × Yvya"'
 
@@ -31923,7 +31944,7 @@ name = "pop'n music éclale"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCaU7FGEMe7eC0Omybi/pkHlTkqLSYVjc8QN%2B8vswDBb3"
-genre = "たぶん、キスくらいしてる"
+genre = "ハートアウト"
 title = "たぶん、キスくらいしてる"
 artist = "Kiyommy+Seiya"
 
@@ -32786,7 +32807,7 @@ name = "ひなビタ♪"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCTBQdfkvhi0%2BkD5m4cBqYJhTkqLSYVjc8QN%2B8vswDBb3"
-genre = "追憶のアリア"
+genre = "ネオシティポップ"
 title = "追憶のアリア"
 artist = "Blanc Bunny Bandit"
 
@@ -33054,7 +33075,7 @@ artist = "柊マグネタイト feat.重音テト"
 
 [songs.levels]
 light = "4"
-normal = "14"
+normal = "12"
 hyper = "34"
 ex = "44"
 
@@ -33447,7 +33468,7 @@ name = "pop'n music 解明リドルズ"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCUFnTgq0UEhuta/wBqODSaJTkqLSYVjc8QN%2B8vswDBb3"
-genre = "天鈴少女"
+genre = "かぞえうた"
 title = "天鈴少女"
 artist = "駄々子"
 
@@ -34019,7 +34040,7 @@ name = "pop'n 家庭用"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCcWsKpZgGNqt2cknFldZc3JTkqLSYVjc8QN%2B8vswDBb3"
-genre = "飛べないぼくと鳴かない黒猫"
+genre = "シティフュージョン"
 title = "飛べないぼくと鳴かない黒猫"
 artist = "山本真央樹 feat.常盤ゆう"
 
@@ -34454,7 +34475,7 @@ name = "ノスタルジア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCfICh70w/DK6kdacHsm9j/5TkqLSYVjc8QN%2B8vswDBb3"
-genre = "なごりさえ"
+genre = "ラメント2"
 title = "なごりさえ"
 artist = 'BEMANI Sound Team "あさき"'
 
@@ -34834,7 +34855,7 @@ name = "DanceDanceRevolution"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCc4SYRvhZZo064IvyL48XvRTkqLSYVjc8QN%2B8vswDBb3"
-genre = "にじいろ☆とらべらぁず"
+genre = "ばーちゃる夢？ぽっぷ"
 title = "にじいろ☆とらべらぁず"
 artist = "chocck feat.保崎メンマ"
 
@@ -34933,7 +34954,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCRgtyNM/GasCSsTbYH7UuiBTkqLSYVjc8QN%2B8vswDBb3"
-genre = "西馬込交通曲"
+genre = "パーカッシヴ3"
 title = "西馬込交通曲"
 artist = "サイモンマン"
 
@@ -35124,7 +35145,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCVYo0dBhmaB82Pq7Xs8KKVdTkqLSYVjc8QN%2B8vswDBb3"
-genre = "熱情のサパデアード"
+genre = "フラメンコデュオ"
 title = "熱情のサパデアード"
 artist = "日向美ビタースイーツ♪"
 
@@ -35160,7 +35181,7 @@ name = "ひなビタ♪"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCcbORT3wfWGn02kD3R0tzWZTkqLSYVjc8QN%2B8vswDBb3"
-genre = "ネリと琥珀糖"
+genre = "アンバートロニカ"
 title = "ネリと琥珀糖"
 artist = "sasakure.UK"
 
@@ -35467,7 +35488,7 @@ artist = "CANDY TUNE"
 
 [songs.levels]
 light = "8"
-normal = "18"
+normal = "17"
 hyper = "35"
 ex = "44"
 
@@ -35491,7 +35512,7 @@ artist = "こっちのけんと"
 
 [songs.levels]
 light = "2"
-normal = "12"
+normal = "14"
 hyper = "27"
 ex = "38"
 
@@ -35596,7 +35617,7 @@ name = "pop'n music éclale"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCRkvwR9GwRR7q/RSgfIVv71TkqLSYVjc8QN%2B8vswDBb3"
-genre = "爆裂再生！フィーバー戦士ポップン14"
+genre = "フィーバーヒーローR"
 title = "爆裂再生！フィーバー戦士ポップン14"
 artist = 'Hommarju feat.BEMANI Sound Team "PON"'
 
@@ -35781,7 +35802,7 @@ artist = "cosMo@暴走P"
 
 [songs.levels]
 light = "13"
-normal = "28"
+normal = "30"
 hyper = "43"
 ex = "48"
 
@@ -35933,7 +35954,7 @@ name = "ひなビタ♪"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCdzlPTPGgaPei5HyhXIhQmRTkqLSYVjc8QN%2B8vswDBb3"
-genre = "花は折りたし梢は高し"
+genre = "ゆかた花歌"
 title = "花は折りたし梢は高し"
 artist = "夜叉姫神楽"
 
@@ -36395,7 +36416,7 @@ name = "GITADORA"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCaKDgxR0l8s151idHJ6ou8hTkqLSYVjc8QN%2B8vswDBb3"
-genre = "叛逆のディスパレート"
+genre = "シスターメタル"
 title = "叛逆のディスパレート"
 artist = "Vanitas Lacrimosa"
 
@@ -36644,7 +36665,7 @@ name = "pop'n music 9"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCX7JbUOYYb/IsY%2BPgFNoPA5TkqLSYVjc8QN%2B8vswDBb3"
-genre = "ヒカリユリイカ"
+genre = "エレポップデュオ"
 title = "ヒカリユリイカ"
 artist = "ここなつ"
 
@@ -36770,7 +36791,7 @@ artist = "ハチワレ（CV:田中誠人）"
 light = "2"
 normal = "10"
 hyper = "25"
-ex = "36"
+ex = "39"
 
 [songs.version]
 id = "29"
@@ -37027,7 +37048,7 @@ name = "pop'n music 17 THE MOVIE"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCR0NHzAXGsdBHlc0Y4fNxmtTkqLSYVjc8QN%2B8vswDBb3"
-genre = "ブーケトス戦争"
+genre = "ブライダルポップ"
 title = "ブーケトス戦争"
 artist = "sei☆shin feat.AMaiもも"
 
@@ -37547,7 +37568,7 @@ name = "pop'n music High☆Cheers!!"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCSNW95wuKKku9e4oAeSvPX1TkqLSYVjc8QN%2B8vswDBb3"
-genre = "プロレタリア狂騒歌"
+genre = "メガネタリアロック"
 title = "プロレタリア狂騒歌"
 artist = "ギリギリメガネ団"
 
@@ -37676,7 +37697,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCVTPxTBRCD3gRsdbC5dLi15TkqLSYVjc8QN%2B8vswDBb3"
-genre = "ベビーステップ"
+genre = "ラブリーツインズ"
 title = "ベビーステップ"
 artist = "ここなつ"
 
@@ -37903,7 +37924,7 @@ name = "pop'n music 解明リドルズ"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCfBv/eemDLOyN9Tm7lktG0FTkqLSYVjc8QN%2B8vswDBb3"
-genre = "放課後コンチェルティーノ～私だけの部室狂騒曲"
+genre = "マリンバコンテンポラリー"
 title = "放課後コンチェルティーノ～私だけの部室狂騒曲"
 artist = "山本真央樹"
 
@@ -38167,7 +38188,7 @@ name = "pop'n music éclale"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCaRVwH5/4xu99KQkyvWmuWJTkqLSYVjc8QN%2B8vswDBb3"
-genre = "星屑の夜果て"
+genre = "スターダストビート"
 title = "星屑の夜果て"
 artist = 'BEMANI Sound Team "HuΣeR × MarL × SYUNN"'
 
@@ -38270,7 +38291,7 @@ name = "BeatStream"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCZkblzCmR8s8HyqGyStR9/RTkqLSYVjc8QN%2B8vswDBb3"
-genre = "ボタン"
+genre = "パンクガール"
 title = "ボタン"
 artist = "豚乙女"
 
@@ -38318,7 +38339,7 @@ name = "REFLEC BEAT"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCeMl6MZ1BG0mEwctvWL/fhdTkqLSYVjc8QN%2B8vswDBb3"
-genre = "ポチコの幸せな日常 (狂犬U`x´UばうわうHARDCORE Remix)"
+genre = "わんわんコアREMIX"
 title = "ポチコの幸せな日常 (狂犬U`x´UばうわうHARDCORE Remix)"
 artist = "NU-KO remixed by RoughSketch"
 
@@ -38658,7 +38679,7 @@ name = "GAME MUSIC"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCTvrQAKVARFttaMweTl5ObFTkqLSYVjc8QN%2B8vswDBb3"
-genre = "マイアガル、マイオドル"
+genre = "おきゃんポップ"
 title = "マイアガル、マイオドル"
 artist = "chocck feat.響華"
 
@@ -38931,7 +38952,7 @@ name = "pop'n music 14 FEVER！"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCQPNIDFrF77HINwnTFn2QO9TkqLSYVjc8QN%2B8vswDBb3"
-genre = "マッシュルームナイト"
+genre = "カジノシャッフル"
 title = "マッシュルームナイト"
 artist = "SOUND HOLIC feat. Nana Takahashi"
 
@@ -38977,7 +38998,7 @@ name = "DanceDanceRevolution"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCemXsmcQ8h95fIY%2BiAbtPtFTkqLSYVjc8QN%2B8vswDBb3"
-genre = "祭ノ痕、君ヲ憶フ。"
+genre = "コンテンポラリーネイション8"
 title = "祭ノ痕、君ヲ憶フ。"
 artist = 'BEMANI Sound Team "猫叉Master"'
 
@@ -39188,7 +39209,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCcdU%2BQCH7NIFR0fOZApI1sBTkqLSYVjc8QN%2B8vswDBb3"
-genre = "幻島アトランティス-4elements-"
+genre = "エレメンタルアドベンチャー"
 title = "幻島アトランティス-4elements-"
 artist = 'BEMANI Sound Team "劇団レコード"'
 
@@ -39442,6 +39463,10 @@ ex = "37"
 id = "18"
 name = "pop'n music 18 せんごく列伝"
 
+[[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
+
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCRZLT%2Bl%2BSScpEmT61cgWrtxTkqLSYVjc8QN%2B8vswDBb3"
 genre = "ミックスナッツ"
@@ -39488,7 +39513,7 @@ name = "J-POP"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCc/Fx9z214IGaHjuyhiEhERTkqLSYVjc8QN%2B8vswDBb3"
-genre = "ミッドナイト☆WAR"
+genre = "ビーマナイズドロックコア"
 title = "ミッドナイト☆WAR"
 artist = "いちか"
 
@@ -39941,7 +39966,7 @@ artist = "♪♪♪♪♪"
 
 [songs.levels]
 light = "7"
-normal = "17"
+normal = "19"
 hyper = "33"
 ex = "38"
 
@@ -40349,7 +40374,7 @@ artist = "DECO*27"
 light = "9"
 normal = "21"
 hyper = "35"
-ex = "44"
+ex = "43"
 
 [songs.version]
 id = "29"
@@ -40558,7 +40583,7 @@ name = "pop'n music Sunny Park"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCXxt1KmwbXpbym8a8f9nT3tTkqLSYVjc8QN%2B8vswDBb3"
-genre = "夕陽のダンディー"
+genre = "ダンディズム"
 title = "夕陽のダンディー"
 artist = 'BEMANI Sound Team "劇ダンディーレコード"'
 
@@ -40625,7 +40650,7 @@ name = "pop'n music High☆Cheers!!"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCf7VLX9GqFAvXgOlwcEJFOdTkqLSYVjc8QN%2B8vswDBb3"
-genre = "雪夜の森のプリャースカ"
+genre = "ロシア3"
 title = "雪夜の森のプリャースカ"
 artist = "m@sumi & kidlit"
 
@@ -41041,7 +41066,7 @@ name = "pop'n music 10"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCXmmg9TNwgf98ffqxoD3VzpTkqLSYVjc8QN%2B8vswDBb3"
-genre = "ラブキラ☆スプラッシュ"
+genre = "ハイパーポップ"
 title = "ラブキラ☆スプラッシュ"
 artist = 'BEMANI Sound Team "Sota F." feat.いちか'
 
@@ -41146,7 +41171,7 @@ name = "pop'n music 9"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCZhmqZlChhS3b1WnWBLc3spTkqLSYVjc8QN%2B8vswDBb3"
-genre = "ラベンダー最終定理"
+genre = "スウェディッシュ3"
 title = "ラベンダー最終定理"
 artist = "常盤ゆう"
 
@@ -41177,7 +41202,7 @@ name = "pop'n music 12 いろは"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCXjkEPkeJ2rvtJS29kPl989TkqLSYVjc8QN%2B8vswDBb3"
-genre = "ランカーキラーガール"
+genre = "キラーパンク"
 title = "ランカーキラーガール"
 artist = "中島由貴 × いちか"
 
@@ -41252,7 +41277,7 @@ name = "GAME MUSIC"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCW%2B0i/VBIUUkedvwrlkhUn9TkqLSYVjc8QN%2B8vswDBb3"
-genre = "六花美人"
+genre = "氷華レゾナンス"
 title = "六花美人"
 artist = 'BEMANI Sound Team "DJ TOTTO×TATSUYA" feat. *spiLa*＆moimoi'
 
@@ -41656,6 +41681,10 @@ id = "24"
 name = "pop'n music うさぎと猫と少年の夢"
 
 [[songs.bemani]]
+id = "2"
+name = "DanceDanceRevolution"
+
+[[songs.bemani]]
 id = "3"
 name = "GITADORA"
 
@@ -42003,7 +42032,7 @@ name = "SOUND VOLTEX"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=sbYyEsU7Y3o1mi8zuZ7dCeQLeOiYpkYN/ZO5EBJTMHBTkqLSYVjc8QN%2B8vswDBb3"
-genre = "令和の国"
+genre = "ヒップロック7"
 title = "令和の国"
 artist = "Des-ROW・組"
 
