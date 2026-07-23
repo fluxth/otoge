@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 407
-last_updated = "2026-07-16T05:32:25.707623295Z"
+count = 408
+last_updated = "2026-07-23T05:44:45.886623916Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6913,6 +6913,22 @@ easy = 4
 normal = 8
 hard = 11
 influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "9e80d9c4e2bcfd5b0f0413810e6b1f64"
+title = "Dazzling star"
+artist = "Aoi feat. Kuroa*"
+
+[songs.levels]
+easy = 3
+normal = 8
+hard = 10
+influence = 12
 
 [[songs.categories]]
 bitflag = 6
