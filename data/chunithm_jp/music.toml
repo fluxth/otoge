@@ -1,6 +1,21 @@
 name = "chunithm_jp"
-count = 1727
-last_updated = "2026-07-17T05:32:38.462187924Z"
+count = 1730
+last_updated = "2026-07-30T05:31:10.648364471Z"
+
+[[songs]]
+id = "3035"
+title = "ときめき★メテオストライク"
+title_reading = "トキメキメテオストライク"
+artist = "水無瀬ミナミ (CV.田村ゆかり)「銀河特急 ミルキー☆サブウェイ」"
+image_id = "0c995f1f790f9666.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "12+"
 
 [[songs]]
 id = "3031"
@@ -9,7 +24,7 @@ title_reading = "シヤオシヤオランラン"
 artist = "いずれ菖蒲か杜若"
 image_id = "22e49ceacc2f334c.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +39,7 @@ title_reading = "イタイナルアクマハシツハタイテンシハトラチ
 artist = "周防パトラ"
 image_id = "3aae93089e19306d.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2314,13 +2329,43 @@ expert = "9+"
 master = "11"
 
 [[songs]]
+id = "3036"
+title = "幕を下ろそう、パレードへ"
+title_reading = "マクヲオロソウハレウトヘ"
+artist = "海茶、多良レイト"
+image_id = "ddedc421d38027f8.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "3037"
+title = "Ribbon"
+title_reading = "RIBBON"
+artist = "sabio/高村風太"
+image_id = "df8cd2008fa4ae01.jpg"
+category = "niconico"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "12"
+
+[[songs]]
 id = "3033"
 title = "ウニ"
 title_reading = "ウニ"
 artist = "Adeliae"
 image_id = "4bf33faf916826b0.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -5698,6 +5743,7 @@ basic = "2"
 advanced = "5"
 expert = "9+"
 master = "13"
+ultima = "14"
 
 [[songs]]
 id = "575"
@@ -5713,6 +5759,7 @@ basic = "3"
 advanced = "6"
 expert = "9+"
 master = "12+"
+ultima = "14"
 
 [[songs]]
 id = "553"
@@ -18464,7 +18511,7 @@ title_reading = "ウニノウタNANORUNAGANAIREMIX"
 artist = "作詞・作曲・編曲・ボーカル：周防パトラ　アレンジ：Nanoru Naganai"
 image_id = "cf8515a0679b2c17.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "5"

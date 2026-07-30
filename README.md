@@ -7,7 +7,7 @@ Music games metadata
 | Game                                                           | Songs | Last Updated |               Database                |
 | -------------------------------------------------------------- | ----: | :----------: | :-----------------------------------: |
 | [CHUNITHM (International)](https://chunithm.sega.com/)         |  1489 |  2026-04-16  | [View](data/chunithm_intl/music.toml) |
-| [CHUNITHM (Japan)](https://chunithm.sega.jp/)                  |  1727 |  2026-07-17  |  [View](data/chunithm_jp/music.toml)  |
+| [CHUNITHM (Japan)](https://chunithm.sega.jp/)                  |  1730 |  2026-07-30  |  [View](data/chunithm_jp/music.toml)  |
 | [maimai DX (International)](https://maimai.sega.com/)          |  1467 |  2026-07-23  |  [View](data/maimai_intl/music.toml)  |
 | [maimai DX (Japan)](https://maimai.sega.jp/)                   |  1564 |  2026-07-17  |   [View](data/maimai_jp/music.toml)   |
 | [O.N.G.E.K.I.](https://ongeki.sega.jp/)                        |  1096 |  2026-07-23  |    [View](data/ongeki/music.toml)     |
