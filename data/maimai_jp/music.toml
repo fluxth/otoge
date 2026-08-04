@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1564
-last_updated = "2026-07-17T05:32:38.500456399Z"
+count = 1567
+last_updated = "2026-08-04T05:39:31.227895374Z"
 
 [[songs]]
 id = "1154"
@@ -2931,7 +2931,8 @@ artist = "「PHANTASY STAR PORTABLE2 ∞」"
 image_id = "30b516a0c2d64f97.png"
 category = "ゲーム＆バラエティ"
 version = "12000"
-is_new = false
+release = "2026-08-04"
+is_new = true
 is_locked = false
 
 [songs.levels]
@@ -2939,6 +2940,12 @@ basic = "4"
 advanced = "7"
 expert = "11+"
 master = "12+"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "467"
@@ -25605,7 +25612,7 @@ image_id = "d696ede5d69835d1.png"
 category = "niconico＆ボーカロイド"
 version = "26511"
 release = "2026-07-17"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25623,7 +25630,7 @@ image_id = "6c783c45faac031c.png"
 category = "niconico＆ボーカロイド"
 version = "26511"
 release = "2026-07-17"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25641,7 +25648,7 @@ image_id = "a811403363de238f.png"
 category = "niconico＆ボーカロイド"
 version = "26511"
 release = "2026-07-17"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25659,7 +25666,7 @@ image_id = "a152c59b2154f085.png"
 category = "niconico＆ボーカロイド"
 version = "26511"
 release = "2026-07-17"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25667,6 +25674,24 @@ basic = "3"
 advanced = "7"
 expert = "10+"
 master = "13"
+
+[[songs]]
+id = "6"
+title = "ボックスワンターバ〜ン"
+title_reading = "ホツクスワンタアハアン"
+artist = "ぼくわたチャンネル"
+image_id = "b86ade7b7a1d8acc.png"
+category = "POPS＆アニメ"
+version = "26512"
+release = "2026-08-04"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13+"
 
 [[songs]]
 id = "702"
@@ -25677,7 +25702,7 @@ image_id = "c4ec76bb151017b2.png"
 category = "ゲーム＆バラエティ"
 version = "26511"
 release = "2026-07-17"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -26401,6 +26426,23 @@ kanji = "協"
 comment = "＼みんなでラグトレイン再現チャレンジ／"
 
 [[songs]]
+id = "1549"
+title = "[音]インドア系ならトラックメイカー"
+title_reading = "イントアケイナラトラツクメイカア"
+artist = "Yunomi & nicamoq"
+image_id = "57c8a97552b29815.png"
+category = "宴会場"
+version = "26512"
+release = "2026-07-31"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14+?"
+kanji = "音"
+comment = "～音取りほぼMAXバージョン～"
+
+[[songs]]
 id = "1637"
 title = "[奏]アカツキアライヴァル"
 title_reading = "アカツキアライウアル"
@@ -27011,6 +27053,23 @@ is_locked = false
 level = "12?"
 kanji = "覚"
 comment = "Mai Dimension"
+
+[[songs]]
+id = "1548"
+title = "[僕]ボックスワンターバ〜ン"
+title_reading = "ホツクスワンタアハアン"
+artist = "ぼくわたチャンネル"
+image_id = "b86ade7b7a1d8acc.png"
+category = "宴会場"
+version = "26512"
+release = "2026-07-31"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14?"
+kanji = "僕"
+comment = "コインを入れてランラン楽しいド派手なリズムゲーム 麻衣摩維DX"
 
 [[songs]]
 id = "1626"
