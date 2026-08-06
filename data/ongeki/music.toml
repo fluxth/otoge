@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1096
-last_updated = "2026-07-23T05:44:45.714282648Z"
+count = 1099
+last_updated = "2026-08-06T05:39:07.599197673Z"
 
 [[songs]]
 id = "520100"
@@ -31708,7 +31708,7 @@ title_reading = "オヘンシマタカナオシサンコウフン"
 artist = "吉本おじさん"
 date = "2026-07-23"
 image_id = "0dec128c43fd6b34.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -31740,7 +31740,7 @@ title_reading = "ユメハナヒ"
 artist = "VUCCA「温泉むすめ」"
 date = "2026-07-23"
 image_id = "90f44a4020c169d5.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© ONSEN MUSUME PROJECT"
@@ -31770,7 +31770,7 @@ title_reading = "ユウユウスマイルハワ"
 artist = "Ambassador「温泉むすめ」"
 date = "2026-07-23"
 image_id = "dd8a3fb9d224aad5.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© ONSEN MUSUME PROJECT"
@@ -31800,7 +31800,7 @@ title_reading = "モモイロノカキ"
 artist = "いよわ"
 date = "2026-07-23"
 image_id = "a280bf384499a297.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Iyowa"
@@ -31830,7 +31830,7 @@ title_reading = "ネツイシヨウ"
 artist = "いよわ"
 date = "2026-07-23"
 image_id = "2885df8ca0d4f99c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©Iyowa / ©Mechanical Girl LLC."
@@ -31860,7 +31860,7 @@ title_reading = "WHATSUPPOP"
 artist = "Capchii"
 date = "2026-07-23"
 image_id = "680328627d618d8c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -31892,7 +31892,7 @@ title_reading = "メモリア"
 artist = "Aira"
 date = "2026-07-23"
 image_id = "052041e2ab66a49b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -31924,7 +31924,7 @@ title_reading = "シクレツトシカ"
 artist = "ヤマギシコージ"
 date = "2026-07-23"
 image_id = "7b500adcc8771af3.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© Crypton Future Media, INC. www.piapro.net　ピアプロロゴ"
@@ -31954,7 +31954,7 @@ title_reading = "CRYOGENIC"
 artist = "Camellia ft. Petra Gurin「In Falsus」"
 date = "2026-07-23"
 image_id = "0801df4da4aa3ebd.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© lowiro"
@@ -31984,7 +31984,7 @@ title_reading = "POPPINHOPPINFLAPPIN"
 artist = "曲：宮崎まゆ・賀佐泰洋 (SUPA LOVE)／歌：星咲 あかり(CV：赤尾 ひかる)、藤沢 柚子(CV：保科 李沙)、三角 葵(CV：春野 杏)"
 date = "2026-07-23"
 image_id = "d106d9c6a71e3170.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -32005,6 +32005,95 @@ master = "13"
 [songs.character]
 id = "0001"
 name = "星咲 あかり"
+
+[[songs]]
+id = "400011"
+title = "それはもうらぶちゅ"
+title_reading = "ソレハモウラフチユ"
+artist = "タケノコ少年 feat. 周央サンゴ（にじさんじ）"
+date = "2026-08-06"
+image_id = "b5096bb67d1379f0.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©peropero"
+
+[songs.chapter]
+id = "99151"
+name = "Muse Dash"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "11"
+master = "13"
+
+[songs.character]
+id = "0567"
+name = "リン"
+
+[[songs]]
+id = "400010"
+title = "Cthugha"
+title_reading = "CTHUGHA"
+artist = "USAO"
+date = "2026-08-06"
+image_id = "44ead0aa282c8105.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©peropero"
+
+[songs.chapter]
+id = "99151"
+name = "Muse Dash"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "0568"
+name = "ブロウ"
+
+[[songs]]
+id = "400009"
+title = "アルメリアの鳥籠"
+title_reading = "アルメリアノトリカコ"
+artist = "a_hisa"
+date = "2026-08-06"
+image_id = "da6bdd94008db88c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "12"
+master = "13+"
+
+[songs.character]
+id = "0017"
+name = "皇城 セツナ"
 
 [[categories]]
 id = "06"

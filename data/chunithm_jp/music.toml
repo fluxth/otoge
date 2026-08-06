@@ -1,6 +1,36 @@
 name = "chunithm_jp"
-count = 1730
-last_updated = "2026-07-30T05:31:10.648364471Z"
+count = 1734
+last_updated = "2026-08-06T05:39:07.452692506Z"
+
+[[songs]]
+id = "3041"
+title = "Glitch Street"
+title_reading = "GLITCHSTREET"
+artist = "KARUT「ブルーアーカイブ -Blue Archive-」"
+image_id = "b867b55593a36114.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "3042"
+title = "Bunny Bunny Carrot Carrot"
+title_reading = "BUNNYBUNNYCARROTCARROT"
+artist = "Mitsukiyo「ブルーアーカイブ -Blue Archive-」"
+image_id = "917f92079061817f.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "14"
 
 [[songs]]
 id = "3035"
@@ -9,7 +39,7 @@ title_reading = "トキメキメテオストライク"
 artist = "水無瀬ミナミ (CV.田村ゆかり)「銀河特急 ミルキー☆サブウェイ」"
 image_id = "0c995f1f790f9666.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2335,7 +2365,7 @@ title_reading = "マクヲオロソウハレウトヘ"
 artist = "海茶、多良レイト"
 image_id = "ddedc421d38027f8.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -2350,7 +2380,7 @@ title_reading = "RIBBON"
 artist = "sabio/高村風太"
 image_id = "df8cd2008fa4ae01.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -13680,6 +13710,36 @@ basic = "3"
 advanced = "7+"
 expert = "12+"
 master = "14+"
+
+[[songs]]
+id = "3038"
+title = "On And On!!"
+title_reading = "ONANDON"
+artist = "ETIA. feat. Jenga"
+image_id = "6d836ce785ed4dbd.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "11"
+master = "14+"
+
+[[songs]]
+id = "3040"
+title = "E.V.E"
+title_reading = "EVE"
+artist = "SOMON"
+image_id = "01d050269e5adaeb.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "13+"
+master = "15"
 
 [[songs]]
 id = "3022"
