@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 408
-last_updated = "2026-07-23T05:44:45.886623916Z"
+count = 413
+last_updated = "2026-08-07T04:47:58.650088126Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -6929,6 +6929,93 @@ easy = 3
 normal = 8
 hard = 10
 influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "804b6304f45147fd631ff4db85dfe911"
+title = "行列のできるえーりん診療所"
+artist = "D.watt+溝口ゆうま+七条レタス feat. 3L"
+license = "©IOSYS ©上海アリス幻樂団"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 10
+
+[[songs.categories]]
+bitflag = 4
+slug = "touhou"
+name = "東方"
+
+[[songs]]
+id = "beb942eeb6a35c9fdca00c541ecaf7ba"
+title = "ウ”ィ”エ”"
+artist = "バーバパパ"
+license = "Licensed by バーバパパ"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
+
+[[songs]]
+id = "20f95219c2771db5cad8ef3ac2ad4524"
+title = "SigSig"
+artist = "kors k"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "a03dbbfaee62bf68aecd587ac050da5a"
+title = "Second Heaven"
+artist = "Ryu☆"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "d81ae89a65a23f40fccfa30374a3c3dc"
+title = "防人恋歌"
+artist = "Ax feat.夏川陽子"
+
+[songs.levels]
+easy = 3
+normal = 5
+hard = 7
+influence = 10
 
 [[songs.categories]]
 bitflag = 6
