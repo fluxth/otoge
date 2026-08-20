@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1099
-last_updated = "2026-08-06T05:39:07.599197673Z"
+count = 1101
+last_updated = "2026-08-20T03:38:19.773664595Z"
 
 [[songs]]
 id = "520100"
@@ -32013,7 +32013,7 @@ title_reading = "ソレハモウラフチユ"
 artist = "タケノコ少年 feat. 周央サンゴ（にじさんじ）"
 date = "2026-08-06"
 image_id = "b5096bb67d1379f0.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©peropero"
@@ -32043,7 +32043,7 @@ title_reading = "CTHUGHA"
 artist = "USAO"
 date = "2026-08-06"
 image_id = "44ead0aa282c8105.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©peropero"
@@ -32073,7 +32073,7 @@ title_reading = "アルメリアノトリカコ"
 artist = "a_hisa"
 date = "2026-08-06"
 image_id = "da6bdd94008db88c.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -32094,6 +32094,64 @@ master = "13+"
 [songs.character]
 id = "0017"
 name = "皇城 セツナ"
+
+[[songs]]
+id = "600012"
+title = "morph"
+title_reading = "MORPH"
+artist = "雄之助"
+date = "2026-08-20"
+image_id = "706d4a9c3b14fa1e.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12+"
+master = "14"
+
+[songs.character]
+id = "0004"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "600013"
+title = "ときめきインビテーション"
+title_reading = "トキメキインヒテシヨン"
+artist = "曲：Kijibato／歌：⊿TRiEDGE [高瀬 梨緒(CV：久保 ユリカ)、結城 莉玖(CV：朝日奈 丸佳)、藍原 椿(CV：橋本 ちなみ)]"
+date = "2026-08-20"
+image_id = "e7c3bb8bd96c8a38.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80051"
+name = "Shooter's Dream 《⊿TRiEDGE》"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "9+"
+master = "13"
+
+[songs.character]
+id = "0005"
+name = "結城 莉玖"
 
 [[categories]]
 id = "06"
