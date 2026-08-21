@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1734
-last_updated = "2026-08-06T05:39:07.452692506Z"
+count = 1738
+last_updated = "2026-08-20T03:38:19.814697928Z"
 
 [[songs]]
 id = "3041"
@@ -9,7 +9,7 @@ title_reading = "GLITCHSTREET"
 artist = "KARUT「ブルーアーカイブ -Blue Archive-」"
 image_id = "b867b55593a36114.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "BUNNYBUNNYCARROTCARROT"
 artist = "Mitsukiyo「ブルーアーカイブ -Blue Archive-」"
 image_id = "917f92079061817f.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -13718,7 +13718,7 @@ title_reading = "ONANDON"
 artist = "ETIA. feat. Jenga"
 image_id = "6d836ce785ed4dbd.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -13733,7 +13733,7 @@ title_reading = "EVE"
 artist = "SOMON"
 image_id = "01d050269e5adaeb.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -25147,6 +25147,66 @@ basic = "4"
 advanced = "7+"
 expert = "13"
 master = "15"
+
+[[songs]]
+id = "3060"
+title = "ふわパチ星雲PTL-3"
+title_reading = "フワハチセイウンPTL3"
+artist = "海茶、多良レイト feat. 桃寝ちのい"
+image_id = "7a02f0c5cc16c52d.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "3061"
+title = "Fox Hunt"
+title_reading = "FOXHUNT"
+artist = "よしぶる feat.街風めい"
+image_id = "62f64027ead02a9e.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "14"
+
+[[songs]]
+id = "3063"
+title = "命スクリプト"
+title_reading = "イノチスクリフト"
+artist = "原口沙輔 feat.ななひら"
+image_id = "edd45fa3fc22a59e.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "3056"
+title = "コトバノ廃都"
+title_reading = "コトハノハイト"
+artist = "ぽりふぉ(PolyphonicBranch) feat. 松下"
+image_id = "9aca645476a7827a.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10+"
+master = "14+"
 
 [[songs]]
 id = "8327"
