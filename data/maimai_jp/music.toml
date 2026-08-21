@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1567
-last_updated = "2026-08-07T04:47:58.553473665Z"
+count = 1571
+last_updated = "2026-08-21T03:42:16.307930339Z"
 
 [[songs]]
 id = "1165"
@@ -24888,7 +24888,7 @@ image_id = "dbbf4e81e83ee2e7.png"
 category = "maimai"
 version = "26513"
 release = "2026-08-07"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -24906,7 +24906,7 @@ image_id = "5dafa376938d9b17.png"
 category = "maimai"
 version = "26513"
 release = "2026-08-07"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -24924,7 +24924,7 @@ image_id = "7f778957dc743693.png"
 category = "maimai"
 version = "26513"
 release = "2026-08-07"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -24942,7 +24942,7 @@ image_id = "774cf029bb5a3469.png"
 category = "maimai"
 version = "26513"
 release = "2026-08-07"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -25728,6 +25728,78 @@ basic = "3"
 advanced = "7"
 expert = "10"
 master = "13+"
+
+[[songs]]
+id = "705"
+title = "Broomstick adventure!"
+title_reading = "BROOMSTICKADVENTURE"
+artist = "しーけー"
+image_id = "8390593148dae09c.png"
+category = "ゲーム＆バラエティ"
+version = "26514"
+release = "2026-08-21"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "706"
+title = "無彩色のディストピア"
+title_reading = "ムサイシキノテイストヒア"
+artist = "HyuN feat. ウォルピスカーター"
+image_id = "0757236de4820023.png"
+category = "ゲーム＆バラエティ"
+version = "26514"
+release = "2026-08-21"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[[songs]]
+id = "707"
+title = "Manifold Hypothesis"
+title_reading = "MANIFOLDHYPOTHESIS"
+artist = "cybermiso feat. tigerlily"
+image_id = "17ae689c209fa74f.png"
+category = "ゲーム＆バラエティ"
+version = "26514"
+release = "2026-08-21"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "708"
+title = "Inverted World"
+title_reading = "INVERTEDWORLD"
+artist = "ARForest"
+image_id = "0db5f376fe40a376.png"
+category = "ゲーム＆バラエティ"
+version = "26514"
+release = "2026-08-21"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "11+"
+master = "14"
 
 [[songs]]
 id = "709"

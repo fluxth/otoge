@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 413
-last_updated = "2026-08-07T04:47:58.650088126Z"
+count = 417
+last_updated = "2026-08-21T03:42:16.466070118Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -7016,6 +7016,70 @@ easy = 3
 normal = 5
 hard = 7
 influence = 10
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "7d86197af12549a567c2f61bb44e85ff"
+title = "好きなところをたくさん言う！"
+artist = "U-ske feat.すずしろ"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "9044ef586fa6732f7896ae1f2e9f4e9a"
+title = "はらひらふわり茶"
+artist = "立秋 feat.ちょこ"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 10
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "a53123e8bbd965e19c17b995b6eefcd2"
+title = "はらはら☆てぃーぱーてぃー"
+artist = "打打だいず feat. 月乃"
+
+[songs.levels]
+easy = 4
+normal = 7
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "b6c4b73cb9ac7b3d7e051daebddd42e2"
+title = "眠り姫のお菓子な大冒険！"
+artist = "ShrimpCats.（はぁち×後藤涼輔）"
+
+[songs.levels]
+easy = 4
+normal = 6
+hard = 11
+influence = 12
 
 [[songs.categories]]
 bitflag = 6
