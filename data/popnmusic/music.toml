@@ -1,6 +1,6 @@
 name = "popnmusic"
-count = 1985
-last_updated = "2026-08-20T03:38:28.845878431Z"
+count = 1986
+last_updated = "2026-08-27T13:24:06.364993149Z"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuMwfd08wtSmrIZBZeB25vK6zOrDvueWYlNmWlfHTv4Rx"
@@ -40751,6 +40751,30 @@ ex = "42"
 [songs.version]
 id = "24"
 name = "pop'n music うさぎと猫と少年の夢"
+
+[[songs]]
+image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuHTy0sJqzPetFDhV6mipxt%2BzOrDvueWYlNmWlfHTv4Rx"
+genre = "夢色ワンダー"
+title = "夢色ワンダー"
+artist = "hololive IDOL PROJECT"
+
+[songs.levels]
+light = "8"
+normal = "24"
+hyper = "37"
+ex = "45"
+
+[songs.version]
+id = "29"
+name = "pop'n music High☆Cheers!!"
+
+[[songs.recommendation_categories]]
+id = "1"
+name = "オススメ"
+
+[[songs.recommendation_categories]]
+id = "9"
+name = "GAME MUSIC"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuIoob1pTQSqsxmO9d3ey2KmzOrDvueWYlNmWlfHTv4Rx"
