@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 417
-last_updated = "2026-08-21T03:42:16.466070118Z"
+count = 418
+last_updated = "2026-08-27T13:23:55.953014224Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -7085,6 +7085,23 @@ influence = 12
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "22f72b108596e64379c6f300cad94434"
+title = "夢色ワンダー"
+artist = "hololive IDOL PROJECT"
+license = "Licensed by COVER"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
 
 [[categories]]
 bitflag = 1
