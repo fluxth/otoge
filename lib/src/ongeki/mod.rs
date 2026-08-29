@@ -15,6 +15,13 @@ impl Otoge for Ongeki {
     fn name() -> &'static str {
         "ongeki"
     }
+
+    fn image_url(image_id: &str) -> String {
+        format!(
+            "https://ongeki-net.com/ongeki-mobile/img/music/{}",
+            image_id
+        )
+    }
 }
 
 pub(crate) fn get_all_categories() -> Vec<Category> {

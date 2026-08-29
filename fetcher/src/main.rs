@@ -1,4 +1,5 @@
 mod extractors;
+mod images;
 mod traits;
 
 mod chunithm;
@@ -8,7 +9,8 @@ mod polarischord;
 mod popnmusic;
 mod soundvoltex;
 
-use std::path::Path;
+use std::collections::{HashMap, HashSet};
+use std::path::{Path, PathBuf};
 
 use otoge::helpers::load_local_data_store;
 use traits::{Extractor, FetchTask};
@@ -22,13 +24,23 @@ use otoge::shared::traits::{DataStore as DataStoreTrait, Otoge};
 use otoge::soundvoltex::SoundVoltex;
 
 use anyhow::{Error, Result};
+use clap::Parser;
+use otoge::shared::traits::SongImage;
 use tokio::task::JoinSet;
 use tracing::metadata::LevelFilter;
 use tracing::{Instrument, error, info, info_span, warn};
 use tracing_subscriber::EnvFilter;
 
-const DATA_PATH: &str = "./data";
 const DEFAULT_USER_AGENT: &str = include_str!("./default_user_agent.txt");
+
+#[derive(clap::Parser)]
+struct Args {
+    #[arg(long, default_value = "./data")]
+    target_dir: PathBuf,
+
+    #[arg(long)]
+    refresh_images: bool,
+}
 
 #[tokio::main]
 async fn main() -> Result<()> {
@@ -42,6 +54,8 @@ async fn main() -> Result<()> {
         .with_env_filter(filter)
         .init();
 
+    let args = Args::parse();
+
     info!(
         "Starting {} v{}",
         env!("CARGO_PKG_NAME"),
@@ -52,15 +66,17 @@ async fn main() -> Result<()> {
         .user_agent(DEFAULT_USER_AGENT)
         .build()?;
 
+    let data_path = args.target_dir.clone();
+
     let mut joinset: JoinSet<(&'static str, Result<()>)> = JoinSet::new();
-    joinset.spawn(run::<SoundVoltex>(client.clone()));
-    joinset.spawn(run::<PopNMusic>(client.clone()));
-    joinset.spawn(run::<ChunithmJP>(client.clone()));
-    joinset.spawn(run::<ChunithmIntl>(client.clone()));
-    joinset.spawn(run::<Ongeki>(client.clone()));
-    joinset.spawn(run::<MaimaiJP>(client.clone()));
-    joinset.spawn(run::<MaimaiIntl>(client.clone()));
-    joinset.spawn(run::<PolarisChord>(client));
+    joinset.spawn(run::<SoundVoltex>(client.clone(), data_path.clone()));
+    joinset.spawn(run::<PopNMusic>(client.clone(), data_path.clone()));
+    joinset.spawn(run::<ChunithmJP>(client.clone(), data_path.clone()));
+    joinset.spawn(run::<ChunithmIntl>(client.clone(), data_path.clone()));
+    joinset.spawn(run::<Ongeki>(client.clone(), data_path.clone()));
+    joinset.spawn(run::<MaimaiJP>(client.clone(), data_path.clone()));
+    joinset.spawn(run::<MaimaiIntl>(client.clone(), data_path.clone()));
+    joinset.spawn(run::<PolarisChord>(client.clone(), data_path.clone()));
 
     let mut return_result = Ok(());
 
@@ -75,11 +91,76 @@ async fn main() -> Result<()> {
     }
 
     info!("All fetch completed");
+
+    tokio::fs::create_dir_all(data_path.join("images")).await?;
+
+    let mut all_referenced: HashSet<String> = HashSet::new();
+    sync_game_images::<ChunithmJP>(
+        &client,
+        &data_path,
+        args.refresh_images,
+        &mut all_referenced,
+    )
+    .await?;
+    sync_game_images::<ChunithmIntl>(
+        &client,
+        &data_path,
+        args.refresh_images,
+        &mut all_referenced,
+    )
+    .await?;
+    sync_game_images::<MaimaiJP>(
+        &client,
+        &data_path,
+        args.refresh_images,
+        &mut all_referenced,
+    )
+    .await?;
+    sync_game_images::<MaimaiIntl>(
+        &client,
+        &data_path,
+        args.refresh_images,
+        &mut all_referenced,
+    )
+    .await?;
+    sync_game_images::<Ongeki>(
+        &client,
+        &data_path,
+        args.refresh_images,
+        &mut all_referenced,
+    )
+    .await?;
+    sync_game_images::<SoundVoltex>(
+        &client,
+        &data_path,
+        args.refresh_images,
+        &mut all_referenced,
+    )
+    .await?;
+    sync_game_images::<PopNMusic>(
+        &client,
+        &data_path,
+        args.refresh_images,
+        &mut all_referenced,
+    )
+    .await?;
+    sync_game_images::<PolarisChord>(
+        &client,
+        &data_path,
+        args.refresh_images,
+        &mut all_referenced,
+    )
+    .await?;
+
+    images::cleanup_orphans(&data_path, &all_referenced)
+        .instrument(info_span!("image_cleanup"))
+        .await?;
+
     info!("Exiting");
     return_result
 }
 
-async fn run<G>(client: reqwest::Client) -> (&'static str, Result<()>)
+async fn run<G>(client: reqwest::Client, data_path: PathBuf) -> (&'static str, Result<()>)
 where
     G: Otoge + FetchTask<G>,
     G::Extractor: Extractor<G>,
@@ -87,10 +168,10 @@ where
     G::ApiSong: serde::de::DeserializeOwned,
     G::DataStore: DataStoreTrait + serde::de::DeserializeOwned + serde::Serialize,
 {
-    (G::name(), process::<G>(client).await)
+    (G::name(), process::<G>(client, data_path).await)
 }
 
-async fn process<G>(client: reqwest::Client) -> Result<()>
+async fn process<G>(client: reqwest::Client, data_path: PathBuf) -> Result<()>
 where
     G: Otoge + FetchTask<G>,
     G::Extractor: Extractor<G>,
@@ -100,11 +181,10 @@ where
 {
     let name = G::name();
 
-    let data_path = Path::new(DATA_PATH);
-    let data_dir = G::data_path(Some(data_path));
+    let data_dir = G::data_path(Some(&data_path));
     tokio::fs::create_dir_all(&data_dir).await?;
 
-    let local_data_store = load_local_data_store::<G>(Some(data_path))
+    let local_data_store = load_local_data_store::<G>(Some(&data_path))
         .instrument(info_span!("load_local", name))
         .await
         .unwrap_or_else(|err| {
@@ -115,14 +195,16 @@ where
             None
         });
 
-    let new_data_store = fetch_remote::<G>(&client)
+    let mut new_data_store = fetch_remote::<G>(&client)
         .instrument(info_span!("fetch_remote", name))
         .await?;
 
     G::verify_categories(&client, &new_data_store).await?;
 
     async {
-        let should_update = if let Some(data_store) = local_data_store {
+        let mut local_data_store = local_data_store;
+        let should_update = if let Some(ref mut data_store) = local_data_store {
+            data_store.clear_image_files();
             if data_store.data_differs(&new_data_store) {
                 warn!("Local data differs from API, updating...");
                 true
@@ -134,13 +216,27 @@ where
         };
 
         if should_update {
-            let music_data_store_path = G::music_data_store_path(Some(data_path));
+            let music_data_store_path = G::music_data_store_path(Some(&data_path));
             info!(
                 "Writing new data to {:?}",
                 &music_data_store_path.as_os_str()
             );
-            let toml_content = toml::to_string(&new_data_store)?;
-            tokio::fs::write(&music_data_store_path, &toml_content).await?;
+
+            if let Some(ref local) = local_data_store {
+                let existing: HashMap<&str, &str> = local
+                    .songs()
+                    .iter()
+                    .filter_map(|song| song.image_file().map(|file| (song.image_id(), file)))
+                    .collect();
+
+                for song in new_data_store.songs_mut() {
+                    if let Some(file) = existing.get(song.image_id()) {
+                        song.set_image_file(Some((*file).to_owned()));
+                    }
+                }
+            }
+
+            tokio::fs::write(&music_data_store_path, toml::to_string(&new_data_store)?).await?;
         } else {
             info!("Local song list already up-to-date");
         }
@@ -166,4 +262,46 @@ where
     info!("Fetched {} songs", &songs.len());
 
     Ok(G::new_data_store(songs))
+}
+
+async fn sync_game_images<G>(
+    client: &reqwest::Client,
+    data_path: &Path,
+    refresh: bool,
+    all_referenced: &mut HashSet<String>,
+) -> Result<()>
+where
+    G: Otoge,
+    G::DataStore: serde::de::DeserializeOwned + serde::Serialize + DataStoreTrait,
+{
+    async {
+        let music_toml_path = data_path.join(G::name()).join("music.toml");
+
+        let content = match tokio::fs::read_to_string(&music_toml_path).await {
+            Ok(content) => content,
+            Err(err) if err.kind() == std::io::ErrorKind::NotFound => {
+                warn!("No music.toml for {}, skipping image sync", G::name());
+                return Ok(());
+            }
+            Err(err) => return Err(err.into()),
+        };
+
+        let mut data_store: G::DataStore = toml::from_str(&content)?;
+        let songs = data_store.songs_mut();
+
+        images::download_images(client, data_path, songs, refresh, G::image_url).await?;
+
+        all_referenced.extend(
+            songs
+                .iter()
+                .filter_map(|song| song.image_file().map(str::to_owned)),
+        );
+
+        info!("Writing updated music.toml");
+        tokio::fs::write(&music_toml_path, toml::to_string(&data_store)?).await?;
+
+        Ok(())
+    }
+    .instrument(info_span!("image_sync", name = G::name()))
+    .await
 }
