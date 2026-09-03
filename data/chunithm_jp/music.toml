@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1738
-last_updated = "2026-08-20T03:38:19.814697928Z"
+count = 1743
+last_updated = "2026-09-03T07:31:03.366604739Z"
 
 [[songs]]
 id = "3041"
@@ -12122,6 +12122,81 @@ is_new = false
 basic = "3"
 advanced = "6"
 expert = "10+"
+master = "14"
+
+[[songs]]
+id = "3047"
+title = "Smell of the Game"
+title_reading = "SMELLOFTHEGAME"
+artist = "NAOKI「GUILTY GEAR -STRIVE-」"
+image_id = "aa2c01242c3faf4e.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "10+"
+master = "14"
+
+[[songs]]
+id = "3048"
+title = "Find Your One Way"
+title_reading = "FINDYOURONEWAY"
+artist = "NAOKI「GUILTY GEAR -STRIVE-」"
+image_id = "4dfb09327c688bb1.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "7"
+expert = "10"
+master = "14"
+
+[[songs]]
+id = "3049"
+title = "Drift"
+title_reading = "DRIFT"
+artist = "NAOKI「GUILTY GEAR -STRIVE-」"
+image_id = "443e84680d28fb30.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "12"
+master = "14+"
+
+[[songs]]
+id = "3050"
+title = "The Disaster of Passion"
+title_reading = "THEDISASTEROFPASSION"
+artist = "AISHA「GUILTY GEAR -STRIVE-」"
+image_id = "79151b018f0d8c7f.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "9+"
+master = "13"
+
+[[songs]]
+id = "3051"
+title = "JACKY [Remix]"
+title_reading = "JACKYREMIX"
+artist = "バーチャファイター"
+image_id = "0b01ce1c72e9defc.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "7+"
+expert = "11+"
 master = "14"
 
 [[songs]]
@@ -25155,7 +25230,7 @@ title_reading = "フワハチセイウンPTL3"
 artist = "海茶、多良レイト feat. 桃寝ちのい"
 image_id = "7a02f0c5cc16c52d.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -25170,7 +25245,7 @@ title_reading = "FOXHUNT"
 artist = "よしぶる feat.街風めい"
 image_id = "62f64027ead02a9e.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -25185,7 +25260,7 @@ title_reading = "イノチスクリフト"
 artist = "原口沙輔 feat.ななひら"
 image_id = "edd45fa3fc22a59e.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -25200,7 +25275,7 @@ title_reading = "コトハノハイト"
 artist = "ぽりふぉ(PolyphonicBranch) feat. 松下"
 image_id = "9aca645476a7827a.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
