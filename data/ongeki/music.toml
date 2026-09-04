@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1101
-last_updated = "2026-08-20T03:38:19.773664595Z"
+count = 1104
+last_updated = "2026-09-03T07:31:03.314596797Z"
 
 [[songs]]
 id = "520100"
@@ -24095,7 +24095,7 @@ name = "早乙女 彩華"
 id = "100630"
 title = "シリウスの輝きのように"
 title_reading = "シリウスノカカヤキノヨウニ"
-artist = "鳳 ここな(CV.石見舞菜香)、静香(CV.長谷川育美)、カトリナ・グリーベル(CV.天城サリー)、新妻八恵(CV.長縄まりあ)、柳場ぱんだ(CV.大空直美)、流石知冴(CV.佐々木李子)"
+artist = "鳳 ここな(CV.石見舞菜香)、静香(CV.長谷川育美)、カトリナ・グリーベル(CV.天城サリー)、新妻八恵(CV.長縄まりあ)、柳場ぱんだ(CV.大空直美)、流石知冴(CV.佐々木李子)「ワールドダイスター 夢のステラリウム」"
 date = "2024-03-07"
 image_id = "c5e4a159db6da949.png"
 is_new = false
@@ -24386,7 +24386,7 @@ name = "レミリア・スカーレット"
 id = "100640"
 title = "プラネタリウム・レヴュー"
 title_reading = "フラネタリウムレウユ"
-artist = "千寿 暦(CV.鳥部万里子)、ラモーナ・ウォルフ(CV.田中美海)、王 雪(CV.花井美春)、リリヤ・クルトベイ(CV.安齋由香里)、与那国緋花里(CV.下地紫野)"
+artist = "千寿 暦(CV.鳥部万里子)、ラモーナ・ウォルフ(CV.田中美海)、王 雪(CV.花井美春)、リリヤ・クルトベイ(CV.安齋由香里)、与那国緋花里(CV.下地紫野)「ワールドダイスター 夢のステラリウム」"
 date = "2024-03-21"
 image_id = "ee0a864138d89096.png"
 is_new = false
@@ -24416,7 +24416,7 @@ name = "千寿 暦"
 id = "950136"
 title = "シリウスの輝きのように"
 title_reading = "シリウスノカカヤキノヨウニ"
-artist = "鳳 ここな(CV.石見舞菜香)、静香(CV.長谷川育美)、カトリナ・グリーベル(CV.天城サリー)、新妻八恵(CV.長縄まりあ)、柳場ぱんだ(CV.大空直美)、流石知冴(CV.佐々木李子)"
+artist = "鳳 ここな(CV.石見舞菜香)、静香(CV.長谷川育美)、カトリナ・グリーベル(CV.天城サリー)、新妻八恵(CV.長縄まりあ)、柳場ぱんだ(CV.大空直美)、流石知冴(CV.佐々木李子)「ワールドダイスター 夢のステラリウム」"
 date = "2024-03-21"
 image_id = "43c68d7763273b82.png"
 is_new = false
@@ -25981,7 +25981,7 @@ name = "早乙女 彩華"
 id = "100660"
 title = "デアエ・エクス・マキナ！"
 title_reading = "テアエエクスマキナ"
-artist = "千寿 いろは(CV.岡咲 美保)、白丸 美兎(CV.近藤 玲奈)、阿岐留 カミラ(CV.若井 友希)、猫足 蕾(CV.芹澤 優)、本巣 叶羽(CV.赤尾 ひかる)"
+artist = "千寿いろは(CV.岡咲美保)、白丸美兎(CV.近藤玲奈)、阿岐留カミラ(CV.若井友希)、猫足 蕾(CV.芹澤 優)、本巣叶羽(CV.赤尾ひかる)「ワールドダイスター 夢のステラリウム」"
 date = "2024-10-03"
 image_id = "349d0b298c79af61.png"
 is_new = false
@@ -26011,7 +26011,7 @@ name = "千寿 いろは"
 id = "100650"
 title = "Faith in Expression"
 title_reading = "FAITHINEXPRESSION"
-artist = "連尺野 初魅(CV.葵井 歌菜)、烏森 大黒(CV.Lynn)、舎人 仁花子(CV.斉藤 朱夏)、萬 容(CV.山村 響)、筆島 しぐれ(CV.吉岡 麻耶)"
+artist = "連尺野初魅(CV.葵井歌菜)、烏森大黒(CV.Lynn)、舎人仁花子(CV.斉藤朱夏)、萬 容(CV.山村 響)、筆島しぐれ(CV.吉岡麻耶)「ワールドダイスター 夢のステラリウム」"
 date = "2024-10-03"
 image_id = "990383970d6dda7e.png"
 is_new = false
@@ -26041,7 +26041,7 @@ name = "連尺野 初魅"
 id = "100670"
 title = "I Wanna"
 title_reading = "IWANNA"
-artist = "静香(CV.長谷川育美)"
+artist = "静香(CV.長谷川育美)「ワールドダイスター 夢のステラリウム」"
 date = "2024-10-03"
 image_id = "5a027909a6bb63ba.png"
 is_new = false
@@ -26922,7 +26922,7 @@ name = "桜井 春菜"
 id = "400643"
 title = "DIE IN"
 title_reading = "DIEIN"
-artist = "TAK x Sobrem"
+artist = "TAK x Sobrem「DJMAX」"
 date = "2025-02-20"
 image_id = "b902d0b0230a4535.png"
 is_new = false
@@ -26952,7 +26952,7 @@ name = "エル・クレア"
 id = "400642"
 title = "OBLIVION"
 title_reading = "OBLIVION"
-artist = "ESTi"
+artist = "ESTi「DJMAX」"
 date = "2025-02-20"
 image_id = "9fe2c8a515a47d88.png"
 is_new = false
@@ -26982,7 +26982,7 @@ name = "エル・クレア"
 id = "400641"
 title = "U.A.D"
 title_reading = "UAD"
-artist = "HAYAKO"
+artist = "HAYAKO「DJMAX」"
 date = "2025-02-20"
 image_id = "2c476816ece54f23.png"
 is_new = false
@@ -27012,7 +27012,7 @@ name = "エル・クレア"
 id = "400640"
 title = "I want You"
 title_reading = "IWANTYOU"
-artist = "Lin-G"
+artist = "Lin-G「DJMAX」"
 date = "2025-02-20"
 image_id = "4d95d4d6963c984f.png"
 is_new = false
@@ -27042,7 +27042,7 @@ name = "エル・クレア"
 id = "910131"
 title = "DIE IN"
 title_reading = "DIEIN"
-artist = "TAK x Sobrem"
+artist = "TAK x Sobrem「DJMAX」"
 date = "2025-02-20"
 image_id = "14b0a08cbb278918.png"
 is_new = false
@@ -27069,7 +27069,7 @@ name = "エル・クレア"
 id = "910130"
 title = "OBLIVION"
 title_reading = "OBLIVION"
-artist = "ESTi"
+artist = "ESTi「DJMAX」"
 date = "2025-02-20"
 image_id = "6e4457eb81f1051a.png"
 is_new = false
@@ -30938,7 +30938,7 @@ name = "アルル"
 id = "400644"
 title = "Odysseus"
 title_reading = "ODYSSEUS"
-artist = "XeoN"
+artist = "XeoN「DJMAX」"
 date = "2026-04-09"
 image_id = "5d3b3b579a91b282.png"
 is_new = false
@@ -30968,7 +30968,7 @@ name = "エル・クレア"
 id = "400645"
 title = "Hypernaid"
 title_reading = "HYPERNAID"
-artist = "KATOMORI"
+artist = "KATOMORI「DJMAX」"
 date = "2026-04-09"
 image_id = "86a5abf55fb333c1.png"
 is_new = false
@@ -30998,7 +30998,7 @@ name = "エル・クレア"
 id = "400646"
 title = "Memory of Beach"
 title_reading = "MEMORYOFBEACH"
-artist = "M2U"
+artist = "M2U「DJMAX」"
 date = "2026-04-09"
 image_id = "951d41218aa7086c.png"
 is_new = false
@@ -31028,7 +31028,7 @@ name = "エル・クレア"
 id = "400647"
 title = "End of the Moonlight"
 title_reading = "ENDOFTHEMOONLIGHT"
-artist = "Forte Escape"
+artist = "Forte Escape「DJMAX」"
 date = "2026-04-09"
 image_id = "f34eca77cb4421e7.png"
 is_new = false
@@ -31058,7 +31058,7 @@ name = "エル・クレア"
 id = "910135"
 title = "Odysseus"
 title_reading = "ODYSSEUS"
-artist = "XeoN"
+artist = "XeoN「DJMAX」"
 date = "2026-04-09"
 image_id = "1a38ce6ca555cb17.png"
 is_new = false
@@ -31085,7 +31085,7 @@ name = "エル・クレア"
 id = "910136"
 title = "Hypernaid"
 title_reading = "HYPERNAID"
-artist = "KATOMORI"
+artist = "KATOMORI「DJMAX」"
 date = "2026-04-09"
 image_id = "f5618dc0781b497d.png"
 is_new = false
@@ -31702,7 +31702,7 @@ id = "0081"
 name = "明坂 芹菜"
 
 [[songs]]
-id = "200010"
+id = "200015"
 title = "お返事まだカナ？おじさん構文！"
 title_reading = "オヘンシマタカナオシサンコウフン"
 artist = "吉本おじさん"
@@ -31734,7 +31734,7 @@ id = "0015"
 name = "柏木 美亜"
 
 [[songs]]
-id = "100008"
+id = "100012"
 title = "ユメハナビ"
 title_reading = "ユメハナヒ"
 artist = "VUCCA「温泉むすめ」"
@@ -31764,7 +31764,7 @@ id = "0078"
 name = "草津 結衣奈"
 
 [[songs]]
-id = "100009"
+id = "100013"
 title = "涌遊スマイルパワー"
 title_reading = "ユウユウスマイルハワ"
 artist = "Ambassador「温泉むすめ」"
@@ -31794,7 +31794,7 @@ id = "0078"
 name = "草津 結衣奈"
 
 [[songs]]
-id = "200009"
+id = "200014"
 title = "ももいろの鍵"
 title_reading = "モモイロノカキ"
 artist = "いよわ"
@@ -31824,7 +31824,7 @@ id = "0566"
 name = "モモ"
 
 [[songs]]
-id = "200008"
+id = "200013"
 title = "熱異常"
 title_reading = "ネツイシヨウ"
 artist = "いよわ"
@@ -31854,7 +31854,7 @@ id = "0560"
 name = "足立レイ"
 
 [[songs]]
-id = "200007"
+id = "200012"
 title = "What's up? Pop!"
 title_reading = "WHATSUPPOP"
 artist = "Capchii"
@@ -31886,7 +31886,7 @@ id = "0008"
 name = "早乙女 彩華"
 
 [[songs]]
-id = "200006"
+id = "200011"
 title = "メモリア"
 title_reading = "メモリア"
 artist = "Aira"
@@ -31918,7 +31918,7 @@ id = "0006"
 name = "藍原 椿"
 
 [[songs]]
-id = "200005"
+id = "200010"
 title = "シークレット・シーカー"
 title_reading = "シクレツトシカ"
 artist = "ヤマギシコージ"
@@ -31948,7 +31948,7 @@ id = "0014"
 name = "日向 千夏"
 
 [[songs]]
-id = "400012"
+id = "400025"
 title = "Cryogenic"
 title_reading = "CRYOGENIC"
 artist = "Camellia ft. Petra Gurin「In Falsus」"
@@ -31978,7 +31978,7 @@ id = "0003"
 name = "三角 葵"
 
 [[songs]]
-id = "600014"
+id = "600112"
 title = "poppin’ hoppin’ flappin’☆☆☆"
 title_reading = "POPPINHOPPINFLAPPIN"
 artist = "曲：宮崎まゆ・賀佐泰洋 (SUPA LOVE)／歌：星咲 あかり(CV：赤尾 ひかる)、藤沢 柚子(CV：保科 李沙)、三角 葵(CV：春野 杏)"
@@ -32007,7 +32007,7 @@ id = "0001"
 name = "星咲 あかり"
 
 [[songs]]
-id = "400011"
+id = "400024"
 title = "それはもうらぶちゅ"
 title_reading = "ソレハモウラフチユ"
 artist = "タケノコ少年 feat. 周央サンゴ（にじさんじ）"
@@ -32037,7 +32037,7 @@ id = "0567"
 name = "リン"
 
 [[songs]]
-id = "400010"
+id = "400023"
 title = "Cthugha"
 title_reading = "CTHUGHA"
 artist = "USAO"
@@ -32067,7 +32067,7 @@ id = "0568"
 name = "ブロウ"
 
 [[songs]]
-id = "400009"
+id = "400022"
 title = "アルメリアの鳥籠"
 title_reading = "アルメリアノトリカコ"
 artist = "a_hisa"
@@ -32096,13 +32096,13 @@ id = "0017"
 name = "皇城 セツナ"
 
 [[songs]]
-id = "600012"
+id = "600110"
 title = "morph"
 title_reading = "MORPH"
 artist = "雄之助"
 date = "2026-08-20"
 image_id = "706d4a9c3b14fa1e.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -32125,13 +32125,13 @@ id = "0004"
 name = "高瀬 梨緒"
 
 [[songs]]
-id = "600013"
+id = "600111"
 title = "ときめきインビテーション"
 title_reading = "トキメキインヒテシヨン"
 artist = "曲：Kijibato／歌：⊿TRiEDGE [高瀬 梨緒(CV：久保 ユリカ)、結城 莉玖(CV：朝日奈 丸佳)、藍原 椿(CV：橋本 ちなみ)]"
 date = "2026-08-20"
 image_id = "e7c3bb8bd96c8a38.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -32152,6 +32152,98 @@ master = "13"
 [songs.character]
 id = "0005"
 name = "結城 莉玖"
+
+[[songs]]
+id = "100011"
+title = "LaVI-Bavellabion"
+title_reading = "LAVIBAVELLABION"
+artist = "三木谷奈々「魔法少女ノ魔女裁判」"
+date = "2026-09-03"
+image_id = "c93367046b6797b2.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "© 2024 Re,AER LLC./Acacia"
+
+[songs.chapter]
+id = "99152"
+name = "魔法少女ノ魔女裁判"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "0570"
+name = "桜羽エマ"
+
+[[songs]]
+id = "100010"
+title = "飛翔、戦いの空へ (Ryu☆Remix ft.佐伯伊織)"
+title_reading = "ヒシヨウタタカイノソラヘ"
+artist = "松本大輔「ゴシックは魔法乙女」"
+date = "2026-09-03"
+image_id = "068dcd6ae461cba0.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©2015 CAVE Interactive CO., LTD."
+
+[songs.chapter]
+id = "99153"
+name = "ゴシックは魔法乙女【第3弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "9+"
+master = "13"
+
+[songs.character]
+id = "0088"
+name = "ロザリー"
+
+[[songs]]
+id = "100009"
+title = "モエチャッカファイア"
+title_reading = "モエチヤツカフアイア"
+artist = "弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」"
+date = "2026-09-03"
+image_id = "43566f08617cc66b.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = """
+©VAP INC.\r
+Licensed by VAP INC."""
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "4"
+advanced = "7"
+expert = "10+"
+master = "13+"
+
+[songs.character]
+id = "0010"
+name = "柏木 咲姫"
 
 [[categories]]
 id = "06"
