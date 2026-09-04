@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1571
-last_updated = "2026-08-21T03:42:16.307930339Z"
+count = 1574
+last_updated = "2026-09-04T07:32:46.840695520Z"
 
 [[songs]]
 id = "1165"
@@ -25738,7 +25738,7 @@ image_id = "8390593148dae09c.png"
 category = "ゲーム＆バラエティ"
 version = "26514"
 release = "2026-08-21"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25756,7 +25756,7 @@ image_id = "0757236de4820023.png"
 category = "ゲーム＆バラエティ"
 version = "26514"
 release = "2026-08-21"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -25774,7 +25774,7 @@ image_id = "17ae689c209fa74f.png"
 category = "ゲーム＆バラエティ"
 version = "26514"
 release = "2026-08-21"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -25792,7 +25792,7 @@ image_id = "0db5f376fe40a376.png"
 category = "ゲーム＆バラエティ"
 version = "26514"
 release = "2026-08-21"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -25800,6 +25800,60 @@ basic = "4"
 advanced = "7"
 expert = "11+"
 master = "14"
+
+[[songs]]
+id = "6"
+title = "相性×優勝ドロップス"
+title_reading = "アイシヨウユウシヨウトロツフス"
+artist = "Idios"
+image_id = "1495ded4d5b6a2d0.png"
+category = "POPS＆アニメ"
+version = "26515"
+release = "2026-09-04"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "129"
+title = "光線歌"
+title_reading = "コウセンカ"
+artist = "Guiano"
+image_id = "666702b28b895e23.png"
+category = "niconico＆ボーカロイド"
+version = "26515"
+release = "2026-09-04"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "12+"
+
+[[songs]]
+id = "130"
+title = "電脳眠眠猫"
+title_reading = "テンノウミエンミエンマオ"
+artist = "桃寝ちのい"
+image_id = "76c1ff8a2741cd05.png"
+category = "niconico＆ボーカロイド"
+version = "26515"
+release = "2026-09-04"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "709"
