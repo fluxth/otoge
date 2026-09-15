@@ -51,11 +51,14 @@ jobs:
           token: ${{ steps.app-token.outputs.token }}
           committer: flux-ci[bot] <283426290+flux-ci[bot]@users.noreply.github.com>
           author: flux-ci[bot] <283426290+flux-ci[bot]@users.noreply.github.com>
-          commit-message: "data: song database update for ${{ env.CURRENT_DATE }}"
           title: "Song database update for ${{ env.CURRENT_DATE }}"
           body: |
             There are updates to the song database.
 
             *This update is auto-generated.*
+          commit-message: |
+            data: song database update for ${{ env.CURRENT_DATE }}"
+
+            [skip ci]
           branch: auto/otoge-fetcher
           reviewers: fluxth
