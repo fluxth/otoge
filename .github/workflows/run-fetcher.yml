@@ -57,7 +57,7 @@ jobs:
 
             *This update is auto-generated.*
           commit-message: |
-            data: song database update for ${{ env.CURRENT_DATE }}"
+            data: song database update for ${{ env.CURRENT_DATE }}
 
             [skip ci]
           branch: auto/otoge-fetcher
