@@ -1,6 +1,21 @@
 name = "chunithm_jp"
-count = 1743
-last_updated = "2026-09-03T07:31:03.366604739Z"
+count = 1751
+last_updated = "2026-09-17T10:39:40.486900598Z"
+
+[[songs]]
+id = "3086"
+title = "Colossus"
+title_reading = "COLOSSUS"
+artist = "加藤 浩義（ノイジークローク）"
+image_id = "cea4a5cb576a26d7.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "14"
 
 [[songs]]
 id = "3041"
@@ -12131,7 +12146,7 @@ title_reading = "SMELLOFTHEGAME"
 artist = "NAOKI「GUILTY GEAR -STRIVE-」"
 image_id = "aa2c01242c3faf4e.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12146,7 +12161,7 @@ title_reading = "FINDYOURONEWAY"
 artist = "NAOKI「GUILTY GEAR -STRIVE-」"
 image_id = "4dfb09327c688bb1.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -12161,7 +12176,7 @@ title_reading = "DRIFT"
 artist = "NAOKI「GUILTY GEAR -STRIVE-」"
 image_id = "443e84680d28fb30.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12176,7 +12191,7 @@ title_reading = "THEDISASTEROFPASSION"
 artist = "AISHA「GUILTY GEAR -STRIVE-」"
 image_id = "79151b018f0d8c7f.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -12191,7 +12206,7 @@ title_reading = "JACKYREMIX"
 artist = "バーチャファイター"
 image_id = "0b01ce1c72e9defc.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -25282,6 +25297,105 @@ basic = "3"
 advanced = "7+"
 expert = "10+"
 master = "14+"
+
+[[songs]]
+id = "3043"
+title = "Prismatic Theory"
+title_reading = "PRISMATICTHEORY"
+artist = "荒谷サトル"
+image_id = "9c09ad3ceda20c0a.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "13"
+master = "14+"
+
+[[songs]]
+id = "3044"
+title = "Knockout Ravebox"
+title_reading = "KNOCKOUTRAVEBOX"
+artist = "Hommarju"
+image_id = "83077f4a6a9f0f4e.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7+"
+expert = "12"
+master = "14"
+
+[[songs]]
+id = "3045"
+title = "アンサレステラー"
+title_reading = "アンサレステラウ"
+artist = "花徒めと"
+image_id = "27ba6e5202aefb62.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "10+"
+master = "14+"
+
+[[songs]]
+id = "3046"
+title = "[IMPERIALDISORDER]"
+title_reading = "IMPERIALDISORDER"
+artist = "Blacklolita"
+image_id = "396226dcdcbdf45d.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "12+"
+master = "15"
+
+[[songs]]
+id = "8330"
+title = "ヤババイナ"
+title_reading = "ヤハハイナ"
+artist = "さたぱんP"
+image_id = "677a55a9d5c4c8e5.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "狂"
+star = "5"
+
+[[songs]]
+id = "8331"
+title = "黒塗り世界宛て書簡"
+title_reading = "クロヌリセカイアテシヨカン"
+artist = "フロクロ"
+image_id = "59d095478ede11e7.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "止"
+star = "5"
+
+[[songs]]
+id = "8332"
+title = "熱異常"
+title_reading = "ネツイシヨウ"
+artist = "いよわ"
+image_id = "bbc48a008bc4b975.jpg"
+category = "niconico"
+is_new = true
+
+[songs.worlds_end]
+kanji = "敷"
+star = "5"
 
 [[songs]]
 id = "8327"

@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1104
-last_updated = "2026-09-03T07:31:03.314596797Z"
+count = 1107
+last_updated = "2026-09-17T10:39:40.441607821Z"
 
 [[songs]]
 id = "520100"
@@ -32160,7 +32160,7 @@ title_reading = "LAVIBAVELLABION"
 artist = "三木谷奈々「魔法少女ノ魔女裁判」"
 date = "2026-09-03"
 image_id = "c93367046b6797b2.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "© 2024 Re,AER LLC./Acacia"
@@ -32190,7 +32190,7 @@ title_reading = "ヒシヨウタタカイノソラヘ"
 artist = "松本大輔「ゴシックは魔法乙女」"
 date = "2026-09-03"
 image_id = "068dcd6ae461cba0.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©2015 CAVE Interactive CO., LTD."
@@ -32220,7 +32220,7 @@ title_reading = "モエチヤツカフアイア"
 artist = "弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」"
 date = "2026-09-03"
 image_id = "43566f08617cc66b.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = """
@@ -32244,6 +32244,93 @@ master = "13+"
 [songs.character]
 id = "0010"
 name = "柏木 咲姫"
+
+[[songs]]
+id = "600107"
+title = "Yami Yami"
+title_reading = "YAMIYAMI"
+artist = "曲：2tros (Digz, Inc. Group)／歌：bitter flavor[桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]、7EVENDAYS⇔HOLIDAYS[井之原 小星(CV：ももの はるな)、柏木 咲姫(CV：石見 舞菜香)]"
+date = "2026-09-17"
+image_id = "0a95f4a54dee0a0a.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80053"
+name = "Shooter's Dream《bitter flavor/7EVENDAYS⇔HOLIDAYS》"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "8"
+expert = "10+"
+master = "13"
+
+[songs.character]
+id = "0010"
+name = "柏木 咲姫"
+
+[[songs]]
+id = "600108"
+title = "ハルシナイト（starring オンゲキシューターズ）"
+title_reading = "ハルシナイトSTARRINGオンケキシユタス"
+artist = "曲：かしこ。／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]"
+date = "2026-09-17"
+image_id = "a7e6749fb3ee3d50.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80053"
+name = "Shooter's Dream《bitter flavor/7EVENDAYS⇔HOLIDAYS》"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[songs.character]
+id = "0008"
+name = "早乙女 彩華"
+
+[[songs]]
+id = "600109"
+title = "Sugarfull:Overbloom"
+title_reading = "SUGARFULLOVERBLOOM"
+artist = "Reku Mochizuki"
+date = "2026-09-17"
+image_id = "d85777f355658014.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80053"
+name = "Shooter's Dream《bitter flavor/7EVENDAYS⇔HOLIDAYS》"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "5"
+advanced = "9+"
+expert = "12"
+master = "14+"
+
+[songs.character]
+id = "0007"
+name = "桜井 春菜"
 
 [[categories]]
 id = "06"
