@@ -1,6 +1,6 @@
 name = "popnmusic"
-count = 1986
-last_updated = "2026-09-15T08:11:45.093330208Z"
+count = 1987
+last_updated = "2026-09-20T08:05:51.277776500Z"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuMwfd08wtSmrIZBZeB25vK6zOrDvueWYlNmWlfHTv4Rx"
@@ -25580,6 +25580,30 @@ ex = "38"
 [songs.version]
 id = "0"
 name = "pop'n 家庭用"
+
+[[songs]]
+image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuBWxKxS8%2BkcwSnLXUqZDL4ezOrDvueWYlNmWlfHTv4Rx"
+genre = "ギミギミエンターテイメント"
+title = "ギミギミエンターテイメント"
+artist = "hololive IDOL PROJECT"
+
+[songs.levels]
+light = "4"
+normal = "18"
+hyper = "36"
+ex = "43"
+
+[songs.version]
+id = "29"
+name = "pop'n music High☆Cheers!!"
+
+[[songs.recommendation_categories]]
+id = "1"
+name = "オススメ"
+
+[[songs.recommendation_categories]]
+id = "9"
+name = "GAME MUSIC"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuO7qIAtnyoq9QQ9geipTQNmzOrDvueWYlNmWlfHTv4Rx"
