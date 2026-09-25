@@ -1,6 +1,36 @@
 name = "chunithm_jp"
-count = 1751
-last_updated = "2026-09-17T10:39:40.486900598Z"
+count = 1754
+last_updated = "2026-09-25T08:21:20.880797344Z"
+
+[[songs]]
+id = "3057"
+title = "Your Reality (Kenji Mizuno Remix)"
+title_reading = "YOURREALITYKENJIMIZUNOREMIX"
+artist = "Dan Salvato／水野健治"
+image_id = "140d3c0253db6498.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "14+"
+
+[[songs]]
+id = "3058"
+title = "LaVI-Bavellabion"
+title_reading = "LAVIBAVELLABION"
+artist = "三木谷奈々 SLAVE.V-V-R"
+image_id = "1c4aa68762d08b13.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "9+"
+master = "13+"
 
 [[songs]]
 id = "3086"
@@ -9,7 +39,7 @@ title_reading = "COLOSSUS"
 artist = "加藤 浩義（ノイジークローク）"
 image_id = "cea4a5cb576a26d7.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -4074,6 +4104,7 @@ basic = "3"
 advanced = "7"
 expert = "10"
 master = "13+"
+ultima = "15"
 
 [[songs]]
 id = "2318"
@@ -12213,6 +12244,21 @@ basic = "2"
 advanced = "7+"
 expert = "11+"
 master = "14"
+
+[[songs]]
+id = "3059"
+title = "奇々解体"
+title_reading = "キキカイタイ"
+artist = "MURASAKI/かたたかんな"
+image_id = "3b7a809d84a6c9b6.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "9"
+master = "13"
 
 [[songs]]
 id = "901"
@@ -25305,7 +25351,7 @@ title_reading = "PRISMATICTHEORY"
 artist = "荒谷サトル"
 image_id = "9c09ad3ceda20c0a.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -25320,7 +25366,7 @@ title_reading = "KNOCKOUTRAVEBOX"
 artist = "Hommarju"
 image_id = "83077f4a6a9f0f4e.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -25335,7 +25381,7 @@ title_reading = "アンサレステラウ"
 artist = "花徒めと"
 image_id = "27ba6e5202aefb62.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -25350,7 +25396,7 @@ title_reading = "IMPERIALDISORDER"
 artist = "Blacklolita"
 image_id = "396226dcdcbdf45d.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -25365,7 +25411,7 @@ title_reading = "ヤハハイナ"
 artist = "さたぱんP"
 image_id = "677a55a9d5c4c8e5.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "狂"
@@ -25378,7 +25424,7 @@ title_reading = "クロヌリセカイアテシヨカン"
 artist = "フロクロ"
 image_id = "59d095478ede11e7.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "止"
@@ -25391,7 +25437,7 @@ title_reading = "ネツイシヨウ"
 artist = "いよわ"
 image_id = "bbc48a008bc4b975.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.worlds_end]
 kanji = "敷"
