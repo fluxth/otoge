@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 420
-last_updated = "2026-09-20T08:05:42.596052298Z"
+count = 422
+last_updated = "2026-09-30T09:22:49.665754187Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -7124,6 +7124,40 @@ id = "e8a8d0f81578556426002a5ee4214ce0"
 title = "ギミギミエンターテイメント"
 artist = "hololive IDOL PROJECT"
 license = "Licensed by COVER"
+
+[songs.levels]
+easy = 2
+normal = 5
+hard = 8
+influence = 11
+
+[[songs.categories]]
+bitflag = 1
+slug = "virtual"
+name = "Virtual"
+
+[[songs]]
+id = "1d890605a22dc69a331459a605c407da"
+title = "アスノヨゾラ哨戒班"
+artist = "Orangestar"
+license = "Licensed by Orangestar"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 2
+slug = "social"
+name = "ソーシャルミュージック"
+
+[[songs]]
+id = "cb0601c01df42371c14ce393e006ad05"
+title = "金木犀"
+artist = "花園セレナ"
+license = "Licensed by 花園セレナ"
 
 [songs.levels]
 easy = 2
