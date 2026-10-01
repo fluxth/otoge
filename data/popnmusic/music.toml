@@ -1,6 +1,6 @@
 name = "popnmusic"
 count = 1987
-last_updated = "2026-09-20T08:05:51.277776500Z"
+last_updated = "2026-10-01T09:36:45.238084941Z"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuMwfd08wtSmrIZBZeB25vK6zOrDvueWYlNmWlfHTv4Rx"
@@ -2638,8 +2638,6 @@ artist = "Switch"
 [songs.levels]
 light = "3"
 normal = "17"
-hyper = "31"
-ex = "39"
 
 [songs.version]
 id = "29"
@@ -2758,8 +2756,6 @@ artist = "Knights"
 [songs.levels]
 light = "4"
 normal = "20"
-hyper = "34"
-ex = "40"
 
 [songs.version]
 id = "29"
@@ -6745,8 +6741,6 @@ artist = "Valkyrie"
 [songs.levels]
 light = "4"
 normal = "18"
-hyper = "30"
-ex = "41"
 
 [songs.version]
 id = "29"
@@ -8228,8 +8222,6 @@ artist = "covered by 不知火フレア"
 [songs.levels]
 light = "4"
 normal = "21"
-hyper = "33"
-ex = "42"
 
 [songs.version]
 id = "29"
@@ -8535,8 +8527,6 @@ artist = "Rev Girls and Boy feat. U1-ASAMi"
 [songs.levels]
 light = "11"
 normal = "28"
-hyper = "37"
-ex = "45"
 
 [songs.version]
 id = "29"
@@ -13155,8 +13145,6 @@ artist = "Ra*bits"
 [songs.levels]
 light = "5"
 normal = "21"
-hyper = "32"
-ex = "42"
 
 [songs.version]
 id = "29"
@@ -15954,8 +15942,6 @@ artist = "m@sumi"
 [songs.levels]
 light = "9"
 normal = "25"
-hyper = "37"
-ex = "46"
 
 [songs.version]
 id = "29"
@@ -16297,8 +16283,6 @@ artist = "ネオン(CV:藤川茜)、芽兎めう(CV:五十嵐裕美)"
 [songs.levels]
 light = "5"
 normal = "23"
-hyper = "34"
-ex = "41"
 
 [songs.version]
 id = "29"
@@ -19667,8 +19651,6 @@ artist = "SOUND HOLIC"
 [songs.levels]
 light = "13"
 normal = "28"
-hyper = "41"
-ex = "47"
 
 [songs.version]
 id = "29"
@@ -19920,7 +19902,6 @@ artist = "EGOISTIC LEMONTEA"
 light = "8"
 normal = "14"
 hyper = "22"
-ex = "37"
 
 [songs.version]
 id = "0"
@@ -20106,8 +20087,6 @@ artist = "不知火フレア Prod.by PON"
 [songs.levels]
 light = "10"
 normal = "26"
-hyper = "41"
-ex = "47"
 
 [songs.version]
 id = "29"
@@ -27679,8 +27658,6 @@ artist = "PHQUASE feat.紫崎 雪"
 [songs.levels]
 light = "11"
 normal = "27"
-hyper = "40"
-ex = "46"
 
 [songs.version]
 id = "29"
@@ -30379,8 +30356,6 @@ artist = "音戯探偵ひなビタ♫"
 [songs.levels]
 light = "8"
 normal = "27"
-hyper = "35"
-ex = "44"
 
 [songs.version]
 id = "29"
@@ -32340,8 +32315,6 @@ artist = "音戯探偵ひなビタ♫"
 [songs.levels]
 light = "16"
 normal = "31"
-hyper = "42"
-ex = "48"
 
 [songs.version]
 id = "29"
@@ -32972,8 +32945,6 @@ artist = "あさき"
 [songs.levels]
 light = "12"
 normal = "31"
-hyper = "40"
-ex = "47"
 
 [songs.version]
 id = "29"
@@ -34617,8 +34588,6 @@ artist = "音戯探偵ひなビタ♫"
 [songs.levels]
 light = "9"
 normal = "24"
-hyper = "34"
-ex = "43"
 
 [songs.version]
 id = "29"
@@ -34884,8 +34853,6 @@ artist = "音戯探偵ひなビタ♫"
 [songs.levels]
 light = "11"
 normal = "24"
-hyper = "37"
-ex = "45"
 
 [songs.version]
 id = "29"
@@ -37518,8 +37485,6 @@ artist = "indoor cats."
 [songs.levels]
 light = "7"
 normal = "23"
-hyper = "36"
-ex = "42"
 
 [songs.version]
 id = "29"
@@ -38220,8 +38185,6 @@ artist = "covered by 不知火フレア"
 [songs.levels]
 light = "9"
 normal = "25"
-hyper = "36"
-ex = "43"
 
 [songs.version]
 id = "29"
@@ -42203,8 +42166,6 @@ artist = "音戯探偵ひなビタ♫"
 [songs.levels]
 light = "9"
 normal = "25"
-hyper = "36"
-ex = "46"
 
 [songs.version]
 id = "29"
