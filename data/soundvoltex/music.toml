@@ -1,6 +1,6 @@
 name = "soundvoltex"
 count = 2200
-last_updated = "2026-06-30T04:24:26.413440723Z"
+last_updated = "2026-10-01T09:36:39.591086279Z"
 
 [[songs]]
 image_id = "/game/sdvx/vi/common/jacket.html?img=DR3HZtoGQC1vDqdvYlL9Cg"
@@ -30669,7 +30669,7 @@ exhaust = "13"
 
 [[songs]]
 image_id = "/game/sdvx/vi/common/jacket.html?img=qp3NL9DY0u1Gn0cQKYB1jg"
-title = "天狗の落とし文 feat. ｙｔｒ"
+title = "天狗の落とし文 (feat. ｙｔｒ)"
 artist = "魂音泉"
 
 [[songs.categories]]

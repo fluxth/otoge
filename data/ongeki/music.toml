@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1107
-last_updated = "2026-09-17T10:39:40.441607821Z"
+count = 1109
+last_updated = "2026-10-01T09:36:35.251943730Z"
 
 [[songs]]
 id = "520100"
@@ -32252,7 +32252,7 @@ title_reading = "YAMIYAMI"
 artist = "曲：2tros (Digz, Inc. Group)／歌：bitter flavor[桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]、7EVENDAYS⇔HOLIDAYS[井之原 小星(CV：ももの はるな)、柏木 咲姫(CV：石見 舞菜香)]"
 date = "2026-09-17"
 image_id = "0a95f4a54dee0a0a.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -32281,7 +32281,7 @@ title_reading = "ハルシナイトSTARRINGオンケキシユタス"
 artist = "曲：かしこ。／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]"
 date = "2026-09-17"
 image_id = "a7e6749fb3ee3d50.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -32310,7 +32310,7 @@ title_reading = "SUGARFULLOVERBLOOM"
 artist = "Reku Mochizuki"
 date = "2026-09-17"
 image_id = "d85777f355658014.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -32331,6 +32331,66 @@ master = "14+"
 [songs.character]
 id = "0007"
 name = "桜井 春菜"
+
+[[songs]]
+id = "400021"
+title = "零號車輛"
+title_reading = "リンハオチユリヤン"
+artist = "seatrus「Paradigm: Reboot」"
+date = "2026-10-01"
+image_id = "c2515807eee36455.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©TunerGames Ltd."
+
+[songs.chapter]
+id = "99154"
+name = "Paradigm: Reboot"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "6"
+advanced = "10"
+expert = "13"
+master = "15"
+
+[songs.character]
+id = "0583"
+name = "パラ"
+
+[[songs]]
+id = "400020"
+title = "Indelible Scar "
+title_reading = "INDELIBLESCAR"
+artist = "Noah「Paradigm: Reboot」"
+date = "2026-10-01"
+image_id = "8d4803f35996a8b5.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©TunerGames Ltd."
+
+[songs.chapter]
+id = "99154"
+name = "Paradigm: Reboot"
+
+[songs.category]
+id = "04"
+name = "VARIETY"
+
+[songs.levels]
+basic = "6"
+advanced = "9+"
+expert = "13"
+master = "14+"
+
+[songs.character]
+id = "0583"
+name = "パラ"
 
 [[categories]]
 id = "06"
