@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1597
-last_updated = "2026-09-25T08:21:20.839313643Z"
+count = 1602
+last_updated = "2026-10-02T09:10:32.219968987Z"
 
 [[songs]]
 id = "1183"
@@ -10341,6 +10341,30 @@ expert = "11+"
 master = "14+"
 
 [[songs]]
+id = "1103"
+title = "居並ぶ穀物と溜息まじりの運送屋"
+title_reading = "イナラフコクモツトタメイキマシリノウンソウヤ"
+artist = "hanzo"
+image_id = "c02537aab0c8a6a2.png"
+category = "maimai"
+version = "27002"
+release = "2026-10-02"
+is_new = true
+is_locked = false
+
+[songs.levels]
+basic = "4"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "11+"
+master = "12+"
+
+[[songs]]
 id = "689"
 title = "Paranoia"
 title_reading = "PARANOIA"
@@ -12404,23 +12428,6 @@ basic = "5"
 advanced = "7+"
 expert = "10+"
 master = "13"
-
-[[songs]]
-id = "1104"
-title = "居並ぶ穀物と溜息まじりの運送屋"
-title_reading = "イナラフコクモツトタメイキマシリノウンソウヤ"
-artist = "hanzo"
-image_id = "c02537aab0c8a6a2.png"
-category = "maimai"
-version = "21000"
-is_new = false
-is_locked = false
-
-[songs.dx_levels]
-basic = "3"
-advanced = "7+"
-expert = "11+"
-master = "12+"
 
 [[songs]]
 id = "1343"
@@ -25850,6 +25857,24 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "1028"
+title = "OV3RCLOCK"
+title_reading = "OV3RCLOCK"
+artist = "Alicemetix"
+image_id = "360427dd3d2c96ca.png"
+category = "maimai"
+version = "27002"
+release = "2026-10-02"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "7+"
+expert = "12+"
+master = "14+"
+
+[[songs]]
 id = "1432"
 title = "IMPACT"
 title_reading = "IMPACT"
@@ -26095,7 +26120,7 @@ image_id = "7e41b69af6c87bd7.png"
 category = "ゲーム＆バラエティ"
 version = "27001"
 release = "2026-09-25"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -26113,7 +26138,7 @@ image_id = "922bd88061ebb54f.png"
 category = "ゲーム＆バラエティ"
 version = "27001"
 release = "2026-09-25"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -26131,13 +26156,85 @@ image_id = "38a8234dc1211bf6.png"
 category = "ゲーム＆バラエティ"
 version = "27001"
 release = "2026-09-25"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
 basic = "6"
 advanced = "8"
 expert = "12+"
+master = "14"
+
+[[songs]]
+id = "707"
+title = "All Over Again"
+title_reading = "ALLOVERAGAIN"
+artist = "Zekk"
+image_id = "027382bb48f2741d.png"
+category = "ゲーム＆バラエティ"
+version = "27002"
+release = "2026-10-02"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "5"
+advanced = "7+"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "708"
+title = "Energy"
+title_reading = "ENERGY"
+artist = "Ryo Nakamura"
+image_id = "1144ad6c486a4673.png"
+category = "ゲーム＆バラエティ"
+version = "27002"
+release = "2026-10-02"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[[songs]]
+id = "709"
+title = "Crossfire"
+title_reading = "CROSSFIRE"
+artist = "Blacklolita"
+image_id = "3d407fffa828cb4b.png"
+category = "ゲーム＆バラエティ"
+version = "27002"
+release = "2026-10-02"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "710"
+title = "RE!NCARN4T10N"
+title_reading = "REINCARN4T10N"
+artist = "xi"
+image_id = "da7a8cbb420a1a22.png"
+category = "ゲーム＆バラエティ"
+version = "27002"
+release = "2026-10-02"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "6"
+advanced = "8"
+expert = "12"
 master = "14"
 
 [[songs]]
