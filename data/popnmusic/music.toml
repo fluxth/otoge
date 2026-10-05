@@ -1,6 +1,6 @@
 name = "popnmusic"
 count = 1987
-last_updated = "2026-10-01T09:36:45.238084941Z"
+last_updated = "2026-10-05T09:49:36.974966659Z"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuMwfd08wtSmrIZBZeB25vK6zOrDvueWYlNmWlfHTv4Rx"
@@ -12984,10 +12984,6 @@ id = "1"
 name = "beatmania IIDX"
 
 [[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
 id = "5"
 name = "REFLEC BEAT"
 
@@ -13375,10 +13371,6 @@ id = "3"
 name = "GITADORA"
 
 [[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
 id = "5"
 name = "REFLEC BEAT"
 
@@ -13466,10 +13458,6 @@ ex = "46"
 [songs.version]
 id = "24"
 name = "pop'n music うさぎと猫と少年の夢"
-
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuFobW13HzUhs72CVWuo9c0WzOrDvueWYlNmWlfHTv4Rx"
@@ -13805,10 +13793,6 @@ id = "2"
 name = "DanceDanceRevolution"
 
 [[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
 id = "6"
 name = "SOUND VOLTEX"
 
@@ -13895,10 +13879,6 @@ name = "beatmania IIDX"
 [[songs.bemani]]
 id = "2"
 name = "DanceDanceRevolution"
-
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
 
 [[songs.bemani]]
 id = "5"
@@ -14013,10 +13993,6 @@ name = "pop'n music 17 THE MOVIE"
 id = "3"
 name = "GITADORA"
 
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
-
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuIxdFKaqRdzGzC5zbYOnD%2BWzOrDvueWYlNmWlfHTv4Rx"
 genre = "ミュートロニカ"
@@ -14107,10 +14083,6 @@ id = "3"
 name = "GITADORA"
 
 [[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
 id = "5"
 name = "REFLEC BEAT"
 
@@ -14149,10 +14121,6 @@ name = "DanceDanceRevolution"
 [[songs.bemani]]
 id = "3"
 name = "GITADORA"
-
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
 
 [[songs.bemani]]
 id = "5"
@@ -14280,10 +14248,6 @@ name = "pop'n music Sunny Park"
 id = "2"
 name = "DanceDanceRevolution"
 
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
-
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuFLDv0pFJESPA9mDJtkb4mCzOrDvueWYlNmWlfHTv4Rx"
 genre = "プレデターコア"
@@ -14307,10 +14271,6 @@ name = "DanceDanceRevolution"
 [[songs.bemani]]
 id = "3"
 name = "GITADORA"
-
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
 
 [[songs.bemani]]
 id = "6"
@@ -14423,10 +14383,6 @@ id = "3"
 name = "GITADORA"
 
 [[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
 id = "6"
 name = "SOUND VOLTEX"
 
@@ -14498,10 +14454,6 @@ id = "3"
 name = "GITADORA"
 
 [[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
 id = "5"
 name = "REFLEC BEAT"
 
@@ -14552,10 +14504,6 @@ name = "pop'n music UniLab"
 id = "2"
 name = "DanceDanceRevolution"
 
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
-
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuL8coVloeFfpIfRWSP9xt3KzOrDvueWYlNmWlfHTv4Rx"
 genre = "ハッピー"
@@ -14583,10 +14531,6 @@ name = "DanceDanceRevolution"
 [[songs.bemani]]
 id = "3"
 name = "GITADORA"
-
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
 
 [[songs.bemani]]
 id = "5"
@@ -14958,10 +14902,6 @@ id = "1"
 name = "beatmania IIDX"
 
 [[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
 id = "9"
 name = "ノスタルジア"
 
@@ -15103,10 +15043,6 @@ id = "3"
 name = "GITADORA"
 
 [[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
 id = "6"
 name = "SOUND VOLTEX"
 
@@ -15242,10 +15178,6 @@ name = "DanceDanceRevolution"
 id = "3"
 name = "GITADORA"
 
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
-
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuIq5h0kyr/LG9nDQJSGG8p6zOrDvueWYlNmWlfHTv4Rx"
 genre = "Ｊ‐ロック"
@@ -15378,10 +15310,6 @@ id = "3"
 name = "GITADORA"
 
 [[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
 id = "5"
 name = "REFLEC BEAT"
 
@@ -15420,10 +15348,6 @@ name = "pop'n music ラピストリア"
 [[songs.bemani]]
 id = "3"
 name = "GITADORA"
-
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
 
 [[songs.bemani]]
 id = "5"
@@ -15560,10 +15484,6 @@ name = "DanceDanceRevolution"
 [[songs.bemani]]
 id = "3"
 name = "GITADORA"
-
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
 
 [[songs.bemani]]
 id = "5"
@@ -15728,10 +15648,6 @@ id = "1"
 name = "beatmania IIDX"
 
 [[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
 id = "5"
 name = "REFLEC BEAT"
 
@@ -15888,10 +15804,6 @@ id = "2"
 name = "DanceDanceRevolution"
 
 [[songs.bemani]]
-id = "4"
-name = "jubeat"
-
-[[songs.bemani]]
 id = "5"
 name = "REFLEC BEAT"
 
@@ -15970,10 +15882,6 @@ name = "beatmania IIDX"
 [[songs.bemani]]
 id = "2"
 name = "DanceDanceRevolution"
-
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
 
 [[songs.bemani]]
 id = "5"
@@ -16092,10 +16000,6 @@ name = "pop'n music 20 fantasia"
 id = "3"
 name = "GITADORA"
 
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
-
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuOiSYvaiQIw1wBWU7yur7fazOrDvueWYlNmWlfHTv4Rx"
 genre = "ハイスピード幻想チューン"
@@ -16119,10 +16023,6 @@ name = "beatmania IIDX"
 [[songs.bemani]]
 id = "2"
 name = "DanceDanceRevolution"
-
-[[songs.bemani]]
-id = "4"
-name = "jubeat"
 
 [[songs.bemani]]
 id = "5"
