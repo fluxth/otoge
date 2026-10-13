@@ -1,6 +1,6 @@
 name = "popnmusic"
 count = 1987
-last_updated = "2026-10-06T09:37:46.311636009Z"
+last_updated = "2026-10-13T09:53:39.571880328Z"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuMwfd08wtSmrIZBZeB25vK6zOrDvueWYlNmWlfHTv4Rx"
@@ -2560,7 +2560,7 @@ name = "pop'n music 解明リドルズ"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuCvJpqRCJ/U1qWoP/KedbvOzOrDvueWYlNmWlfHTv4Rx"
-genre = "Bomb be love"
+genre = "エヴォリューションディスコ"
 title = "Bomb be love"
 artist = "sei☆shin feat.ken"
 
@@ -2786,7 +2786,7 @@ name = "pop'n music 20 fantasia"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuPGww1OU0y6u0pGJX57IXqmzOrDvueWYlNmWlfHTv4Rx"
-genre = "BROADWAY QUEENS"
+genre = "ビッグバンドミュージカル"
 title = "BROADWAY QUEENS"
 artist = "T-HEY & TANEKO"
 
@@ -3962,7 +3962,7 @@ name = "BEMANI"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuIDg/5t9PCiuKZ2nx1TThUKzOrDvueWYlNmWlfHTv4Rx"
-genre = "CRAZY ARTS"
+genre = "ボンバーラップ"
 title = "CRAZY ARTS"
 artist = "FAKE TYPE."
 
@@ -7851,7 +7851,7 @@ name = "jubeat"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuLrgp2qmo1KS7xed%2BycOuiazOrDvueWYlNmWlfHTv4Rx"
-genre = "Heavenly Good Morning!"
+genre = "シャイニーゴスペル"
 title = "Heavenly Good Morning!"
 artist = "アマギセーラ"
 
@@ -8409,7 +8409,7 @@ name = "pop'n music 20 fantasia"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuAX%2BRoFD0WTP3mUsdyHIPdGzOrDvueWYlNmWlfHTv4Rx"
-genre = "How Many Eyes On You?"
+genre = "ハピネスモータウン"
 title = "How Many Eyes On You?"
 artist = "青野りえ+mizuno"
 
@@ -8534,7 +8534,7 @@ name = "pop'n music High☆Cheers!!"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuHcfNMJNufoTN%2Bba5uIJo6qzOrDvueWYlNmWlfHTv4Rx"
-genre = "Hypernova"
+genre = "コスモテクノ"
 title = "Hypernova"
 artist = "Serph"
 
@@ -8855,6 +8855,10 @@ ex = "48"
 [songs.version]
 id = "27"
 name = "pop'n music UniLab"
+
+[[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
 
 [[songs.bemani]]
 id = "2"
@@ -10317,7 +10321,7 @@ name = "pop'n music 14 FEVER！"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuGX5q4nU/LVpgkJMuASEU5mzOrDvueWYlNmWlfHTv4Rx"
-genre = "Levitation Minneapolis"
+genre = "フローティングフュージョン"
 title = "Levitation Minneapolis"
 artist = "北川翔也"
 
@@ -12089,6 +12093,10 @@ ex = "46"
 [songs.version]
 id = "19"
 name = "pop'n music 19 TUNE STREET"
+
+[[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuD%2B7iI74Y6pnD5dhSneWQ%2BazOrDvueWYlNmWlfHTv4Rx"
@@ -14602,7 +14610,7 @@ name = "BeatStream"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuDqQcrsNLoCZN9leJRo4CyezOrDvueWYlNmWlfHTv4Rx"
-genre = "Que Sera Sera"
+genre = "モダンカントリー"
 title = "Que Sera Sera"
 artist = "大谷舞 feat.つむぎしゃち（from キミのね）"
 
@@ -16200,7 +16208,7 @@ name = "pop'n music 5"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuIN5R8gTvn4TkMrl1zgD9D6zOrDvueWYlNmWlfHTv4Rx"
-genre = "Shooting Star"
+genre = "ダンスポップ"
 title = "Shooting Star"
 artist = "ReGLOSS"
 
@@ -17395,7 +17403,7 @@ name = "jubeat"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuLcx7pObAnutZn%2BFoWMGRZmzOrDvueWYlNmWlfHTv4Rx"
-genre = "storia"
+genre = "エテリアル"
 title = "storia"
 artist = 'BEMANI Sound Team "HuΣeR" × Cororo feat. 大瀬良あい'
 
@@ -18262,7 +18270,7 @@ name = "pop'n music うさぎと猫と少年の夢"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuB5fljVE/R62%2B1cV1bkG3XezOrDvueWYlNmWlfHTv4Rx"
-genre = "The Die is cast."
+genre = "ガールズスピードコア"
 title = "The Die is cast."
 artist = "T4K feat.ういにゃす"
 
@@ -19282,7 +19290,7 @@ name = "ノスタルジア"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuBmp%2Bf7euo2Abxo50eDh6HmzOrDvueWYlNmWlfHTv4Rx"
-genre = "Tripping Jumping"
+genre = "ファンキーブレイクス"
 title = "Tripping Jumping"
 artist = "Aikapin Prod. by uno & NiActivity"
 
@@ -21607,7 +21615,7 @@ name = "SOUND VOLTEX"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuHhRXGYsQGO3c/oBvN2Duw%2BzOrDvueWYlNmWlfHTv4Rx"
-genre = "朱と碧のランページ"
+genre = "アニマソング"
 title = "朱と碧のランページ"
 artist = "covered by 儒烏風亭らでん(ReGLOSS)"
 
@@ -23649,6 +23657,10 @@ id = "1"
 name = "beatmania IIDX"
 
 [[songs.bemani]]
+id = "2"
+name = "DanceDanceRevolution"
+
+[[songs.bemani]]
 id = "6"
 name = "SOUND VOLTEX"
 
@@ -24830,7 +24842,7 @@ name = "pop'n music 15 ADVENTURE"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuHICr%2BGMuNJuIyj/gjB0pSizOrDvueWYlNmWlfHTv4Rx"
-genre = "カジノファイヤーことみちゃん"
+genre = "電波"
 title = "カジノファイヤーことみちゃん"
 artist = "covered by 一条莉々華(ReGLOSS)"
 
@@ -25575,6 +25587,26 @@ ex = "43"
 [songs.version]
 id = "29"
 name = "pop'n music High☆Cheers!!"
+
+[[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
+
+[[songs.bemani]]
+id = "2"
+name = "DanceDanceRevolution"
+
+[[songs.bemani]]
+id = "3"
+name = "GITADORA"
+
+[[songs.bemani]]
+id = "4"
+name = "jubeat"
+
+[[songs.bemani]]
+id = "6"
+name = "SOUND VOLTEX"
 
 [[songs.recommendation_categories]]
 id = "1"
@@ -31415,7 +31447,7 @@ name = "GITADORA"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuDuvpj5shB6O1P2wm%2BTHyuKzOrDvueWYlNmWlfHTv4Rx"
-genre = "装填昇天エクソシスト"
+genre = "バスターメタル"
 title = "装填昇天エクソシスト"
 artist = "My Complex of Academy"
 
@@ -33143,6 +33175,10 @@ id = "29"
 name = "pop'n music High☆Cheers!!"
 
 [[songs.bemani]]
+id = "2"
+name = "DanceDanceRevolution"
+
+[[songs.bemani]]
 id = "6"
 name = "SOUND VOLTEX"
 
@@ -33852,7 +33888,7 @@ name = "pop'n music 20 fantasia"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuBfPrgHMT2hWX/YQAeh0CVqzOrDvueWYlNmWlfHTv4Rx"
-genre = "時が戻れば..."
+genre = "J-ハウス"
 title = "時が戻れば..."
 artist = "阿部靖広 feat.ゆめめ"
 
@@ -34119,7 +34155,7 @@ name = "GITADORA"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuGw7X%2BxXkEoi6TJKlYrjU3yzOrDvueWYlNmWlfHTv4Rx"
-genre = "囚われの魔女人形"
+genre = "アンティークワルツ"
 title = "囚われの魔女人形"
 artist = "m@sumi feat. q'yul"
 
@@ -35550,6 +35586,10 @@ ex = "44"
 [songs.version]
 id = "29"
 name = "pop'n music High☆Cheers!!"
+
+[[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
 
 [[songs.recommendation_categories]]
 id = "1"
@@ -42750,7 +42790,7 @@ name = "DanceDanceRevolution"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuNV09byDVBqnPuQfiVp93jazOrDvueWYlNmWlfHTv4Rx"
-genre = "ロマンシングエスケープ"
+genre = "シンセウェーブポップ"
 title = "ロマンシングエスケープ"
 artist = "ここなつ2.0"
 
