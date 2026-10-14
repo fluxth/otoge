@@ -9,6 +9,6 @@ edition = "2024"
 anyhow = "=1.0.104"
 chrono = { version = "=0.4.45", features = ["serde"] }
 serde = { version = "=1.0.229", features = ["serde_derive"] }
-tokio = { version = "=1.53.2", features = ["fs"] }
+tokio = { version = "=1.53.3", features = ["fs"] }
 toml = "=1.1.8"
 tracing = "=0.1.44"
