@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1602
-last_updated = "2026-10-02T09:10:32.219968987Z"
+count = 1605
+last_updated = "2026-10-16T07:41:32.506992426Z"
 
 [[songs]]
 id = "1183"
@@ -10349,7 +10349,7 @@ image_id = "c02537aab0c8a6a2.png"
 category = "maimai"
 version = "27002"
 release = "2026-10-02"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.levels]
@@ -10495,6 +10495,25 @@ basic = "3"
 advanced = "7+"
 expert = "12"
 master = "14"
+
+[[songs]]
+id = "9"
+title = "Can Do"
+title_reading = "CANDO"
+artist = "GRANRODEO"
+image_id = "7d34a09716db3d75.png"
+category = "POPS＆アニメ"
+version = "27003"
+release = "2026-10-16"
+is_new = true
+is_locked = false
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "10+"
+master = "13"
+remaster = "13+"
 
 [[songs]]
 id = "1016"
@@ -25865,7 +25884,7 @@ image_id = "360427dd3d2c96ca.png"
 category = "maimai"
 version = "27002"
 release = "2026-10-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -26166,6 +26185,42 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "7"
+title = "ChaosBlue"
+title_reading = "CHAOSBLUE"
+artist = "GRANRODEO"
+image_id = "f691ea418d23b8f6.png"
+category = "POPS＆アニメ"
+version = "27003"
+release = "2026-10-16"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "8"
+title = "GO GO PARADISE!!"
+title_reading = "GOGOPARADISE"
+artist = "GRANRODEO"
+image_id = "e3d0111b0ad45236.png"
+category = "POPS＆アニメ"
+version = "27003"
+release = "2026-10-16"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
 id = "707"
 title = "All Over Again"
 title_reading = "ALLOVERAGAIN"
@@ -26174,7 +26229,7 @@ image_id = "027382bb48f2741d.png"
 category = "ゲーム＆バラエティ"
 version = "27002"
 release = "2026-10-02"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -26192,7 +26247,7 @@ image_id = "1144ad6c486a4673.png"
 category = "ゲーム＆バラエティ"
 version = "27002"
 release = "2026-10-02"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -26210,7 +26265,7 @@ image_id = "3d407fffa828cb4b.png"
 category = "ゲーム＆バラエティ"
 version = "27002"
 release = "2026-10-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -26228,7 +26283,7 @@ image_id = "da7a8cbb420a1a22.png"
 category = "ゲーム＆バラエティ"
 version = "27002"
 release = "2026-10-02"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
