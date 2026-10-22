@@ -98,7 +98,7 @@ struct Selectors {
 }
 
 impl Selectors {
-    fn init<'a>() -> Result<Self, SelectorErrorKind<'a>> {
+    fn init() -> Result<Self, SelectorErrorKind> {
         Ok(Self {
             music_entry: Selector::parse(r#"#music-result > .music"#)?,
             page_select_options: Selector::parse(r#"#music-result > select#search_page > option"#)?,

@@ -280,7 +280,7 @@ struct Selectors {
 }
 
 impl Selectors {
-    fn init<'a>() -> Result<Self, SelectorErrorKind<'a>> {
+    fn init() -> Result<Self, SelectorErrorKind> {
         Ok(Self {
             list_items: Selector::parse(r#"ul.mu_list_table:not(.mu_head) > li"#)?,
             page_select_options: Selector::parse(r#"select#s_page > option"#)?,
