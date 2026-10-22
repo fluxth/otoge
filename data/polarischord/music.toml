@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 423
-last_updated = "2026-10-15T07:50:55.777687067Z"
+count = 425
+last_updated = "2026-10-22T08:07:48.332821641Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -7191,6 +7191,38 @@ influence = 12
 bitflag = 5
 slug = "variety"
 name = "バラエティ"
+
+[[songs]]
+id = "bd7b866efc468bebd86bb77f75e8733c"
+title = "Sakura Reflection"
+artist = "Ryu☆"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 11
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "84072849f06bb335341cbed266c60339"
+title = "7 Colors"
+artist = "kors k feat.吉河順央"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
