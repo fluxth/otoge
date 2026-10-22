@@ -1,6 +1,36 @@
 name = "chunithm_jp"
-count = 1759
-last_updated = "2026-10-08T09:44:07.407358369Z"
+count = 1763
+last_updated = "2026-10-22T08:07:48.178086060Z"
+
+[[songs]]
+id = "3065"
+title = "P-KATSU"
+title_reading = "PKATSU"
+artist = "P丸様。"
+image_id = "3ffbcba18598abf6.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "3066"
+title = "天天天国地獄国 (feat. ななひら & P丸様。)"
+title_reading = "テンテンテンコクシコクコクFEATナナヒラヒウマルサマ"
+artist = "Aiobahn +81"
+image_id = "d7918752c4fe334c.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "13"
 
 [[songs]]
 id = "3057"
@@ -348,6 +378,7 @@ basic = "3"
 advanced = "6"
 expert = "9+"
 master = "12+"
+ultima = "14+"
 
 [[songs]]
 id = "2493"
@@ -2410,7 +2441,7 @@ title_reading = "サコ"
 artist = "柊マグネタイト"
 image_id = "fb5e60d62c7d88e7.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2425,7 +2456,7 @@ title_reading = "フロハイルフロフアイル"
 artist = "もちうつね"
 image_id = "8202b8274c1feed0.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -2440,7 +2471,7 @@ title_reading = "SANチチヨクソウ"
 artist = "STEAKA"
 image_id = "6d4e076edbf2b46e.jpg"
 category = "niconico"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -7260,6 +7291,36 @@ advanced = "6"
 expert = "9"
 master = "13"
 ultima = "14"
+
+[[songs]]
+id = "3067"
+title = "さっきゅんライト（2025）"
+title_reading = "サツキユンライト2025"
+artist = "石鹸屋"
+image_id = "555cd99cbf7241a9.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "3068"
+title = "物凄い狂っとるフランちゃんが物凄いうた"
+title_reading = "モノスコイクルツトルフランチヤンカモノスコイウタ"
+artist = "Halozy feat. ななひら"
+image_id = "b080e086e37326b1.jpg"
+category = "東方Project"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "14"
 
 [[songs]]
 id = "3012"
@@ -25456,7 +25517,7 @@ title_reading = "ハイホルテウシカウル"
 artist = "マサラダ feat.あられ"
 image_id = "6c07589177bbb0f8.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -25471,7 +25532,7 @@ title_reading = "コンクエストチヤレンシ"
 artist = "サツキ feat.ろん"
 image_id = "1ae2db00c32c728b.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
