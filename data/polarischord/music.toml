@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 425
-last_updated = "2026-10-22T08:07:48.332821641Z"
+count = 427
+last_updated = "2026-10-29T09:07:22.764335270Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -7223,6 +7223,39 @@ influence = 12
 bitflag = 6
 slug = "original"
 name = "オリジナル"
+
+[[songs]]
+id = "0cf291514da9de445747bfcf34dfbf9a"
+title = "void static angel"
+artist = "Frums"
+
+[songs.levels]
+easy = 4
+normal = 8
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "d13fe9510d213cef97c1ce4fd4871265"
+title = "Black Lair"
+artist = "Sakuzyo feat. void (Mournfinale)"
+license = "Licensed by Sakuzyo"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 9
+influence = 12
+
+[[songs.categories]]
+bitflag = 5
+slug = "variety"
+name = "バラエティ"
 
 [[categories]]
 bitflag = 1
