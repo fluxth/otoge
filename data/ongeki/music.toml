@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1112
-last_updated = "2026-10-15T07:50:55.616685114Z"
+count = 1115
+last_updated = "2026-10-29T09:07:22.311552351Z"
 
 [[songs]]
 id = "520100"
@@ -31702,7 +31702,7 @@ id = "0081"
 name = "明坂 芹菜"
 
 [[songs]]
-id = "200015"
+id = "200026"
 title = "お返事まだカナ？おじさん構文！"
 title_reading = "オヘンシマタカナオシサンコウフン"
 artist = "吉本おじさん"
@@ -31794,7 +31794,7 @@ id = "0078"
 name = "草津 結衣奈"
 
 [[songs]]
-id = "200014"
+id = "200025"
 title = "ももいろの鍵"
 title_reading = "モモイロノカキ"
 artist = "いよわ"
@@ -31824,7 +31824,7 @@ id = "0566"
 name = "モモ"
 
 [[songs]]
-id = "200013"
+id = "200024"
 title = "熱異常"
 title_reading = "ネツイシヨウ"
 artist = "いよわ"
@@ -31854,7 +31854,7 @@ id = "0560"
 name = "足立レイ"
 
 [[songs]]
-id = "200012"
+id = "200023"
 title = "What's up? Pop!"
 title_reading = "WHATSUPPOP"
 artist = "Capchii"
@@ -31886,7 +31886,7 @@ id = "0008"
 name = "早乙女 彩華"
 
 [[songs]]
-id = "200011"
+id = "200022"
 title = "メモリア"
 title_reading = "メモリア"
 artist = "Aira"
@@ -31918,7 +31918,7 @@ id = "0006"
 name = "藍原 椿"
 
 [[songs]]
-id = "200010"
+id = "200021"
 title = "シークレット・シーカー"
 title_reading = "シクレツトシカ"
 artist = "ヤマギシコージ"
@@ -32399,7 +32399,7 @@ title_reading = "アルカテイル"
 artist = "鈴木このみ「Summer Pockets REFLECTION BLUE」"
 date = "2026-10-15"
 image_id = "ff2d7370e4bcb4f1.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©℗VISUAL ARTS/Key Sounds Label"
@@ -32423,13 +32423,13 @@ id = "0590"
 name = "鳴瀬 しろは"
 
 [[songs]]
-id = "200009"
+id = "200020"
 title = "忘れものセンターにまたね！"
 title_reading = "ワスレモノセンタニマタネ"
 artist = "いのうつはSA"
 date = "2026-10-15"
 image_id = "4662f577376bf91e.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 copyright = "©いのうつはSA"
@@ -32453,13 +32453,13 @@ id = "0016"
 name = "東雲 つむぎ"
 
 [[songs]]
-id = "200008"
+id = "200019"
 title = "ロウワー"
 title_reading = "ロウワ"
 artist = "ぬゆり"
 date = "2026-10-15"
 image_id = "ea8b06249dc4ec59.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -32480,6 +32480,95 @@ master = "13+"
 [songs.character]
 id = "0006"
 name = "藍原 椿"
+
+[[songs]]
+id = "600106"
+title = "Demonia"
+title_reading = "DEMONIA"
+artist = "Juggernaut."
+date = "2026-10-29"
+image_id = "92fe6cf5404ae29b.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+
+[songs.chapter]
+id = "80054"
+name = "KING of Performai The 8th 予選ラウンド"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "7"
+advanced = "10+"
+expert = "14"
+master = "15"
+
+[songs.character]
+id = "0011"
+name = "九條 楓"
+
+[[songs]]
+id = "701650"
+title = "Earthly Light -⊿TRiEDGE ver.-"
+title_reading = "EARTHLYLIGHTTRIEDGEVER"
+artist = "曲：ヘリP／歌：⊿TRiEDGE [高瀬 梨緒(CV：久保 ユリカ)、結城 莉玖(CV：朝日奈 丸佳)、藍原 椿(CV：橋本 ちなみ)]"
+date = "2026-10-29"
+image_id = "0670154fb5e3b3ad.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+copyright = "© Re:STAGE! PROJECT"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "0004"
+name = "高瀬 梨緒"
+
+[[songs]]
+id = "701660"
+title = "Earthly Light -Trium Tone ver.-"
+title_reading = "EARTHLYLIGHTTRIUMTONEVER"
+artist = "曲：ヘリP／歌：Trium Tone [旭 日向(CV：和泉 風花)、佐倉 未雨(CV：齊藤 未莉依)、中野 りんか(CV：小宮山 あかり)]"
+date = "2026-10-29"
+image_id = "9e09093748767ed5.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = true
+copyright = "© Re:STAGE! PROJECT"
+
+[songs.chapter]
+id = "00001"
+name = "マイリスト"
+
+[songs.category]
+id = "06"
+name = "オンゲキ"
+
+[songs.levels]
+basic = "3"
+advanced = "8+"
+expert = "12"
+master = "14"
+
+[songs.character]
+id = "0091"
+name = "式宮 舞菜"
 
 [[categories]]
 id = "06"

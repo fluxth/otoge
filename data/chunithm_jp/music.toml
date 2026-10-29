@@ -1,6 +1,36 @@
 name = "chunithm_jp"
-count = 1763
-last_updated = "2026-10-22T08:07:48.178086060Z"
+count = 1770
+last_updated = "2026-10-29T09:07:22.327143373Z"
+
+[[songs]]
+id = "3070"
+title = "ふたりのスタートボタン"
+title_reading = "フタリノスタウトホタン"
+artist = "歌：リリー・ベイカー（CV：天城サリー）、草壁葵衣（CV：小山内怜央） 作詞・作編曲：TAG「ゲーセン少女と異文化交流」"
+image_id = "dc16c5b06bee8803.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "3071"
+title = "Amusing Flavor"
+title_reading = "AMUSINGFLAVOR"
+artist = "歌：リリー・ベイカー（CV：天城サリー） 作詞・作編曲：t+pazolite「ゲーセン少女と異文化交流」"
+image_id = "2da688b835c957b0.jpg"
+category = "POPS & ANIME"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "12+"
+master = "14"
 
 [[songs]]
 id = "3065"
@@ -9,7 +39,7 @@ title_reading = "PKATSU"
 artist = "P丸様。"
 image_id = "3ffbcba18598abf6.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +54,7 @@ title_reading = "テンテンテンコクシコクコクFEATナナヒラヒウ�
 artist = "Aiobahn +81"
 image_id = "d7918752c4fe334c.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -7299,7 +7329,7 @@ title_reading = "サツキユンライト2025"
 artist = "石鹸屋"
 image_id = "555cd99cbf7241a9.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "2"
@@ -7314,7 +7344,7 @@ title_reading = "モノスコイクルツトルフランチヤンカモノスコ
 artist = "Halozy feat. ななひら"
 image_id = "b080e086e37326b1.jpg"
 category = "東方Project"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10169,6 +10199,66 @@ basic = "2"
 advanced = "6"
 expert = "9"
 master = "12"
+
+[[songs]]
+id = "3072"
+title = "ぴるぐライド!"
+title_reading = "ヒルクライト"
+artist = "MOSAIC.WAV「MUSIC DIVER」"
+image_id = "2877b4d46acb4d1b.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "5"
+expert = "10+"
+master = "14"
+
+[[songs]]
+id = "3073"
+title = "Dark Falchion"
+title_reading = "DARKFALCHION"
+artist = "MASAKI(ZUNTATA)「MUSIC DIVER」"
+image_id = "f06ac44bd47da88c.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "13"
+master = "15"
+
+[[songs]]
+id = "3074"
+title = "Metaverse Do Be Like This"
+title_reading = "METAVERSEDOBELIKETHIS"
+artist = "かめりあ「MUSIC DIVER」"
+image_id = "e0895c3d12b8017f.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "8"
+expert = "13+"
+master = "14+"
+
+[[songs]]
+id = "3075"
+title = "HYPER SAMPLER"
+title_reading = "HYPERSAMPLER"
+artist = "EmoCosine「MUSIC DIVER」"
+image_id = "c205a724e66e906c.jpg"
+category = "VARIETY"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "11"
+master = "14"
 
 [[songs]]
 id = "2043"
@@ -18818,6 +18908,21 @@ is_new = false
 [songs.levels]
 basic = "5"
 advanced = "8+"
+expert = "13+"
+master = "15"
+
+[[songs]]
+id = "3069"
+title = "狂命"
+title_reading = "キヨウメイ"
+artist = "Capchii feat. ChumuNote"
+image_id = "5f167154120c68ed.jpg"
+category = "ORIGINAL"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "11"
 expert = "13+"
 master = "15"
 
