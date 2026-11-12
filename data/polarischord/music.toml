@@ -1,6 +1,6 @@
 name = "polarischord"
-count = 427
-last_updated = "2026-10-30T09:18:28.595607252Z"
+count = 431
+last_updated = "2026-11-12T10:28:51.013773828Z"
 
 [[songs]]
 id = "77b0f98b7f247b0251da420959ed4717"
@@ -7260,6 +7260,70 @@ influence = 12
 bitflag = 5
 slug = "variety"
 name = "バラエティ"
+
+[[songs]]
+id = "df0782cc3ef1dad240c49a21ddff4a63"
+title = "Chippin Break"
+artist = "あるふぁ"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "b2f7a2ab44349ae073cfb29ddd7bf18e"
+title = "Star☆Beat"
+artist = "PandaBoY feat.ななひら"
+
+[songs.levels]
+easy = 3
+normal = 7
+hard = 11
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "62a9bf3a5d141e79338ded3e3e130130"
+title = "birth"
+artist = "Yu_Asahina"
+
+[songs.levels]
+easy = 3
+normal = 6
+hard = 11
+influence = 13
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
+
+[[songs]]
+id = "3b59534f84ce319e52421ff725ebd8b2"
+title = "Paradission"
+artist = "BlackY"
+
+[songs.levels]
+easy = 2
+normal = 6
+hard = 10
+influence = 12
+
+[[songs.categories]]
+bitflag = 6
+slug = "original"
+name = "オリジナル"
 
 [[categories]]
 bitflag = 1
