@@ -1,6 +1,6 @@
 name = "popnmusic"
-count = 1987
-last_updated = "2026-10-13T09:53:39.571880328Z"
+count = 1984
+last_updated = "2026-11-17T11:20:52.365147447Z"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuMwfd08wtSmrIZBZeB25vK6zOrDvueWYlNmWlfHTv4Rx"
@@ -9637,30 +9637,6 @@ ex = "42"
 [songs.version]
 id = "21"
 name = "pop'n music Sunny Park"
-
-[[songs]]
-image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuA00Je4cbkIupjFI0Pj8hzCzOrDvueWYlNmWlfHTv4Rx"
-genre = "KAWAII FESTIVAL"
-title = "KAWAII FESTIVAL"
-artist = "ハローキティ"
-
-[songs.levels]
-light = "5"
-normal = "13"
-hyper = "25"
-ex = "33"
-
-[songs.version]
-id = "29"
-name = "pop'n music High☆Cheers!!"
-
-[[songs.recommendation_categories]]
-id = "1"
-name = "オススメ"
-
-[[songs.recommendation_categories]]
-id = "6"
-name = "J-POP"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuBh1BDFa9bG7y5keUs/5YryzOrDvueWYlNmWlfHTv4Rx"
@@ -25687,30 +25663,6 @@ id = "24"
 name = "pop'n music うさぎと猫と少年の夢"
 
 [[songs]]
-image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuLodpogbOX6fe9iQc%2BmttF2zOrDvueWYlNmWlfHTv4Rx"
-genre = "キミのこと、だいだいすきだもん☆"
-title = "キミのこと、だいだいすきだもん☆"
-artist = "シナモロール"
-
-[songs.levels]
-light = "5"
-normal = "11"
-hyper = "19"
-ex = "31"
-
-[songs.version]
-id = "29"
-name = "pop'n music High☆Cheers!!"
-
-[[songs.recommendation_categories]]
-id = "1"
-name = "オススメ"
-
-[[songs.recommendation_categories]]
-id = "6"
-name = "J-POP"
-
-[[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuGlIBsmg%2Bxo34s2w2T/TB9OzOrDvueWYlNmWlfHTv4Rx"
 genre = "ラブリーモータウン２"
 title = "キミのそばに"
@@ -37559,30 +37511,6 @@ ex = "40"
 [songs.version]
 id = "17"
 name = "pop'n music 17 THE MOVIE"
-
-[[songs]]
-image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuCn5zVm4VzX3vhoyPNwaT2KzOrDvueWYlNmWlfHTv4Rx"
-genre = "プリンとマフィンのポムポムビート☆"
-title = "プリンとマフィンのポムポムビート☆"
-artist = "ポムポムプリン"
-
-[songs.levels]
-light = "6"
-normal = "14"
-hyper = "20"
-ex = "32"
-
-[songs.version]
-id = "29"
-name = "pop'n music High☆Cheers!!"
-
-[[songs.recommendation_categories]]
-id = "1"
-name = "オススメ"
-
-[[songs.recommendation_categories]]
-id = "6"
-name = "J-POP"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuGm4p4H8yRnp1Sy0c67BwHizOrDvueWYlNmWlfHTv4Rx"
