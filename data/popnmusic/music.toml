@@ -1,6 +1,6 @@
 name = "popnmusic"
 count = 1984
-last_updated = "2026-11-17T11:20:52.365147447Z"
+last_updated = "2026-11-24T13:06:43.270206385Z"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuMwfd08wtSmrIZBZeB25vK6zOrDvueWYlNmWlfHTv4Rx"
@@ -3771,6 +3771,10 @@ id = "25"
 name = "pop'n music peace"
 
 [[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
+
+[[songs.bemani]]
 id = "2"
 name = "DanceDanceRevolution"
 
@@ -4502,6 +4506,10 @@ ex = "47"
 [songs.version]
 id = "29"
 name = "pop'n music High☆Cheers!!"
+
+[[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
 
 [[songs.bemani]]
 id = "2"
@@ -6183,7 +6191,7 @@ name = "pop'n music 13 カーニバル"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuLE36l4cI52UEJj3wmEp68KzOrDvueWYlNmWlfHTv4Rx"
-genre = "クラシック12"
+genre = "クラシック１２"
 title = "Festum Duodecimum!"
 artist = 'BEMANI Sound Team "Gaius Iulius Akhutaros"'
 
@@ -6603,6 +6611,10 @@ ex = "44"
 [songs.version]
 id = "18"
 name = "pop'n music 18 せんごく列伝"
+
+[[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuBg2Bc8uwv3dkmxahWR4va6zOrDvueWYlNmWlfHTv4Rx"
@@ -19975,6 +19987,10 @@ id = "12"
 name = "pop'n music 12 いろは"
 
 [[songs.bemani]]
+id = "1"
+name = "beatmania IIDX"
+
+[[songs.bemani]]
 id = "5"
 name = "REFLEC BEAT"
 
@@ -31721,6 +31737,10 @@ ex = "43"
 id = "29"
 name = "pop'n music High☆Cheers!!"
 
+[[songs.bemani]]
+id = "6"
+name = "SOUND VOLTEX"
+
 [[songs.recommendation_categories]]
 id = "1"
 name = "オススメ"
@@ -32668,10 +32688,6 @@ id = "22"
 name = "pop'n music ラピストリア"
 
 [[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
-
-[[songs.bemani]]
 id = "3"
 name = "GITADORA"
 
@@ -32714,10 +32730,6 @@ ex = "46"
 [songs.version]
 id = "27"
 name = "pop'n music UniLab"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "3"
@@ -32781,10 +32793,6 @@ ex = "46"
 [songs.version]
 id = "23"
 name = "pop'n music éclale"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "4"
@@ -32865,10 +32873,6 @@ ex = "41"
 [songs.version]
 id = "25"
 name = "pop'n music peace"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "3"
@@ -33087,10 +33091,6 @@ id = "1"
 name = "beatmania IIDX"
 
 [[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
-
-[[songs.bemani]]
 id = "3"
 name = "GITADORA"
 
@@ -33125,10 +33125,6 @@ ex = "44"
 [songs.version]
 id = "29"
 name = "pop'n music High☆Cheers!!"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "6"
@@ -33335,10 +33331,6 @@ ex = "46"
 [songs.version]
 id = "18"
 name = "pop'n music 18 せんごく列伝"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuIS%2B/Di7DtcSuwlx2Xf%2BGSqzOrDvueWYlNmWlfHTv4Rx"
@@ -33800,10 +33792,6 @@ id = "22"
 name = "pop'n music ラピストリア"
 
 [[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
-
-[[songs.bemani]]
 id = "3"
 name = "GITADORA"
 
@@ -34005,10 +33993,6 @@ name = "pop'n music Sunny Park"
 [[songs.bemani]]
 id = "1"
 name = "beatmania IIDX"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "3"
@@ -34305,10 +34289,6 @@ id = "25"
 name = "pop'n music peace"
 
 [[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
-
-[[songs.bemani]]
 id = "4"
 name = "jubeat"
 
@@ -34397,10 +34377,6 @@ id = "1"
 name = "beatmania IIDX"
 
 [[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
-
-[[songs.bemani]]
 id = "3"
 name = "GITADORA"
 
@@ -34461,10 +34437,6 @@ id = "1"
 name = "beatmania IIDX"
 
 [[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
-
-[[songs.bemani]]
 id = "3"
 name = "GITADORA"
 
@@ -34507,10 +34479,6 @@ name = "pop'n music 解明リドルズ"
 [[songs.bemani]]
 id = "1"
 name = "beatmania IIDX"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "4"
@@ -34580,10 +34548,6 @@ normal = "24"
 [songs.version]
 id = "29"
 name = "pop'n music High☆Cheers!!"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "6"
@@ -34658,10 +34622,6 @@ name = "pop'n music ラピストリア"
 [[songs.bemani]]
 id = "1"
 name = "beatmania IIDX"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "3"
@@ -34847,10 +34807,6 @@ id = "29"
 name = "pop'n music High☆Cheers!!"
 
 [[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
-
-[[songs.bemani]]
 id = "6"
 name = "SOUND VOLTEX"
 
@@ -34892,10 +34848,6 @@ name = "pop'n music 13 カーニバル"
 id = "1"
 name = "beatmania IIDX"
 
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
-
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuFYfVeXRAk01UrcPliL8CZOzOrDvueWYlNmWlfHTv4Rx"
 genre = "ばーちゃる夢？ぽっぷ"
@@ -34931,10 +34883,6 @@ name = "pop'n music Sunny Park"
 [[songs.bemani]]
 id = "1"
 name = "beatmania IIDX"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "3"
@@ -35203,10 +35151,6 @@ id = "25"
 name = "pop'n music peace"
 
 [[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
-
-[[songs.bemani]]
 id = "3"
 name = "GITADORA"
 
@@ -35276,10 +35220,6 @@ ex = "46"
 [songs.version]
 id = "27"
 name = "pop'n music UniLab"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs]]
 image_id = "/game/popn/popn29/images/img_binary.html?img=H/Nn4N6TkJun4Ag8TCVfuPHWm7raY6KAaToOS118ewGzOrDvueWYlNmWlfHTv4Rx"
@@ -35380,10 +35320,6 @@ name = "pop'n music UniLab"
 [[songs.bemani]]
 id = "1"
 name = "beatmania IIDX"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "3"
@@ -35607,10 +35543,6 @@ id = "24"
 name = "pop'n music うさぎと猫と少年の夢"
 
 [[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
-
-[[songs.bemani]]
 id = "4"
 name = "jubeat"
 
@@ -35721,10 +35653,6 @@ ex = "38"
 [songs.version]
 id = "21"
 name = "pop'n music Sunny Park"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "3"
@@ -35856,10 +35784,6 @@ ex = "48"
 [songs.version]
 id = "29"
 name = "pop'n music High☆Cheers!!"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "6"
@@ -36014,10 +35938,6 @@ ex = "41"
 [songs.version]
 id = "25"
 name = "pop'n music peace"
-
-[[songs.bemani]]
-id = "2"
-name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "6"
@@ -41049,6 +40969,10 @@ ex = "40"
 [songs.version]
 id = "28"
 name = "pop'n music Jam&Fizz"
+
+[[songs.bemani]]
+id = "2"
+name = "DanceDanceRevolution"
 
 [[songs.bemani]]
 id = "4"
