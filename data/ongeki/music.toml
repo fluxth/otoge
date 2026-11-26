@@ -1,6 +1,6 @@
 name = "ongeki"
-count = 1118
-last_updated = "2026-11-19T10:56:27.833802842Z"
+count = 1121
+last_updated = "2026-11-26T11:42:52.275223897Z"
 
 [[songs]]
 id = "520100"
@@ -32577,7 +32577,7 @@ title_reading = "メツチユウオウタ"
 artist = "STEAKA feat.山田じぇみ子"
 date = "2026-11-19"
 image_id = "0d2958e41bd9fb6f.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -32606,7 +32606,7 @@ title_reading = "インハアフエクシオンホワイトカアル"
 artist = "ツミキ feat.月乃"
 date = "2026-11-19"
 image_id = "1ee585b543436b10.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -32635,7 +32635,7 @@ title_reading = "ウタカタノセカイテ"
 artist = "DJ Raisei vs. Setca. feat.nayuta"
 date = "2026-11-19"
 image_id = "2b777c824cb0e84d.png"
-is_new = true
+is_new = false
 is_lunatic = false
 is_bonus_track = false
 
@@ -32656,6 +32656,96 @@ master = "14"
 [songs.character]
 id = "0600"
 name = "導師 ミィム・ミクラー"
+
+[[songs]]
+id = "100005"
+title = "不可逆的運命ディストピア"
+title_reading = "フカキヤクテキウンメイテイストヒア"
+artist = "猫足 蕾(CV.芹澤 優)「ワールドダイスター 夢のステラリウム」"
+date = "2026-11-26"
+image_id = "6289b5d72b7fb58c.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Sirius/Project WDS Developed and Published by KMS, inc."
+
+[songs.chapter]
+id = "99156"
+name = "ワールドダイスター 夢のステラリウム【第3弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "4"
+advanced = "9"
+expert = "11"
+master = "14"
+
+[songs.character]
+id = "0360"
+name = "猫足 蕾"
+
+[[songs]]
+id = "100006"
+title = "電脳スペクタクル"
+title_reading = "テンノウスヘクタクル"
+artist = "猫足 蕾(CV.芹澤 優)、阿岐留カミラ(CV.若井友希)「ワールドダイスター 夢のステラリウム」"
+date = "2026-11-26"
+image_id = "9f9dfc36c0f87aca.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Sirius/Project WDS Developed and Published by KMS, inc."
+
+[songs.chapter]
+id = "99156"
+name = "ワールドダイスター 夢のステラリウム【第3弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "5"
+advanced = "9+"
+expert = "12+"
+master = "14+"
+
+[songs.character]
+id = "0359"
+name = "阿岐留 カミラ"
+
+[[songs]]
+id = "100007"
+title = "絶対！ニーデリッヒ宣言♡"
+title_reading = "セツタイニテリツヒセンケン"
+artist = "カトリナ・グリーベル(CV.天城サリー)、新妻八恵(CV.長縄まりあ)「ワールドダイスター 夢のステラリウム」"
+date = "2026-11-26"
+image_id = "2ae9f7966f5685d8.png"
+is_new = true
+is_lunatic = false
+is_bonus_track = false
+copyright = "©Sirius/Project WDS Developed and Published by KMS, inc."
+
+[songs.chapter]
+id = "99156"
+name = "ワールドダイスター 夢のステラリウム【第3弾】"
+
+[songs.category]
+id = "01"
+name = "POPS＆ANIME"
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "12+"
+
+[songs.character]
+id = "0344"
+name = "新妻 八恵"
 
 [[categories]]
 id = "06"

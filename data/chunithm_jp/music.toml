@@ -1,6 +1,6 @@
 name = "chunithm_jp"
-count = 1770
-last_updated = "2026-10-29T09:07:22.327143373Z"
+count = 1782
+last_updated = "2026-11-26T11:42:52.052420683Z"
 
 [[songs]]
 id = "3070"
@@ -9,7 +9,7 @@ title_reading = "フタリノスタウトホタン"
 artist = "歌：リリー・ベイカー（CV：天城サリー）、草壁葵衣（CV：小山内怜央） 作詞・作編曲：TAG「ゲーセン少女と異文化交流」"
 image_id = "dc16c5b06bee8803.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -24,7 +24,7 @@ title_reading = "AMUSINGFLAVOR"
 artist = "歌：リリー・ベイカー（CV：天城サリー） 作詞・作編曲：t+pazolite「ゲーセン少女と異文化交流」"
 image_id = "2da688b835c957b0.jpg"
 category = "POPS & ANIME"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -10207,7 +10207,7 @@ title_reading = "ヒルクライト"
 artist = "MOSAIC.WAV「MUSIC DIVER」"
 image_id = "2877b4d46acb4d1b.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10222,7 +10222,7 @@ title_reading = "DARKFALCHION"
 artist = "MASAKI(ZUNTATA)「MUSIC DIVER」"
 image_id = "f06ac44bd47da88c.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -10237,7 +10237,7 @@ title_reading = "METAVERSEDOBELIKETHIS"
 artist = "かめりあ「MUSIC DIVER」"
 image_id = "e0895c3d12b8017f.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -10252,7 +10252,7 @@ title_reading = "HYPERSAMPLER"
 artist = "EmoCosine「MUSIC DIVER」"
 image_id = "c205a724e66e906c.jpg"
 category = "VARIETY"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "3"
@@ -14074,6 +14074,21 @@ expert = "13+"
 master = "15"
 
 [[songs]]
+id = "3018"
+title = "PEACE BREAKER"
+title_reading = "PEACEBREAKER"
+artist = "Omnipotenx"
+image_id = "035326ba20bfe6e3.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "13+"
+master = "15"
+
+[[songs]]
 id = "3022"
 title = "私たちは、花になる"
 title_reading = "ワタシタチハハナニナル"
@@ -16810,6 +16825,36 @@ expert = "13"
 master = "14+"
 
 [[songs]]
+id = "3080"
+title = "The Cursed Doll"
+title_reading = "THECURSEDDOLL"
+artist = "清風明月（Drop×葉月ゆら）"
+image_id = "a7d27a036b837457.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "5"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "3081"
+title = "oboro"
+title_reading = "OBORO"
+artist = "ヒゲドライバー"
+image_id = "8b83d79f9f04ef92.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "13+"
+
+[[songs]]
 id = "2968"
 title = "PANDORA PARADOXXX"
 title_reading = "PANDORAPARADOXXX"
@@ -17262,6 +17307,21 @@ expert = "9"
 master = "12+"
 
 [[songs]]
+id = "3084"
+title = "Earthly Light"
+title_reading = "EARTHLYLIGHT"
+artist = "曲：ヘリP／歌：Trium Tone＆⊿TRiEDGE"
+image_id = "48a7e89c165d2724.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "3"
+advanced = "6"
+expert = "10+"
+master = "14+"
+
+[[songs]]
 id = "2369"
 title = "絆はずっとGrowing Up!!!"
 title_reading = "キスナハスツトGROWINGUP"
@@ -17545,6 +17605,21 @@ basic = "3"
 advanced = "6"
 expert = "9"
 master = "12+"
+
+[[songs]]
+id = "3082"
+title = "Glitter-Glitter"
+title_reading = "GLITTERGLITTER"
+artist = "曲：睦月周平／歌：星咲 あかり(CV：赤尾 ひかる)"
+image_id = "2650b46574977bcf.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13"
 
 [[songs]]
 id = "974"
@@ -18597,6 +18672,21 @@ expert = "10+"
 master = "14+"
 
 [[songs]]
+id = "3083"
+title = "Zitronectar"
+title_reading = "ZITRONECTAR"
+artist = "Reku Mochizuki"
+image_id = "902ba3ccf0771d31.jpg"
+category = "ゲキマイ"
+is_new = true
+
+[songs.levels]
+basic = "4"
+advanced = "7+"
+expert = "12"
+master = "14+"
+
+[[songs]]
 id = "2969"
 title = "μ3"
 title_reading = "ミユウ3"
@@ -18918,7 +19008,7 @@ title_reading = "キヨウメイ"
 artist = "Capchii feat. ChumuNote"
 image_id = "5f167154120c68ed.jpg"
 category = "ORIGINAL"
-is_new = true
+is_new = false
 
 [songs.levels]
 basic = "4"
@@ -25644,6 +25734,90 @@ basic = "4"
 advanced = "8+"
 expert = "11"
 master = "14+"
+
+[[songs]]
+id = "3076"
+title = "Blur ℃ircuit"
+title_reading = "BLUECIRCUIT"
+artist = "Ryo Fukuda"
+image_id = "416912765dcd78f7.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.levels]
+basic = "3"
+advanced = "7"
+expert = "13+"
+master = "15"
+
+[[songs]]
+id = "3077"
+title = "EVERYTHING I CAN LAYER"
+title_reading = "EVERYTHINGICANLAYER"
+artist = "Alicemetix"
+image_id = "813ea9a0e9f74cbc.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.levels]
+basic = "5"
+advanced = "9"
+expert = "14"
+master = "15"
+
+[[songs]]
+id = "3078"
+title = "星界のプレアデス"
+title_reading = "セイカイノフレアテス"
+artist = "Snail's House"
+image_id = "ed92466dd6f9fe3c.jpg"
+category = "ORIGINAL"
+is_new = false
+
+[songs.levels]
+basic = "1"
+advanced = "4"
+expert = "9"
+master = "13"
+
+[[songs]]
+id = "8333"
+title = "アージェントシンメトリー"
+title_reading = "アウシエントシンメトリウ"
+artist = "Sta feat.b"
+image_id = "c15a71dd505864b2.jpg"
+category = "ゲキマイ"
+is_new = false
+
+[songs.worlds_end]
+kanji = "両"
+star = "3"
+
+[[songs]]
+id = "8334"
+title = "Aleph-0"
+title_reading = "ALEPH0"
+artist = "LeaF"
+image_id = "3754674beeac3b3e.jpg"
+category = "VARIETY"
+is_new = false
+
+[songs.worlds_end]
+kanji = "両"
+star = "5"
+
+[[songs]]
+id = "8335"
+title = "サドマミホリック"
+title_reading = "サトマミホリツク"
+artist = "ビートまりお（COOL&CREATE）"
+image_id = "d511134b993d7042.jpg"
+category = "東方Project"
+is_new = false
+
+[songs.worlds_end]
+kanji = "両"
+star = "9"
 
 [[songs]]
 id = "8330"
