@@ -1,6 +1,6 @@
 name = "maimai_jp"
-count = 1607
-last_updated = "2026-10-30T09:18:28.071133828Z"
+count = 1617
+last_updated = "2026-11-27T11:36:23.465548016Z"
 
 [[songs]]
 id = "1197"
@@ -25710,7 +25710,7 @@ image_id = "17ae689c209fa74f.png"
 category = "ゲーム＆バラエティ"
 version = "26514"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "3"
@@ -25727,7 +25727,7 @@ image_id = "0db5f376fe40a376.png"
 category = "ゲーム＆バラエティ"
 version = "26514"
 is_new = false
-is_locked = true
+is_locked = false
 
 [songs.dx_levels]
 basic = "4"
@@ -25902,7 +25902,7 @@ image_id = "46b18f69a1d0d331.png"
 category = "maimai"
 version = "27004"
 release = "2026-10-29"
-is_new = true
+is_new = false
 is_locked = true
 
 [songs.dx_levels]
@@ -25910,6 +25910,78 @@ basic = "5"
 advanced = "8"
 expert = "12"
 master = "14+"
+
+[[songs]]
+id = "1037"
+title = "ルミネイション"
+title_reading = "ルミネイシヨン"
+artist = "Room97 feat.藍来いあ."
+image_id = "4af6e15adafca06b.png"
+category = "maimai"
+version = "27005"
+release = "2026-11-27"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "6"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "1038"
+title = "Flare"
+title_reading = "FLARE"
+artist = "Aut0＆ILusMin feat.羊羊"
+image_id = "e4284a3ba87f7fc3.png"
+category = "maimai"
+version = "27005"
+release = "2026-11-27"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7+"
+expert = "10"
+master = "13+"
+
+[[songs]]
+id = "1039"
+title = "Asthenosphere"
+title_reading = "ASTHENOSPHERE"
+artist = "溝口ゆうま（Yuma.Mizo） feat. 大瀬良あい"
+image_id = "295ff14552377ec3.png"
+category = "maimai"
+version = "27005"
+release = "2026-11-27"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "11+"
+master = "13+"
+
+[[songs]]
+id = "1040"
+title = "Unfollow"
+title_reading = "UNFOLLOW"
+artist = "Maozon feat. MOMONADY"
+image_id = "255396507c36345b.png"
+category = "maimai"
+version = "27005"
+release = "2026-11-27"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "12"
+master = "14"
 
 [[songs]]
 id = "1446"
@@ -26203,6 +26275,78 @@ expert = "12+"
 master = "14"
 
 [[songs]]
+id = "138"
+title = "物語たる迄"
+title_reading = "モノカタリタルマテ"
+artist = "Mono. feat. るる"
+image_id = "56d023cf12865343.png"
+category = "niconico＆ボーカロイド"
+version = "27006"
+release = "2026-11-27"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "4"
+advanced = "8"
+expert = "11"
+master = "13+"
+
+[[songs]]
+id = "139"
+title = "Nefilim"
+title_reading = "NEFILIM"
+artist = "MokoP"
+image_id = "3fd6c4bcd5c09af1.png"
+category = "niconico＆ボーカロイド"
+version = "27006"
+release = "2026-11-27"
+is_new = true
+is_locked = false
+
+[songs.dx_levels]
+basic = "2"
+advanced = "6"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "140"
+title = "Light year (feat.Sea otter club)"
+title_reading = "LIGHTYEARFEATSEAOTTERCLUB"
+artist = "N"
+image_id = "a75c006a81f921b9.png"
+category = "niconico＆ボーカロイド"
+version = "27006"
+release = "2026-11-27"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "3"
+advanced = "7"
+expert = "10"
+master = "13"
+
+[[songs]]
+id = "141"
+title = "＼ﾕｰﾓｱ／ feat. 結月ゆかり"
+title_reading = "ユウモアFEATユツキユカリ"
+artist = "背面８回宙返り"
+image_id = "cafc63596f8ab4a1.png"
+category = "niconico＆ボーカロイド"
+version = "27006"
+release = "2026-11-27"
+is_new = true
+is_locked = true
+
+[songs.dx_levels]
+basic = "4"
+advanced = "7+"
+expert = "11+"
+master = "14"
+
+[[songs]]
 id = "7"
 title = "ChaosBlue"
 title_reading = "CHAOSBLUE"
@@ -26247,7 +26391,7 @@ image_id = "54b412a777dc16b2.png"
 category = "niconico＆ボーカロイド"
 version = "27004"
 release = "2026-10-29"
-is_new = true
+is_new = false
 is_locked = false
 
 [songs.dx_levels]
@@ -27417,6 +27561,23 @@ kanji = "耐"
 comment = "せかせかせかせかせかせかせかせかせかせか"
 
 [[songs]]
+id = "1600"
+title = "[音]にっこり^^調査隊のテーマ"
+title_reading = "ニツコリチヨウサタイノテエマ"
+artist = "ワンダフル☆オポチュニティ！ / ワンダーランズ×ショウタイム × 初音ミク「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」"
+image_id = "6034307d9291f014.png"
+category = "宴会場"
+version = "27006"
+release = "2026-11-27"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "14?"
+kanji = "音"
+comment = "～音取りほぼMAXバージョン～"
+
+[[songs]]
 id = "1634"
 title = "[奏]のじゃロリック"
 title_reading = "ノシヤロリツク"
@@ -27721,6 +27882,23 @@ is_locked = false
 level = "11?"
 kanji = "充"
 comment = "目と目を合わせて舞を分け合おう"
+
+[[songs]]
+id = "1601"
+title = "[奏]T氏の話を信じるな"
+title_reading = "Tシノハナシヲシンシルナ"
+artist = "ピノキオピー"
+image_id = "94f0dfb80480ea41.png"
+category = "宴会場"
+version = "27006"
+release = "2026-11-27"
+is_new = false
+is_locked = false
+
+[songs.utage]
+level = "13?"
+kanji = "奏"
+comment = "T氏の譜面は右側だ"
 
 [[songs]]
 id = "1612"
